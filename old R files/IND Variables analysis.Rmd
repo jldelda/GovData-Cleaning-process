@@ -1,0 +1,166 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+This is report explains all the variables in the Ingestions files of GovData360.
+File used: INDICATORS file of the ingestion of Fall 2017
+
+```{r}
+library(dplyr)
+setwd("C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE/Old Ingestion - GovData360 10172017")
+file1 = "GovData360.csv"
+file2 = "GovData360IND.csv"
+Data = read.csv(file1, sep = ";")
+DataIND = read.csv(file2, sep = ";")
+```
+
+# Indicators file
+```{r}
+nrow(DataIND)
+ncol(DataIND)
+head(DataIND)
+```
+
+## Overlap
+```{r}
+str(DataIND$overlap)
+```
+
+## Indicator_Id
+**It has to be filled.**
+```{r}
+str(DataIND$Indicator_Id)
+sum(DataIND$Indicator_Id == "") # Number of empty elements
+```
+
+## Indicator_Code
+**It has to be filled.**
+```{r}
+str(DataIND$Indicator_Code)
+sum(DataIND$Indicator_Code == "") # Number of empty elements
+```
+
+## Indicator_Name
+
+```{r}
+DataIND$Indicator_Name = as.character(DataIND$Indicator_Name)
+str(DataIND$Indicator_Name)
+```
+
+## Display_Name
+
+```{r}
+DataIND$Display_Name = as.character(DataIND$Display_Name)
+str(DataIND$Display_Name)
+head(DataIND$Display_Name)
+sum(DataIND$Description == "")
+```
+
+
+## Dataset
+**It has to be filled.**
+```{r}
+str(DataIND$Dataset)
+head(DataIND$Dataset)
+sum(DataIND$Dataset == "") # Number of empty elements
+```
+
+## Value_Type_Slug
+**It has to be filled.**
+```{r}
+str(DataIND$Value_Type_Slug)
+sum(DataIND$Value_Type_Slug == "") # Number of empty elements
+A = DataIND %>% group_by(Value_Type_Slug) %>% summarise(n = n()) %>% arrange(desc(n))
+head(A, 20)
+```
+
+## Value_Type_Descriptor
+**It has to be filled and it is always equal to Value_Type_Slug**
+```{r}
+str(DataIND$Value_Type_Descriptor)
+sum(DataIND$Value_Type_Descriptor == "") # Number of empty elements
+A = DataIND %>% group_by(Value_Type_Descriptor) %>% summarise(n = n()) %>% arrange(desc(n))
+head(A, 20)
+
+B = ifelse(DataIND$Value_Type_Descriptor == DataIND$Value_Type_Slug, 1, 0)
+table(B)
+```
+
+## Units
+**It has to be filled.**
+```{r}
+str(DataIND$Units)
+sum(DataIND$Units == "") # Number of empty elements
+A = DataIND %>% group_by(Units) %>% summarise(n = n()) %>% arrange(desc(n))
+head(A, 20)
+```
+
+## Description
+Majority are empty.
+```{r}
+str(DataIND$Description)
+sum(DataIND$Description == "") # Number of empty elements
+head(DataIND$Description, 10)
+```
+
+## Rank_1
+**It has to be filled**
+```{r}
+str(DataIND$Rank_1)
+sum(DataIND$Rank_1 == "") # Number of empty elements
+head(DataIND$Rank_1, 10)
+```
+
+## Category_1 and subcategories
+**It has to be filled**
+```{r}
+str(DataIND$Category_12)
+print(unique(DataIND$Category_12))
+sum(DataIND$Category_12 == "") # Number of empty elements
+sum(is.na(DataIND$Category_13))
+sum(is.na(DataIND$Category_14))
+sum(is.na(DataIND$Category_15))
+```
+
+## Category_2 and subcategories
+```{r}
+str(DataIND$Category_21)
+sum(DataIND$Category_21 != "")
+sum(DataIND$Category_22 != "") # Elements with value
+sum(is.na(DataIND$Category_13))
+sum(is.na(DataIND$Category_14))
+
+```
+
+## Category_3 and subcategories
+```{r}
+str(DataIND$Category_31)
+sum(DataIND$Category_31 != "")
+sum(DataIND$Category_32 != "") # Elements with value
+sum(is.na(DataIND$Category_33))
+sum(is.na(DataIND$Category_34))
+
+```
+
+## Answer
+**It has to be filled**
+```{r}
+str(DataIND$answer)
+sum(DataIND$answer == "") # Number of empty elements
+A = DataIND %>% group_by(answer) %>% summarise(n = n()) %>% arrange(desc(n))
+head(A, 20)
+```
+
+
+
+
+
+
+

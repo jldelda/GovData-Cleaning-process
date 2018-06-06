@@ -1,0 +1,83 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+GovData360IND = read.csv("../3 Re-Rank/GovData360IND_with_Description.csv",sep=",", header=TRUE)
+```
+
+
+## Fix innovation categories
+```{r}
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '1-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '13-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '14-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '15-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '17-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '18-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '19-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '2-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '20-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '21-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '23-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '24-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '3-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '5-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '6-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '11-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '12-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '25-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '26-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '27-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '29-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '30-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '31-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '32-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '33-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '35-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '36-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '7-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '8-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '9-WGI-Upper'] = 'Checks and Balances'
+
+GovData360IND$Category_12[GovData360IND$Indicator_Id == '1-WGI-Upper'] = ''
+GovData360IND$Category_12[GovData360IND$Indicator_Id == '13-WGI-Upper'] = ''
+GovData360IND$Category_12[GovData360IND$Indicator_Id == '14-WGI-Upper'] = ''
+GovData360IND$Category_12[GovData360IND$Indicator_Id == '15-WGI-Upper'] = ''
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '17-WGI-Upper'] = ''
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '18-WGI-Upper'] = ''
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '19-WGI-Upper'] = 'GeoeralGovernance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '2-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '20-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '21-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '23-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '24-WGI-Upper'] = 'General Governance'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '3-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '5-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '6-WGI-Upper'] = 'Absence of Corruption'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '11-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '12-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '25-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '26-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '27-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '29-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '30-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '31-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '32-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '33-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '35-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '36-WGI-Upper'] = 'Citizen Engagement'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '7-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '8-WGI-Upper'] = 'Checks and Balances'
+GovData360IND$Category_11[GovData360IND$Indicator_Id == '9-WGI-Upper'] = 'Checks and Balances'
+```
+
+
+## Get country summary table
+
+
+## Get indicator summary table
+
+
+## Get year summary table

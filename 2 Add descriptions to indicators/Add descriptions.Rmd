@@ -1,0 +1,34 @@
+---
+title: "IND Metadata file"
+author: "Jose Luis Delgado Davara"
+date: "May 31, 2018"
+output: html_document
+---
+
+This file takes as input the GovDataIND file and paste the description of each indicator in it.
+
+At this point, we have a one sentence description for each data source. They are the same for each indicator in the same data source.
+
+### Read files
+```{r}
+library(xlsx)
+Descriptions = read.csv("Descriptions.csv",sep=",", header=TRUE)
+Descriptions$Description = gsub('\"','', Descriptions$Description)
+
+GovData360IND = read.csv("GovData360IND.csv",sep=",", header=TRUE)
+
+#View(Descriptions)
+#View(GovData360IND)
+```
+
+### Merge by Dataset 
+```{r}
+GovData360IND2 = merge(GovData360IND, Descriptions, by = 'Dataset', all.x = T)
+drop = 'Description.x'
+GovData360IND2 = GovData360IND2[, !(names(GovData360IND2) %in% drop)]
+colnames(GovData360IND2)[32] = 'Description'
+
+#View(GovData360IND2)
+write.csv(GovData360IND2, file = "GovData360IND_with_Description.csv")
+```
+

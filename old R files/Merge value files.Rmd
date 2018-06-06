@@ -1,0 +1,51 @@
+---
+title: "Merge Value files"
+author: "Jose Luis Delgado Davara"
+date: "May 15, 2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+This file merges vertically the **GovData360.csv file** that has been updates in the 2018 Spring ingestion with the old values that have not been updated.
+
+# Prepare files
+
+```{r}
+setwd("C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE")
+GovData2017 = read.csv("Old Ingestion - GovData360 10172017/Regina files/GovData360.csv", sep = ";")
+Master = read.csv("Data/# Ingestion Spring 2018/Master.csv")
+
+# Create unique ID
+Master = Master %>% mutate(ID = paste(question, dataset, answer, sep = "-"))
+GovData2017 = GovData2017 %>% mutate(ID = paste(question, dataset, answer, sep = "-"))
+
+# Separate indicators to update
+SOURCES_2018 = c('BTI','CPIA', 'DB', 'FH', 'GCI', 'IBP', 'IIAG', 'ILO', 'IPD', 'IPU', 'PEFA', 'SC', 'SGI', 'TI', 'WBL', 'WGI', 'WJP')
+GovData2017_Update = GovData2017[GovData2017$dataset %in% SOURCES_2018, ] 
+GovData2017_No_Update = GovData2017[!(GovData2017$dataset %in% SOURCES_2018), ] # This values has not been updated. We need to keep them in this ingestion.
+```
+
+# Create common columns
+
+```{r}
+# Master dataframe
+drop1 = c('X', 'encoded')
+Master = Master[ ,!(names(Master) %in% drop1)]
+Master$Indicator_Code = ''
+Master$Indicator_Name = ''
+
+# GovData2017 dataframe
+drop2 = c('country', 'Region', 'Incomegroup', 'Lendingcategory', 'OtherGroup', 'Indebtedness', 'D_FS')
+GovData2017_No_Update = GovData2017_No_Update[ ,!(names(GovData2017_No_Update) %in% drop2)]
+
+GovData2018_All = rbind(Master, GovData2017_No_Update)
+
+GovData2018_All = GovData2018_All %>% mutate(Indicator_Code = paste(question, dataset, sep = "-"))
+GovData2018_All = GovData2018_All %>% mutate(Indicator_Name = paste(question, dataset, sep = "-"))
+
+write.csv(GovData2018_All, "Data/# Ingestion Spring 2018/GovData360.csv", sep = ",")
+```
+
+
+

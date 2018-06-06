@@ -1,0 +1,198 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+This markdown is the one in charge of preparing the dataset for cleaningz
+
+```{r libraries, include=FALSE}
+library(dplyr)
+library(stringr)
+```
+
+**Step 1:** Read the files and understand what columns are needed to add or remove.
+
+```{r Reading files, echo=FALSE}
+library(dplyr)
+# Read files
+Data_Source = 'GCI'
+file = paste("../Data preprocessed/", Data_Source,"/", Data_Source, ".csv", sep = "")
+df = read.csv(file, sep = ",")
+fileIND = paste("../Data preprocessed/", Data_Source,"/", Data_Source, "IND.csv", sep = "")
+df_IND = read.csv(fileIND, sep = ",")
+print(Data_Source)
+print(paste0("df_IND --> ", dim(df_IND)[1], " x ", dim(df_IND)[2]))
+colnames(df_IND)
+print(paste0("df --> ", dim(df)[1], " x ", dim(df)[2]))
+colnames(df)
+head(df_IND)
+head(df)
+#View(df)
+#View(df_IND)
+```
+**Step 2:** Drop empty columns and empty rows
+```{r Drop unused columns}
+# Drop unused columns
+dropIND = c("Rank", "Category_11",  "Category_12",  "Category_13", "Category_14", "Category_15",  "Category_21",  "Category_22", "Category_23", "Category_24" ,"Category_25", "Category_31", "Category_32", "Category_33", "Category_34",  "New1", "New2", "New3","New4", "New5", "keyN")
+df_IND = df_IND[ ,!(names(df_IND) %in% dropIND)]
+
+drop = c('keyN', 'Indicator_Id')
+df = df[ ,!(names(df) %in% drop)]
+
+df = df %>% filter(question != '') # Remove empty question rows - impossible to match
+```
+
+**Step 3:** Create Unique identifier - Indicator_ID and Indicator
+```{r}
+# Create Indicator and Indicator_Id in df_IND
+df_IND = df_IND %>% mutate(Display_Name_number = row_number())
+df_IND = df_IND %>% mutate(Indicator_Id = paste(Display_Name_number, Dataset, answer, sep = "-"))
+dropIND = c("Display_Name_number")
+df_IND = df_IND[ ,!(names(df_IND) %in% dropIND)] #drop the auxiliary column created
+
+df_IND = df_IND %>% mutate(Indicator = paste(Display_Name, Dataset, answer, sep = "-"))
+
+# Create ID in df
+df = df %>% mutate(Indicator = paste(question, dataset, answer, sep = "-"))
+df = merge(df, df_IND[,c('Indicator','Indicator_Id')], by = 'Indicator', all = T)
+drop = c("indicator")
+df = df[ ,!(names(df) %in% drop)]
+
+setdiff(df$Indicator, df_IND$Indicator)
+setdiff(df_IND$Indicator, df$Indicator)
+
+print(df)
+```
+
+*******************************************************************************************************************
+
+*******************************************************************************************************************
+
+**Step 4:** Rescue the metadata from the hierarchy file and tokenize the Display.Name to make sure you can do correctly the left join later.
+
+```{r}
+Hierarchy = read.csv("../Data preprocessed/hierarchy.indicators 12.31.17.csv")
+#Hierarchy = read.csv("../Data preprocessed/GovData360IND.csv", sep = ";")
+#colnames(Hierarchy)[5] = c('Display.Name')
+Hierarchy = Hierarchy %>% filter(Dataset == Data_Source)
+#View(Hierarchy)
+
+## Make similar df_IND$Indicator to match it with Hierarchy
+df_IND$Indicator = df_IND$Indicator_Name
+df_IND$Indicator = gsub("/100000 pop.", "", df_IND$Indicator)
+df_IND$Indicator = gsub("[,]", "", df_IND$Indicator)
+df_IND$Indicator = gsub("[*]", "", df_IND$Indicator)
+df_IND$Indicator = gsub("[-]", " ", df_IND$Indicator)
+df_IND$Indicator = gsub("[[:punct:]]", " ", df_IND$Indicator)
+df_IND$Indicator = gsub("[0-9]", " ", df_IND$Indicator)
+df_IND$Indicator = gsub("best", "", df_IND$Indicator)
+df_IND$Indicator = gsub("[A-C] ", "", df_IND$Indicator)
+df_IND$Indicator = gsub(" pop", "", df_IND$Indicator)
+df_IND$Indicator = gsub("ICT", "Information and Comunications technology", df_IND$Indicator)
+df_IND$Indicator = trimws(df_IND$Indicator)
+
+df_IND = df_IND %>% mutate(Indicator = paste(Indicator, Dataset, answer, sep = "-"))
+
+## Make similar Hierarchy$Indicator to match it with Hierarchy
+Hierarchy$Indicator = Hierarchy$Display.Name
+Hierarchy$Indicator = gsub("[[:punct:]]", " ", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("[0-9]", " ", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("WEF", " ", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("1-7 Best", "Value", Hierarchy$Indicator)
+Hierarchy$Indicator = trimws(Hierarchy$Indicator)
+
+Hierarchy = Hierarchy %>% mutate(Indicator = paste(Indicator, Dataset, Value.Type.Slug, sep = "-"))
+
+Hierarchy$Indicator = gsub("Firmlevel", "Firm level", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("Firm level technology absorption-GCI-1-7 Best", "Firm level technology absorption-GCI-Value", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("Malaria cases-GCI-100000 pop", "Malaria cases-GCI-Value", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("Tuberculosis cases-GCI-100000 pop", "Tuberculosis cases-GCI-Value", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("Availability of research and training services-GCI-1-7 Best", "FAvailability of research and training services-GCI-Value", Hierarchy$Indicator)
+Hierarchy$Indicator = gsub("FAvailability", "Availability", Hierarchy$Indicator)
+Hierarchy$Indicator = trimws(Hierarchy$Indicator)
+#Which of the indicators in 2018, do not match in 2017
+#df_IND$Indicator[!(df_IND$Indicator %in% Hierarchy$Indicator)]
+Hierarchy$Indicator[!(Hierarchy$Indicator %in% df_IND$Indicator)]
+
+#df_IND$Indicator_Id[!(df_IND$Indicator %in% Hierarchy$Indicator)]
+```
+The indicators that do not match is because they might be dropped in the past. In any case, we will bring them until the end. They will have the categories and some other columns empty in the final dataset. At the last minute, we will dropped them if it proceeds.
+
+**Step 5:** Left join between df_IND and Hierarchy.
+
+```{r}
+Hierarchy = Hierarchy %>% select('Indicator', 'Display.Name', 'Value.Type.Slug','Value.Type.Descriptor', 'Units', 'Rank.1', "Category.1.1", "Category.1.2", "Category.1.3", "Category.1.4", "Category.1.5", "Rank.2", "Category.2.1", "Category.2.2", "Category.2.3", "Category.2.4", "Category.2.5", "Rank.3","Category.3.1", "Category.3.2", "Category.3.3", "Category.3.4", "Indicator.Code", "Indicator.ID")
+# MERGE
+Master_IND = merge(df_IND, Hierarchy, by.x = 'Indicator', by.y = 'Indicator', all.x = T)
+
+# Drop and rename Display name. (In this case we will use the one in Hierarchy because it is cleaner)
+drop = c('Display_Name')
+Master_IND = Master_IND[ ,!(names(Master_IND) %in% drop)]
+colnames(Master_IND)[6] = 'Display_Name' #rename the one we like
+View(Master_IND)
+```
+
+**Step 6:** Make sure the indicators in df_IND match in df
+Because we have changed the names of the indicators, some of them would not match, but still the ID will match.
+
+```{r}
+# Which indicators of df_IND are not in df
+setdiff(Master_IND$Indicator, df$Indicator)
+setdiff(Master_IND$Indicator_Id, df$Indicator_Id)
+
+# Which indicators of df are not in df_IND
+setdiff(df$Indicator_Id, Master_IND$Indicator_Id)
+setdiff(df$Indicator, Master_IND$Indicator)
+```
+
+
+**Step 7:** Make sure the columns of Master_IND you have, match with the ones you need.
+```{r}
+# Rename columns
+colnames = colnames(Master_IND)
+colnames = gsub('Value.Type.Slug','Value_Type_Slug', colnames)
+colnames = gsub('Value.Type.Descriptor','Value_Type_Descriptor', colnames)
+colnames = gsub('Rank.1','Rank_1', colnames)
+colnames = gsub('Category.1.1','Category_11', colnames)
+colnames = gsub('Category.1.2','Category_12', colnames)
+colnames = gsub('Category.1.3','Category_13', colnames)
+colnames = gsub('Category.1.4','Category_14', colnames)
+colnames = gsub('Category.1.5','Category_15', colnames)
+colnames = gsub('Rank.2','Rank_2', colnames)
+colnames = gsub('Category.2.1','Category_21', colnames)
+colnames = gsub('Category.2.2','Category_22', colnames)
+colnames = gsub('Category.2.3','Category_23', colnames)
+colnames = gsub('Category.2.4','Category_24', colnames)
+colnames = gsub('Category.2.5','Category_25', colnames)
+colnames = gsub('Rank.3','Rank_3', colnames)
+colnames = gsub('Category.3.1','Category_31', colnames)
+colnames = gsub('Category.3.2','Category_32', colnames)
+colnames = gsub('Category.3.3','Category_33', colnames)
+colnames = gsub('Category.3.4','Category_34', colnames)
+colnames(Master_IND) = colnames
+
+# Create empty columns
+Master_IND$overlap = ''
+Master_IND$Indicator_Code = ''
+Master_IND$Description = ''
+
+#Read final file from 2017
+GovDataIND360 = read.csv("../Data preprocessed/GovData360IND.csv", sep = ";")
+
+setdiff(colnames(Master_IND), colnames(GovDataIND360))
+setdiff(colnames(GovDataIND360), colnames(Master_IND))
+```
+
+**Step 8:** Write in csv the result
+```{r}
+Name.file = paste0("Cleaned files/",Data_Source, ".csv")
+Name.file_IND = paste0("Cleaned files/",Data_Source,"IND.csv")
+
+write.csv(df, Name.file)
+write.csv(Master_IND, Name.file_IND)
+```
+
+
+
+
+
+

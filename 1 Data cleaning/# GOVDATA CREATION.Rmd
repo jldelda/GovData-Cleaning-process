@@ -1,0 +1,256 @@
+---
+title: "Create GovData and GovDataIND"
+author: "Jose Luis Delgado Davara"
+date: "5/21/2018"
+output: html_document
+---
+
+This Rmarkdown is used to prepare the final files to send. This means:
+
+1. Join vertically all the updated files --> INDupdates2018.csv and updates_2018.csv
+2. Filter out the indicators without category assigned. From both IND and values files. (Drop.csv file)
+3. Get the not-updated indicators and values from previous ingestion (GovData2017 and GovData2017IND)
+4. Join vertically the files from (1) and (2) with the ones in (3)
+5. Clean, match and fix legacy problems
+
+```{r libraries, include=FALSE}
+library(dplyr)
+library(stringr)
+library(data.table)
+```
+
+## 1) Join Vertically updated files.
+
+```{r}
+SOURCES2018 = c("BTI", "DB", "CPIA", "FH", "GCI", "IIAG", "ILO", "IPD", "IPU", "PEFA", "SC", "SGI", "TI", "WBL", "WGI", "WJP")
+
+TRIAL = 'PEFA'
+
+INDupdates2018 <- as.data.frame(matrix(ncol=0, nrow=0))
+updates2018 <- as.data.frame(matrix(ncol=0, nrow=0))
+for (i in SOURCES2018){
+  if (!(i %in% (c("PEFA", "WBL")))){ #PEFA and WBL contains encoded values. Done later
+    # Read files
+    Route = paste0("1 Data cleaning/Cleaned files/",i,".csv")
+    Route_IND = paste0("1 Data cleaning/Cleaned files/",i,"IND.csv")
+    df = read.csv(Route, sep = ",")
+    df_IND = read.csv(Route_IND, sep = ",")
+     
+    print(i)
+    print(paste0("Number of columns imported in the .csv: ", ncol(df)))
+    print(paste0("Number of columns imported in the IND.csv: ", ncol(df_IND)))
+    #print(colnames(df_IND))
+    INDupdates2018 = rbind(INDupdates2018, df_IND)
+    updates2018 = rbind(updates2018, df)
+  }
+}  
+dim(INDupdates2018)
+dim(updates2018)
+
+#PEFA and WBL has a column colled 'Encoded'.
+# Create 'Encoded' column
+updates2018$encoded = ''
+
+Route = "1 Data cleaning/Cleaned files/PEFA.csv"
+Route_IND = "1 Data cleaning/Cleaned files/PEFAIND.csv"
+df_PEFA = read.csv(Route, sep = ",")
+df_PEFA$encoded = ''
+df_IND_PEFA = read.csv(Route_IND, sep = ",")
+
+Route = "1 Data cleaning/Cleaned files/WBL.csv"
+Route_IND = "1 Data cleaning/Cleaned files/WBLIND.csv"
+df_WBL = read.csv(Route, sep = ",")
+df_IND_WBL = read.csv(Route_IND, sep = ",")
+
+# Join vertically PEFA
+INDupdates2018 = rbind(INDupdates2018, df_IND_PEFA, df_IND_WBL)
+updates2018 = rbind(updates2018, df_PEFA, df_WBL)
+dim(INDupdates2018)
+dim(updates2018)
+```
+
+## 2) Filter out the indicators without category assigned.
+
+```{r filter not selected indicators from IND}
+# Remove those without category from the IND file
+INDupdates2018 = INDupdates2018 %>% filter(is.na(Value_Type_Slug) == F)
+dim(INDupdates2018)
+```
+
+```{r Remove duplicated}
+List.of.indicators = INDupdates2018$Indicator_Id
+length(unique(List.of.indicators)) # There are 31 of them duplicated
+
+List.of.indicators = as.data.frame(List.of.indicators)
+duplicated.indicators = List.of.indicators[duplicated(List.of.indicators), ]
+
+# filter out the duplicated values
+INDupdates2018 = INDupdates2018[!(INDupdates2018$Indicator_Id %in% duplicated.indicators), ]
+updates2018 = updates2018[!(updates2018$Indicator_Id %in% duplicated.indicators), ]
+
+List.of.indicators = INDupdates2018$Indicator_Id
+# --> See note at the end of this chuck
+```
+
+It seems that some of the indicators of WJP have been duplicated for different years. This is probably because they changed the name. -> Solution: consolidate them.
+
+In DB, one of the indicators was deleted and I was unable to identificate it previously, so it was assigned again with another code. -> Solution: delete it.
+
+duplicated.indicators
+ [1] 66-DB-Total  45-DB-Total  71-WJP-Total 38-WJP-Total
+ [5] 67-WJP-Total 39-WJP-Total 66-WJP-Total 33-WJP-Total
+ [9] 1-WJP-Total  27-WJP-Total 60-WJP-Total 40-WJP-Total
+[13] 65-WJP-Total 57-WJP-Total 48-WJP-Total 56-WJP-Total
+[17] 49-WJP-Total 50-WJP-Total 55-WJP-Total 54-WJP-Total
+[21] 51-WJP-Total 47-WJP-Total 58-WJP-Total 23-WJP-Total
+[25] 76-WJP-Total 68-WJP-Total 37-WJP-Total 75-WJP-Total
+[29] 24-WJP-Total 26-WJP-Total 73-WJP-Total 25-WJP-Total
+[33] 74-WJP-Total 46-WJP-Total 59-WJP-Total
+
+```{r filter in the values dataset and in the indicators}
+# Filter in values dataset, the indicators in df_IND
+updates2018 = updates2018[(updates2018$Indicator_Id %in% List.of.indicators), ]
+length(unique(updates2018$Indicator_Id))
+
+# Filter in IND dataset, the not duplicated indicators
+INDupdates2018 = INDupdates2018[(INDupdates2018$Indicator_Id %in% List.of.indicators), ]
+length(unique(INDupdates2018$Indicator_Id))
+```
+
+## 3) Get the not-updated indicators and values from previous ingestion (GovData2017 and GovData2017IND)
+
+```{r Read old files}
+# Read 2017 files
+GovData2017 = read.csv("../big files/GovData360.csv", sep = ",")
+GovDataIND2017 = read.csv("Data preprocessed/GovData360IND.csv", sep = ";")
+# Filter out the not updated ones
+GovData2017 = GovData2017[!(GovData2017$dataset %in% SOURCES2018), ]
+GovDataIND2017 = GovDataIND2017[!(GovDataIND2017$Dataset %in% SOURCES2018), ]
+```
+
+GovData2017 and GovDataIND2017 contain the values that remain intouchable in the database.
+
+## 4) Join vertically the files from (1) and (2) with the ones in (3)
+
+```{r}
+# ADJUST THE COLUMNS OF IND FILE
+colnames(GovDataIND2017)
+colnames(INDupdates2018)
+
+INDupdates2018$Indicator_Code = INDupdates2018$Indicator_Id
+GovDataIND2017$Indicator.Code = 'not-updated spring18'
+GovDataIND2017$Indicator.ID = 'not-updated spring18'
+GovDataIND2017$indicator = GovDataIND2017$Display_Name
+#GovDataIND2017$indicator = 'not-updated in spring18'
+dropIND = c('X')
+INDupdates2018 = INDupdates2018[, !(names(INDupdates2018) %in% dropIND)] 
+colnames(INDupdates2018)[1] = 'indicator'
+
+  # Comprobation
+setdiff(colnames(GovDataIND2017), colnames(INDupdates2018))
+setdiff(colnames(INDupdates2018), colnames(GovDataIND2017))
+
+# ADJUST THE COLUMNS OF VALUES FILE
+colnames(GovData2017)[19] = 'Indicator.Code'
+drop = c('keyN', 'country', 'Region', 'Incomegroup', 'Lendingcategory', 'OtherGroup', 'Indebtedness', 'D_FS', 'Indicator.Code')
+GovData2017 = GovData2017[, !(names(GovData2017) %in% drop)]
+colnames(GovData2017)
+colnames(updates2018)[2] = 'indicator'
+updates2018$Indicator_Name = updates2018$question
+
+drop2 = c('X', 'encoded')
+updates2018 = updates2018[, !(names(updates2018) %in% drop2)]
+
+  # Comprobation
+setdiff(colnames(GovData2017), colnames(updates2018))
+setdiff(colnames(updates2018), colnames(GovData2017))
+```
+
+There are inconsistencies between the two files with the Indicator_Name. Let's rename the column indicator and make them consistent.
+```{r Solve the Indicator_Name problem}
+GovDataIND2017$indicator = GovDataIND2017$Indicator_Name
+GovData2017$indicator = GovData2017$Indicator_Name
+```
+
+```{r vertical join}
+# Vertical join
+GovData360IND = rbind(INDupdates2018, GovDataIND2017)
+GovData360 = rbind(updates2018, GovData2017)
+
+drop = c('category_15')
+GovData360 = GovData360[, !(names(GovData360) %in% drop)]
+GovData360IND$overlap[is.na(GovData360IND$overlap)] = 'GOV'
+
+setdiff(unique(GovData360$Indicator_Id), unique(GovData360IND$Indicator_Id))
+setdiff(unique(GovData360IND$Indicator_Id), unique(GovData360$Indicator_Id))
+```
+
+## 5) Clean, match and fix legacy problems
+
+After doing this, there are some legacy indicators in the IND file that are not present in the values file. 
+
+On the other hand, there are some values with empty Indicator_Id that are not present in the IND files - These are the ones with value == 'NA'.
+
+### Iso3
+There are some erroneous country iso3 codes. Let's fix it.
+
+```{r}
+# Clean manually the ones we know are not correct
+GovData360$iso3[GovData360$iso3 == 'AND'] = 'ADO'
+GovData360$iso3[GovData360$iso3 == 'COD'] = 'ZAR'
+GovData360$iso3[GovData360$iso3 == 'IMN'] = 'IMY'
+GovData360$iso3[GovData360$iso3 == 'RCA'] = 'CAF'
+GovData360$iso3[GovData360$iso3 == 'RKS'] = 'KSV'
+GovData360$iso3[GovData360$iso3 == 'ROU'] = 'ROM'
+GovData360$iso3[GovData360$iso3 == 'UAE'] = 'ARE'
+GovData360$iso3[GovData360$iso3 == 'YUG'] = 'SRB'
+
+ISO3 = read.csv('aux_Data/COUNTRIES_ISO3.csv', sep = ",")
+ISO3 = t(ISO3)
+GovData360 = GovData360[(GovData360$iso3 %in% ISO3),]
+```
+
+### Indicator_Id
+```{r}
+# Comprobation
+setdiff(unique(GovData360$Indicator_Id), unique(GovData360IND$Indicator_Id))
+GovData360 = GovData360[GovData360$Indicator_Id != "", ]
+
+setdiff(unique(GovData360IND$Indicator_Id), unique(GovData360$Indicator_Id))
+# There are indicators without values. Remove them.
+
+diff = setdiff(unique(GovData360IND$Indicator_Id), unique(GovData360$Indicator_Id)) # list of indicators without data
+GovData360IND = GovData360IND[!(GovData360IND$Indicator_Id %in% diff), ] # Remove indicators without data from the IND file
+
+setdiff(unique(GovData360$Indicator_Id), unique(GovData360IND$Indicator_Id))
+setdiff(unique(GovData360IND$Indicator_Id), unique(GovData360$Indicator_Id))
+```
+
+### Indicator_Name
+
+'Indicator_Name' does not match either. This is because the cleaning system has been different in each file and dataset. It is not a big problem now because we have the Indicator_Id as an ID. 
+
+```{r}
+ID.match = GovData360IND[, c('Indicator_Id', 'Indicator_Name')]
+
+drop_Indicator_Name = c('Indicator_Name')
+GovData360 = GovData360[, !(names(GovData360) %in% drop_Indicator_Name)]
+# Match 
+GovData360 = merge(GovData360, ID.match, by = 'Indicator_Id', all = T)
+
+# Comprobation
+setdiff(unique(GovData360$Indicator_Name), unique(GovData360IND$Indicator_Name))
+setdiff(unique(GovData360IND$Indicator_Name), unique(GovData360$Indicator_Name))
+```
+
+```{r write in csv}
+# Write in csv
+write.csv(GovData360IND, "GovData360IND.csv")
+write.csv(GovData360, "GovData360.csv")
+```
+
+```{r}
+
+```
+
+

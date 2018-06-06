@@ -1,0 +1,84 @@
+---
+title: "Indicators Analysis"
+author: "Jose Luis Delgado Davara"
+date: "April 24, 2018"
+output: html_document
+---
+
+### Description: 
+This report will give me a better sense of what is the current data uploaded in the GovData360 portal. It uses the [GovData 360 API](https://tcdata360.worldbank.org/tools/data360r#section1.1) and the [data360r](https://github.com/mrpsonglao/data360r) library. 
+
+```{r include=FALSE}
+# install.packages("devtools")
+# devtools::install_github("mrpsonglao/data360r") # Run only the first time
+library(data360r)
+library(dplyr)
+library(lemon)
+knit_print.data.frame <- lemon_print
+#get all indicator metadata in Govdata360
+df_indicators <- get_metadata360(site="gov", metadata_type = "indicators")
+```
+
+# General overview of metadata
+**Number of indicators and number of variables**
+```{r echo=FALSE}
+# Dimensions of the metadata
+dim(df_indicators)[1]
+dim(df_indicators)[2]
+```
+
+**Column names:**
+```{r echo=FALSE}
+# Names of columns of the metadata
+colnames(df_indicators)
+```
+
+## Analysis per variable
+### id
+Count of id's
+```{r}
+IDs = df_indicators %>% group_by(id) %>% summarise(Unique_Elements = n_distinct(id))
+dim(IDs)
+```
+
+### Names
+```{r}
+NAMES = df_indicators %>% group_by(name) %>% summarise(Unique_Elements = n_distinct(name))
+dim(NAMES)
+```
+
+### Dataset
+```{r}
+DATASET = df_indicators %>% group_by(dataset) %>% summarise(Unique_Elements = n_distinct(dataset))
+dim(DATASET)
+```
+
+
+### Valuetype
+```{r}
+n_valueType = df_indicators %>% group_by(valueType) %>% summarise(Unique_Elements = n_distinct(valueType))
+dim(VALUE)
+```
+
+
+
+
+
+## Pruebas
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

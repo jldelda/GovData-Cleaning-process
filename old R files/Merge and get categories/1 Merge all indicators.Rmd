@@ -1,0 +1,192 @@
+---
+title: "1 Merge all indicators"
+author: "Jose Luis Delgado Davara"
+date: "May 3, 2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+setwd("C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE/Data")
+```
+
+## Introduction
+
+This is R Markdown document explain the process of merging all datasets and creating the final master file for the inggestion process of GovData360.
+
+The inputs for this file are all the separated data files for each data source (values.csv and valuesIND.csv). The output of this process is two single large documents:
+* GovData360.csv - with all the data for the spring 2018 ingestion process
+* GovData360IND.csv - with all the metadata for the indicators for the spring 2018 ingestion process.
+
+From there, we will also use the categories of last ingestion to merge them with 2018 dataset and get the categories and subcategories of last year.
+
+## 1.- Merge all datasets in one
+
+```{r}
+SOURCES33 = c("BEEPS", "BTI",  "CDG", "CPIA", "DB", "ES", "FAD_FR", "FH", "FSI", "GCI", "GFS", "Global_Indicators", "Global_Integrity", "HRM", "IBP", "IIAG", "ILO", "IPD", "IPU", "PAM", "PAM_IAD", "PAY_EMP", "PEFA", "PFI", "PIM", "PIV", "QOG", "SC", "SGI","TI", "WBL", "WGI", "WJP")
+#TIGCB has changed a lot the format. We leave it for the next iteration.
+
+SOURCES_TRIALS = c("TIGCB") 
+
+### 
+
+Metadata <- as.data.frame(matrix(ncol=0, nrow=0))
+df <- as.data.frame(matrix(ncol=0, nrow=0))
+dfIND <- as.data.frame(matrix(ncol=0, nrow=0))
+Master <- as.data.frame(matrix(ncol=0, nrow=0))
+MasterIND <- as.data.frame(matrix(ncol=0, nrow=0))
+
+# For loop to merge each dataset in a master one
+for (i in SOURCES33){
+  # Read files
+  Route = paste0(i,"/",i,".csv")
+  RouteIND = paste0(i,"/",i,"IND.csv")
+  df = read.csv(Route, sep = ",")
+  dfIND = read.csv(RouteIND, sep = ",")
+     
+  print(i)
+  print(paste0("Number of columns imported in the .csv: ", ncol(df)))
+  print(paste0("Number of columns imported in the IND.csv: ", ncol(dfIND)))
+  
+    # CREATE UNIQUE ID
+        # 1 - Create unique identifier per unique question (ID)
+        Q = as.data.frame(unique(dfIND$Display_Name)) # EXTRACTextract unique questions
+        Q.id <- 1:nrow(Q)
+        Q <- cbind(Q.id=Q.id, Q) # id, questions
+        colnames(Q) = c("Q.id", "Display_Name")
+        # 2 - Merge dfIND and Q
+        dfIND = merge(dfIND, Q, by = "Display_Name")
+        # 3 - Create unique id for the whole dataset
+        dfIND = dfIND %>% mutate(ID = paste(Q.id, Dataset, answer, sep = "-"))
+  
+  # Create metadata
+  Metadata[i, "Min.year"] = min(as.numeric(df$year))
+  Metadata[i, "Max.year"] = max(as.numeric(df$year))
+  Metadata[i, "n.year"] = length(unique(df$year))
+  Metadata[i, "n.questions"] = length(unique(dfIND$Display_Name))
+  Metadata[i, "n.countries"] = length(unique(df$iso3))
+  Metadata[i, "Unique IDs"] = length(unique(dfIND$ID))
+  Metadata[i, "nrows"] = nrow(dfIND)
+  print(length(unique(dfIND$ID)))
+  print(nrow(dfIND))
+  # Paste with Master
+  if (ncol(df) != 12){
+    df$encoded = ""
+  }
+  Master = rbind(Master, df)
+  print(dim(Master))
+  #if (ncol(dfIND) != 27){
+  #  df$encoded = ""
+  #}
+  
+  MasterIND = rbind(MasterIND, dfIND)
+}
+
+
+```
+
+```{r}
+# EXPORT TO CSV
+# EXPORT TO CSV
+write.csv(Master, "# Ingestion Spring 2018/Master.csv", sep = ",")
+#write.csv(MasterIND, "# Ingestion Spring 2018/MasterIND.csv", sep = ",")
+```
+
+############################################   ############################################
+############################################   ############################################
+############################################   ############################################
+
+# GovDataIND360
+## 3.- Find the category of each indicator
+
+In the process of updating the information during the spring 2018 ingestions, it was not possible to correctly match the categories of each question. To solve this problem, we are going to do a match of the questions from last ingestion.
+
+```{r}
+# Read 2017 file
+Route = "../Transformation files/_aux/aux_Data/GovDataIND.csv"
+df_ind2017 = read.csv(Route, sep = ";")
+str(df_ind2017$Category_11)
+str(df_ind2017$Category_12)
+```
+
+```{r}
+df_ind2017.grouped = df_ind2017 %>% group_by(Display_Name)
+summ.IND.Display.Name  = summarize(df_ind2017.grouped, count = n()) %>% arrange(desc(count))
+head(summ.IND.Display.Name, 8)
+```
+
+**We need to create a different indicator because it seems the questions can be repeated**
+
+```{r}
+# Create new id
+df_ind2017 = df_ind2017 %>% mutate(ID = paste(Display_Name, Dataset, answer, sep = "-"))
+df_ind2017.grouped = df_ind2017 %>% group_by(ID)
+summ.IND.Display.Name  = summarize(df_ind2017.grouped, count = n()) %>% arrange(desc(count))
+head(summ.IND.Display.Name, 8)
+```
+
+**As we can see in this table, ID is now an unique identifier. It will be the one to match with ID.q**
+
+```{r}
+# Create ID.q in MasterIND
+MasterIND = MasterIND %>% mutate(ID.q = paste(Display_Name, Dataset, answer, sep = "-"))
+```
+
+Now we can do a left join between ID.q and ID from df_ind2017.
+
+```{r}
+GovData360IND = merge(MasterIND, df_ind2017, by.x = 'ID.q', by.y = 'ID' ,all = T) # Merge all datasets
+
+drops <- c("Category_11.x","Category_12.x", "Category_13.x", "Category_14.x", "Category_14.x", "Category_15.x", "Category_21.x", "Category_22.x", "Category_23.x", "Category_24.x", "Category_25.x", "Category_25.x", "Category_31.x", "Category_32.x", "Category_33.x", "Category_34.x", "New1", "New2", "New3", "New4", "New5", "Rank_2", "Rank_3", "answer.y", "keyN.y", "Indicator_Id.y", "Rank", "Indicator_Name.x", "Display_Name.x", "Dataset.y")
+
+# Should we drop Rank, KeyN, indicator_Id, Value_Type_Slug, Rank_1, answer.y and KeyN.y???
+GovData360IND = GovData360IND[ , !(names(GovData360IND) %in% drops)] # Drop
+
+# Rename columns
+
+Final.names = c("ID.q", "Indicator_Id", "Indicator", "answer", "Dataset", "keyN", "Q.id", "ID", "Indicator_Name", "Display_Name", "Value_Type_Slug", "Units", 'Rank_1', "Category_11", "Category_12", "Category_13", "Category_14", "Category_15", "Category_21", "Category_22", "Category_23", "Category_24", "Category_25", "Category_31", "Category_32", "Category_33", "Category_34")
+
+colnames(GovData360IND) = Final.names
+```
+
+## Remove datasets
+```{r}
+# CLEAN ROWS IN DATASET
+# Remove rows without ID.q
+GovData360IND = GovData360IND[GovData360IND$ID.q != "--",]
+
+# Remove rows without category
+GovData360IND = GovData360IND[is.na(GovData360IND$Category_11) == FALSE,]
+GovData360IND = GovData360IND[is.na(GovData360IND$Category_12) == FALSE,]
+
+# CLEAN COLUMNS IN DATASET
+#drops2 = c('ID.q')
+#GovData360IND = GovData360IND[ , !(names(GovData360IND) %in% drops2)] # Drop
+
+# EXPORT TO CSV
+write.csv(GovData360IND, "# Ingestion Spring 2018/GovData360IND_Draft1.csv", sep = ",")
+```
+
+### GOVDATA360
+```{r}
+# Create ID.q in MasterIND
+Master = Master %>% mutate(ID.q = paste(question, dataset, answer, sep = "-"))
+
+merge.MasterIND = MasterIND %>% select(ID.q, ID)
+Master2 = merge(Master, MasterIND, by.x = 'ID.q', by.y = 'ID.q' ,all = T) # Merge all datasets
+
+# Keep only the interesting columns
+keep = c('ID.q', 'dataset', 'iso3', 'subset', 'year','group', 'question', 'answer', 'indicator', 'value', 'keyN', 'Indicator_id')
+
+GovData360 = Master2[ , (names(Master2) %in% keep)] # Drop
+GovData360 = GovData360[GovData360$ID.q != "--",]
+
+write.csv(GovData360, "# Ingestion Spring 2018/GovData360_Draft1.csv", sep = ",")
+```
+
+
+
+

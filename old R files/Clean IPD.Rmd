@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Clean IPD
+
+
+```{r}
+library(dplyr)
+setwd("C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE")
+file = "C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE/Data/IPD/IPD.csv"
+IPD = read.csv(file, sep = ",")
+```
+
+
+```{r}
+# After analysing the problem, only 51 rows are giving me problem. Remove them.
+IPD = IPD %>% filter(Indicator_Id != "")
+
+write.csv(IPD, file = "Data/IPD/IPD.csv", sep = ",", row.names = F)
+```
+

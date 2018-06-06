@@ -1,0 +1,45 @@
+---
+title: "Create metadata for each indicator"
+author: "Jose Luis Delgado Davara"
+date: "May 31, 2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(dplyr)
+GovData360IND = read.csv("GovData360IND.csv",sep=",", header=TRUE)
+GovData360 = read.csv("GovData360IND_with_Description.csv",sep=",", header=TRUE)
+```
+
+
+```{r include=FALSE}
+Indicator_Id = unique(GovData360IND$Indicator_Id)
+
+Metadata = as.data.frame((matrix(ncol=0, nrow=0)))
+Metadata.all = as.data.frame((matrix(ncol=0, nrow=0)))
+for (i in 1:length(Indicator_Id)){
+  print(i)
+  print(Indicator_Id[i])
+  Data = GovData360[GovData360$Indicator_Id == Indicator_Id[i], ]
+  #View(Data)
+  Metadata[1, "Indicator_Id"] = Indicator_Id[i]
+  Metadata[1, "n_Countries"] = length(unique(Data$iso3))
+  Metadata[1, "n_years"] = length(unique(Data$year))
+  Metadata[1, "min_year"] = min(Data$year)
+  Metadata[1, "max_year"] = max(Data$year)
+  Metadata.all = rbind(Metadata.all, Metadata)
+  Metadata = as.data.frame((matrix(ncol=0, nrow=0)))
+  print(dim(Metadata.all))
+}
+print("I finished!")
+View(Metadata.all)
+```
+
+```{r}
+Data = merge(GovData360IND, Metadata.all, by = 'Indicator_Id', all.x = T)
+Re-Rank
+
+```
+

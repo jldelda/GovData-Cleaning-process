@@ -1,0 +1,116 @@
+---
+title: "Join Datasets"
+author: "Jose Luis Delgado Davara"
+date: "May 14, 2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+THIS FILE WAS UNUSED.
+
+```{r}
+library(stringr)
+Match.Total = read.csv("Data/# Ingestion Spring 2018/Partial matches/Match.Total.csv")
+MasterIND = read.csv("Data/# Ingestion Spring 2018/Partial matches/MasterIND.csv")
+GovDataIND2017 = read.csv("Data/# Ingestion Spring 2018/Partial matches/GovDataIND2017.csv")
+
+MasterIND = MasterIND %>% mutate(ID = paste(Display_Name, Dataset, answer, sep = "-"))
+GovDataIND2017 = GovDataIND2017 %>% mutate(ID = paste(Display_Name, Dataset, answer, sep = "-"))
+
+# Remove duplicated values
+GovDataIND2017 = GovDataIND2017[!duplicated(GovDataIND2017$ID), ]
+
+# General variables
+SOURCES_2018 = c('BTI','CPIA', 'DB', 'FH', 'GCI', 'IBP', 'IIAG', 'ILO', 'IPD', 'IPU', 'PEFA', 'SC', 'SGI', 'TI', 'WBL', 'WGI', 'WJP')
+
+# Standaride merge variables
+MasterIND = filter(MasterIND, Dataset %in% SOURCES_2018) #Work only with the new ones
+
+Match.Total$MasterIND = trimws(Match.Total$MasterIND, which = c("both"))
+MasterIND$comparison = trimws(MasterIND$comparison, which = c("both"))
+GovDataIND2017$comparison = trimws(GovDataIND2017$comparison, which = c("both"))
+# All to lower case
+Match.Total$MasterIND = tolower(Match.Total$MasterIND)
+MasterIND$comparison = tolower(MasterIND$comparison) 
+GovDataIND2017$comparison = tolower(GovDataIND2017$comparison)
+# Remove double white spaces
+Match.Total$MasterIND = gsub("  ", " ", Match.Total$MasterIND, ignore.case = T)
+MasterIND$comparison = gsub("  ", " ", MasterIND$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("  ", " ", GovDataIND2017$comparison, ignore.case = T)
+# Remove double white spaces again (sometime they have two double space)
+Match.Total$MasterIND = gsub("  ", " ", Match.Total$MasterIND, ignore.case = T)
+MasterIND$comparison = gsub("  ", " ", MasterIND$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("  ", " ", GovDataIND2017$comparison, ignore.case = T)
+#IIAG cleaning
+MasterIND$comparison = gsub("iiag ", "", MasterIND$comparison, ignore.case = T)
+# CPIA cleaning
+Match.Total$MasterIND = gsub("cpia ", "", Match.Total$MasterIND, ignore.case = T)
+MasterIND$comparison = gsub("cpia ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("cpia ", "", MasterIND$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("cpia ", "", GovDataIND2017$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("cpia ", "", GovDataIND2017$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("topic average", "cluster", GovDataIND2017$comparison, ignore.case = T)
+MasterIND$comparison = gsub("inclusionequity", "inclusion equity", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("social protection and labor total","social protection total", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub(" rating low to high", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub(" average low to high", "", MasterIND$comparison, ignore.case = T)
+# DB cleaning
+MasterIND$comparison = gsub("rank ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("db methodology ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("db db ", "db", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("db", "", MasterIND$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("db", "", GovDataIND2017$comparison, ignore.case = T)
+MasterIND$comparison = gsub("  ", " ", MasterIND$comparison, ignore.case = T)
+GovDataIND2017$comparison = gsub("  ", " ", GovDataIND2017$comparison, ignore.case = T)
+MasterIND$comparison = gsub("index ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("value ", "", MasterIND$comparison, ignore.case = T)
+# GCI cleaning
+MasterIND$comparison = gsub("r d ", "research development ", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("universityindustry", "university industry", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison = gsub("pop ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison[(substr(MasterIND$comparison, start = 1, stop = 2) == "a ")] = gsub("a ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison[(substr(MasterIND$comparison, start = 1, stop = 2) == "b ")] = gsub("b ", "", MasterIND$comparison, ignore.case = T)
+MasterIND$comparison[(substr(MasterIND$comparison, start = 1, stop = 2) == "c ")] = gsub("c ", "", MasterIND$comparison, ignore.case = T)
+# Trim white space in both side (previous and after)
+Match.Total$MasterIND = trimws(Match.Total$MasterIND, which = c("both"))
+MasterIND$comparison = trimws(MasterIND$comparison, which = c("both"))
+GovDataIND2017$comparison = trimws(GovDataIND2017$comparison, which = c("both"))
+```
+
+```{r Separate files}
+GovDataIND2017_Update = GovDataIND2017[GovDataIND2017$Dataset %in% SOURCES_2018, ]
+GovDataIND2017_No_Update = GovDataIND2017[!(GovDataIND2017$Dataset %in% SOURCES_2018), ]
+```
+
+
+# STEP 2: Find the category (and other columns) of each indicator
+
+```{r Drop unused variables}
+
+
+Merge = merge(MasterIND[ ,c('Display_Name', 'Dataset', 'answer', 'Indicator', 'Q.id', 'ID', 'comparison')], GovDataIND2017_Update[ ,c('comparison', 'overlap', 'Indicator_Id', 'Indicator_Code', 'Indicator_Name', 'Value_Type_Slug', 'Value_Type_Descriptor', 'Units', 'Description', "Rank_1", "Category_11", "Category_12", "Category_13", "Category_14", "Category_15", "Rank_2", "Category_21", "Category_22", "Category_23", "Category_24", "Category_25", "Rank_3", "Category_31", "Category_32", "Category_33", "Category_34")], by = 'comparison') #Inner join.
+
+
+#write.csv(MasterIND, "Data/# Ingestion Spring 2018/GovData360IND2018.csv", sep = ",")
+print(dim(Merge))
+```
+
+```{r}
+View(MasterIND %>% filter(Dataset == 'GCI') %>% arrange(desc(comparison)))
+View(Temp)
+View(GovDataIND2017 %>% filter(Dataset == 'GCI') %>% arrange(desc(comparison)))
+
+Summary = Merge %>% group_by(Dataset) %>% summarise(n = n())
+
+```
+
+# STEP 3: JOIN THE INDICATOR LIST UPDATED IN 2018 WITH THE ONES NO-UPDATED (This will be the list of all indicators)
+
+```{r}
+
+```
+
+
+
+

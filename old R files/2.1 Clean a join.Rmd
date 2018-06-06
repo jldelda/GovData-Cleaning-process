@@ -1,0 +1,84 @@
+---
+title: "R Notebook"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+
+```{r}
+library(stringr)
+setwd("C:/Users/wb533078/OneDrive - WBG/1 DATA UPDATE")
+Match.Total = read.csv("Data/# Ingestion Spring 2018/Partial matches/Match.Total.csv")
+MasterIND = read.csv("Data/# Ingestion Spring 2018/Partial matches/MasterIND.csv")
+GovDataIND2017 = read.csv("Data/# Ingestion Spring 2018/Partial matches/GovDataIND2017.csv")
+
+MasterIND = MasterIND %>% mutate(ID = paste(Display_Name, Dataset, answer, sep = "-"))
+GovDataIND2017 = GovDataIND2017 %>% mutate(ID = paste(Display_Name, Dataset, answer, sep = "-"))
+
+# Remove duplicated values
+GovDataIND2017 = GovDataIND2017[!duplicated(GovDataIND2017$ID), ]
+
+# General variables
+SOURCES_2018 = c('BTI','CPIA', 'DB', 'FH', 'GCI', 'IBP', 'IIAG', 'ILO', 'IPD', 'IPU', 'PEFA', 'SC', 'SGI', 'TI', 'WBL', 'WGI', 'WJP')
+
+GovDataIND2017_Update = GovDataIND2017[GovDataIND2017$Dataset %in% SOURCES_2018, ]
+GovDataIND2017_No_Update = GovDataIND2017[!(GovDataIND2017$Dataset %in% SOURCES_2018), ]
+```
+
+
+```{r}
+
+Merge1 = merge(MasterIND[ ,c('Display_Name', 'Dataset', 'answer', 'Indicator', 'Q.id', 'ID', 'comparison')],Match.Total[ ,c('MasterIND', 'GovData')], by.x = 'comparison', by.y = 'MasterIND') #Inner join.
+
+Merge2 = merge(Merge1[ ,c('Display_Name', 'Dataset', 'answer', 'Indicator', 'Q.id', 'ID', 'GovData')], GovDataIND2017_Update[ ,c('comparison', 'overlap', 'Indicator_Id', 'Indicator_Code', 'Indicator_Name', 'Value_Type_Slug', 'Value_Type_Descriptor', 'Units', 'Description', "Rank_1", "Category_11", "Category_12", "Category_13", "Category_14", "Category_15", "Rank_2", "Category_21", "Category_22", "Category_23", "Category_24", "Category_25", "Rank_3", "Category_31", "Category_32", "Category_33", "Category_34")], by.x = 'GovData', by.y = 'comparison') #Inner join.
+
+Merge2 = Merge2[!duplicated(Merge2), ]
+#Summary = Merge2 %>% group_by(Dataset) %>% summarise(n = n())
+write.csv(Merge2, "Data/# Ingestion Spring 2018/GovData360IND2018_updated_sources.csv", sep = ",")
+
+drops <- c('GovData', 'Indicator')
+Merge2 = Merge2[ , !(names(Merge2) %in% drops)] 
+
+drops2 = c('X', 'comparison')
+GovDataIND2017_No_Update$Q.id = ""
+GovDataIND2017_No_Update = GovDataIND2017_No_Update[ , !(names(GovDataIND2017_No_Update) %in% drops2)] 
+
+GovDataIND2018_All = rbind(Merge2, GovDataIND2017_No_Update)
+GovDataIND2018_All = GovDataIND2018_All[!duplicated(GovDataIND2018_All$ID), ]
+
+GovDataIND2018_All = GovDataIND2018_All %>% mutate(Indicator_Id = paste(Display_Name, Dataset, sep = "-"))
+GovDataIND2018_All$Category_13[is.na(GovDataIND2018_All$Category_13) == T] = ''
+GovDataIND2018_All$Category_14[is.na(GovDataIND2018_All$Category_14) == T] = ''
+GovDataIND2018_All$Category_15[is.na(GovDataIND2018_All$Category_15) == T] = ''
+GovDataIND2018_All$Category_21[is.na(GovDataIND2018_All$Category_21) == T] = ''
+GovDataIND2018_All$Category_22[is.na(GovDataIND2018_All$Category_22) == T] = ''
+GovDataIND2018_All$Category_23[is.na(GovDataIND2018_All$Category_23) == T] = ''
+GovDataIND2018_All$Category_24[is.na(GovDataIND2018_All$Category_24) == T] = ''
+GovDataIND2018_All$Category_25[is.na(GovDataIND2018_All$Category_25) == T] = ''
+GovDataIND2018_All$Category_31[is.na(GovDataIND2018_All$Category_31) == T] = ''
+GovDataIND2018_All$Category_32[is.na(GovDataIND2018_All$Category_32) == T] = ''
+GovDataIND2018_All$Category_33[is.na(GovDataIND2018_All$Category_33) == T] = ''
+GovDataIND2018_All$Category_34[is.na(GovDataIND2018_All$Category_34) == T] = ''
+write.csv(GovDataIND2018_All, "Data/# Ingestion Spring 2018/GovData360IND.csv", sep = ",")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
