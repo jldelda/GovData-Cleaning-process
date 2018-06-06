@@ -73,11 +73,3 @@ GovData360IND$Category_11[GovData360IND$Indicator_Id == '8-WGI-Upper'] = 'Checks
 GovData360IND$Category_11[GovData360IND$Indicator_Id == '9-WGI-Upper'] = 'Checks and Balances'
 ```
 
-
-## Get country summary table
-
-
-## Get indicator summary table
-
-
-## Get year summary table

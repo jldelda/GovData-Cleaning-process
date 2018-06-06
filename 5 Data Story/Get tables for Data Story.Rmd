@@ -1,0 +1,13 @@
+---
+title: "Get Tables for Data Story"
+output: html_notebook
+---
+
+
+## Get country summary table
+
+
+## Get indicator summary table
+
+
+## Get year summary table

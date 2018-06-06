@@ -1,0 +1,26 @@
+---
+title: "Add Fixed Ranks"
+output: html_notebook
+---
+
+This is code reads the new ranks of the indicators and join it to the IND file. The ranks have been worked separately in excel (see Re-Rank definitive file). The old Rank column is dropped and some of the indicators as well.
+
+```{r Read files}
+GovData360IND = read.csv("GovData360IND_with_Description.csv",sep=",", header=TRUE)
+library(xlsx)
+Ranks = read.xlsx("Definitive Rank.xlsx", 1, header = T)
+```
+
+```{r drop old rank_1}
+
+```
+
+```{r Drop indicators in both files}
+
+```
+
+```{r Write file}
+
+```
+
+
