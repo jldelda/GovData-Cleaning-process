@@ -1,0 +1,37 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+WGI1,,Control of Corruption,Upper,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI1,,Control of Corruption,Lower,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI1,,Control of Corruption,Rank,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI1,,Control of Corruption,NumSrc,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI1,,Control of Corruption,StdErr,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI1,,Control of Corruption,Estimate,Control of Corruption,WGI,,,,,,,,,,,,,,,,,,,,,1
+WGI5,,Rule of Law,Upper,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI5,,Rule of Law,Lower,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI5,,Rule of Law,Rank,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI5,,Rule of Law,NumSrc,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI5,,Rule of Law,StdErr,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI5,,Rule of Law,Estimate,Rule of Law,WGI,,,,,,,,,,,,,,,,,,,,,5
+WGI4,,Regulatory Quality,Upper,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI4,,Regulatory Quality,Lower,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI4,,Regulatory Quality,Rank,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI4,,Regulatory Quality,NumSrc,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI4,,Regulatory Quality,StdErr,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI4,,Regulatory Quality,Estimate,Regulatory Quality,WGI,,,,,,,,,,,,,,,,,,,,,4
+WGI2,,Government Effectiveness,Upper,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI2,,Government Effectiveness,Lower,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI2,,Government Effectiveness,Rank,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI2,,Government Effectiveness,NumSrc,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI2,,Government Effectiveness,StdErr,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI2,,Government Effectiveness,Estimate,Government Effectiveness,WGI,,,,,,,,,,,,,,,,,,,,,2
+WGI3,,Political Stability No Violence,Upper,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI3,,Political Stability No Violence,Lower,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI3,,Political Stability No Violence,Rank,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI3,,Political Stability No Violence,NumSrc,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI3,,Political Stability No Violence,StdErr,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI3,,Political Stability No Violence,Estimate,Political Stability No Violence,WGI,,,,,,,,,,,,,,,,,,,,,3
+WGI6,,Voice and Accountability,Upper,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6
+WGI6,,Voice and Accountability,Lower,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6
+WGI6,,Voice and Accountability,Rank,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6
+WGI6,,Voice and Accountability,NumSrc,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6
+WGI6,,Voice and Accountability,StdErr,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6
+WGI6,,Voice and Accountability,Estimate,Voice and Accountability,WGI,,,,,,,,,,,,,,,,,,,,,6

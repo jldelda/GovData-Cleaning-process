@@ -1,0 +1,78 @@
+Indicator_Id;Indicator_Name;Display_Name;Dataset;Value_Type_Slug;Units;Rank_1;Category_11;Category_12;Category_13;Category_14;Category_15;Rank_2;Category_21;Category_22;Category_23;Category_24;Category_25;Rank_3;Category_31;Category_32;Category_33;Category_34;answer;keyN
+WJP65;8.7;87 Due process of law and rights of the accused;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;65
+WJP64;8.6;86 Criminal system is free of improper government influence;WJP;;;;Checks and Balances;Judiciary System;;;;;Absence of Corruption;Prevention and sanction;;;;;Absence of Corruption;Incidence;;;Total;64
+WJP63;8.5;85 Criminal system is free of corruption;WJP;;;;Checks and Balances;Judiciary System;;;;;Absence of Corruption;Prevention and sanction;;;;;Absence of Corruption;Incidence;;;Total;63
+WJP62;8.4;84 Criminal system is impartial;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;62
+WJP61;8.3;83 Correctional system is effective in reducing criminal behavior;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;61
+WJP60;8.2;82 Criminal adjudication system is timely and effective;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;60
+WJP59;8.1;81 Criminal investigation system is effective;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;59
+WJP77;Factor 8;Factor 8 Criminal Justice;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;77
+WJP57;7.7;77 ADRs are accessible impartial and effective;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;57
+WJP55;7.6;76 Civil justice is effectively enforced;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;55
+WJP54;7.5;75 Civil justice is not subject to unreasonable delays;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;54
+WJP52;7.4;74 Civil justice is free of improper government influence;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;52
+WJP51;7.3;73 Civil justice is free of corruption;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;51
+WJP50;7.2;72 Civil justice is free of discrimination;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;50
+WJP49;7.1;71 People can access and afford civil justice;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;49
+WJP76;Factor 7;Factor 7 Civil Justice;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;76
+WJP47;6.5;65 The Government does not expropriate without adequate compensation;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;47
+WJP46;6.4;64 Due process is respected in administrative proceedings;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;46
+WJP45;6.3;63 Administrative proceedings are conducted without unreasonable delay;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;45
+WJP44;6.2;62 Government regulations are applied and enforced without improper influence;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;44
+WJP43;6.1;61 Government regulations are effectively enforced;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;43
+WJP75;Factor 6;Factor 6 Regulatory Enforcement;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;75
+WJP42;5.4;54 Official information is available on request;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;42
+WJP41;5.3;53 Right to petition the government and public participation;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;41
+WJP39;5.2;52 The laws are stable;WJP;;;;Security;Violent conflict;;;;;;;;;;;;;;;Total;39
+WJP37;5.1;51 The laws are publicized and accessible;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;37
+WJP73;Factor 5;Factor 5 Open Government;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;73
+WJP35;4.8;48 Fundamental labor rights are effectively guaranteed;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;35
+WJP34;4.7;47 Freedom of assembly and association is effectively guaranteed;WJP;;;;Citizen Engagement;Civil Society Participation;;;;;;;;;;;;;;;Total;34
+WJP33;4.6;46 Freedom from arbitrary interference with privacy is effectively guaranteed;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;33
+WJP32;4.5;45 Freedom of belief and religion is effectively guaranteed;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;32
+WJP31;4.4;44 Freedom of opinion and expression is effectively guaranteed;WJP;;;;Citizen Engagement;Freedom of expression;;;;;;;;;;;;;;;Total;31
+WJP30;4.3;43 Due process of law and rights of the accused;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;30
+WJP29;4.2;42 The right to life and security of the person is effectively guaranteed;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;29
+WJP28;4.1;41 Equal treatment and absence of discrimination;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;28
+WJP72;Factor 4;Factor 4 Fundamental Rights;WJP;;;;Citizen Engagement;Civil Rights;;;;;;;;;;;;;;;Total;72
+WJP24;3.3;33 People do not resort to violence to redress personal grievances;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;24
+WJP20;3.2;32 Civil conflict is effectively limited;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;20
+WJP17;3.1;31 Crime is effectively controlled;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;17
+WJP71;Factor 3;Factor 3 Order and Security;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;71
+WJP16;2.4;24 Government officials in the legislative branch do not use public office for private gain;WJP;;;;Checks and Balances;Legislative System;;;;;Absence of Corruption;Perception;;;;;;;;;Total;16
+WJP15;2.3;23 Government officials in the police and the military do not use public office for private gain;WJP;;;;Absence of Corruption;Perception;;;;;Security;Police and Military;;;;;;;;;Total;15
+WJP14;2.2;22 Government officials in the judicial branch do not use public office for private gain;WJP;;;;Absence of Corruption;Perception;;;;;;;;;;;;;;;Total;14
+WJP13;2.1;21 Government officials in the executive branch do not use public office for private gain;WJP;;;;Public Sector Management;Personnel Management;;;;;Absence of Corruption;Perception;;;;;;;;;Total;13
+WJP69;Factor 2;Factor 2 Absence of Corruption;WJP;;;;Absence of Corruption;Perception;;;;;;;;;;;;;;;Total;69
+WJP12;1.7;17 Transition of power is subject to the law;WJP;;;;Political Accountability;Public Accountability Mechanisns;;;;;;;;;;;;;;;Total;12
+WJP10;1.6;16 Government powers are subject to nongovernmental checks;WJP;;;;Political Accountability;Public Accountability Mechanisns;;;;;;;;;;;;;;;Total;10
+WJP8;1.5;15 Government officials are sanctioned for misconduct;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;8
+WJP7;1.4;14 Government powers are effectively limited by independent auditing and review;WJP;;;;Checks and Balances;Oversight institutions;;;;;;;;;;;;;;;Total;7
+WJP5;1.3;13 Government powers are effectively limited by the judiciary;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;5
+WJP3;1.2;12 Government powers are effectively limited by the legislature;WJP;;;;Checks and Balances;Legislative System;;;;;;;;;;;;;;;Total;3
+WJP68;Factor 1;Factor 1 Limited Government Powers;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;68
+WJP67;Factor 1;Factor 1 Constraints on Government Powers;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;67
+WJP1;1.1;11 Government powers are effectively limited by the legislature;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;1
+WJP2;1.2;12 Government powers are effectively limited by the judiciary;WJP;;;;Checks and Balances;Legislative System;;;;;;;;;;;;;;;Total;2
+WJP4;1.3;13 Government powers are effectively limited by independent auditing and review;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;4
+WJP6;1.4;14 Government officials are sanctioned for misconduct;WJP;;;;Checks and Balances;Oversight institutions;;;;;;;;;;;;;;;Total;6
+WJP9;1.5;15 Government powers are subject to nongovernmental checks;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;9
+WJP11;1.6;16 Transition of power is subject to the law;WJP;;;;Political Accountability;Public Accountability Mechanisns;;;;;;;;;;;;;;;Total;11
+WJP70;Factor 3;Factor 3 Open Government;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;70
+WJP18;3.1;31 Publicized laws and government data;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;18
+WJP21;3.2;32 Right to information;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;21
+WJP23;3.3;33 Civic participation;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;23
+WJP26;3.4;34 Complaint mechanisms;WJP;;;;Checks and Balances;Oversight institutions;;;;;;;;;;;;;;;Total;26
+WJP74;Factor 5;Factor 5 Order and Security;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;74
+WJP36;5.1;51 Crime is effectively controlled;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;36
+WJP38;5.2;52 Civil conflict is effectively limited;WJP;;;;Security;Violent conflict;;;;;;;;;;;;;;;Total;38
+WJP40;5.3;53 People do not resort to violence to redress personal grievances;WJP;;;;Citizen Engagement;Open Government and Transparency;;;;;;;;;;;;;;;Total;40
+WJP48;6.5;65 The government does not expropriate without lawful process and adequate compensation;WJP;;;;Public Sector Management;Enforcement;;;;;;;;;;;;;;;Total;48
+WJP53;7.5;75 Civil justice is not subject to unreasonable delay;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;53
+WJP58;7.7;77 Alternative dispute resolution mechanisms are accessible impartial and effective;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;58
+WJP66;8.7;87 Due process of law and the rights of the accused;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;66
+WJP19;3.1;31 The laws are publicized and accessible;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;19
+WJP22;3.2;32 The laws are stable;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;22
+WJP25;3.3;33 Right to petition the government and public participation;WJP;;;;Security;Crime;;;;;;;;;;;;;;;Total;25
+WJP27;3.4;34 Official information is available on request;WJP;;;;Checks and Balances;Oversight institutions;;;;;;;;;;;;;;;Total;27
+WJP56;7.7;77 ADR is accessible impartial and effective;WJP;;;;Checks and Balances;Judiciary System;;;;;;;;;;;;;;;Total;56

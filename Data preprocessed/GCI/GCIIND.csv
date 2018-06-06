@@ -1,0 +1,331 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+GCI8,,"Property rights, 1-7 (best)",Value,101 Property rights 17 best,GCI,,,,,,,,,,,,,,,,,,,,,8
+GCI8,,"Property rights, 1-7 (best)",Rank,101 Property rights 17 best,GCI,,,,,,,,,,,,,,,,,,,,,8
+GCI9,,"Intellectual property protection, 1-7 (best)",Value,102 Intellectual property protection 17 best,GCI,,,,,,,,,,,,,,,,,,,,,9
+GCI9,,"Intellectual property protection, 1-7 (best)",Rank,102 Intellectual property protection 17 best,GCI,,,,,,,,,,,,,,,,,,,,,9
+GCI3,,1. Property rights,Value,1 Property rights,GCI,,,,,,,,,,,,,,,,,,,,,3
+GCI3,,1. Property rights,Rank,1 Property rights,GCI,,,,,,,,,,,,,,,,,,,,,3
+GCI10,,"Diversion of public funds, 1-7 (best)",Value,103 Diversion of public funds 17 best,GCI,,,,,,,,,,,,,,,,,,,,,10
+GCI10,,"Diversion of public funds, 1-7 (best)",Rank,103 Diversion of public funds 17 best,GCI,,,,,,,,,,,,,,,,,,,,,10
+GCI11,,"Public trust in politicians, 1-7 (best)",Value,104 Public trust in politicians 17 best,GCI,,,,,,,,,,,,,,,,,,,,,11
+GCI11,,"Public trust in politicians, 1-7 (best)",Rank,104 Public trust in politicians 17 best,GCI,,,,,,,,,,,,,,,,,,,,,11
+GCI12,,"Irregular payments and bribes, 1-7 (best)",Value,105 Irregular payments and bribes 17 best,GCI,,,,,,,,,,,,,,,,,,,,,12
+GCI12,,"Irregular payments and bribes, 1-7 (best)",Rank,105 Irregular payments and bribes 17 best,GCI,,,,,,,,,,,,,,,,,,,,,12
+GCI51,,2. Ethics and corruption,Value,2 Ethics and corruption,GCI,,,,,,,,,,,,,,,,,,,,,51
+GCI51,,2. Ethics and corruption,Rank,2 Ethics and corruption,GCI,,,,,,,,,,,,,,,,,,,,,51
+GCI13,,"Judicial independence, 1-7 (best)",Value,106 Judicial independence 17 best,GCI,,,,,,,,,,,,,,,,,,,,,13
+GCI13,,"Judicial independence, 1-7 (best)",Rank,106 Judicial independence 17 best,GCI,,,,,,,,,,,,,,,,,,,,,13
+GCI14,,"Favoritism in decisions of government officials, 1-7 (best)",Value,107 Favoritism in decisions of government officials 17 best,GCI,,,,,,,,,,,,,,,,,,,,,14
+GCI14,,"Favoritism in decisions of government officials, 1-7 (best)",Rank,107 Favoritism in decisions of government officials 17 best,GCI,,,,,,,,,,,,,,,,,,,,,14
+GCI63,,3. Undue influence,Value,3 Undue influence,GCI,,,,,,,,,,,,,,,,,,,,,63
+GCI63,,3. Undue influence,Rank,3 Undue influence,GCI,,,,,,,,,,,,,,,,,,,,,63
+GCI15,,"Efficiency of government spending, 1-7 (best)",Value,108 Efficiency of government spending 17 best,GCI,,,,,,,,,,,,,,,,,,,,,15
+GCI15,,"Efficiency of government spending, 1-7 (best)",Rank,108 Efficiency of government spending 17 best,GCI,,,,,,,,,,,,,,,,,,,,,15
+GCI17,,"Burden of government regulation, 1-7 (best)",Value,109 Burden of government regulation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,17
+GCI17,,"Burden of government regulation, 1-7 (best)",Rank,109 Burden of government regulation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,17
+GCI19,,"Efficiency of legal framework in settling disputes, 1-7 (best)",Value,110 Efficiency of legal framework in settling disputes 17 best,GCI,,,,,,,,,,,,,,,,,,,,,19
+GCI19,,"Efficiency of legal framework in settling disputes, 1-7 (best)",Rank,110 Efficiency of legal framework in settling disputes 17 best,GCI,,,,,,,,,,,,,,,,,,,,,19
+GCI29,,"Efficiency of legal framework in challenging regs., 1-7 (best)",Value,111 Efficiency of legal framework in challenging regs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,29
+GCI29,,"Efficiency of legal framework in challenging regs., 1-7 (best)",Rank,111 Efficiency of legal framework in challenging regs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,29
+GCI30,,"Transparency of government policymaking, 1-7 (best)",Value,112 Transparency of government policymaking 17 best,GCI,,,,,,,,,,,,,,,,,,,,,30
+GCI30,,"Transparency of government policymaking, 1-7 (best)",Rank,112 Transparency of government policymaking 17 best,GCI,,,,,,,,,,,,,,,,,,,,,30
+GCI70,,4. Government efficiency,Value,4 Government efficiency,GCI,,,,,,,,,,,,,,,,,,,,,70
+GCI70,,4. Government efficiency,Rank,4 Government efficiency,GCI,,,,,,,,,,,,,,,,,,,,,70
+GCI31,,"Business costs of terrorism, 1-7 (best)",Value,113 Business costs of terrorism 17 best,GCI,,,,,,,,,,,,,,,,,,,,,31
+GCI31,,"Business costs of terrorism, 1-7 (best)",Rank,113 Business costs of terrorism 17 best,GCI,,,,,,,,,,,,,,,,,,,,,31
+GCI32,,"Business costs of crime and violence, 1-7 (best)",Value,114 Business costs of crime and violence 17 best,GCI,,,,,,,,,,,,,,,,,,,,,32
+GCI32,,"Business costs of crime and violence, 1-7 (best)",Rank,114 Business costs of crime and violence 17 best,GCI,,,,,,,,,,,,,,,,,,,,,32
+GCI33,,"Organized crime, 1-7 (best)",Value,115 Organized crime 17 best,GCI,,,,,,,,,,,,,,,,,,,,,33
+GCI33,,"Organized crime, 1-7 (best)",Rank,115 Organized crime 17 best,GCI,,,,,,,,,,,,,,,,,,,,,33
+GCI34,,"Reliability of police services, 1-7 (best)",Value,116 Reliability of police services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,34
+GCI34,,"Reliability of police services, 1-7 (best)",Rank,116 Reliability of police services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,34
+GCI82,,5. Security,Value,5 Security,GCI,,,,,,,,,,,,,,,,,,,,,82
+GCI82,,5. Security,Rank,5 Security,GCI,,,,,,,,,,,,,,,,,,,,,82
+GCI142,,A. Public institutions,Value,A Public institutions,GCI,,,,,,,,,,,,,,,,,,,,,142
+GCI142,,A. Public institutions,Rank,A Public institutions,GCI,,,,,,,,,,,,,,,,,,,,,142
+GCI35,,"Ethical behavior of firms, 1-7 (best)",Value,117 Ethical behavior of firms 17 best,GCI,,,,,,,,,,,,,,,,,,,,,35
+GCI35,,"Ethical behavior of firms, 1-7 (best)",Rank,117 Ethical behavior of firms 17 best,GCI,,,,,,,,,,,,,,,,,,,,,35
+GCI1,,1. Corporate ethics,Value,1 Corporate ethics,GCI,,,,,,,,,,,,,,,,,,,,,1
+GCI1,,1. Corporate ethics,Rank,1 Corporate ethics,GCI,,,,,,,,,,,,,,,,,,,,,1
+GCI36,,"Strength of auditing and reporting standards, 1-7 (best)",Value,118 Strength of auditing and reporting standards 17 best,GCI,,,,,,,,,,,,,,,,,,,,,36
+GCI36,,"Strength of auditing and reporting standards, 1-7 (best)",Rank,118 Strength of auditing and reporting standards 17 best,GCI,,,,,,,,,,,,,,,,,,,,,36
+GCI37,,"Efficacy of corporate boards, 1-7 (best)",Value,119 Efficacy of corporate boards 17 best,GCI,,,,,,,,,,,,,,,,,,,,,37
+GCI37,,"Efficacy of corporate boards, 1-7 (best)",Rank,119 Efficacy of corporate boards 17 best,GCI,,,,,,,,,,,,,,,,,,,,,37
+GCI39,,"Protection of minority shareholders’ interests, 1-7 (best)",Value,120 Protection of minority shareholders’ interests 17 best,GCI,,,,,,,,,,,,,,,,,,,,,39
+GCI39,,"Protection of minority shareholders’ interests, 1-7 (best)",Rank,120 Protection of minority shareholders’ interests 17 best,GCI,,,,,,,,,,,,,,,,,,,,,39
+GCI47,,"Strength of investor protection, 0–10 (best)*",Value,121 Strength of investor protection 0–10 best*,GCI,,,,,,,,,,,,,,,,,,,,,47
+GCI47,,"Strength of investor protection, 0–10 (best)*",Rank,121 Strength of investor protection 0–10 best*,GCI,,,,,,,,,,,,,,,,,,,,,47
+GCI50,,2. Accountability,Value,2 Accountability,GCI,,,,,,,,,,,,,,,,,,,,,50
+GCI50,,2. Accountability,Rank,2 Accountability,GCI,,,,,,,,,,,,,,,,,,,,,50
+GCI151,,B. Private institutions,Value,B Private institutions,GCI,,,,,,,,,,,,,,,,,,,,,151
+GCI151,,B. Private institutions,Rank,B Private institutions,GCI,,,,,,,,,,,,,,,,,,,,,151
+GCI49,,1st pillar: Institutions,Value,1st pillar Institutions,GCI,,,,,,,,,,,,,,,,,,,,,49
+GCI49,,1st pillar: Institutions,Rank,1st pillar Institutions,GCI,,,,,,,,,,,,,,,,,,,,,49
+GCI53,,"Quality of overall infrastructure, 1-7 (best)",Value,201 Quality of overall infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,53
+GCI53,,"Quality of overall infrastructure, 1-7 (best)",Rank,201 Quality of overall infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,53
+GCI54,,"Quality of roads, 1-7 (best)",Value,202 Quality of roads 17 best,GCI,,,,,,,,,,,,,,,,,,,,,54
+GCI54,,"Quality of roads, 1-7 (best)",Rank,202 Quality of roads 17 best,GCI,,,,,,,,,,,,,,,,,,,,,54
+GCI55,,"Quality of railroad infrastructure, 1-7 (best)",Value,203 Quality of railroad infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,55
+GCI55,,"Quality of railroad infrastructure, 1-7 (best)",Rank,203 Quality of railroad infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,55
+GCI56,,"Quality of port infrastructure, 1-7 (best)",Value,204 Quality of port infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,56
+GCI56,,"Quality of port infrastructure, 1-7 (best)",Rank,204 Quality of port infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,56
+GCI57,,"Quality of air transport infrastructure, 1-7 (best)",Value,205 Quality of air transport infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,57
+GCI57,,"Quality of air transport infrastructure, 1-7 (best)",Rank,205 Quality of air transport infrastructure 17 best,GCI,,,,,,,,,,,,,,,,,,,,,57
+GCI58,,"Available airline seat km/week, millions*",Value,206 Available airline seat kmweek millions*,GCI,,,,,,,,,,,,,,,,,,,,,58
+GCI58,,"Available airline seat km/week, millions*",Rank,206 Available airline seat kmweek millions*,GCI,,,,,,,,,,,,,,,,,,,,,58
+GCI145,,A. Transport infrastructure,Value,A Transport infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,145
+GCI145,,A. Transport infrastructure,Rank,A Transport infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,145
+GCI59,,"Quality of electricity supply, 1-7 (best)",Value,207 Quality of electricity supply 17 best,GCI,,,,,,,,,,,,,,,,,,,,,59
+GCI59,,"Quality of electricity supply, 1-7 (best)",Rank,207 Quality of electricity supply 17 best,GCI,,,,,,,,,,,,,,,,,,,,,59
+GCI61,,Fixed telephone lines/100 pop.*,Value,209 Fixed telephone lines100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,61
+GCI61,,Fixed telephone lines/100 pop.*,Rank,209 Fixed telephone lines100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,61
+GCI60,,Mobile telephone subscriptions/100 pop.*,Value,208 Mobile telephone subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,60
+GCI60,,Mobile telephone subscriptions/100 pop.*,Rank,208 Mobile telephone subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,60
+GCI147,,B. Electricity and telephony infrastructure,Value,B Electricity and telephony infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,147
+GCI147,,B. Electricity and telephony infrastructure,Rank,B Electricity and telephony infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,147
+GCI62,,2nd pillar: Infrastructure,Value,2nd pillar Infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,62
+GCI62,,2nd pillar: Infrastructure,Rank,2nd pillar Infrastructure,GCI,,,,,,,,,,,,,,,,,,,,,62
+GCI64,,"Government budget balance, % GDP*",Value,301 Government budget balance % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,64
+GCI64,,"Government budget balance, % GDP*",Rank,301 Government budget balance % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,64
+GCI65,,"Gross national savings, % GDP*",Value,302 Gross national savings % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,65
+GCI65,,"Gross national savings, % GDP*",Rank,302 Gross national savings % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,65
+GCI66,,"Inflation, annual % change*",Value,303 Inflation annual % change*,GCI,,,,,,,,,,,,,,,,,,,,,66
+GCI66,,"Inflation, annual % change*",Rank,303 Inflation annual % change*,GCI,,,,,,,,,,,,,,,,,,,,,66
+GCI67,,"General government debt, % GDP*",Value,304 General government debt % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,67
+GCI67,,"General government debt, % GDP*",Rank,304 General government debt % GDP*,GCI,,,,,,,,,,,,,,,,,,,,,67
+GCI68,,"Country credit rating, 0–100 (best)*",Value,305 Country credit rating 0–100 best*,GCI,,,,,,,,,,,,,,,,,,,,,68
+GCI68,,"Country credit rating, 0–100 (best)*",Rank,305 Country credit rating 0–100 best*,GCI,,,,,,,,,,,,,,,,,,,,,68
+GCI69,,3rd pillar: Macroeconomic environment,Value,3rd pillar Macroeconomic environment,GCI,,,,,,,,,,,,,,,,,,,,,69
+GCI69,,3rd pillar: Macroeconomic environment,Rank,3rd pillar Macroeconomic environment,GCI,,,,,,,,,,,,,,,,,,,,,69
+GCI72,,"Business impact of malaria, 1-7 (best)",Value,402 Business impact of malaria 17 best,GCI,,,,,,,,,,,,,,,,,,,,,72
+GCI72,,"Business impact of malaria, 1-7 (best)",Rank,402 Business impact of malaria 17 best,GCI,,,,,,,,,,,,,,,,,,,,,72
+GCI71,,"Malaria cases/100,000 pop.*",Value,401 Malaria cases100000 pop*,GCI,,,,,,,,,,,,,,,,,,,,,71
+GCI71,,"Malaria cases/100,000 pop.*",Rank,401 Malaria cases100000 pop*,GCI,,,,,,,,,,,,,,,,,,,,,71
+GCI74,,"Business impact of tuberculosis, 1-7 (best)",Value,404 Business impact of tuberculosis 17 best,GCI,,,,,,,,,,,,,,,,,,,,,74
+GCI74,,"Business impact of tuberculosis, 1-7 (best)",Rank,404 Business impact of tuberculosis 17 best,GCI,,,,,,,,,,,,,,,,,,,,,74
+GCI73,,"Tuberculosis cases/100,000 pop.*",Value,403 Tuberculosis cases100000 pop*,GCI,,,,,,,,,,,,,,,,,,,,,73
+GCI73,,"Tuberculosis cases/100,000 pop.*",Rank,403 Tuberculosis cases100000 pop*,GCI,,,,,,,,,,,,,,,,,,,,,73
+GCI76,,"Business impact of HIV/AIDS, 1-7 (best)",Value,406 Business impact of HIVAIDS 17 best,GCI,,,,,,,,,,,,,,,,,,,,,76
+GCI76,,"Business impact of HIV/AIDS, 1-7 (best)",Rank,406 Business impact of HIVAIDS 17 best,GCI,,,,,,,,,,,,,,,,,,,,,76
+GCI75,,"HIV prevalence, % adult pop.*",Value,405 HIV prevalence % adult pop*,GCI,,,,,,,,,,,,,,,,,,,,,75
+GCI75,,"HIV prevalence, % adult pop.*",Rank,405 HIV prevalence % adult pop*,GCI,,,,,,,,,,,,,,,,,,,,,75
+GCI77,,"Infant mortality, deaths/1,000 live births*",Value,407 Infant mortality deaths1000 live births*,GCI,,,,,,,,,,,,,,,,,,,,,77
+GCI77,,"Infant mortality, deaths/1,000 live births*",Rank,407 Infant mortality deaths1000 live births*,GCI,,,,,,,,,,,,,,,,,,,,,77
+GCI78,,"Life expectancy, years*",Value,408 Life expectancy years*,GCI,,,,,,,,,,,,,,,,,,,,,78
+GCI78,,"Life expectancy, years*",Rank,408 Life expectancy years*,GCI,,,,,,,,,,,,,,,,,,,,,78
+GCI141,,A. Health,Value,A Health,GCI,,,,,,,,,,,,,,,,,,,,,141
+GCI141,,A. Health,Rank,A Health,GCI,,,,,,,,,,,,,,,,,,,,,141
+GCI79,,"Quality of primary education, 1-7 (best)",Value,409 Quality of primary education 17 best,GCI,,,,,,,,,,,,,,,,,,,,,79
+GCI79,,"Quality of primary education, 1-7 (best)",Rank,409 Quality of primary education 17 best,GCI,,,,,,,,,,,,,,,,,,,,,79
+GCI80,,"Primary education enrollment, net %*",Value,410 Primary education enrollment net %*,GCI,,,,,,,,,,,,,,,,,,,,,80
+GCI80,,"Primary education enrollment, net %*",Rank,410 Primary education enrollment net %*,GCI,,,,,,,,,,,,,,,,,,,,,80
+GCI150,,B. Primary education,Value,B Primary education,GCI,,,,,,,,,,,,,,,,,,,,,150
+GCI150,,B. Primary education,Rank,B Primary education,GCI,,,,,,,,,,,,,,,,,,,,,150
+GCI81,,4th pillar: Health and primary education,Value,4th pillar Health and primary education,GCI,,,,,,,,,,,,,,,,,,,,,81
+GCI81,,4th pillar: Health and primary education,Rank,4th pillar Health and primary education,GCI,,,,,,,,,,,,,,,,,,,,,81
+GCI155,,Basic requirements,Value,Basic requirements,GCI,,,,,,,,,,,,,,,,,,,,,155
+GCI155,,Basic requirements,Rank,Basic requirements,GCI,,,,,,,,,,,,,,,,,,,,,155
+GCI83,,"Secondary education enrollment, gross %*",Value,501 Secondary education enrollment gross %*,GCI,,,,,,,,,,,,,,,,,,,,,83
+GCI83,,"Secondary education enrollment, gross %*",Rank,501 Secondary education enrollment gross %*,GCI,,,,,,,,,,,,,,,,,,,,,83
+GCI84,,"Tertiary education enrollment, gross %*",Value,502 Tertiary education enrollment gross %*,GCI,,,,,,,,,,,,,,,,,,,,,84
+GCI84,,"Tertiary education enrollment, gross %*",Rank,502 Tertiary education enrollment gross %*,GCI,,,,,,,,,,,,,,,,,,,,,84
+GCI143,,A. Quantity of education,Value,A Quantity of education,GCI,,,,,,,,,,,,,,,,,,,,,143
+GCI143,,A. Quantity of education,Rank,A Quantity of education,GCI,,,,,,,,,,,,,,,,,,,,,143
+GCI85,,"Quality of the education system, 1-7 (best)",Value,503 Quality of the education system 17 best,GCI,,,,,,,,,,,,,,,,,,,,,85
+GCI85,,"Quality of the education system, 1-7 (best)",Rank,503 Quality of the education system 17 best,GCI,,,,,,,,,,,,,,,,,,,,,85
+GCI86,,"Quality of math and science education, 1-7 (best)",Value,504 Quality of math and science education 17 best,GCI,,,,,,,,,,,,,,,,,,,,,86
+GCI86,,"Quality of math and science education, 1-7 (best)",Rank,504 Quality of math and science education 17 best,GCI,,,,,,,,,,,,,,,,,,,,,86
+GCI87,,"Quality of management schools, 1-7 (best)",Value,505 Quality of management schools 17 best,GCI,,,,,,,,,,,,,,,,,,,,,87
+GCI87,,"Quality of management schools, 1-7 (best)",Rank,505 Quality of management schools 17 best,GCI,,,,,,,,,,,,,,,,,,,,,87
+GCI88,,"Internet access in schools, 1-7 (best)",Value,506 Internet access in schools 17 best,GCI,,,,,,,,,,,,,,,,,,,,,88
+GCI88,,"Internet access in schools, 1-7 (best)",Rank,506 Internet access in schools 17 best,GCI,,,,,,,,,,,,,,,,,,,,,88
+GCI153,,B. Quality of education,Value,B Quality of education,GCI,,,,,,,,,,,,,,,,,,,,,153
+GCI153,,B. Quality of education,Rank,B Quality of education,GCI,,,,,,,,,,,,,,,,,,,,,153
+GCI89,,"Availability of research and training services, 1-7 (best)",Value,507 Availability of research and training services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,89
+GCI89,,"Availability of research and training services, 1-7 (best)",Rank,507 Availability of research and training services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,89
+GCI90,,"Extent of staff training, 1-7 (best)",Value,508 Extent of staff training 17 best,GCI,,,,,,,,,,,,,,,,,,,,,90
+GCI90,,"Extent of staff training, 1-7 (best)",Rank,508 Extent of staff training 17 best,GCI,,,,,,,,,,,,,,,,,,,,,90
+GCI156,,C. On-the-job training,Value,C Onthejob training,GCI,,,,,,,,,,,,,,,,,,,,,156
+GCI156,,C. On-the-job training,Rank,C Onthejob training,GCI,,,,,,,,,,,,,,,,,,,,,156
+GCI91,,5th pillar: Higher education and training,Value,5th pillar Higher education and training,GCI,,,,,,,,,,,,,,,,,,,,,91
+GCI91,,5th pillar: Higher education and training,Rank,5th pillar Higher education and training,GCI,,,,,,,,,,,,,,,,,,,,,91
+GCI92,,"Intensity of local competition, 1-7 (best)",Value,601 Intensity of local competition 17 best,GCI,,,,,,,,,,,,,,,,,,,,,92
+GCI92,,"Intensity of local competition, 1-7 (best)",Rank,601 Intensity of local competition 17 best,GCI,,,,,,,,,,,,,,,,,,,,,92
+GCI93,,"Extent of market dominance, 1-7 (best)",Value,602 Extent of market dominance 17 best,GCI,,,,,,,,,,,,,,,,,,,,,93
+GCI93,,"Extent of market dominance, 1-7 (best)",Rank,602 Extent of market dominance 17 best,GCI,,,,,,,,,,,,,,,,,,,,,93
+GCI94,,"Effectiveness of anti-monopoly policy, 1-7 (best)",Value,603 Effectiveness of antimonopoly policy 17 best,GCI,,,,,,,,,,,,,,,,,,,,,94
+GCI94,,"Effectiveness of anti-monopoly policy, 1-7 (best)",Rank,603 Effectiveness of antimonopoly policy 17 best,GCI,,,,,,,,,,,,,,,,,,,,,94
+GCI95,,"Effect of taxation on incentives to invest, 1-7 (best)",Value,604 Effect of taxation on incentives to invest 17 best,GCI,,,,,,,,,,,,,,,,,,,,,95
+GCI95,,"Effect of taxation on incentives to invest, 1-7 (best)",Rank,604 Effect of taxation on incentives to invest 17 best,GCI,,,,,,,,,,,,,,,,,,,,,95
+GCI97,,No. procedures to start a business*,Value,606 No procedures to start a business*,GCI,,,,,,,,,,,,,,,,,,,,,97
+GCI97,,No. procedures to start a business*,Rank,606 No procedures to start a business*,GCI,,,,,,,,,,,,,,,,,,,,,97
+GCI98,,No. days to start a business*,Value,607 No days to start a business*,GCI,,,,,,,,,,,,,,,,,,,,,98
+GCI98,,No. days to start a business*,Rank,607 No days to start a business*,GCI,,,,,,,,,,,,,,,,,,,,,98
+GCI99,,"Agricultural policy costs, 1-7 (best)",Value,608 Agricultural policy costs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,99
+GCI99,,"Agricultural policy costs, 1-7 (best)",Rank,608 Agricultural policy costs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,99
+GCI96,,"Total tax rate, % profits*",Value,605 Total tax rate % profits*,GCI,,,,,,,,,,,,,,,,,,,,,96
+GCI96,,"Total tax rate, % profits*",Rank,605 Total tax rate % profits*,GCI,,,,,,,,,,,,,,,,,,,,,96
+GCI2,,1. Domestic competition ,Value,1 Domestic competition,GCI,,,,,,,,,,,,,,,,,,,,,2
+GCI2,,1. Domestic competition ,Rank,1 Domestic competition,GCI,,,,,,,,,,,,,,,,,,,,,2
+GCI100,,"Prevalence of trade barriers, 1-7 (best)",Value,609 Prevalence of trade barriers 17 best,GCI,,,,,,,,,,,,,,,,,,,,,100
+GCI100,,"Prevalence of trade barriers, 1-7 (best)",Rank,609 Prevalence of trade barriers 17 best,GCI,,,,,,,,,,,,,,,,,,,,,100
+GCI102,,"Prevalence of foreign ownership, 1-7 (best)",Value,611 Prevalence of foreign ownership 17 best,GCI,,,,,,,,,,,,,,,,,,,,,102
+GCI102,,"Prevalence of foreign ownership, 1-7 (best)",Rank,611 Prevalence of foreign ownership 17 best,GCI,,,,,,,,,,,,,,,,,,,,,102
+GCI103,,"Business impact of rules on FDI, 1-7 (best)",Value,612 Business impact of rules on FDI 17 best,GCI,,,,,,,,,,,,,,,,,,,,,103
+GCI103,,"Business impact of rules on FDI, 1-7 (best)",Rank,612 Business impact of rules on FDI 17 best,GCI,,,,,,,,,,,,,,,,,,,,,103
+GCI104,,"Burden of customs procedures, 1-7 (best)",Value,613 Burden of customs procedures 17 best,GCI,,,,,,,,,,,,,,,,,,,,,104
+GCI104,,"Burden of customs procedures, 1-7 (best)",Rank,613 Burden of customs procedures 17 best,GCI,,,,,,,,,,,,,,,,,,,,,104
+GCI105,,Imports as a percentage of GDP*,Value,614 Imports as a percentage of GDP*,GCI,,,,,,,,,,,,,,,,,,,,,105
+GCI105,,Imports as a percentage of GDP*,Rank,614 Imports as a percentage of GDP*,GCI,,,,,,,,,,,,,,,,,,,,,105
+GCI101,,"Trade tariffs, % duty*",Value,610 Trade tariffs % duty*,GCI,,,,,,,,,,,,,,,,,,,,,101
+GCI101,,"Trade tariffs, % duty*",Rank,610 Trade tariffs % duty*,GCI,,,,,,,,,,,,,,,,,,,,,101
+GCI52,,2. Foreign competition ,Value,2 Foreign competition,GCI,,,,,,,,,,,,,,,,,,,,,52
+GCI52,,2. Foreign competition ,Rank,2 Foreign competition,GCI,,,,,,,,,,,,,,,,,,,,,52
+GCI137,,A. Competition,Value,A Competition,GCI,,,,,,,,,,,,,,,,,,,,,137
+GCI137,,A. Competition,Rank,A Competition,GCI,,,,,,,,,,,,,,,,,,,,,137
+GCI106,,"Degree of customer orientation, 1-7 (best)",Value,615 Degree of customer orientation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,106
+GCI106,,"Degree of customer orientation, 1-7 (best)",Rank,615 Degree of customer orientation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,106
+GCI107,,"Buyer sophistication, 1-7 (best)",Value,616 Buyer sophistication 17 best,GCI,,,,,,,,,,,,,,,,,,,,,107
+GCI107,,"Buyer sophistication, 1-7 (best)",Rank,616 Buyer sophistication 17 best,GCI,,,,,,,,,,,,,,,,,,,,,107
+GCI152,,B. Quality of demand conditions,Value,B Quality of demand conditions,GCI,,,,,,,,,,,,,,,,,,,,,152
+GCI152,,B. Quality of demand conditions,Rank,B Quality of demand conditions,GCI,,,,,,,,,,,,,,,,,,,,,152
+GCI108,,6th pillar: Goods market efficiency,Value,6th pillar Goods market efficiency,GCI,,,,,,,,,,,,,,,,,,,,,108
+GCI108,,6th pillar: Goods market efficiency,Rank,6th pillar Goods market efficiency,GCI,,,,,,,,,,,,,,,,,,,,,108
+GCI109,,"Cooperation in labor-employer relations, 1-7 (best)",Value,701 Cooperation in laboremployer relations 17 best,GCI,,,,,,,,,,,,,,,,,,,,,109
+GCI109,,"Cooperation in labor-employer relations, 1-7 (best)",Rank,701 Cooperation in laboremployer relations 17 best,GCI,,,,,,,,,,,,,,,,,,,,,109
+GCI111,,"Hiring and firing practices, 1-7 (best)",Value,703 Hiring and firing practices 17 best,GCI,,,,,,,,,,,,,,,,,,,,,111
+GCI111,,"Hiring and firing practices, 1-7 (best)",Rank,703 Hiring and firing practices 17 best,GCI,,,,,,,,,,,,,,,,,,,,,111
+GCI110,,"Flexibility of wage determination, 1-7 (best)",Value,702 Flexibility of wage determination 17 best,GCI,,,,,,,,,,,,,,,,,,,,,110
+GCI110,,"Flexibility of wage determination, 1-7 (best)",Rank,702 Flexibility of wage determination 17 best,GCI,,,,,,,,,,,,,,,,,,,,,110
+GCI113,,"Effect of taxation on incentives to work, 1-7 (best)",Value,705 Effect of taxation on incentives to work 17 best,GCI,,,,,,,,,,,,,,,,,,,,,113
+GCI113,,"Effect of taxation on incentives to work, 1-7 (best)",Rank,705 Effect of taxation on incentives to work 17 best,GCI,,,,,,,,,,,,,,,,,,,,,113
+GCI112,,"Redundancy costs, weeks of salary*",Value,704 Redundancy costs weeks of salary*,GCI,,,,,,,,,,,,,,,,,,,,,112
+GCI112,,"Redundancy costs, weeks of salary*",Rank,704 Redundancy costs weeks of salary*,GCI,,,,,,,,,,,,,,,,,,,,,112
+GCI140,,A. Flexibility,Value,A Flexibility,GCI,,,,,,,,,,,,,,,,,,,,,140
+GCI140,,A. Flexibility,Rank,A Flexibility,GCI,,,,,,,,,,,,,,,,,,,,,140
+GCI114,,"Pay and productivity, 1-7 (best)",Value,706 Pay and productivity 17 best,GCI,,,,,,,,,,,,,,,,,,,,,114
+GCI114,,"Pay and productivity, 1-7 (best)",Rank,706 Pay and productivity 17 best,GCI,,,,,,,,,,,,,,,,,,,,,114
+GCI115,,"Reliance on professional management, 1-7 (best)",Value,707 Reliance on professional management 17 best,GCI,,,,,,,,,,,,,,,,,,,,,115
+GCI115,,"Reliance on professional management, 1-7 (best)",Rank,707 Reliance on professional management 17 best,GCI,,,,,,,,,,,,,,,,,,,,,115
+GCI116,,"Country capacity to retain talent, 1-7 (best)",Value,708 Country capacity to retain talent 17 best,GCI,,,,,,,,,,,,,,,,,,,,,116
+GCI116,,"Country capacity to retain talent, 1-7 (best)",Rank,708 Country capacity to retain talent 17 best,GCI,,,,,,,,,,,,,,,,,,,,,116
+GCI117,,"Country capacity to attract talent, 1-7 (best)",Value,709 Country capacity to attract talent 17 best,GCI,,,,,,,,,,,,,,,,,,,,,117
+GCI117,,"Country capacity to attract talent, 1-7 (best)",Rank,709 Country capacity to attract talent 17 best,GCI,,,,,,,,,,,,,,,,,,,,,117
+GCI118,,"Women in labor force, ratio to men*",Value,710 Women in labor force ratio to men*,GCI,,,,,,,,,,,,,,,,,,,,,118
+GCI118,,"Women in labor force, ratio to men*",Rank,710 Women in labor force ratio to men*,GCI,,,,,,,,,,,,,,,,,,,,,118
+GCI146,,B. Efficient use of talent,Value,B Efficient use of talent,GCI,,,,,,,,,,,,,,,,,,,,,146
+GCI146,,B. Efficient use of talent,Rank,B Efficient use of talent,GCI,,,,,,,,,,,,,,,,,,,,,146
+GCI119,,7th pillar: Labor market efficiency,Value,7th pillar Labor market efficiency,GCI,,,,,,,,,,,,,,,,,,,,,119
+GCI119,,7th pillar: Labor market efficiency,Rank,7th pillar Labor market efficiency,GCI,,,,,,,,,,,,,,,,,,,,,119
+GCI120,,"Financial services meeting business needs, 1-7 (best)",Value,801 Financial services meeting business needs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,120
+GCI120,,"Financial services meeting business needs, 1-7 (best)",Rank,801 Financial services meeting business needs 17 best,GCI,,,,,,,,,,,,,,,,,,,,,120
+GCI121,,"Affordability of financial services, 1-7 (best)",Value,802 Affordability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,121
+GCI121,,"Affordability of financial services, 1-7 (best)",Rank,802 Affordability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,121
+GCI122,,"Financing through local equity market, 1-7 (best)",Value,803 Financing through local equity market 17 best,GCI,,,,,,,,,,,,,,,,,,,,,122
+GCI122,,"Financing through local equity market, 1-7 (best)",Rank,803 Financing through local equity market 17 best,GCI,,,,,,,,,,,,,,,,,,,,,122
+GCI123,,"Ease of access to loans, 1-7 (best)",Value,804 Ease of access to loans 17 best,GCI,,,,,,,,,,,,,,,,,,,,,123
+GCI123,,"Ease of access to loans, 1-7 (best)",Rank,804 Ease of access to loans 17 best,GCI,,,,,,,,,,,,,,,,,,,,,123
+GCI124,,"Venture capital availability, 1-7 (best)",Value,805 Venture capital availability 17 best,GCI,,,,,,,,,,,,,,,,,,,,,124
+GCI124,,"Venture capital availability, 1-7 (best)",Rank,805 Venture capital availability 17 best,GCI,,,,,,,,,,,,,,,,,,,,,124
+GCI139,,A. Efficiency,Value,A Efficiency,GCI,,,,,,,,,,,,,,,,,,,,,139
+GCI139,,A. Efficiency,Rank,A Efficiency,GCI,,,,,,,,,,,,,,,,,,,,,139
+GCI125,,"Soundness of banks, 1-7 (best)",Value,806 Soundness of banks 17 best,GCI,,,,,,,,,,,,,,,,,,,,,125
+GCI125,,"Soundness of banks, 1-7 (best)",Rank,806 Soundness of banks 17 best,GCI,,,,,,,,,,,,,,,,,,,,,125
+GCI126,,"Regulation of securities exchanges, 1-7 (best)",Value,807 Regulation of securities exchanges 17 best,GCI,,,,,,,,,,,,,,,,,,,,,126
+GCI126,,"Regulation of securities exchanges, 1-7 (best)",Rank,807 Regulation of securities exchanges 17 best,GCI,,,,,,,,,,,,,,,,,,,,,126
+GCI127,,"Legal rights index, 0–10 (best)*",Value,808 Legal rights index 0–10 best*,GCI,,,,,,,,,,,,,,,,,,,,,127
+GCI127,,"Legal rights index, 0–10 (best)*",Rank,808 Legal rights index 0–10 best*,GCI,,,,,,,,,,,,,,,,,,,,,127
+GCI154,,B. Trustworthiness and confidence,Value,B Trustworthiness and confidence,GCI,,,,,,,,,,,,,,,,,,,,,154
+GCI154,,B. Trustworthiness and confidence,Rank,B Trustworthiness and confidence,GCI,,,,,,,,,,,,,,,,,,,,,154
+GCI128,,8th pillar: Financial market development,Value,8th pillar Financial market development,GCI,,,,,,,,,,,,,,,,,,,,,128
+GCI128,,8th pillar: Financial market development,Rank,8th pillar Financial market development,GCI,,,,,,,,,,,,,,,,,,,,,128
+GCI129,,"Availability of latest technologies, 1-7 (best)",Value,901 Availability of latest technologies 17 best,GCI,,,,,,,,,,,,,,,,,,,,,129
+GCI129,,"Availability of latest technologies, 1-7 (best)",Rank,901 Availability of latest technologies 17 best,GCI,,,,,,,,,,,,,,,,,,,,,129
+GCI130,,"Firm-level technology absorption, 1-7 (best)",Value,902 Firmlevel technology absorption 17 best,GCI,,,,,,,,,,,,,,,,,,,,,130
+GCI130,,"Firm-level technology absorption, 1-7 (best)",Rank,902 Firmlevel technology absorption 17 best,GCI,,,,,,,,,,,,,,,,,,,,,130
+GCI131,,"FDI and technology transfer, 1-7 (best)",Value,903 FDI and technology transfer 17 best,GCI,,,,,,,,,,,,,,,,,,,,,131
+GCI131,,"FDI and technology transfer, 1-7 (best)",Rank,903 FDI and technology transfer 17 best,GCI,,,,,,,,,,,,,,,,,,,,,131
+GCI144,,A. Technological adoption,Value,A Technological adoption,GCI,,,,,,,,,,,,,,,,,,,,,144
+GCI144,,A. Technological adoption,Rank,A Technological adoption,GCI,,,,,,,,,,,,,,,,,,,,,144
+GCI132,,"Individuals using Internet, %*",Value,904 Individuals using Internet %*,GCI,,,,,,,,,,,,,,,,,,,,,132
+GCI132,,"Individuals using Internet, %*",Rank,904 Individuals using Internet %*,GCI,,,,,,,,,,,,,,,,,,,,,132
+GCI133,,Fixed broadband Internet subscriptions/100 pop.*,Value,905 Fixed broadband Internet subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,133
+GCI133,,Fixed broadband Internet subscriptions/100 pop.*,Rank,905 Fixed broadband Internet subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,133
+GCI134,,"Int’l Internet bandwidth, kb/s per user*",Value,906 Int’l Internet bandwidth kbs per user*,GCI,,,,,,,,,,,,,,,,,,,,,134
+GCI134,,"Int’l Internet bandwidth, kb/s per user*",Rank,906 Int’l Internet bandwidth kbs per user*,GCI,,,,,,,,,,,,,,,,,,,,,134
+GCI135,,Mobile broadband subscriptions/100 pop.*,Value,907 Mobile broadband subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,135
+GCI135,,Mobile broadband subscriptions/100 pop.*,Rank,907 Mobile broadband subscriptions100 pop*,GCI,,,,,,,,,,,,,,,,,,,,,135
+GCI149,,B. ICT use ,Value,B ICT use,GCI,,,,,,,,,,,,,,,,,,,,,149
+GCI149,,B. ICT use ,Rank,B ICT use,GCI,,,,,,,,,,,,,,,,,,,,,149
+GCI136,,9th pillar: Technological readiness,Value,9th pillar Technological readiness,GCI,,,,,,,,,,,,,,,,,,,,,136
+GCI136,,9th pillar: Technological readiness,Rank,9th pillar Technological readiness,GCI,,,,,,,,,,,,,,,,,,,,,136
+GCI6,,GDP (PPP$ billions)*,Value,1003 GDP PPP$ billions*,GCI,,,,,,,,,,,,,,,,,,,,,6
+GCI6,,GDP (PPP$ billions)*,Rank,1003 GDP PPP$ billions*,GCI,,,,,,,,,,,,,,,,,,,,,6
+GCI7,,Exports as a percentage of GDP*,Value,1004 Exports as a percentage of GDP*,GCI,,,,,,,,,,,,,,,,,,,,,7
+GCI7,,Exports as a percentage of GDP*,Rank,1004 Exports as a percentage of GDP*,GCI,,,,,,,,,,,,,,,,,,,,,7
+GCI4,,"Domestic market size index, 1–7 (best)*",Value,1001 Domestic market size index 1–7 best*,GCI,,,,,,,,,,,,,,,,,,,,,4
+GCI4,,"Domestic market size index, 1–7 (best)*",Rank,1001 Domestic market size index 1–7 best*,GCI,,,,,,,,,,,,,,,,,,,,,4
+GCI138,,A. Domestic market size,Value,A Domestic market size,GCI,,,,,,,,,,,,,,,,,,,,,138
+GCI138,,A. Domestic market size,Rank,A Domestic market size,GCI,,,,,,,,,,,,,,,,,,,,,138
+GCI5,,"Foreign market size index, 1–7 (best)*",Value,1002 Foreign market size index 1–7 best*,GCI,,,,,,,,,,,,,,,,,,,,,5
+GCI5,,"Foreign market size index, 1–7 (best)*",Rank,1002 Foreign market size index 1–7 best*,GCI,,,,,,,,,,,,,,,,,,,,,5
+GCI148,,B. Foreign market size,Value,B Foreign market size,GCI,,,,,,,,,,,,,,,,,,,,,148
+GCI148,,B. Foreign market size,Rank,B Foreign market size,GCI,,,,,,,,,,,,,,,,,,,,,148
+GCI18,,10th pillar: Market size,Value,10th pillar Market size,GCI,,,,,,,,,,,,,,,,,,,,,18
+GCI18,,10th pillar: Market size,Rank,10th pillar Market size,GCI,,,,,,,,,,,,,,,,,,,,,18
+GCI159,,Efficiency enhancers,Value,Efficiency enhancers,GCI,,,,,,,,,,,,,,,,,,,,,159
+GCI159,,Efficiency enhancers,Rank,Efficiency enhancers,GCI,,,,,,,,,,,,,,,,,,,,,159
+GCI20,,"Local supplier quantity, 1-7 (best)",Value,1101 Local supplier quantity 17 best,GCI,,,,,,,,,,,,,,,,,,,,,20
+GCI20,,"Local supplier quantity, 1-7 (best)",Rank,1101 Local supplier quantity 17 best,GCI,,,,,,,,,,,,,,,,,,,,,20
+GCI21,,"Local supplier quality, 1-7 (best)",Value,1102 Local supplier quality 17 best,GCI,,,,,,,,,,,,,,,,,,,,,21
+GCI21,,"Local supplier quality, 1-7 (best)",Rank,1102 Local supplier quality 17 best,GCI,,,,,,,,,,,,,,,,,,,,,21
+GCI22,,"State of cluster development, 1-7 (best)",Value,1103 State of cluster development 17 best,GCI,,,,,,,,,,,,,,,,,,,,,22
+GCI22,,"State of cluster development, 1-7 (best)",Rank,1103 State of cluster development 17 best,GCI,,,,,,,,,,,,,,,,,,,,,22
+GCI23,,"Nature of competitive advantage, 1-7 (best)",Value,1104 Nature of competitive advantage 17 best,GCI,,,,,,,,,,,,,,,,,,,,,23
+GCI23,,"Nature of competitive advantage, 1-7 (best)",Rank,1104 Nature of competitive advantage 17 best,GCI,,,,,,,,,,,,,,,,,,,,,23
+GCI26,,"Production process sophistication, 1-7 (best)",Value,1107 Production process sophistication 17 best,GCI,,,,,,,,,,,,,,,,,,,,,26
+GCI26,,"Production process sophistication, 1-7 (best)",Rank,1107 Production process sophistication 17 best,GCI,,,,,,,,,,,,,,,,,,,,,26
+GCI25,,"Control of international distribution, 1-7 (best)",Value,1106 Control of international distribution 17 best,GCI,,,,,,,,,,,,,,,,,,,,,25
+GCI25,,"Control of international distribution, 1-7 (best)",Rank,1106 Control of international distribution 17 best,GCI,,,,,,,,,,,,,,,,,,,,,25
+GCI27,,"Extent of marketing, 1-7 (best)",Value,1108 Extent of marketing 17 best,GCI,,,,,,,,,,,,,,,,,,,,,27
+GCI27,,"Extent of marketing, 1-7 (best)",Rank,1108 Extent of marketing 17 best,GCI,,,,,,,,,,,,,,,,,,,,,27
+GCI24,,"Value chain breadth, 1-7 (best)",Value,1105 Value chain breadth 17 best,GCI,,,,,,,,,,,,,,,,,,,,,24
+GCI24,,"Value chain breadth, 1-7 (best)",Rank,1105 Value chain breadth 17 best,GCI,,,,,,,,,,,,,,,,,,,,,24
+GCI38,,11th pillar: Business sophistication ,Value,11th pillar Business sophistication,GCI,,,,,,,,,,,,,,,,,,,,,38
+GCI38,,11th pillar: Business sophistication ,Rank,11th pillar Business sophistication,GCI,,,,,,,,,,,,,,,,,,,,,38
+GCI40,,"Capacity for innovation, 1-7 (best)",Value,1201 Capacity for innovation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,40
+GCI40,,"Capacity for innovation, 1-7 (best)",Rank,1201 Capacity for innovation 17 best,GCI,,,,,,,,,,,,,,,,,,,,,40
+GCI41,,"Quality of scientific research institutions, 1-7 (best)",Value,1202 Quality of scientific research institutions 17 best,GCI,,,,,,,,,,,,,,,,,,,,,41
+GCI41,,"Quality of scientific research institutions, 1-7 (best)",Rank,1202 Quality of scientific research institutions 17 best,GCI,,,,,,,,,,,,,,,,,,,,,41
+GCI42,,"Company spending on R&D, 1-7 (best)",Value,1203 Company spending on R&D 17 best,GCI,,,,,,,,,,,,,,,,,,,,,42
+GCI42,,"Company spending on R&D, 1-7 (best)",Rank,1203 Company spending on R&D 17 best,GCI,,,,,,,,,,,,,,,,,,,,,42
+GCI43,,"University-industry collaboration in R&D, 1-7 (best)",Value,1204 Universityindustry collaboration in R&D 17 best,GCI,,,,,,,,,,,,,,,,,,,,,43
+GCI43,,"University-industry collaboration in R&D, 1-7 (best)",Rank,1204 Universityindustry collaboration in R&D 17 best,GCI,,,,,,,,,,,,,,,,,,,,,43
+GCI44,,"Gov’t procurement of advanced tech products, 1-7 (best)",Value,1205 Gov’t procurement of advanced tech products 17 best,GCI,,,,,,,,,,,,,,,,,,,,,44
+GCI44,,"Gov’t procurement of advanced tech products, 1-7 (best)",Rank,1205 Gov’t procurement of advanced tech products 17 best,GCI,,,,,,,,,,,,,,,,,,,,,44
+GCI45,,"Availability of scientists and engineers, 1-7 (best)",Value,1206 Availability of scientists and engineers 17 best,GCI,,,,,,,,,,,,,,,,,,,,,45
+GCI45,,"Availability of scientists and engineers, 1-7 (best)",Rank,1206 Availability of scientists and engineers 17 best,GCI,,,,,,,,,,,,,,,,,,,,,45
+GCI46,,"PCT patents, applications/million pop.*",Value,1207 PCT patents applicationsmillion pop*,GCI,,,,,,,,,,,,,,,,,,,,,46
+GCI46,,"PCT patents, applications/million pop.*",Rank,1207 PCT patents applicationsmillion pop*,GCI,,,,,,,,,,,,,,,,,,,,,46
+GCI48,,12th pillar: Innovation,Value,12th pillar Innovation,GCI,,,,,,,,,,,,,,,,,,,,,48
+GCI48,,12th pillar: Innovation,Rank,12th pillar Innovation,GCI,,,,,,,,,,,,,,,,,,,,,48
+GCI164,,Innovation and sophistication factors,Value,Innovation and sophistication factors,GCI,,,,,,,,,,,,,,,,,,,,,164
+GCI164,,Innovation and sophistication factors,Rank,Innovation and sophistication factors,GCI,,,,,,,,,,,,,,,,,,,,,164
+GCI163,,Global Competitiveness Index,Value,Global Competitiveness Index,GCI,,,,,,,,,,,,,,,,,,,,,163
+GCI163,,Global Competitiveness Index,Rank,Global Competitiveness Index,GCI,,,,,,,,,,,,,,,,,,,,,163
+GCI16,,"Wastefulness of government spending, 1-7 (best)",Value,108 Wastefulness of government spending 17 best,GCI,,,,,,,,,,,,,,,,,,,,,16
+GCI16,,"Wastefulness of government spending, 1-7 (best)",Rank,108 Wastefulness of government spending 17 best,GCI,,,,,,,,,,,,,,,,,,,,,16
+GCI28,,"Willingness to delegate authority, 1-7 (best)",Value,1109 Willingness to delegate authority 17 best,GCI,,,,,,,,,,,,,,,,,,,,,28
+GCI28,,"Willingness to delegate authority, 1-7 (best)",Rank,1109 Willingness to delegate authority 17 best,GCI,,,,,,,,,,,,,,,,,,,,,28
+GCI157,,"Affordability of financial services, 1-7 (best)",Value,DISCONTINUED Affordability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,157
+GCI157,,"Affordability of financial services, 1-7 (best)",Rank,DISCONTINUED Affordability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,157
+GCI158,,"Availability of financial services, 1-7 (best)",Value,DISCONTINUED Availability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,158
+GCI158,,"Availability of financial services, 1-7 (best)",Rank,DISCONTINUED Availability of financial services 17 best,GCI,,,,,,,,,,,,,,,,,,,,,158
+GCI161,,GDP (US$ billions)*,Value,GDP US$ billions,GCI,,,,,,,,,,,,,,,,,,,,,161
+GCI161,,GDP (US$ billions)*,Rank,GDP US$ billions,GCI,,,,,,,,,,,,,,,,,,,,,161
+GCI165,,Population (millions)*,Value,Population millions,GCI,,,,,,,,,,,,,,,,,,,,,165
+GCI165,,Population (millions)*,Rank,Population millions,GCI,,,,,,,,,,,,,,,,,,,,,165
+GCI162,,GDP per capita (US$)*,Value,GDP per capita US$,GCI,,,,,,,,,,,,,,,,,,,,,162
+GCI162,,GDP per capita (US$)*,Rank,GDP per capita US$,GCI,,,,,,,,,,,,,,,,,,,,,162
+GCI160,,GDP (PPP) as share (%) of world total*,Value,GDP PPP as share % of world total,GCI,,,,,,,,,,,,,,,,,,,,,160
+GCI160,,GDP (PPP) as share (%) of world total*,Rank,GDP PPP as share % of world total,GCI,,,,,,,,,,,,,,,,,,,,,160

@@ -1,0 +1,47 @@
+---
+title: "Old files testing"
+author: "Jose Luis Delgado Davara"
+date: "5/30/2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+This file checks discrepancies between the two files GovData and GovDataIND of the 2017 ingestion.
+
+```{r, message=FALSE, warning=FALSE}
+library(dplyr)
+library(stringr)
+```
+
+```{r Read files}
+Data2017 = read.csv("../Ingestion Fall 2017 - Regina Files/GovData360.csv", sep = ";")
+DataIND2017 = read.csv("../Ingestion Fall 2017 - Regina Files/GovData360IND.csv", sep = ";")
+```
+
+### Indicators in the values file not registered in the Indicators file
+
+```{r}
+setdiff(unique(Data2017$Indicator_Id), unique(DataIND2017$Indicator_Id))
+```
+All indicators in the values file are registered in the indicators file.
+
+### Indicators in the IND file not registered in the values file
+
+```{r}
+notmatched.indicators = setdiff(unique(DataIND2017$Indicator_Id), unique(Data2017$Indicator_Id))
+print(notmatched.indicators)
+```
+
+**There are 459 indicators in the Fall 2017 ingestion that do not match in the two files. The INDICATORS files have more that the values file.**
+
+### Data sources with inconsistencies
+
+```{r}
+Sources = gsub("[[:digit:]]", "", notmatched.indicators)
+print('List of data sources with inconsintencies and number of inconsistencies:')
+table(Sources)
+```
+
+
+

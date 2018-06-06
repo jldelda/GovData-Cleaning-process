@@ -1,0 +1,5 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+TI2,,Rank,Total,Rank,TI,,,,,,,,,,,,,,,,,,,,,2
+TI1,,CPI,Total,CPI Score,TI,,,,,,,,,,,,,,,,,,,,,1
+TI1,,CPI,CPI,CPI Score,TI,,,,,,,,,,,,,,,,,,,,,1
+TI2,,Rank,Rank,Rank,TI,,,,,,,,,,,,,,,,,,,,,2

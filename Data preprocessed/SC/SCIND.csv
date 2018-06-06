@@ -1,0 +1,30 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+SC20,,2.01.01.02.nabase,Total,National Accounts Base Year,SC,,,,,,,,,,,,,,,,,,,,,20
+SC7,,2.01.03.01.prcpbase,Total,Consumer Price Index Base year,SC,,,,,,,,,,,,,,,,,,,,,7
+SC3,,2.04.01.01.excncpt,Total,Balance of payments manual in use,SC,,,,,,,,,,,,,,,,,,,,,3
+SC2,,3.01.04.01.agcen,Total,Agricultural census,SC,,,,,,,,,,,,,,,,,,,,,2
+SC12,,3.02.01.02.fscov,Total,Government Finance accounting concept,SC,,,,,,,,,,,,,,,,,,,,,12
+SC23,,3.11.01.01.popcen,Total,Population Census,SC,,,,,,,,,,,,,,,,,,,,,23
+SC29,,3.11.01.03.popreg,Total,Vital Registration,SC,,,,,,,,,,,,,,,,,,,,,29
+SC17,,5.01.01.01.indust,Total,Industrial Production Index,SC,,,,,,,,,,,,,,,,,,,,,17
+SC9,,5.04.01.01.exdebt,Total,External debt reporting,SC,,,,,,,,,,,,,,,,,,,,,9
+SC15,,5.04.01.02.impexp,Total,Import and Export Price Indexes,SC,,,,,,,,,,,,,,,,,,,,,15
+SC8,,5.12.01.01.unesco,Total,Enrolment reporting to UNESCO,SC,,,,,,,,,,,,,,,,,,,,,8
+SC14,,5.13.01.01.hlthsurv,Total,Health surveys,SC,,,,,,,,,,,,,,,,,,,,,14
+SC21,,5.13.01.01.who,Total,National immunization coverage,SC,,,,,,,,,,,,,,,,,,,,,21
+SC24,,5.14.01.01.povsurv,Total,Poverty surveys,SC,,,,,,,,,,,,,,,,,,,,,24
+SC27,,5.21.01.01.sdds,Total,Special Data Dissemination Standard SDDS,SC,,,,,,,,,,,,,,,,,,,,,27
+SC16,,5.51.01.01.poverty,Total,Income Poverty,SC,,,,,,,,,,,,,,,,,,,,,16
+SC5,,5.51.01.02.malnut,Total,Child malnutrition prevalence of underweight children under five,SC,,,,,,,,,,,,,,,,,,,,,5
+SC6,,5.51.01.03.mortal,Total,Child mortality underfive mortality rate,SC,,,,,,,,,,,,,,,,,,,,,6
+SC4,,5.51.01.04.immun,Total,Child immunization proportion of oneyearold children immunized against measles,SC,,,,,,,,,,,,,,,,,,,,,4
+SC13,,5.51.01.05.hiv,Total,HIVAIDS prevalence of HIV total [% of population ages 1549],SC,,,,,,,,,,,,,,,,,,,,,13
+SC18,,5.51.01.06.matern,Total,Maternal health births attended by skilled health staff,SC,,,,,,,,,,,,,,,,,,,,,18
+SC11,,5.51.01.07.gender,Total,Gender equality in education gross enrollment rate of girls to boys in primary and secondary education,SC,,,,,,,,,,,,,,,,,,,,,11
+SC25,,5.51.01.08.primcomp,Total,Primary completion primary completion rate,SC,,,,,,,,,,,,,,,,,,,,,25
+SC1,,5.51.01.09.water,Total,Access to water access to an improved water source,SC,,,,,,,,,,,,,,,,,,,,,1
+SC10,,5.51.01.10.gdp,Total,GDP growth GDP per capita growth,SC,,,,,,,,,,,,,,,,,,,,,10
+SC19,,IQ.SCI.MTHD,Total,Methodology assessment of statistical capacity scale 0  100,SC,,,,,,,,,,,,,,,,,,,,,19
+SC28,,IQ.SCI.OVRL,Total,Statistical Capacity Indicator,SC,,,,,,,,,,,,,,,,,,,,,28
+SC22,,IQ.SCI.PRDC,Total,Periodicity and timeliness assessment of statistical capacity scale 0  100,SC,,,,,,,,,,,,,,,,,,,,,22
+SC26,,IQ.SCI.SRCE,Total,Source data assessment of statistical capacity scale 0  100,SC,,,,,,,,,,,,,,,,,,,,,26

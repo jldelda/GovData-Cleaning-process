@@ -1,0 +1,44 @@
+---
+title: "Dataset Report: WBL"
+author: "Jose Luis Delgado Davara"
+output:
+  beamer_presentation: default
+  html_document:
+    toc: yes
+  html_notebook: default
+  pdf_document: 
+    number_sections: yes
+    toc: yes
+editor_options:
+  chunk_output_type: console
+---
+```{r General variables, include=FALSE}
+  # General Variables
+Data.Source = "Women, Business and the Law"
+Dataset = "WBL"
+Date = Sys.Date()
+
+  # Indicators file - XXX.IND.csv 
+Data.IND = read.csv("Test/WBLIND.csv", sep = ";")
+
+  # Values file - XXX.csv
+Data = read.csv("WBL.csv", sep = ";")
+```
+
+This report shows the summary of the singular and already transformed datasets to be added to the master data file of GovData360. It serves as a data validation mechanism before entering the data in the GovData360 process.
+
+```{r echo=FALSE}
+print(paste0("Dataset: ", Dataset))
+print(paste0("Date: ", Sys.Date()))
+```
+
+```{r}
+summary(Data)
+```
+
+```{r}
+dim(Data)
+colnames(Data)
+#str(WBLscv)
+```
+

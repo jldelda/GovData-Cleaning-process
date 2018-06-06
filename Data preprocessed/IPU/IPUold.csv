@@ -1,0 +1,784 @@
+dataset;iso3;subset;year;group;question;answer;indicator;value;keyN;Indicator_Id
+IPU;AFG;All;2016;House of the People Bicameral;House of the People Bicameral;Percentage of women;House of the People Bicameral Percentage of women;27.71;40;IPU40
+IPU;AFG;All;2016;House of Elders Bicameral;House of Elders Bicameral;Percentage of women;House of Elders Bicameral Percentage of women;26.47;32;IPU32
+IPU;ALB;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;0;56;IPU56
+IPU;DZA;All;2016;National People's Assembly Bicameral;National Peoples Assembly Bicameral;Percentage of women;National People's Assembly Bicameral Percentage of women;25.76;54;IPU54
+IPU;DZA;All;2016;Council of the Nation Bicameral;Council of the Nation Bicameral;Percentage of women;Council of the Nation Bicameral Percentage of women;6.99;15;IPU15
+IPU;ADO;All;2016;General Council Unicameral;General Council Unicameral;Percentage of women;General Council Unicameral Percentage of women;32.14;22;IPU22
+IPU;AGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;38.18;46;IPU46
+IPU;ATG;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;11.11;37;IPU37
+IPU;ATG;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;29.41;63;IPU63
+IPU;ARG;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;38.91;6;IPU6
+IPU;ARG;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;41.67;63;IPU63
+IPU;ARM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;18.1;46;IPU46
+IPU;AUS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;28.67;37;IPU37
+IPU;AUS;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;40.79;63;IPU63
+IPU;AUT;All;2016;National Council Bicameral;National Council Bicameral;Percentage of women;National Council Bicameral Percentage of women;30.6;49;IPU49
+IPU;AUT;All;2016;Federal Council Bicameral;Federal Council Bicameral;Percentage of women;Federal Council Bicameral Percentage of women;31.15;19;IPU19
+IPU;AZE;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;16.8;46;IPU46
+IPU;BHS;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Percentage of women;House of Assembly Bicameral Percentage of women;12.82;27;IPU27
+IPU;BHS;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;43.75;63;IPU63
+IPU;BHR;All;2016;Council of Representatives Bicameral;Council of Representatives Bicameral;Percentage of women;Council of Representatives Bicameral Percentage of women;7.5;11;IPU11
+IPU;BHR;All;2016;Shura Council Bicameral;Shura Council Bicameral;Percentage of women;Shura Council Bicameral Percentage of women;22.5;64;IPU64
+IPU;BGD;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;20.29;56;IPU56
+IPU;BRB;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Percentage of women;House of Assembly Bicameral Percentage of women;16.67;27;IPU27
+IPU;BRB;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;23.81;63;IPU63
+IPU;BLR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;34.55;37;IPU37
+IPU;BLR;All;2016;Council of the Republic Bicameral;Council of the Republic Bicameral;Percentage of women;Council of the Republic Bicameral Percentage of women;30.36;16;IPU16
+IPU;BEL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;38;37;IPU37
+IPU;BEL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;50;63;IPU63
+IPU;BLZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;9.380000000000001;37;IPU37
+IPU;BLZ;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.38;63;IPU63
+IPU;BEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;7.23;46;IPU46
+IPU;BTN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;8.51;45;IPU45
+IPU;BTN;All;2016;National Council Bicameral;National Council Bicameral;Percentage of women;National Council Bicameral Percentage of women;8;49;IPU49
+IPU;BIH;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;21.43;37;IPU37
+IPU;BIH;All;2016;House of Peoples Bicameral;House of Peoples Bicameral;Percentage of women;House of Peoples Bicameral Percentage of women;13.33;35;IPU35
+IPU;BWA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;9.52;46;IPU46
+IPU;BRA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;10.72;6;IPU6
+IPU;BRA;All;2016;Federal Senate Bicameral;Federal Senate Bicameral;Percentage of women;Federal Senate Bicameral Percentage of women;14.81;21;IPU21
+IPU;BRN;All;2016;Legislative Council Unicameral;Legislative Council Unicameral;Percentage of women;Legislative Council Unicameral Percentage of women;9.09;43;IPU43
+IPU;BGR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;23.75;46;IPU46
+IPU;BFA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;11.02;46;IPU46
+IPU;BDI;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;36.36;45;IPU45
+IPU;BDI;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;41.86;63;IPU63
+IPU;CPV;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;23.61;46;IPU46
+IPU;KHM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;20.33;45;IPU45
+IPU;KHM;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;14.75;63;IPU63
+IPU;CMR;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;20;63;IPU63
+IPU;CMR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;31.11;45;IPU45
+IPU;CAN;All;2016;House of Commons Bicameral;House of Commons Bicameral;Percentage of women;House of Commons Bicameral Percentage of women;26.27;29;IPU29
+IPU;CAN;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;43;63;IPU63
+IPU;CAF;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;8.57;46;IPU46
+IPU;TCD;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;14.89;46;IPU46
+IPU;CHL;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;15.83;6;IPU6
+IPU;CHL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.79;63;IPU63
+IPU;CHN;All;2016;National People's Congress Unicameral;National Peoples Congress Unicameral;Percentage of women;National People's Congress Unicameral Percentage of women;24.25;55;IPU55
+IPU;COL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;18.67;37;IPU37
+IPU;COL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;22.55;63;IPU63
+IPU;COM;All;2016;Assembly of the Union Unicameral;Assembly of the Union Unicameral;Percentage of women;Assembly of the Union Unicameral Percentage of women;6.06;5;IPU5
+IPU;COG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;0;45;IPU45
+IPU;COG;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;19.44;63;IPU63
+IPU;CRI;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Percentage of women;Legislative Assembly Unicameral Percentage of women;35.09;41;IPU41
+IPU;HRV;All;2016;Croatian Parliament Unicameral;Croatian Parliament Unicameral;Percentage of women;Croatian Parliament Unicameral Percentage of women;18.54;17;IPU17
+IPU;CUB;All;2016;National Assembly of the People's Power Unicameral;National Assembly of the Peoples Power Unicameral;Percentage of women;National Assembly of the People's Power Unicameral Percentage of women;48.86;47;IPU47
+IPU;CYP;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;17.86;38;IPU38
+IPU;CZE;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;20;6;IPU6
+IPU;CZE;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;18.75;63;IPU63
+IPU;ZAR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;8.94;45;IPU45
+IPU;ZAR;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;4.63;63;IPU63
+IPU;DNK;All;2016;The Danish Parliament Unicameral;The Danish Parliament Unicameral;Percentage of women;The Danish Parliament Unicameral Percentage of women;37.43;70;IPU70
+IPU;DJI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;10.77;46;IPU46
+IPU;DMA;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Percentage of women;House of Assembly Unicameral Percentage of women;25;28;IPU28
+IPU;DOM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;26.84;6;IPU6
+IPU;DOM;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;9.380000000000001;63;IPU63
+IPU;ECU;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;37.96;46;IPU46
+IPU;EGY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;14.93;38;IPU38
+IPU;SLV;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Percentage of women;Legislative Assembly Unicameral Percentage of women;32.14;41;IPU41
+IPU;GNQ;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;24;6;IPU6
+IPU;GNQ;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.07;63;IPU63
+IPU;ERI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;22;46;IPU46
+IPU;EST;All;2016;The Estonian Parliament Unicameral;The Estonian Parliament Unicameral;Percentage of women;The Estonian Parliament Unicameral Percentage of women;26.73;71;IPU71
+IPU;ETH;All;2016;House of Peoples' Representatives Bicameral;House of Peoples Representatives Bicameral;Percentage of women;House of Peoples' Representatives Bicameral Percentage of women;38.76;36;IPU36
+IPU;ETH;All;2016;House of the Federation Bicameral;House of the Federation Bicameral;Percentage of women;House of the Federation Bicameral Percentage of women;32.03;39;IPU39
+IPU;FJI;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;16;56;IPU56
+IPU;FIN;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;42;56;IPU56
+IPU;FRA;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;38.99;45;IPU45
+IPU;FRA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;27.3;63;IPU63
+IPU;GAB;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;17.09;45;IPU45
+IPU;GAB;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;17.65;63;IPU63
+IPU;GEO;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;16;56;IPU56
+IPU;DEU;All;2016;German Bundestag Bicameral;German Bundestag Bicameral;Percentage of women;German Bundestag Bicameral Percentage of women;36.98;23;IPU23
+IPU;DEU;All;2016;Federal Council Bicameral;Federal Council Bicameral;Percentage of women;Federal Council Bicameral Percentage of women;39.13;19;IPU19
+IPU;GHA;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;12.73;56;IPU56
+IPU;GRC;All;2016;Hellenic Parliament Unicameral;Hellenic Parliament Unicameral;Percentage of women;Hellenic Parliament Unicameral Percentage of women;18.33;26;IPU26
+IPU;GRD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;33.33;37;IPU37
+IPU;GRD;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.38;63;IPU63
+IPU;GTM;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Percentage of women;Congress of the Republic Unicameral Percentage of women;13.92;9;IPU9
+IPU;GIN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;21.93;46;IPU46
+IPU;GNB;All;2016;People's National Assembly Unicameral;Peoples National Assembly Unicameral;Percentage of women;People's National Assembly Unicameral Percentage of women;13.73;61;IPU61
+IPU;GUY;All;2016;Parliament of the Co-operative Republic of Guyana Unicameral;Parliament of the Cooperative Republic of Guyana Unicameral;Percentage of women;Parliament of the Co-operative Republic of Guyana Unicameral Percentage of women;31.88;58;IPU58
+IPU;HTI;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;2.54;6;IPU6
+IPU;HTI;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;3.57;63;IPU63
+IPU;HND;All;2016;National Congress Unicameral;National Congress Unicameral;Percentage of women;National Congress Unicameral Percentage of women;25.78;48;IPU48
+IPU;HUN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;10.1;46;IPU46
+IPU;ISL;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;47.62;56;IPU56
+IPU;IND;All;2016;House of the People Bicameral;House of the People Bicameral;Percentage of women;House of the People Bicameral Percentage of women;11.81;40;IPU40
+IPU;IND;All;2016;Council of States Bicameral;Council of States Bicameral;Percentage of women;Council of States Bicameral Percentage of women;11.07;13;IPU13
+IPU;IDN;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;19.82;38;IPU38
+IPU;IRQ;All;2016;Council of Representatives of Iraq Unicameral;Council of Representatives of Iraq Unicameral;Percentage of women;Council of Representatives of Iraq Unicameral Percentage of women;25.3;12;IPU12
+IPU;IRL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;22.15;37;IPU37
+IPU;IRL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;30;63;IPU63
+IPU;ISR;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;27.5;56;IPU56
+IPU;ITA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;30.95;6;IPU6
+IPU;ITA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;28.44;63;IPU63
+IPU;JAM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;17.46;37;IPU37
+IPU;JAM;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;23.81;63;IPU63
+IPU;JPN;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;9.26;37;IPU37
+IPU;JPN;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Percentage of women;House of Councillors Bicameral Percentage of women;20.66;30;IPU30
+IPU;JOR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;15.38;37;IPU37
+IPU;JOR;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.38;63;IPU63
+IPU;KAZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;27.1;37;IPU37
+IPU;KAZ;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;10.64;63;IPU63
+IPU;KEN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;19.71;45;IPU45
+IPU;KEN;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;26.47;63;IPU63
+IPU;KIR;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Percentage of women;House of Assembly Unicameral Percentage of women;6.52;28;IPU28
+IPU;KWT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;3.08;46;IPU46
+IPU;KGZ;All;2016;Supreme Council Unicameral;Supreme Council Unicameral;Percentage of women;Supreme Council Unicameral Percentage of women;19.17;69;IPU69
+IPU;LAO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;27.52;46;IPU46
+IPU;LVA;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;16;56;IPU56
+IPU;LBN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;3.12;46;IPU46
+IPU;LSO;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;22.88;45;IPU45
+IPU;LSO;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;26.67;63;IPU63
+IPU;LBR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;12.33;37;IPU37
+IPU;LBR;All;2016;The Liberian Senate Bicameral;The Liberian Senate Bicameral;Percentage of women;The Liberian Senate Bicameral Percentage of women;10;72;IPU72
+IPU;LBY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;15.96;38;IPU38
+IPU;LIE;All;2016;Diet Unicameral;Diet Unicameral;Percentage of women;Diet Unicameral Percentage of women;12;18;IPU18
+IPU;LTU;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;21.28;56;IPU56
+IPU;LUX;All;2016;Chamber of Deputies Unicameral;Chamber of Deputies Unicameral;Percentage of women;Chamber of Deputies Unicameral Percentage of women;28.33;7;IPU7
+IPU;MDG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;19.21;45;IPU45
+IPU;MDG;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;20.63;63;IPU63
+IPU;MWI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;16.67;46;IPU46
+IPU;MYS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;10.36;37;IPU37
+IPU;MYS;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;22.06;63;IPU63
+IPU;MDV;All;2016;People's Majlis Unicameral;Peoples Majlis Unicameral;Percentage of women;People's Majlis Unicameral Percentage of women;5.88;60;IPU60
+IPU;MLI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;8.84;46;IPU46
+IPU;MLT;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;14.71;38;IPU38
+IPU;MHL;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;9.09;56;IPU56
+IPU;MRT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;25.17;46;IPU46
+IPU;MUS;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;11.59;46;IPU46
+IPU;MEX;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;42.6;6;IPU6
+IPU;MEX;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;36.72;63;IPU63
+IPU;MCO;All;2016;National Council Unicameral;National Council Unicameral;Percentage of women;National Council Unicameral Percentage of women;20.83;50;IPU50
+IPU;MNG;All;2016;State Great Hural Unicameral;State Great Hural Unicameral;Percentage of women;State Great Hural Unicameral Percentage of women;17.11;68;IPU68
+IPU;MNE;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;23.46;56;IPU56
+IPU;MAR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;20.51;37;IPU37
+IPU;MAR;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Percentage of women;House of Councillors Bicameral Percentage of women;11.67;30;IPU30
+IPU;MOZ;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Percentage of women;Assembly of the Republic Unicameral Percentage of women;39.6;4;IPU4
+IPU;MMR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;10.16;37;IPU37
+IPU;MMR;All;2016;House of Nationalities Bicameral;House of Nationalities Bicameral;Percentage of women;House of Nationalities Bicameral Percentage of women;10.27;34;IPU34
+IPU;NAM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;41.35;45;IPU45
+IPU;NAM;All;2016;National Council Bicameral;National Council Bicameral;Percentage of women;National Council Bicameral Percentage of women;23.81;49;IPU49
+IPU;NRU;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;10.53;56;IPU56
+IPU;NPL;All;2016;Legislature - Parliament Unicameral;Legislature  Parliament Unicameral;Percentage of women;Legislature - Parliament Unicameral Percentage of women;29.58;44;IPU44
+IPU;NLD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;36;37;IPU37
+IPU;NLD;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;34.67;63;IPU63
+IPU;NZL;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Percentage of women;House of Representatives Unicameral Percentage of women;33.33;38;IPU38
+IPU;NIC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;45.65;46;IPU46
+IPU;NER;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;16.96;46;IPU46
+IPU;NGA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;5.56;37;IPU37
+IPU;NGA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;6.48;63;IPU63
+IPU;NOR;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;39.64;56;IPU56
+IPU;OMN;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Percentage of women;Consultative Council Bicameral Percentage of women;1.18;10;IPU10
+IPU;OMN;All;2016;State Council Bicameral;State Council Bicameral;Percentage of women;State Council Bicameral Percentage of women;16.47;66;IPU66
+IPU;PAK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;20.59;45;IPU45
+IPU;PAK;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;18.27;63;IPU63
+IPU;PLW;All;2016;House of Delegates Bicameral;House of Delegates Bicameral;Percentage of women;House of Delegates Bicameral Percentage of women;12.5;31;IPU31
+IPU;PLW;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;15.38;63;IPU63
+IPU;PAN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;18.31;46;IPU46
+IPU;PNG;All;2016;National Parliament Unicameral;National Parliament Unicameral;Percentage of women;National Parliament Unicameral Percentage of women;0;53;IPU53
+IPU;PRY;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;13.75;6;IPU6
+IPU;PRY;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;20;63;IPU63
+IPU;PER;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Percentage of women;Congress of the Republic Unicameral Percentage of women;27.69;9;IPU9
+IPU;PHL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;29.45;37;IPU37
+IPU;PHL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;25;63;IPU63
+IPU;POL;All;2016;Sejm Bicameral;Sejm Bicameral;Percentage of women;Sejm Bicameral Percentage of women;28.04;62;IPU62
+IPU;POL;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;14;63;IPU63
+IPU;PRT;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Percentage of women;Assembly of the Republic Unicameral Percentage of women;34.78;4;IPU4
+IPU;QAT;All;2016;Advisory Council Unicameral;Advisory Council Unicameral;Percentage of women;Advisory Council Unicameral Percentage of women;0;1;IPU1
+IPU;KOR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;17;46;IPU46
+IPU;MDA;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;22.77;56;IPU56
+IPU;ROM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;20.67;6;IPU6
+IPU;ROM;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;13.97;63;IPU63
+IPU;RUS;All;2016;State Duma Bicameral;State Duma Bicameral;Percentage of women;State Duma Bicameral Percentage of women;15.78;67;IPU67
+IPU;RUS;All;2016;Council of the Federation Bicameral;Council of the Federation Bicameral;Percentage of women;Council of the Federation Bicameral Percentage of women;17.06;14;IPU14
+IPU;RWA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Percentage of women;Chamber of Deputies Bicameral Percentage of women;61.25;6;IPU6
+IPU;RWA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;38.46;63;IPU63
+IPU;KNA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;13.33;46;IPU46
+IPU;LCA;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Percentage of women;House of Assembly Bicameral Percentage of women;16.67;27;IPU27
+IPU;LCA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;27.27;63;IPU63
+IPU;VCT;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Percentage of women;House of Assembly Unicameral Percentage of women;13.04;28;IPU28
+IPU;WSM;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Percentage of women;Legislative Assembly Unicameral Percentage of women;10;41;IPU41
+IPU;SMR;All;2016;Great and General Council Unicameral;Great and General Council Unicameral;Percentage of women;Great and General Council Unicameral Percentage of women;26.67;25;IPU25
+IPU;STP;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;18.18;46;IPU46
+IPU;SAU;All;2016;Shura Council Unicameral;Shura Council Unicameral;Percentage of women;Shura Council Unicameral Percentage of women;19.87;65;IPU65
+IPU;SEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;0;46;IPU46
+IPU;SRB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;34;46;IPU46
+IPU;SYC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;21.21;46;IPU46
+IPU;SLE;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;12.4;56;IPU56
+IPU;SGP;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;23;56;IPU56
+IPU;SVK;All;2016;National Council Unicameral;National Council Unicameral;Percentage of women;National Council Unicameral Percentage of women;20;50;IPU50
+IPU;SVN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;36.67;45;IPU45
+IPU;SVN;All;2016;National Council Bicameral;National Council Bicameral;Percentage of women;National Council Bicameral Percentage of women;7.5;49;IPU49
+IPU;SLB;All;2016;National Parliament Unicameral;National Parliament Unicameral;Percentage of women;National Parliament Unicameral Percentage of women;2;53;IPU53
+IPU;SOM;All;2016;Upper House Bicameral;Upper House Bicameral;Percentage of women;Upper House Bicameral Percentage of women;24.07;74;IPU74
+IPU;SOM;All;2016;House of the People Bicameral;House of the People Bicameral;Percentage of women;House of the People Bicameral Percentage of women;24.36;40;IPU40
+IPU;ZAF;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;42.03;45;IPU45
+IPU;ZAF;All;2016;National Council of Provinces Bicameral;National Council of Provinces Bicameral;Percentage of women;National Council of Provinces Bicameral Percentage of women;35.19;51;IPU51
+IPU;SSD;All;2016;Transitional National Legislative Assembly Bicameral;Transitional National Legislative Assembly Bicameral;Percentage of women;Transitional National Legislative Assembly Bicameral Percentage of women;28.46;73;IPU73
+IPU;SSD;All;2016;Council of States Bicameral;Council of States Bicameral;Percentage of women;Council of States Bicameral Percentage of women;12;13;IPU13
+IPU;ESP;All;2016;Congress of Deputies Bicameral;Congress of Deputies Bicameral;Percentage of women;Congress of Deputies Bicameral Percentage of women;39.14;8;IPU8
+IPU;ESP;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;37.97;63;IPU63
+IPU;LKA;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;5.78;56;IPU56
+IPU;SDN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;30.52;45;IPU45
+IPU;SDN;All;2016;Council of States Bicameral;Council of States Bicameral;Percentage of women;Council of States Bicameral Percentage of women;35.19;13;IPU13
+IPU;SUR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;25.49;46;IPU46
+IPU;SWZ;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Percentage of women;House of Assembly Bicameral Percentage of women;6.15;27;IPU27
+IPU;SWZ;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;33.33;63;IPU63
+IPU;SWE;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;43.55;56;IPU56
+IPU;CHE;All;2016;National Council Bicameral;National Council Bicameral;Percentage of women;National Council Bicameral Percentage of women;32.5;49;IPU49
+IPU;CHE;All;2016;Council of States Bicameral;Council of States Bicameral;Percentage of women;Council of States Bicameral Percentage of women;15.22;13;IPU13
+IPU;SYR;All;2016;People's Assembly Unicameral;Peoples Assembly Unicameral;Percentage of women;People's Assembly Unicameral Percentage of women;13.2;59;IPU59
+IPU;TJK;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;19.05;37;IPU37
+IPU;TJK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;21.88;45;IPU45
+IPU;THA;All;2016;National Legislative Assembly Unicameral;National Legislative Assembly Unicameral;Percentage of women;National Legislative Assembly Unicameral Percentage of women;4.8;52;IPU52
+IPU;TMP;All;2016;National Parliament Unicameral;National Parliament Unicameral;Percentage of women;National Parliament Unicameral Percentage of women;32.31;53;IPU53
+IPU;TGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;17.58;46;IPU46
+IPU;TON;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Percentage of women;Legislative Assembly Unicameral Percentage of women;3.85;41;IPU41
+IPU;TTO;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;30.95;37;IPU37
+IPU;TTO;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;29.03;63;IPU63
+IPU;TUN;All;2016;Assembly of People's Representatives Unicameral;Assembly of Peoples Representatives Unicameral;Percentage of women;Assembly of People's Representatives Unicameral Percentage of women;31.34;3;IPU3
+IPU;TUR;All;2016;Grand National Assembly of Turkey Unicameral;Grand National Assembly of Turkey Unicameral;Percentage of women;Grand National Assembly of Turkey Unicameral Percentage of women;14.57;24;IPU24
+IPU;TKM;All;2016;Assembly Unicameral;Assembly Unicameral;Percentage of women;Assembly Unicameral Percentage of women;25.81;2;IPU2
+IPU;TUV;All;2016;Parliament of Tuvalu Unicameral;Parliament of Tuvalu Unicameral;Percentage of women;Parliament of Tuvalu Unicameral Percentage of women;6.67;57;IPU57
+IPU;UGA;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;34.3;56;IPU56
+IPU;UKR;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;12.29;56;IPU56
+IPU;ARE;All;2016;Federal National Council Unicameral;Federal National Council Unicameral;Percentage of women;Federal National Council Unicameral Percentage of women;22.5;20;IPU20
+IPU;GBR;All;2016;House of Commons Bicameral;House of Commons Bicameral;Percentage of women;House of Commons Bicameral Percentage of women;32;29;IPU29
+IPU;GBR;All;2016;House of Lords Bicameral;House of Lords Bicameral;Percentage of women;House of Lords Bicameral Percentage of women;25.71;33;IPU33
+IPU;TZA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;36.39;46;IPU46
+IPU;USA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;19.4;37;IPU37
+IPU;USA;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;21;63;IPU63
+IPU;URY;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;20.2;37;IPU37
+IPU;URY;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;29.03;63;IPU63
+IPU;UZB;All;2016;Legislative Chamber Bicameral;Legislative Chamber Bicameral;Percentage of women;Legislative Chamber Bicameral Percentage of women;16;42;IPU42
+IPU;UZB;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;17;63;IPU63
+IPU;VUT;All;2016;Parliament Unicameral;Parliament Unicameral;Percentage of women;Parliament Unicameral Percentage of women;0;56;IPU56
+IPU;VNM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;26.72;46;IPU46
+IPU;YEM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Percentage of women;House of Representatives Bicameral Percentage of women;0;37;IPU37
+IPU;YEM;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Percentage of women;Consultative Council Bicameral Percentage of women;1.8;10;IPU10
+IPU;ZMB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Percentage of women;National Assembly Unicameral Percentage of women;17.96;46;IPU46
+IPU;ZWE;All;2016;National Assembly Bicameral;National Assembly Bicameral;Percentage of women;National Assembly Bicameral Percentage of women;32.59;45;IPU45
+IPU;ZWE;All;2016;Senate Bicameral;Senate Bicameral;Percentage of women;Senate Bicameral Percentage of women;47.5;63;IPU63
+IPU;AFG;All;2016;House of the People Bicameral;House of the People Bicameral;Number of women parliamentarians;House of the People Bicameral Number of women parliamentarians;69;40;IPU40
+IPU;AFG;All;2016;House of Elders Bicameral;House of Elders Bicameral;Number of women parliamentarians;House of Elders Bicameral Number of women parliamentarians;18;32;IPU32
+IPU;ALB;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;0;56;IPU56
+IPU;DZA;All;2016;National People's Assembly Bicameral;National Peoples Assembly Bicameral;Number of women parliamentarians;National People's Assembly Bicameral Number of women parliamentarians;119;54;IPU54
+IPU;DZA;All;2016;Council of the Nation Bicameral;Council of the Nation Bicameral;Number of women parliamentarians;Council of the Nation Bicameral Number of women parliamentarians;10;15;IPU15
+IPU;ADO;All;2016;General Council Unicameral;General Council Unicameral;Number of women parliamentarians;General Council Unicameral Number of women parliamentarians;9;22;IPU22
+IPU;AGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;84;46;IPU46
+IPU;ATG;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;2;37;IPU37
+IPU;ATG;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;5;63;IPU63
+IPU;ARG;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;100;6;IPU6
+IPU;ARG;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;30;63;IPU63
+IPU;ARM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;19;46;IPU46
+IPU;AUS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;43;37;IPU37
+IPU;AUS;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;31;63;IPU63
+IPU;AUT;All;2016;National Council Bicameral;National Council Bicameral;Number of women parliamentarians;National Council Bicameral Number of women parliamentarians;56;49;IPU49
+IPU;AUT;All;2016;Federal Council Bicameral;Federal Council Bicameral;Number of women parliamentarians;Federal Council Bicameral Number of women parliamentarians;19;19;IPU19
+IPU;AZE;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;21;46;IPU46
+IPU;BHS;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of women parliamentarians;House of Assembly Bicameral Number of women parliamentarians;5;27;IPU27
+IPU;BHS;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;7;63;IPU63
+IPU;BHR;All;2016;Council of Representatives Bicameral;Council of Representatives Bicameral;Number of women parliamentarians;Council of Representatives Bicameral Number of women parliamentarians;3;11;IPU11
+IPU;BHR;All;2016;Shura Council Bicameral;Shura Council Bicameral;Number of women parliamentarians;Shura Council Bicameral Number of women parliamentarians;9;64;IPU64
+IPU;BGD;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;71;56;IPU56
+IPU;BRB;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of women parliamentarians;House of Assembly Bicameral Number of women parliamentarians;5;27;IPU27
+IPU;BRB;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;5;63;IPU63
+IPU;BLR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;38;37;IPU37
+IPU;BLR;All;2016;Council of the Republic Bicameral;Council of the Republic Bicameral;Number of women parliamentarians;Council of the Republic Bicameral Number of women parliamentarians;17;16;IPU16
+IPU;BEL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;57;37;IPU37
+IPU;BEL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;30;63;IPU63
+IPU;BLZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;3;37;IPU37
+IPU;BLZ;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;2;63;IPU63
+IPU;BEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;6;46;IPU46
+IPU;BTN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;4;45;IPU45
+IPU;BTN;All;2016;National Council Bicameral;National Council Bicameral;Number of women parliamentarians;National Council Bicameral Number of women parliamentarians;2;49;IPU49
+IPU;BIH;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;9;37;IPU37
+IPU;BIH;All;2016;House of Peoples Bicameral;House of Peoples Bicameral;Number of women parliamentarians;House of Peoples Bicameral Number of women parliamentarians;2;35;IPU35
+IPU;BWA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;6;46;IPU46
+IPU;BRA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;55;6;IPU6
+IPU;BRA;All;2016;Federal Senate Bicameral;Federal Senate Bicameral;Number of women parliamentarians;Federal Senate Bicameral Number of women parliamentarians;12;21;IPU21
+IPU;BRN;All;2016;Legislative Council Unicameral;Legislative Council Unicameral;Number of women parliamentarians;Legislative Council Unicameral Number of women parliamentarians;3;43;IPU43
+IPU;BGR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;57;46;IPU46
+IPU;BFA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;14;46;IPU46
+IPU;BDI;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;44;45;IPU45
+IPU;BDI;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;18;63;IPU63
+IPU;CPV;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;17;46;IPU46
+IPU;KHM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;25;45;IPU45
+IPU;KHM;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;9;63;IPU63
+IPU;CMR;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;20;63;IPU63
+IPU;CMR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;56;45;IPU45
+IPU;CAN;All;2016;House of Commons Bicameral;House of Commons Bicameral;Number of women parliamentarians;House of Commons Bicameral Number of women parliamentarians;88;29;IPU29
+IPU;CAN;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;43;63;IPU63
+IPU;CAF;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;12;46;IPU46
+IPU;TCD;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;28;46;IPU46
+IPU;CHL;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;19;6;IPU6
+IPU;CHL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;6;63;IPU63
+IPU;CHN;All;2016;National People's Congress Unicameral;National Peoples Congress Unicameral;Number of women parliamentarians;National People's Congress Unicameral Number of women parliamentarians;709;55;IPU55
+IPU;COL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;31;37;IPU37
+IPU;COL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;23;63;IPU63
+IPU;COM;All;2016;Assembly of the Union Unicameral;Assembly of the Union Unicameral;Number of women parliamentarians;Assembly of the Union Unicameral Number of women parliamentarians;2;5;IPU5
+IPU;COG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;0;45;IPU45
+IPU;COG;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;14;63;IPU63
+IPU;CRI;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of women parliamentarians;Legislative Assembly Unicameral Number of women parliamentarians;20;41;IPU41
+IPU;HRV;All;2016;Croatian Parliament Unicameral;Croatian Parliament Unicameral;Number of women parliamentarians;Croatian Parliament Unicameral Number of women parliamentarians;28;17;IPU17
+IPU;CUB;All;2016;National Assembly of the People's Power Unicameral;National Assembly of the Peoples Power Unicameral;Number of women parliamentarians;National Assembly of the People's Power Unicameral Number of women parliamentarians;299;47;IPU47
+IPU;CYP;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;10;38;IPU38
+IPU;CZE;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;40;6;IPU6
+IPU;CZE;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;15;63;IPU63
+IPU;ZAR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;44;45;IPU45
+IPU;ZAR;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;5;63;IPU63
+IPU;DNK;All;2016;The Danish Parliament Unicameral;The Danish Parliament Unicameral;Number of women parliamentarians;The Danish Parliament Unicameral Number of women parliamentarians;67;70;IPU70
+IPU;DJI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;7;46;IPU46
+IPU;DMA;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of women parliamentarians;House of Assembly Unicameral Number of women parliamentarians;8;28;IPU28
+IPU;DOM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;51;6;IPU6
+IPU;DOM;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;3;63;IPU63
+IPU;ECU;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;52;46;IPU46
+IPU;EGY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;89;38;IPU38
+IPU;SLV;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of women parliamentarians;Legislative Assembly Unicameral Number of women parliamentarians;27;41;IPU41
+IPU;GNQ;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;24;6;IPU6
+IPU;GNQ;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;11;63;IPU63
+IPU;ERI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;33;46;IPU46
+IPU;EST;All;2016;The Estonian Parliament Unicameral;The Estonian Parliament Unicameral;Number of women parliamentarians;The Estonian Parliament Unicameral Number of women parliamentarians;27;71;IPU71
+IPU;ETH;All;2016;House of Peoples' Representatives Bicameral;House of Peoples Representatives Bicameral;Number of women parliamentarians;House of Peoples' Representatives Bicameral Number of women parliamentarians;212;36;IPU36
+IPU;ETH;All;2016;House of the Federation Bicameral;House of the Federation Bicameral;Number of women parliamentarians;House of the Federation Bicameral Number of women parliamentarians;49;39;IPU39
+IPU;FJI;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;8;56;IPU56
+IPU;FIN;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;84;56;IPU56
+IPU;FRA;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;225;45;IPU45
+IPU;FRA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;95;63;IPU63
+IPU;GAB;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;20;45;IPU45
+IPU;GAB;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;18;63;IPU63
+IPU;GEO;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;24;56;IPU56
+IPU;DEU;All;2016;German Bundestag Bicameral;German Bundestag Bicameral;Number of women parliamentarians;German Bundestag Bicameral Number of women parliamentarians;233;23;IPU23
+IPU;DEU;All;2016;Federal Council Bicameral;Federal Council Bicameral;Number of women parliamentarians;Federal Council Bicameral Number of women parliamentarians;27;19;IPU19
+IPU;GHA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;35;56;IPU56
+IPU;GRC;All;2016;Hellenic Parliament Unicameral;Hellenic Parliament Unicameral;Number of women parliamentarians;Hellenic Parliament Unicameral Number of women parliamentarians;55;26;IPU26
+IPU;GRD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;5;37;IPU37
+IPU;GRD;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;2;63;IPU63
+IPU;GTM;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Number of women parliamentarians;Congress of the Republic Unicameral Number of women parliamentarians;22;9;IPU9
+IPU;GIN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;25;46;IPU46
+IPU;GNB;All;2016;People's National Assembly Unicameral;Peoples National Assembly Unicameral;Number of women parliamentarians;People's National Assembly Unicameral Number of women parliamentarians;14;61;IPU61
+IPU;GUY;All;2016;Parliament of the Co-operative Republic of Guyana Unicameral;Parliament of the Cooperative Republic of Guyana Unicameral;Number of women parliamentarians;Parliament of the Co-operative Republic of Guyana Unicameral Number of women parliamentarians;22;58;IPU58
+IPU;HTI;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;3;6;IPU6
+IPU;HTI;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;1;63;IPU63
+IPU;HND;All;2016;National Congress Unicameral;National Congress Unicameral;Number of women parliamentarians;National Congress Unicameral Number of women parliamentarians;33;48;IPU48
+IPU;HUN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;20;46;IPU46
+IPU;ISL;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;30;56;IPU56
+IPU;IND;All;2016;House of the People Bicameral;House of the People Bicameral;Number of women parliamentarians;House of the People Bicameral Number of women parliamentarians;64;40;IPU40
+IPU;IND;All;2016;Council of States Bicameral;Council of States Bicameral;Number of women parliamentarians;Council of States Bicameral Number of women parliamentarians;27;13;IPU13
+IPU;IDN;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;111;38;IPU38
+IPU;IRQ;All;2016;Council of Representatives of Iraq Unicameral;Council of Representatives of Iraq Unicameral;Number of women parliamentarians;Council of Representatives of Iraq Unicameral Number of women parliamentarians;83;12;IPU12
+IPU;IRL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;35;37;IPU37
+IPU;IRL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;18;63;IPU63
+IPU;ISR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;33;56;IPU56
+IPU;ITA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;195;6;IPU6
+IPU;ITA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;91;63;IPU63
+IPU;JAM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;11;37;IPU37
+IPU;JAM;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;5;63;IPU63
+IPU;JPN;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;44;37;IPU37
+IPU;JPN;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Number of women parliamentarians;House of Councillors Bicameral Number of women parliamentarians;50;30;IPU30
+IPU;JOR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;20;37;IPU37
+IPU;JOR;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;10;63;IPU63
+IPU;KAZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;29;37;IPU37
+IPU;KAZ;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;5;63;IPU63
+IPU;KEN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;69;45;IPU45
+IPU;KEN;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;18;63;IPU63
+IPU;KIR;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of women parliamentarians;House of Assembly Unicameral Number of women parliamentarians;3;28;IPU28
+IPU;KWT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;2;46;IPU46
+IPU;KGZ;All;2016;Supreme Council Unicameral;Supreme Council Unicameral;Number of women parliamentarians;Supreme Council Unicameral Number of women parliamentarians;23;69;IPU69
+IPU;LAO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;41;46;IPU46
+IPU;LVA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;16;56;IPU56
+IPU;LBN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;4;46;IPU46
+IPU;LSO;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;27;45;IPU45
+IPU;LSO;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;8;63;IPU63
+IPU;LBR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;9;37;IPU37
+IPU;LBR;All;2016;The Liberian Senate Bicameral;The Liberian Senate Bicameral;Number of women parliamentarians;The Liberian Senate Bicameral Number of women parliamentarians;3;72;IPU72
+IPU;LBY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;30;38;IPU38
+IPU;LIE;All;2016;Diet Unicameral;Diet Unicameral;Number of women parliamentarians;Diet Unicameral Number of women parliamentarians;3;18;IPU18
+IPU;LTU;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;30;56;IPU56
+IPU;LUX;All;2016;Chamber of Deputies Unicameral;Chamber of Deputies Unicameral;Number of women parliamentarians;Chamber of Deputies Unicameral Number of women parliamentarians;17;7;IPU7
+IPU;MDG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;29;45;IPU45
+IPU;MDG;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;13;63;IPU63
+IPU;MWI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;32;46;IPU46
+IPU;MYS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;23;37;IPU37
+IPU;MYS;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;15;63;IPU63
+IPU;MDV;All;2016;People's Majlis Unicameral;Peoples Majlis Unicameral;Number of women parliamentarians;People's Majlis Unicameral Number of women parliamentarians;5;60;IPU60
+IPU;MLI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;13;46;IPU46
+IPU;MLT;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;10;38;IPU38
+IPU;MHL;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;3;56;IPU56
+IPU;MRT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;37;46;IPU46
+IPU;MUS;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;8;46;IPU46
+IPU;MEX;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;213;6;IPU6
+IPU;MEX;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;47;63;IPU63
+IPU;MCO;All;2016;National Council Unicameral;National Council Unicameral;Number of women parliamentarians;National Council Unicameral Number of women parliamentarians;5;50;IPU50
+IPU;MNG;All;2016;State Great Hural Unicameral;State Great Hural Unicameral;Number of women parliamentarians;State Great Hural Unicameral Number of women parliamentarians;13;68;IPU68
+IPU;MNE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;19;56;IPU56
+IPU;MAR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;81;37;IPU37
+IPU;MAR;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Number of women parliamentarians;House of Councillors Bicameral Number of women parliamentarians;14;30;IPU30
+IPU;MOZ;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Number of women parliamentarians;Assembly of the Republic Unicameral Number of women parliamentarians;99;4;IPU4
+IPU;MMR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;44;37;IPU37
+IPU;MMR;All;2016;House of Nationalities Bicameral;House of Nationalities Bicameral;Number of women parliamentarians;House of Nationalities Bicameral Number of women parliamentarians;23;34;IPU34
+IPU;NAM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;43;45;IPU45
+IPU;NAM;All;2016;National Council Bicameral;National Council Bicameral;Number of women parliamentarians;National Council Bicameral Number of women parliamentarians;10;49;IPU49
+IPU;NRU;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;2;56;IPU56
+IPU;NPL;All;2016;Legislature - Parliament Unicameral;Legislature  Parliament Unicameral;Number of women parliamentarians;Legislature - Parliament Unicameral Number of women parliamentarians;176;44;IPU44
+IPU;NLD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;54;37;IPU37
+IPU;NLD;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;26;63;IPU63
+IPU;NZL;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of women parliamentarians;House of Representatives Unicameral Number of women parliamentarians;40;38;IPU38
+IPU;NIC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;42;46;IPU46
+IPU;NER;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;29;46;IPU46
+IPU;NGA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;20;37;IPU37
+IPU;NGA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;7;63;IPU63
+IPU;NOR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;67;56;IPU56
+IPU;OMN;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Number of women parliamentarians;Consultative Council Bicameral Number of women parliamentarians;1;10;IPU10
+IPU;OMN;All;2016;State Council Bicameral;State Council Bicameral;Number of women parliamentarians;State Council Bicameral Number of women parliamentarians;14;66;IPU66
+IPU;PAK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;70;45;IPU45
+IPU;PAK;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;19;63;IPU63
+IPU;PLW;All;2016;House of Delegates Bicameral;House of Delegates Bicameral;Number of women parliamentarians;House of Delegates Bicameral Number of women parliamentarians;2;31;IPU31
+IPU;PLW;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;2;63;IPU63
+IPU;PAN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;13;46;IPU46
+IPU;PNG;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of women parliamentarians;National Parliament Unicameral Number of women parliamentarians;0;53;IPU53
+IPU;PRY;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;11;6;IPU6
+IPU;PRY;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;9;63;IPU63
+IPU;PER;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Number of women parliamentarians;Congress of the Republic Unicameral Number of women parliamentarians;36;9;IPU9
+IPU;PHL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;86;37;IPU37
+IPU;PHL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;6;63;IPU63
+IPU;POL;All;2016;Sejm Bicameral;Sejm Bicameral;Number of women parliamentarians;Sejm Bicameral Number of women parliamentarians;129;62;IPU62
+IPU;POL;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;14;63;IPU63
+IPU;PRT;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Number of women parliamentarians;Assembly of the Republic Unicameral Number of women parliamentarians;80;4;IPU4
+IPU;QAT;All;2016;Advisory Council Unicameral;Advisory Council Unicameral;Number of women parliamentarians;Advisory Council Unicameral Number of women parliamentarians;0;1;IPU1
+IPU;KOR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;51;46;IPU46
+IPU;MDA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;23;56;IPU56
+IPU;ROM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;68;6;IPU6
+IPU;ROM;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;19;63;IPU63
+IPU;RUS;All;2016;State Duma Bicameral;State Duma Bicameral;Number of women parliamentarians;State Duma Bicameral Number of women parliamentarians;71;67;IPU67
+IPU;RUS;All;2016;Council of the Federation Bicameral;Council of the Federation Bicameral;Number of women parliamentarians;Council of the Federation Bicameral Number of women parliamentarians;29;14;IPU14
+IPU;RWA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of women parliamentarians;Chamber of Deputies Bicameral Number of women parliamentarians;49;6;IPU6
+IPU;RWA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;10;63;IPU63
+IPU;KNA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;2;46;IPU46
+IPU;LCA;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of women parliamentarians;House of Assembly Bicameral Number of women parliamentarians;3;27;IPU27
+IPU;LCA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;3;63;IPU63
+IPU;VCT;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of women parliamentarians;House of Assembly Unicameral Number of women parliamentarians;3;28;IPU28
+IPU;WSM;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of women parliamentarians;Legislative Assembly Unicameral Number of women parliamentarians;5;41;IPU41
+IPU;SMR;All;2016;Great and General Council Unicameral;Great and General Council Unicameral;Number of women parliamentarians;Great and General Council Unicameral Number of women parliamentarians;16;25;IPU25
+IPU;STP;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;10;46;IPU46
+IPU;SAU;All;2016;Shura Council Unicameral;Shura Council Unicameral;Number of women parliamentarians;Shura Council Unicameral Number of women parliamentarians;30;65;IPU65
+IPU;SEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;0;46;IPU46
+IPU;SRB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;85;46;IPU46
+IPU;SYC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;7;46;IPU46
+IPU;SLE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;15;56;IPU56
+IPU;SGP;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;23;56;IPU56
+IPU;SVK;All;2016;National Council Unicameral;National Council Unicameral;Number of women parliamentarians;National Council Unicameral Number of women parliamentarians;30;50;IPU50
+IPU;SVN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;33;45;IPU45
+IPU;SVN;All;2016;National Council Bicameral;National Council Bicameral;Number of women parliamentarians;National Council Bicameral Number of women parliamentarians;3;49;IPU49
+IPU;SLB;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of women parliamentarians;National Parliament Unicameral Number of women parliamentarians;1;53;IPU53
+IPU;SOM;All;2016;Upper House Bicameral;Upper House Bicameral;Number of women parliamentarians;Upper House Bicameral Number of women parliamentarians;13;74;IPU74
+IPU;SOM;All;2016;House of the People Bicameral;House of the People Bicameral;Number of women parliamentarians;House of the People Bicameral Number of women parliamentarians;67;40;IPU40
+IPU;ZAF;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;166;45;IPU45
+IPU;ZAF;All;2016;National Council of Provinces Bicameral;National Council of Provinces Bicameral;Number of women parliamentarians;National Council of Provinces Bicameral Number of women parliamentarians;19;51;IPU51
+IPU;SSD;All;2016;Transitional National Legislative Assembly Bicameral;Transitional National Legislative Assembly Bicameral;Number of women parliamentarians;Transitional National Legislative Assembly Bicameral Number of women parliamentarians;109;73;IPU73
+IPU;SSD;All;2016;Council of States Bicameral;Council of States Bicameral;Number of women parliamentarians;Council of States Bicameral Number of women parliamentarians;6;13;IPU13
+IPU;ESP;All;2016;Congress of Deputies Bicameral;Congress of Deputies Bicameral;Number of women parliamentarians;Congress of Deputies Bicameral Number of women parliamentarians;137;8;IPU8
+IPU;ESP;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;101;63;IPU63
+IPU;LKA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;13;56;IPU56
+IPU;SDN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;130;45;IPU45
+IPU;SDN;All;2016;Council of States Bicameral;Council of States Bicameral;Number of women parliamentarians;Council of States Bicameral Number of women parliamentarians;19;13;IPU13
+IPU;SUR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;13;46;IPU46
+IPU;SWZ;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of women parliamentarians;House of Assembly Bicameral Number of women parliamentarians;4;27;IPU27
+IPU;SWZ;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;10;63;IPU63
+IPU;SWE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;152;56;IPU56
+IPU;CHE;All;2016;National Council Bicameral;National Council Bicameral;Number of women parliamentarians;National Council Bicameral Number of women parliamentarians;65;49;IPU49
+IPU;CHE;All;2016;Council of States Bicameral;Council of States Bicameral;Number of women parliamentarians;Council of States Bicameral Number of women parliamentarians;7;13;IPU13
+IPU;SYR;All;2016;People's Assembly Unicameral;Peoples Assembly Unicameral;Number of women parliamentarians;People's Assembly Unicameral Number of women parliamentarians;33;59;IPU59
+IPU;TJK;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;12;37;IPU37
+IPU;TJK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;7;45;IPU45
+IPU;THA;All;2016;National Legislative Assembly Unicameral;National Legislative Assembly Unicameral;Number of women parliamentarians;National Legislative Assembly Unicameral Number of women parliamentarians;12;52;IPU52
+IPU;TMP;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of women parliamentarians;National Parliament Unicameral Number of women parliamentarians;21;53;IPU53
+IPU;TGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;16;46;IPU46
+IPU;TON;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of women parliamentarians;Legislative Assembly Unicameral Number of women parliamentarians;1;41;IPU41
+IPU;TTO;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;13;37;IPU37
+IPU;TTO;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;9;63;IPU63
+IPU;TUN;All;2016;Assembly of People's Representatives Unicameral;Assembly of Peoples Representatives Unicameral;Number of women parliamentarians;Assembly of People's Representatives Unicameral Number of women parliamentarians;68;3;IPU3
+IPU;TUR;All;2016;Grand National Assembly of Turkey Unicameral;Grand National Assembly of Turkey Unicameral;Number of women parliamentarians;Grand National Assembly of Turkey Unicameral Number of women parliamentarians;80;24;IPU24
+IPU;TKM;All;2016;Assembly Unicameral;Assembly Unicameral;Number of women parliamentarians;Assembly Unicameral Number of women parliamentarians;32;2;IPU2
+IPU;TUV;All;2016;Parliament of Tuvalu Unicameral;Parliament of Tuvalu Unicameral;Number of women parliamentarians;Parliament of Tuvalu Unicameral Number of women parliamentarians;1;57;IPU57
+IPU;UGA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;154;56;IPU56
+IPU;UKR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;52;56;IPU56
+IPU;ARE;All;2016;Federal National Council Unicameral;Federal National Council Unicameral;Number of women parliamentarians;Federal National Council Unicameral Number of women parliamentarians;9;20;IPU20
+IPU;GBR;All;2016;House of Commons Bicameral;House of Commons Bicameral;Number of women parliamentarians;House of Commons Bicameral Number of women parliamentarians;208;29;IPU29
+IPU;GBR;All;2016;House of Lords Bicameral;House of Lords Bicameral;Number of women parliamentarians;House of Lords Bicameral Number of women parliamentarians;207;33;IPU33
+IPU;TZA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;143;46;IPU46
+IPU;USA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;84;37;IPU37
+IPU;USA;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;21;63;IPU63
+IPU;URY;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;20;37;IPU37
+IPU;URY;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;9;63;IPU63
+IPU;UZB;All;2016;Legislative Chamber Bicameral;Legislative Chamber Bicameral;Number of women parliamentarians;Legislative Chamber Bicameral Number of women parliamentarians;24;42;IPU42
+IPU;UZB;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;17;63;IPU63
+IPU;VUT;All;2016;Parliament Unicameral;Parliament Unicameral;Number of women parliamentarians;Parliament Unicameral Number of women parliamentarians;0;56;IPU56
+IPU;VNM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;132;46;IPU46
+IPU;YEM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of women parliamentarians;House of Representatives Bicameral Number of women parliamentarians;0;37;IPU37
+IPU;YEM;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Number of women parliamentarians;Consultative Council Bicameral Number of women parliamentarians;2;10;IPU10
+IPU;ZMB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of women parliamentarians;National Assembly Unicameral Number of women parliamentarians;30;46;IPU46
+IPU;ZWE;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of women parliamentarians;National Assembly Bicameral Number of women parliamentarians;88;45;IPU45
+IPU;ZWE;All;2016;Senate Bicameral;Senate Bicameral;Number of women parliamentarians;Senate Bicameral Number of women parliamentarians;38;63;IPU63
+IPU;AFG;All;2016;House of the People Bicameral;House of the People Bicameral;Number of seats;House of the People Bicameral Number of seats;249;40;IPU40
+IPU;AFG;All;2016;House of Elders Bicameral;House of Elders Bicameral;Number of seats;House of Elders Bicameral Number of seats;68;32;IPU32
+IPU;ALB;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;140;56;IPU56
+IPU;DZA;All;2016;National People's Assembly Bicameral;National Peoples Assembly Bicameral;Number of seats;National People's Assembly Bicameral Number of seats;462;54;IPU54
+IPU;DZA;All;2016;Council of the Nation Bicameral;Council of the Nation Bicameral;Number of seats;Council of the Nation Bicameral Number of seats;143;15;IPU15
+IPU;ADO;All;2016;General Council Unicameral;General Council Unicameral;Number of seats;General Council Unicameral Number of seats;28;22;IPU22
+IPU;AGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;220;46;IPU46
+IPU;ATG;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;18;37;IPU37
+IPU;ATG;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;17;63;IPU63
+IPU;ARG;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;257;6;IPU6
+IPU;ARG;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;72;63;IPU63
+IPU;ARM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;105;46;IPU46
+IPU;AUS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;150;37;IPU37
+IPU;AUS;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;76;63;IPU63
+IPU;AUT;All;2016;National Council Bicameral;National Council Bicameral;Number of seats;National Council Bicameral Number of seats;183;49;IPU49
+IPU;AUT;All;2016;Federal Council Bicameral;Federal Council Bicameral;Number of seats;Federal Council Bicameral Number of seats;61;19;IPU19
+IPU;AZE;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;125;46;IPU46
+IPU;BHS;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of seats;House of Assembly Bicameral Number of seats;39;27;IPU27
+IPU;BHS;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;16;63;IPU63
+IPU;BHR;All;2016;Council of Representatives Bicameral;Council of Representatives Bicameral;Number of seats;Council of Representatives Bicameral Number of seats;40;11;IPU11
+IPU;BHR;All;2016;Shura Council Bicameral;Shura Council Bicameral;Number of seats;Shura Council Bicameral Number of seats;40;64;IPU64
+IPU;BGD;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;350;56;IPU56
+IPU;BRB;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of seats;House of Assembly Bicameral Number of seats;30;27;IPU27
+IPU;BRB;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;21;63;IPU63
+IPU;BLR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;110;37;IPU37
+IPU;BLR;All;2016;Council of the Republic Bicameral;Council of the Republic Bicameral;Number of seats;Council of the Republic Bicameral Number of seats;56;16;IPU16
+IPU;BEL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;150;37;IPU37
+IPU;BEL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;60;63;IPU63
+IPU;BLZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;32;37;IPU37
+IPU;BLZ;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;13;63;IPU63
+IPU;BEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;83;46;IPU46
+IPU;BTN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;47;45;IPU45
+IPU;BTN;All;2016;National Council Bicameral;National Council Bicameral;Number of seats;National Council Bicameral Number of seats;25;49;IPU49
+IPU;BIH;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;42;37;IPU37
+IPU;BIH;All;2016;House of Peoples Bicameral;House of Peoples Bicameral;Number of seats;House of Peoples Bicameral Number of seats;15;35;IPU35
+IPU;BWA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;63;46;IPU46
+IPU;BRA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;513;6;IPU6
+IPU;BRA;All;2016;Federal Senate Bicameral;Federal Senate Bicameral;Number of seats;Federal Senate Bicameral Number of seats;81;21;IPU21
+IPU;BRN;All;2016;Legislative Council Unicameral;Legislative Council Unicameral;Number of seats;Legislative Council Unicameral Number of seats;33;43;IPU43
+IPU;BGR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;240;46;IPU46
+IPU;BFA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;127;46;IPU46
+IPU;BDI;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;121;45;IPU45
+IPU;BDI;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;43;63;IPU63
+IPU;CPV;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;72;46;IPU46
+IPU;KHM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;123;45;IPU45
+IPU;KHM;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;61;63;IPU63
+IPU;CMR;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;100;63;IPU63
+IPU;CMR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;180;45;IPU45
+IPU;CAN;All;2016;House of Commons Bicameral;House of Commons Bicameral;Number of seats;House of Commons Bicameral Number of seats;335;29;IPU29
+IPU;CAN;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;100;63;IPU63
+IPU;CAF;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;140;46;IPU46
+IPU;TCD;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;188;46;IPU46
+IPU;CHL;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;120;6;IPU6
+IPU;CHL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;38;63;IPU63
+IPU;CHN;All;2016;National People's Congress Unicameral;National Peoples Congress Unicameral;Number of seats;National People's Congress Unicameral Number of seats;2924;55;IPU55
+IPU;COL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;166;37;IPU37
+IPU;COL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;102;63;IPU63
+IPU;COM;All;2016;Assembly of the Union Unicameral;Assembly of the Union Unicameral;Number of seats;Assembly of the Union Unicameral Number of seats;33;5;IPU5
+IPU;COG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;151;45;IPU45
+IPU;COG;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;72;63;IPU63
+IPU;CRI;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of seats;Legislative Assembly Unicameral Number of seats;57;41;IPU41
+IPU;HRV;All;2016;Croatian Parliament Unicameral;Croatian Parliament Unicameral;Number of seats;Croatian Parliament Unicameral Number of seats;151;17;IPU17
+IPU;CUB;All;2016;National Assembly of the People's Power Unicameral;National Assembly of the Peoples Power Unicameral;Number of seats;National Assembly of the People's Power Unicameral Number of seats;612;47;IPU47
+IPU;CYP;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;56;38;IPU38
+IPU;CZE;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;200;6;IPU6
+IPU;CZE;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;80;63;IPU63
+IPU;ZAR;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;492;45;IPU45
+IPU;ZAR;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;108;63;IPU63
+IPU;DNK;All;2016;The Danish Parliament Unicameral;The Danish Parliament Unicameral;Number of seats;The Danish Parliament Unicameral Number of seats;179;70;IPU70
+IPU;DJI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;65;46;IPU46
+IPU;DMA;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of seats;House of Assembly Unicameral Number of seats;32;28;IPU28
+IPU;DOM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;190;6;IPU6
+IPU;DOM;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;32;63;IPU63
+IPU;ECU;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;137;46;IPU46
+IPU;EGY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;596;38;IPU38
+IPU;SLV;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of seats;Legislative Assembly Unicameral Number of seats;84;41;IPU41
+IPU;GNQ;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;100;6;IPU6
+IPU;GNQ;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;73;63;IPU63
+IPU;ERI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;150;46;IPU46
+IPU;EST;All;2016;The Estonian Parliament Unicameral;The Estonian Parliament Unicameral;Number of seats;The Estonian Parliament Unicameral Number of seats;101;71;IPU71
+IPU;ETH;All;2016;House of Peoples' Representatives Bicameral;House of Peoples Representatives Bicameral;Number of seats;House of Peoples' Representatives Bicameral Number of seats;547;36;IPU36
+IPU;ETH;All;2016;House of the Federation Bicameral;House of the Federation Bicameral;Number of seats;House of the Federation Bicameral Number of seats;153;39;IPU39
+IPU;FJI;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;50;56;IPU56
+IPU;FIN;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;200;56;IPU56
+IPU;FRA;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;577;45;IPU45
+IPU;FRA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;348;63;IPU63
+IPU;GAB;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;117;45;IPU45
+IPU;GAB;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;102;63;IPU63
+IPU;GEO;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;150;56;IPU56
+IPU;DEU;All;2016;German Bundestag Bicameral;German Bundestag Bicameral;Number of seats;German Bundestag Bicameral Number of seats;630;23;IPU23
+IPU;DEU;All;2016;Federal Council Bicameral;Federal Council Bicameral;Number of seats;Federal Council Bicameral Number of seats;69;19;IPU19
+IPU;GHA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;275;56;IPU56
+IPU;GRC;All;2016;Hellenic Parliament Unicameral;Hellenic Parliament Unicameral;Number of seats;Hellenic Parliament Unicameral Number of seats;300;26;IPU26
+IPU;GRD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;15;37;IPU37
+IPU;GRD;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;13;63;IPU63
+IPU;GTM;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Number of seats;Congress of the Republic Unicameral Number of seats;158;9;IPU9
+IPU;GIN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;114;46;IPU46
+IPU;GNB;All;2016;People's National Assembly Unicameral;Peoples National Assembly Unicameral;Number of seats;People's National Assembly Unicameral Number of seats;102;61;IPU61
+IPU;GUY;All;2016;Parliament of the Co-operative Republic of Guyana Unicameral;Parliament of the Cooperative Republic of Guyana Unicameral;Number of seats;Parliament of the Co-operative Republic of Guyana Unicameral Number of seats;69;58;IPU58
+IPU;HTI;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;118;6;IPU6
+IPU;HTI;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;28;63;IPU63
+IPU;HND;All;2016;National Congress Unicameral;National Congress Unicameral;Number of seats;National Congress Unicameral Number of seats;128;48;IPU48
+IPU;HUN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;198;46;IPU46
+IPU;ISL;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;63;56;IPU56
+IPU;IND;All;2016;House of the People Bicameral;House of the People Bicameral;Number of seats;House of the People Bicameral Number of seats;542;40;IPU40
+IPU;IND;All;2016;Council of States Bicameral;Council of States Bicameral;Number of seats;Council of States Bicameral Number of seats;244;13;IPU13
+IPU;IDN;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;560;38;IPU38
+IPU;IRQ;All;2016;Council of Representatives of Iraq Unicameral;Council of Representatives of Iraq Unicameral;Number of seats;Council of Representatives of Iraq Unicameral Number of seats;328;12;IPU12
+IPU;IRL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;158;37;IPU37
+IPU;IRL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;60;63;IPU63
+IPU;ISR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;120;56;IPU56
+IPU;ITA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;630;6;IPU6
+IPU;ITA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;320;63;IPU63
+IPU;JAM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;63;37;IPU37
+IPU;JAM;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;21;63;IPU63
+IPU;JPN;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;475;37;IPU37
+IPU;JPN;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Number of seats;House of Councillors Bicameral Number of seats;242;30;IPU30
+IPU;JOR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;130;37;IPU37
+IPU;JOR;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;65;63;IPU63
+IPU;KAZ;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;107;37;IPU37
+IPU;KAZ;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;47;63;IPU63
+IPU;KEN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;350;45;IPU45
+IPU;KEN;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;68;63;IPU63
+IPU;KIR;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of seats;House of Assembly Unicameral Number of seats;46;28;IPU28
+IPU;KWT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;65;46;IPU46
+IPU;KGZ;All;2016;Supreme Council Unicameral;Supreme Council Unicameral;Number of seats;Supreme Council Unicameral Number of seats;120;69;IPU69
+IPU;LAO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;149;46;IPU46
+IPU;LVA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;100;56;IPU56
+IPU;LBN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;128;46;IPU46
+IPU;LSO;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;118;45;IPU45
+IPU;LSO;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;30;63;IPU63
+IPU;LBR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;73;37;IPU37
+IPU;LBR;All;2016;The Liberian Senate Bicameral;The Liberian Senate Bicameral;Number of seats;The Liberian Senate Bicameral Number of seats;30;72;IPU72
+IPU;LBY;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;188;38;IPU38
+IPU;LIE;All;2016;Diet Unicameral;Diet Unicameral;Number of seats;Diet Unicameral Number of seats;25;18;IPU18
+IPU;LTU;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;141;56;IPU56
+IPU;LUX;All;2016;Chamber of Deputies Unicameral;Chamber of Deputies Unicameral;Number of seats;Chamber of Deputies Unicameral Number of seats;60;7;IPU7
+IPU;MDG;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;151;45;IPU45
+IPU;MDG;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;63;63;IPU63
+IPU;MWI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;192;46;IPU46
+IPU;MYS;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;222;37;IPU37
+IPU;MYS;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;68;63;IPU63
+IPU;MDV;All;2016;People's Majlis Unicameral;Peoples Majlis Unicameral;Number of seats;People's Majlis Unicameral Number of seats;85;60;IPU60
+IPU;MLI;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;147;46;IPU46
+IPU;MLT;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;68;38;IPU38
+IPU;MHL;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;33;56;IPU56
+IPU;MRT;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;147;46;IPU46
+IPU;MUS;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;69;46;IPU46
+IPU;MEX;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;500;6;IPU6
+IPU;MEX;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;128;63;IPU63
+IPU;MCO;All;2016;National Council Unicameral;National Council Unicameral;Number of seats;National Council Unicameral Number of seats;24;50;IPU50
+IPU;MNG;All;2016;State Great Hural Unicameral;State Great Hural Unicameral;Number of seats;State Great Hural Unicameral Number of seats;76;68;IPU68
+IPU;MNE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;81;56;IPU56
+IPU;MAR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;395;37;IPU37
+IPU;MAR;All;2016;House of Councillors Bicameral;House of Councillors Bicameral;Number of seats;House of Councillors Bicameral Number of seats;120;30;IPU30
+IPU;MOZ;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Number of seats;Assembly of the Republic Unicameral Number of seats;250;4;IPU4
+IPU;MMR;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;433;37;IPU37
+IPU;MMR;All;2016;House of Nationalities Bicameral;House of Nationalities Bicameral;Number of seats;House of Nationalities Bicameral Number of seats;224;34;IPU34
+IPU;NAM;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;104;45;IPU45
+IPU;NAM;All;2016;National Council Bicameral;National Council Bicameral;Number of seats;National Council Bicameral Number of seats;42;49;IPU49
+IPU;NRU;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;19;56;IPU56
+IPU;NPL;All;2016;Legislature - Parliament Unicameral;Legislature  Parliament Unicameral;Number of seats;Legislature - Parliament Unicameral Number of seats;595;44;IPU44
+IPU;NLD;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;150;37;IPU37
+IPU;NLD;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;75;63;IPU63
+IPU;NZL;All;2016;House of Representatives Unicameral;House of Representatives Unicameral;Number of seats;House of Representatives Unicameral Number of seats;120;38;IPU38
+IPU;NIC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;92;46;IPU46
+IPU;NER;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;171;46;IPU46
+IPU;NGA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;360;37;IPU37
+IPU;NGA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;108;63;IPU63
+IPU;NOR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;169;56;IPU56
+IPU;OMN;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Number of seats;Consultative Council Bicameral Number of seats;85;10;IPU10
+IPU;OMN;All;2016;State Council Bicameral;State Council Bicameral;Number of seats;State Council Bicameral Number of seats;85;66;IPU66
+IPU;PAK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;340;45;IPU45
+IPU;PAK;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;104;63;IPU63
+IPU;PLW;All;2016;House of Delegates Bicameral;House of Delegates Bicameral;Number of seats;House of Delegates Bicameral Number of seats;16;31;IPU31
+IPU;PLW;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;13;63;IPU63
+IPU;PAN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;71;46;IPU46
+IPU;PNG;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of seats;National Parliament Unicameral Number of seats;106;53;IPU53
+IPU;PRY;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;80;6;IPU6
+IPU;PRY;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;45;63;IPU63
+IPU;PER;All;2016;Congress of the Republic Unicameral;Congress of the Republic Unicameral;Number of seats;Congress of the Republic Unicameral Number of seats;130;9;IPU9
+IPU;PHL;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;292;37;IPU37
+IPU;PHL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;24;63;IPU63
+IPU;POL;All;2016;Sejm Bicameral;Sejm Bicameral;Number of seats;Sejm Bicameral Number of seats;460;62;IPU62
+IPU;POL;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;100;63;IPU63
+IPU;PRT;All;2016;Assembly of the Republic Unicameral;Assembly of the Republic Unicameral;Number of seats;Assembly of the Republic Unicameral Number of seats;230;4;IPU4
+IPU;QAT;All;2016;Advisory Council Unicameral;Advisory Council Unicameral;Number of seats;Advisory Council Unicameral Number of seats;35;1;IPU1
+IPU;KOR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;300;46;IPU46
+IPU;MDA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;101;56;IPU56
+IPU;ROM;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;329;6;IPU6
+IPU;ROM;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;136;63;IPU63
+IPU;RUS;All;2016;State Duma Bicameral;State Duma Bicameral;Number of seats;State Duma Bicameral Number of seats;450;67;IPU67
+IPU;RUS;All;2016;Council of the Federation Bicameral;Council of the Federation Bicameral;Number of seats;Council of the Federation Bicameral Number of seats;170;14;IPU14
+IPU;RWA;All;2016;Chamber of Deputies Bicameral;Chamber of Deputies Bicameral;Number of seats;Chamber of Deputies Bicameral Number of seats;80;6;IPU6
+IPU;RWA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;26;63;IPU63
+IPU;KNA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;15;46;IPU46
+IPU;LCA;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of seats;House of Assembly Bicameral Number of seats;18;27;IPU27
+IPU;LCA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;11;63;IPU63
+IPU;VCT;All;2016;House of Assembly Unicameral;House of Assembly Unicameral;Number of seats;House of Assembly Unicameral Number of seats;23;28;IPU28
+IPU;WSM;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of seats;Legislative Assembly Unicameral Number of seats;50;41;IPU41
+IPU;SMR;All;2016;Great and General Council Unicameral;Great and General Council Unicameral;Number of seats;Great and General Council Unicameral Number of seats;60;25;IPU25
+IPU;STP;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;55;46;IPU46
+IPU;SAU;All;2016;Shura Council Unicameral;Shura Council Unicameral;Number of seats;Shura Council Unicameral Number of seats;151;65;IPU65
+IPU;SEN;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;165;46;IPU46
+IPU;SRB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;250;46;IPU46
+IPU;SYC;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;33;46;IPU46
+IPU;SLE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;121;56;IPU56
+IPU;SGP;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;100;56;IPU56
+IPU;SVK;All;2016;National Council Unicameral;National Council Unicameral;Number of seats;National Council Unicameral Number of seats;150;50;IPU50
+IPU;SVN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;90;45;IPU45
+IPU;SVN;All;2016;National Council Bicameral;National Council Bicameral;Number of seats;National Council Bicameral Number of seats;40;49;IPU49
+IPU;SLB;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of seats;National Parliament Unicameral Number of seats;50;53;IPU53
+IPU;SOM;All;2016;Upper House Bicameral;Upper House Bicameral;Number of seats;Upper House Bicameral Number of seats;54;74;IPU74
+IPU;SOM;All;2016;House of the People Bicameral;House of the People Bicameral;Number of seats;House of the People Bicameral Number of seats;275;40;IPU40
+IPU;ZAF;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;395;45;IPU45
+IPU;ZAF;All;2016;National Council of Provinces Bicameral;National Council of Provinces Bicameral;Number of seats;National Council of Provinces Bicameral Number of seats;54;51;IPU51
+IPU;SSD;All;2016;Transitional National Legislative Assembly Bicameral;Transitional National Legislative Assembly Bicameral;Number of seats;Transitional National Legislative Assembly Bicameral Number of seats;383;73;IPU73
+IPU;SSD;All;2016;Council of States Bicameral;Council of States Bicameral;Number of seats;Council of States Bicameral Number of seats;50;13;IPU13
+IPU;ESP;All;2016;Congress of Deputies Bicameral;Congress of Deputies Bicameral;Number of seats;Congress of Deputies Bicameral Number of seats;350;8;IPU8
+IPU;ESP;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;266;63;IPU63
+IPU;LKA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;225;56;IPU56
+IPU;SDN;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;426;45;IPU45
+IPU;SDN;All;2016;Council of States Bicameral;Council of States Bicameral;Number of seats;Council of States Bicameral Number of seats;54;13;IPU13
+IPU;SUR;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;51;46;IPU46
+IPU;SWZ;All;2016;House of Assembly Bicameral;House of Assembly Bicameral;Number of seats;House of Assembly Bicameral Number of seats;65;27;IPU27
+IPU;SWZ;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;30;63;IPU63
+IPU;SWE;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;349;56;IPU56
+IPU;CHE;All;2016;National Council Bicameral;National Council Bicameral;Number of seats;National Council Bicameral Number of seats;200;49;IPU49
+IPU;CHE;All;2016;Council of States Bicameral;Council of States Bicameral;Number of seats;Council of States Bicameral Number of seats;46;13;IPU13
+IPU;SYR;All;2016;People's Assembly Unicameral;Peoples Assembly Unicameral;Number of seats;People's Assembly Unicameral Number of seats;250;59;IPU59
+IPU;TJK;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;63;37;IPU37
+IPU;TJK;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;32;45;IPU45
+IPU;THA;All;2016;National Legislative Assembly Unicameral;National Legislative Assembly Unicameral;Number of seats;National Legislative Assembly Unicameral Number of seats;250;52;IPU52
+IPU;TMP;All;2016;National Parliament Unicameral;National Parliament Unicameral;Number of seats;National Parliament Unicameral Number of seats;65;53;IPU53
+IPU;TGO;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;91;46;IPU46
+IPU;TON;All;2016;Legislative Assembly Unicameral;Legislative Assembly Unicameral;Number of seats;Legislative Assembly Unicameral Number of seats;26;41;IPU41
+IPU;TTO;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;42;37;IPU37
+IPU;TTO;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;31;63;IPU63
+IPU;TUN;All;2016;Assembly of People's Representatives Unicameral;Assembly of Peoples Representatives Unicameral;Number of seats;Assembly of People's Representatives Unicameral Number of seats;217;3;IPU3
+IPU;TUR;All;2016;Grand National Assembly of Turkey Unicameral;Grand National Assembly of Turkey Unicameral;Number of seats;Grand National Assembly of Turkey Unicameral Number of seats;549;24;IPU24
+IPU;TKM;All;2016;Assembly Unicameral;Assembly Unicameral;Number of seats;Assembly Unicameral Number of seats;124;2;IPU2
+IPU;TUV;All;2016;Parliament of Tuvalu Unicameral;Parliament of Tuvalu Unicameral;Number of seats;Parliament of Tuvalu Unicameral Number of seats;15;57;IPU57
+IPU;UGA;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;449;56;IPU56
+IPU;UKR;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;423;56;IPU56
+IPU;ARE;All;2016;Federal National Council Unicameral;Federal National Council Unicameral;Number of seats;Federal National Council Unicameral Number of seats;40;20;IPU20
+IPU;GBR;All;2016;House of Commons Bicameral;House of Commons Bicameral;Number of seats;House of Commons Bicameral Number of seats;650;29;IPU29
+IPU;GBR;All;2016;House of Lords Bicameral;House of Lords Bicameral;Number of seats;House of Lords Bicameral Number of seats;805;33;IPU33
+IPU;TZA;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;393;46;IPU46
+IPU;USA;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;433;37;IPU37
+IPU;USA;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;100;63;IPU63
+IPU;URY;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;99;37;IPU37
+IPU;URY;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;31;63;IPU63
+IPU;UZB;All;2016;Legislative Chamber Bicameral;Legislative Chamber Bicameral;Number of seats;Legislative Chamber Bicameral Number of seats;150;42;IPU42
+IPU;UZB;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;100;63;IPU63
+IPU;VUT;All;2016;Parliament Unicameral;Parliament Unicameral;Number of seats;Parliament Unicameral Number of seats;52;56;IPU56
+IPU;VNM;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;494;46;IPU46
+IPU;YEM;All;2016;House of Representatives Bicameral;House of Representatives Bicameral;Number of seats;House of Representatives Bicameral Number of seats;275;37;IPU37
+IPU;YEM;All;2016;Consultative Council Bicameral;Consultative Council Bicameral;Number of seats;Consultative Council Bicameral Number of seats;111;10;IPU10
+IPU;ZMB;All;2016;National Assembly Unicameral;National Assembly Unicameral;Number of seats;National Assembly Unicameral Number of seats;167;46;IPU46
+IPU;ZWE;All;2016;National Assembly Bicameral;National Assembly Bicameral;Number of seats;National Assembly Bicameral Number of seats;270;45;IPU45
+IPU;ZWE;All;2016;Senate Bicameral;Senate Bicameral;Number of seats;Senate Bicameral Number of seats;80;63;IPU63

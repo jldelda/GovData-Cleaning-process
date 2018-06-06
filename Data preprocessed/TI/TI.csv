@@ -1,0 +1,2051 @@
+dataset,iso3,subset,year,group,question,answer,indicator,value,keyN,Indicator_Id
+TI,NZL,All,2017,Rank,Rank,Total,Rank,1,2,TI2
+TI,DNK,All,2017,Rank,Rank,Total,Rank,2,2,TI2
+TI,FIN,All,2017,Rank,Rank,Total,Rank,3,2,TI2
+TI,NOR,All,2017,Rank,Rank,Total,Rank,3,2,TI2
+TI,CHE,All,2017,Rank,Rank,Total,Rank,3,2,TI2
+TI,SGP,All,2017,Rank,Rank,Total,Rank,6,2,TI2
+TI,SWE,All,2017,Rank,Rank,Total,Rank,6,2,TI2
+TI,CAN,All,2017,Rank,Rank,Total,Rank,8,2,TI2
+TI,LUX,All,2017,Rank,Rank,Total,Rank,8,2,TI2
+TI,NLD,All,2017,Rank,Rank,Total,Rank,8,2,TI2
+TI,GBR,All,2017,Rank,Rank,Total,Rank,8,2,TI2
+TI,DEU,All,2017,Rank,Rank,Total,Rank,12,2,TI2
+TI,AUS,All,2017,Rank,Rank,Total,Rank,13,2,TI2
+TI,HKG,All,2017,Rank,Rank,Total,Rank,13,2,TI2
+TI,ISL,All,2017,Rank,Rank,Total,Rank,13,2,TI2
+TI,AUT,All,2017,Rank,Rank,Total,Rank,16,2,TI2
+TI,BEL,All,2017,Rank,Rank,Total,Rank,16,2,TI2
+TI,USA,All,2017,Rank,Rank,Total,Rank,16,2,TI2
+TI,IRL,All,2017,Rank,Rank,Total,Rank,19,2,TI2
+TI,JPN,All,2017,Rank,Rank,Total,Rank,20,2,TI2
+TI,EST,All,2017,Rank,Rank,Total,Rank,21,2,TI2
+TI,ARE,All,2017,Rank,Rank,Total,Rank,21,2,TI2
+TI,FRA,All,2017,Rank,Rank,Total,Rank,23,2,TI2
+TI,URY,All,2017,Rank,Rank,Total,Rank,23,2,TI2
+TI,BRB,All,2017,Rank,Rank,Total,Rank,25,2,TI2
+TI,BTN,All,2017,Rank,Rank,Total,Rank,26,2,TI2
+TI,CHL,All,2017,Rank,Rank,Total,Rank,26,2,TI2
+TI,BHS,All,2017,Rank,Rank,Total,Rank,28,2,TI2
+TI,PRT,All,2017,Rank,Rank,Total,Rank,29,2,TI2
+TI,QAT,All,2017,Rank,Rank,Total,Rank,29,2,TI2
+TI,TWN,All,2017,Rank,Rank,Total,Rank,29,2,TI2
+TI,BRN,All,2017,Rank,Rank,Total,Rank,32,2,TI2
+TI,ISR,All,2017,Rank,Rank,Total,Rank,32,2,TI2
+TI,BWA,All,2017,Rank,Rank,Total,Rank,34,2,TI2
+TI,SVN,All,2017,Rank,Rank,Total,Rank,34,2,TI2
+TI,POL,All,2017,Rank,Rank,Total,Rank,36,2,TI2
+TI,SYC,All,2017,Rank,Rank,Total,Rank,36,2,TI2
+TI,CRI,All,2017,Rank,Rank,Total,Rank,38,2,TI2
+TI,LTU,All,2017,Rank,Rank,Total,Rank,38,2,TI2
+TI,LVA,All,2017,Rank,Rank,Total,Rank,40,2,TI2
+TI,VCT,All,2017,Rank,Rank,Total,Rank,40,2,TI2
+TI,CYP,All,2017,Rank,Rank,Total,Rank,42,2,TI2
+TI,CZE,All,2017,Rank,Rank,Total,Rank,42,2,TI2
+TI,DMA,All,2017,Rank,Rank,Total,Rank,42,2,TI2
+TI,ESP,All,2017,Rank,Rank,Total,Rank,42,2,TI2
+TI,GEO,All,2017,Rank,Rank,Total,Rank,46,2,TI2
+TI,MLT,All,2017,Rank,Rank,Total,Rank,46,2,TI2
+TI,CPV,All,2017,Rank,Rank,Total,Rank,48,2,TI2
+TI,RWA,All,2017,Rank,Rank,Total,Rank,48,2,TI2
+TI,LCA,All,2017,Rank,Rank,Total,Rank,48,2,TI2
+TI,KOR,All,2017,Rank,Rank,Total,Rank,51,2,TI2
+TI,GRD,All,2017,Rank,Rank,Total,Rank,52,2,TI2
+TI,NAM,All,2017,Rank,Rank,Total,Rank,53,2,TI2
+TI,ITA,All,2017,Rank,Rank,Total,Rank,54,2,TI2
+TI,MUS,All,2017,Rank,Rank,Total,Rank,54,2,TI2
+TI,SVK,All,2017,Rank,Rank,Total,Rank,54,2,TI2
+TI,HRV,All,2017,Rank,Rank,Total,Rank,57,2,TI2
+TI,SAU,All,2017,Rank,Rank,Total,Rank,57,2,TI2
+TI,GRC,All,2017,Rank,Rank,Total,Rank,59,2,TI2
+TI,JOR,All,2017,Rank,Rank,Total,Rank,59,2,TI2
+TI,ROM,All,2017,Rank,Rank,Total,Rank,59,2,TI2
+TI,CUB,All,2017,Rank,Rank,Total,Rank,62,2,TI2
+TI,MYS,All,2017,Rank,Rank,Total,Rank,62,2,TI2
+TI,MNE,All,2017,Rank,Rank,Total,Rank,64,2,TI2
+TI,STP,All,2017,Rank,Rank,Total,Rank,64,2,TI2
+TI,HUN,All,2017,Rank,Rank,Total,Rank,66,2,TI2
+TI,SEN,All,2017,Rank,Rank,Total,Rank,66,2,TI2
+TI,BLR,All,2017,Rank,Rank,Total,Rank,68,2,TI2
+TI,JAM,All,2017,Rank,Rank,Total,Rank,68,2,TI2
+TI,OMN,All,2017,Rank,Rank,Total,Rank,68,2,TI2
+TI,BGR,All,2017,Rank,Rank,Total,Rank,71,2,TI2
+TI,ZAF,All,2017,Rank,Rank,Total,Rank,71,2,TI2
+TI,VUT,All,2017,Rank,Rank,Total,Rank,71,2,TI2
+TI,BFA,All,2017,Rank,Rank,Total,Rank,74,2,TI2
+TI,LSO,All,2017,Rank,Rank,Total,Rank,74,2,TI2
+TI,TUN,All,2017,Rank,Rank,Total,Rank,74,2,TI2
+TI,CHN,All,2017,Rank,Rank,Total,Rank,77,2,TI2
+TI,SRB,All,2017,Rank,Rank,Total,Rank,77,2,TI2
+TI,SUR,All,2017,Rank,Rank,Total,Rank,77,2,TI2
+TI,TTO,All,2017,Rank,Rank,Total,Rank,77,2,TI2
+TI,GHA,All,2017,Rank,Rank,Total,Rank,81,2,TI2
+TI,IND,All,2017,Rank,Rank,Total,Rank,81,2,TI2
+TI,MAR,All,2017,Rank,Rank,Total,Rank,81,2,TI2
+TI,TUR,All,2017,Rank,Rank,Total,Rank,81,2,TI2
+TI,ARG,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,BEN,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,KSV,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,KWT,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,SLB,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,SWZ,All,2017,Rank,Rank,Total,Rank,85,2,TI2
+TI,ALB,All,2017,Rank,Rank,Total,Rank,91,2,TI2
+TI,BIH,All,2017,Rank,Rank,Total,Rank,91,2,TI2
+TI,GUY,All,2017,Rank,Rank,Total,Rank,91,2,TI2
+TI,LKA,All,2017,Rank,Rank,Total,Rank,91,2,TI2
+TI,TMP,All,2017,Rank,Rank,Total,Rank,91,2,TI2
+TI,BRA,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,COL,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,IDN,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,PAN,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,PER,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,THA,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,ZMB,All,2017,Rank,Rank,Total,Rank,96,2,TI2
+TI,BHR,All,2017,Rank,Rank,Total,Rank,103,2,TI2
+TI,CIV,All,2017,Rank,Rank,Total,Rank,103,2,TI2
+TI,MNG,All,2017,Rank,Rank,Total,Rank,103,2,TI2
+TI,TZA,All,2017,Rank,Rank,Total,Rank,103,2,TI2
+TI,ARM,All,2017,Rank,Rank,Total,Rank,107,2,TI2
+TI,ETH,All,2017,Rank,Rank,Total,Rank,107,2,TI2
+TI,MKD,All,2017,Rank,Rank,Total,Rank,107,2,TI2
+TI,VNM,All,2017,Rank,Rank,Total,Rank,107,2,TI2
+TI,PHL,All,2017,Rank,Rank,Total,Rank,111,2,TI2
+TI,DZA,All,2017,Rank,Rank,Total,Rank,112,2,TI2
+TI,BOL,All,2017,Rank,Rank,Total,Rank,112,2,TI2
+TI,SLV,All,2017,Rank,Rank,Total,Rank,112,2,TI2
+TI,MDV,All,2017,Rank,Rank,Total,Rank,112,2,TI2
+TI,NER,All,2017,Rank,Rank,Total,Rank,112,2,TI2
+TI,ECU,All,2017,Rank,Rank,Total,Rank,117,2,TI2
+TI,EGY,All,2017,Rank,Rank,Total,Rank,117,2,TI2
+TI,GAB,All,2017,Rank,Rank,Total,Rank,117,2,TI2
+TI,PAK,All,2017,Rank,Rank,Total,Rank,117,2,TI2
+TI,TGO,All,2017,Rank,Rank,Total,Rank,117,2,TI2
+TI,AZE,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,DJI,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,KAZ,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,LBR,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,MWI,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,MLI,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,NPL,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,MDA,All,2017,Rank,Rank,Total,Rank,122,2,TI2
+TI,GMB,All,2017,Rank,Rank,Total,Rank,130,2,TI2
+TI,IRN,All,2017,Rank,Rank,Total,Rank,130,2,TI2
+TI,MMR,All,2017,Rank,Rank,Total,Rank,130,2,TI2
+TI,SLE,All,2017,Rank,Rank,Total,Rank,130,2,TI2
+TI,UKR,All,2017,Rank,Rank,Total,Rank,130,2,TI2
+TI,DOM,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,HND,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,KGZ,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,LAO,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,MEX,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,PNG,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,PRY,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,RUS,All,2017,Rank,Rank,Total,Rank,135,2,TI2
+TI,BGD,All,2017,Rank,Rank,Total,Rank,143,2,TI2
+TI,GTM,All,2017,Rank,Rank,Total,Rank,143,2,TI2
+TI,KEN,All,2017,Rank,Rank,Total,Rank,143,2,TI2
+TI,LBN,All,2017,Rank,Rank,Total,Rank,143,2,TI2
+TI,MRT,All,2017,Rank,Rank,Total,Rank,143,2,TI2
+TI,COM,All,2017,Rank,Rank,Total,Rank,148,2,TI2
+TI,GIN,All,2017,Rank,Rank,Total,Rank,148,2,TI2
+TI,NGA,All,2017,Rank,Rank,Total,Rank,148,2,TI2
+TI,NIC,All,2017,Rank,Rank,Total,Rank,151,2,TI2
+TI,UGA,All,2017,Rank,Rank,Total,Rank,151,2,TI2
+TI,CMR,All,2017,Rank,Rank,Total,Rank,153,2,TI2
+TI,MOZ,All,2017,Rank,Rank,Total,Rank,153,2,TI2
+TI,MDG,All,2017,Rank,Rank,Total,Rank,155,2,TI2
+TI,CAF,All,2017,Rank,Rank,Total,Rank,156,2,TI2
+TI,BDI,All,2017,Rank,Rank,Total,Rank,157,2,TI2
+TI,HTI,All,2017,Rank,Rank,Total,Rank,157,2,TI2
+TI,UZB,All,2017,Rank,Rank,Total,Rank,157,2,TI2
+TI,ZWE,All,2017,Rank,Rank,Total,Rank,157,2,TI2
+TI,KHM,All,2017,Rank,Rank,Total,Rank,161,2,TI2
+TI,COG,All,2017,Rank,Rank,Total,Rank,161,2,TI2
+TI,ZAR,All,2017,Rank,Rank,Total,Rank,161,2,TI2
+TI,TJK,All,2017,Rank,Rank,Total,Rank,161,2,TI2
+TI,TCD,All,2017,Rank,Rank,Total,Rank,165,2,TI2
+TI,ERI,All,2017,Rank,Rank,Total,Rank,165,2,TI2
+TI,AGO,All,2017,Rank,Rank,Total,Rank,167,2,TI2
+TI,TKM,All,2017,Rank,Rank,Total,Rank,167,2,TI2
+TI,IRQ,All,2017,Rank,Rank,Total,Rank,169,2,TI2
+TI,VEN,All,2017,Rank,Rank,Total,Rank,169,2,TI2
+TI,GNQ,All,2017,Rank,Rank,Total,Rank,171,2,TI2
+TI,GNB,All,2017,Rank,Rank,Total,Rank,171,2,TI2
+TI,LBY,All,2017,Rank,Rank,Total,Rank,171,2,TI2
+TI,SDN,All,2017,Rank,Rank,Total,Rank,175,2,TI2
+TI,YEM,All,2017,Rank,Rank,Total,Rank,175,2,TI2
+TI,AFG,All,2017,Rank,Rank,Total,Rank,177,2,TI2
+TI,SYR,All,2017,Rank,Rank,Total,Rank,178,2,TI2
+TI,SSD,All,2017,Rank,Rank,Total,Rank,179,2,TI2
+TI,SOM,All,2017,Rank,Rank,Total,Rank,180,2,TI2
+TI,NZL,All,2017,CPI,CPI Score,Total,CPI,89,1,TI1
+TI,DNK,All,2017,CPI,CPI Score,Total,CPI,88,1,TI1
+TI,FIN,All,2017,CPI,CPI Score,Total,CPI,85,1,TI1
+TI,NOR,All,2017,CPI,CPI Score,Total,CPI,85,1,TI1
+TI,CHE,All,2017,CPI,CPI Score,Total,CPI,85,1,TI1
+TI,SGP,All,2017,CPI,CPI Score,Total,CPI,84,1,TI1
+TI,SWE,All,2017,CPI,CPI Score,Total,CPI,84,1,TI1
+TI,CAN,All,2017,CPI,CPI Score,Total,CPI,82,1,TI1
+TI,LUX,All,2017,CPI,CPI Score,Total,CPI,82,1,TI1
+TI,NLD,All,2017,CPI,CPI Score,Total,CPI,82,1,TI1
+TI,GBR,All,2017,CPI,CPI Score,Total,CPI,82,1,TI1
+TI,DEU,All,2017,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,AUS,All,2017,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,HKG,All,2017,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,ISL,All,2017,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,AUT,All,2017,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,BEL,All,2017,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,USA,All,2017,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,IRL,All,2017,CPI,CPI Score,Total,CPI,74,1,TI1
+TI,JPN,All,2017,CPI,CPI Score,Total,CPI,73,1,TI1
+TI,EST,All,2017,CPI,CPI Score,Total,CPI,71,1,TI1
+TI,ARE,All,2017,CPI,CPI Score,Total,CPI,71,1,TI1
+TI,FRA,All,2017,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,URY,All,2017,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,BRB,All,2017,CPI,CPI Score,Total,CPI,68,1,TI1
+TI,BTN,All,2017,CPI,CPI Score,Total,CPI,67,1,TI1
+TI,CHL,All,2017,CPI,CPI Score,Total,CPI,67,1,TI1
+TI,BHS,All,2017,CPI,CPI Score,Total,CPI,65,1,TI1
+TI,PRT,All,2017,CPI,CPI Score,Total,CPI,63,1,TI1
+TI,QAT,All,2017,CPI,CPI Score,Total,CPI,63,1,TI1
+TI,TWN,All,2017,CPI,CPI Score,Total,CPI,63,1,TI1
+TI,BRN,All,2017,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,ISR,All,2017,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,BWA,All,2017,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,SVN,All,2017,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,POL,All,2017,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,SYC,All,2017,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,CRI,All,2017,CPI,CPI Score,Total,CPI,59,1,TI1
+TI,LTU,All,2017,CPI,CPI Score,Total,CPI,59,1,TI1
+TI,LVA,All,2017,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,VCT,All,2017,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,CYP,All,2017,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,CZE,All,2017,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,DMA,All,2017,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,ESP,All,2017,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,GEO,All,2017,CPI,CPI Score,Total,CPI,56,1,TI1
+TI,MLT,All,2017,CPI,CPI Score,Total,CPI,56,1,TI1
+TI,CPV,All,2017,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,RWA,All,2017,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,LCA,All,2017,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,KOR,All,2017,CPI,CPI Score,Total,CPI,54,1,TI1
+TI,GRD,All,2017,CPI,CPI Score,Total,CPI,52,1,TI1
+TI,NAM,All,2017,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,ITA,All,2017,CPI,CPI Score,Total,CPI,50,1,TI1
+TI,MUS,All,2017,CPI,CPI Score,Total,CPI,50,1,TI1
+TI,SVK,All,2017,CPI,CPI Score,Total,CPI,50,1,TI1
+TI,HRV,All,2017,CPI,CPI Score,Total,CPI,49,1,TI1
+TI,SAU,All,2017,CPI,CPI Score,Total,CPI,49,1,TI1
+TI,GRC,All,2017,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,JOR,All,2017,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,ROM,All,2017,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,CUB,All,2017,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,MYS,All,2017,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,MNE,All,2017,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,STP,All,2017,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,HUN,All,2017,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,SEN,All,2017,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,BLR,All,2017,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,JAM,All,2017,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,OMN,All,2017,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,BGR,All,2017,CPI,CPI Score,Total,CPI,43,1,TI1
+TI,ZAF,All,2017,CPI,CPI Score,Total,CPI,43,1,TI1
+TI,VUT,All,2017,CPI,CPI Score,Total,CPI,43,1,TI1
+TI,BFA,All,2017,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,LSO,All,2017,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,TUN,All,2017,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,CHN,All,2017,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,SRB,All,2017,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,SUR,All,2017,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,TTO,All,2017,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,GHA,All,2017,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,IND,All,2017,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,MAR,All,2017,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,TUR,All,2017,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,ARG,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,BEN,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,KSV,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,KWT,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,SLB,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,SWZ,All,2017,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,ALB,All,2017,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,BIH,All,2017,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,GUY,All,2017,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,LKA,All,2017,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,TMP,All,2017,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,BRA,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,COL,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,IDN,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,PAN,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,PER,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,THA,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,ZMB,All,2017,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,BHR,All,2017,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,CIV,All,2017,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,MNG,All,2017,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,TZA,All,2017,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,ARM,All,2017,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,ETH,All,2017,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,MKD,All,2017,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,VNM,All,2017,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,PHL,All,2017,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,DZA,All,2017,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,BOL,All,2017,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,SLV,All,2017,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,MDV,All,2017,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,NER,All,2017,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,ECU,All,2017,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,EGY,All,2017,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,GAB,All,2017,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,PAK,All,2017,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,TGO,All,2017,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,AZE,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,DJI,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,KAZ,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,LBR,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MWI,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MLI,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,NPL,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MDA,All,2017,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,GMB,All,2017,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,IRN,All,2017,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,MMR,All,2017,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,SLE,All,2017,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,UKR,All,2017,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,DOM,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,HND,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,KGZ,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,LAO,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,MEX,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,PNG,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,PRY,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,RUS,All,2017,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,BGD,All,2017,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,GTM,All,2017,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,KEN,All,2017,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,LBN,All,2017,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,MRT,All,2017,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,COM,All,2017,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,GIN,All,2017,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,NGA,All,2017,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,NIC,All,2017,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,UGA,All,2017,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,CMR,All,2017,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,MOZ,All,2017,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,MDG,All,2017,CPI,CPI Score,Total,CPI,24,1,TI1
+TI,CAF,All,2017,CPI,CPI Score,Total,CPI,23,1,TI1
+TI,BDI,All,2017,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,HTI,All,2017,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,UZB,All,2017,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,ZWE,All,2017,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,KHM,All,2017,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,COG,All,2017,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,ZAR,All,2017,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,TJK,All,2017,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,TCD,All,2017,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,ERI,All,2017,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,AGO,All,2017,CPI,CPI Score,Total,CPI,19,1,TI1
+TI,TKM,All,2017,CPI,CPI Score,Total,CPI,19,1,TI1
+TI,IRQ,All,2017,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,VEN,All,2017,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,GNQ,All,2017,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,GNB,All,2017,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,LBY,All,2017,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,SDN,All,2017,CPI,CPI Score,Total,CPI,16,1,TI1
+TI,YEM,All,2017,CPI,CPI Score,Total,CPI,16,1,TI1
+TI,AFG,All,2017,CPI,CPI Score,Total,CPI,15,1,TI1
+TI,SYR,All,2017,CPI,CPI Score,Total,CPI,14,1,TI1
+TI,SSD,All,2017,CPI,CPI Score,Total,CPI,12,1,TI1
+TI,SOM,All,2017,CPI,CPI Score,Total,CPI,9,1,TI1
+TI,NZL,All,2016,Rank,Rank,Total,Rank,1,2,TI2
+TI,DNK,All,2016,Rank,Rank,Total,Rank,1,2,TI2
+TI,FIN,All,2016,Rank,Rank,Total,Rank,3,2,TI2
+TI,SWE,All,2016,Rank,Rank,Total,Rank,4,2,TI2
+TI,CHE,All,2016,Rank,Rank,Total,Rank,5,2,TI2
+TI,NOR,All,2016,Rank,Rank,Total,Rank,6,2,TI2
+TI,SGP,All,2016,Rank,Rank,Total,Rank,7,2,TI2
+TI,NLD,All,2016,Rank,Rank,Total,Rank,8,2,TI2
+TI,CAN,All,2016,Rank,Rank,Total,Rank,9,2,TI2
+TI,DEU,All,2016,Rank,Rank,Total,Rank,10,2,TI2
+TI,LUX,All,2016,Rank,Rank,Total,Rank,10,2,TI2
+TI,GBR,All,2016,Rank,Rank,Total,Rank,10,2,TI2
+TI,AUS,All,2016,Rank,Rank,Total,Rank,13,2,TI2
+TI,ISL,All,2016,Rank,Rank,Total,Rank,14,2,TI2
+TI,HKG,All,2016,Rank,Rank,Total,Rank,15,2,TI2
+TI,BEL,All,2016,Rank,Rank,Total,Rank,15,2,TI2
+TI,AUT,All,2016,Rank,Rank,Total,Rank,17,2,TI2
+TI,IRL,All,2016,Rank,Rank,Total,Rank,19,2,TI2
+TI,JPN,All,2016,Rank,Rank,Total,Rank,20,2,TI2
+TI,URY,All,2016,Rank,Rank,Total,Rank,21,2,TI2
+TI,EST,All,2016,Rank,Rank,Total,Rank,22,2,TI2
+TI,FRA,All,2016,Rank,Rank,Total,Rank,23,2,TI2
+TI,BHS,All,2016,Rank,Rank,Total,Rank,24,2,TI2
+TI,CHL,All,2016,Rank,Rank,Total,Rank,24,2,TI2
+TI,ARE,All,2016,Rank,Rank,Total,Rank,24,2,TI2
+TI,BTN,All,2016,Rank,Rank,Total,Rank,27,2,TI2
+TI,ISR,All,2016,Rank,Rank,Total,Rank,28,2,TI2
+TI,POL,All,2016,Rank,Rank,Total,Rank,29,2,TI2
+TI,PRT,All,2016,Rank,Rank,Total,Rank,29,2,TI2
+TI,BRB,All,2016,Rank,Rank,Total,Rank,31,2,TI2
+TI,TWN,All,2016,Rank,Rank,Total,Rank,31,2,TI2
+TI,QAT,All,2016,Rank,Rank,Total,Rank,31,2,TI2
+TI,SVN,All,2016,Rank,Rank,Total,Rank,31,2,TI2
+TI,LCA,All,2016,Rank,Rank,Total,Rank,35,2,TI2
+TI,VCT,All,2016,Rank,Rank,Total,Rank,35,2,TI2
+TI,BWA,All,2016,Rank,Rank,Total,Rank,35,2,TI2
+TI,DMA,All,2016,Rank,Rank,Total,Rank,38,2,TI2
+TI,CPV,All,2016,Rank,Rank,Total,Rank,38,2,TI2
+TI,LTU,All,2016,Rank,Rank,Total,Rank,38,2,TI2
+TI,CRI,All,2016,Rank,Rank,Total,Rank,41,2,TI2
+TI,BRN,All,2016,Rank,Rank,Total,Rank,41,2,TI2
+TI,ESP,All,2016,Rank,Rank,Total,Rank,41,2,TI2
+TI,GEO,All,2016,Rank,Rank,Total,Rank,44,2,TI2
+TI,LVA,All,2016,Rank,Rank,Total,Rank,44,2,TI2
+TI,GRD,All,2016,Rank,Rank,Total,Rank,46,2,TI2
+TI,CYP,All,2016,Rank,Rank,Total,Rank,47,2,TI2
+TI,CZE,All,2016,Rank,Rank,Total,Rank,47,2,TI2
+TI,MLT,All,2016,Rank,Rank,Total,Rank,47,2,TI2
+TI,MUS,All,2016,Rank,Rank,Total,Rank,50,2,TI2
+TI,RWA,All,2016,Rank,Rank,Total,Rank,50,2,TI2
+TI,NAM,All,2016,Rank,Rank,Total,Rank,53,2,TI2
+TI,SVK,All,2016,Rank,Rank,Total,Rank,54,2,TI2
+TI,MYS,All,2016,Rank,Rank,Total,Rank,55,2,TI2
+TI,HRV,All,2016,Rank,Rank,Total,Rank,55,2,TI2
+TI,JOR,All,2016,Rank,Rank,Total,Rank,57,2,TI2
+TI,HUN,All,2016,Rank,Rank,Total,Rank,57,2,TI2
+TI,ROM,All,2016,Rank,Rank,Total,Rank,57,2,TI2
+TI,CUB,All,2016,Rank,Rank,Total,Rank,60,2,TI2
+TI,ITA,All,2016,Rank,Rank,Total,Rank,60,2,TI2
+TI,SAU,All,2016,Rank,Rank,Total,Rank,62,2,TI2
+TI,STP,All,2016,Rank,Rank,Total,Rank,62,2,TI2
+TI,SUR,All,2016,Rank,Rank,Total,Rank,64,2,TI2
+TI,MNE,All,2016,Rank,Rank,Total,Rank,64,2,TI2
+TI,OMN,All,2016,Rank,Rank,Total,Rank,64,2,TI2
+TI,SEN,All,2016,Rank,Rank,Total,Rank,64,2,TI2
+TI,ZAF,All,2016,Rank,Rank,Total,Rank,64,2,TI2
+TI,GRC,All,2016,Rank,Rank,Total,Rank,69,2,TI2
+TI,BHR,All,2016,Rank,Rank,Total,Rank,70,2,TI2
+TI,GHA,All,2016,Rank,Rank,Total,Rank,70,2,TI2
+TI,SLB,All,2016,Rank,Rank,Total,Rank,72,2,TI2
+TI,SRB,All,2016,Rank,Rank,Total,Rank,72,2,TI2
+TI,BFA,All,2016,Rank,Rank,Total,Rank,72,2,TI2
+TI,TUR,All,2016,Rank,Rank,Total,Rank,75,2,TI2
+TI,KWT,All,2016,Rank,Rank,Total,Rank,75,2,TI2
+TI,TUN,All,2016,Rank,Rank,Total,Rank,75,2,TI2
+TI,BGR,All,2016,Rank,Rank,Total,Rank,75,2,TI2
+TI,BRA,All,2016,Rank,Rank,Total,Rank,79,2,TI2
+TI,CHN,All,2016,Rank,Rank,Total,Rank,79,2,TI2
+TI,IND,All,2016,Rank,Rank,Total,Rank,79,2,TI2
+TI,BLR,All,2016,Rank,Rank,Total,Rank,79,2,TI2
+TI,JAM,All,2016,Rank,Rank,Total,Rank,83,2,TI2
+TI,ALB,All,2016,Rank,Rank,Total,Rank,83,2,TI2
+TI,BIH,All,2016,Rank,Rank,Total,Rank,83,2,TI2
+TI,LSO,All,2016,Rank,Rank,Total,Rank,83,2,TI2
+TI,PAN,All,2016,Rank,Rank,Total,Rank,87,2,TI2
+TI,MNG,All,2016,Rank,Rank,Total,Rank,87,2,TI2
+TI,ZMB,All,2016,Rank,Rank,Total,Rank,87,2,TI2
+TI,COL,All,2016,Rank,Rank,Total,Rank,90,2,TI2
+TI,IDN,All,2016,Rank,Rank,Total,Rank,90,2,TI2
+TI,MAR,All,2016,Rank,Rank,Total,Rank,90,2,TI2
+TI,LBR,All,2016,Rank,Rank,Total,Rank,90,2,TI2
+TI,ARG,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,SLV,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,MDV,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,LKA,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,KSV,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,BEN,All,2016,Rank,Rank,Total,Rank,95,2,TI2
+TI,PER,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,TTO,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,PHL,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,THA,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,TMP,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,GAB,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,NER,All,2016,Rank,Rank,Total,Rank,101,2,TI2
+TI,GUY,All,2016,Rank,Rank,Total,Rank,108,2,TI2
+TI,DZA,All,2016,Rank,Rank,Total,Rank,108,2,TI2
+TI,EGY,All,2016,Rank,Rank,Total,Rank,108,2,TI2
+TI,ETH,All,2016,Rank,Rank,Total,Rank,108,2,TI2
+TI,BOL,All,2016,Rank,Rank,Total,Rank,113,2,TI2
+TI,VNM,All,2016,Rank,Rank,Total,Rank,113,2,TI2
+TI,ARM,All,2016,Rank,Rank,Total,Rank,113,2,TI2
+TI,PAK,All,2016,Rank,Rank,Total,Rank,116,2,TI2
+TI,MLI,All,2016,Rank,Rank,Total,Rank,116,2,TI2
+TI,TZA,All,2016,Rank,Rank,Total,Rank,116,2,TI2
+TI,TGO,All,2016,Rank,Rank,Total,Rank,116,2,TI2
+TI,DOM,All,2016,Rank,Rank,Total,Rank,120,2,TI2
+TI,ECU,All,2016,Rank,Rank,Total,Rank,120,2,TI2
+TI,MWI,All,2016,Rank,Rank,Total,Rank,120,2,TI2
+TI,HND,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,MEX,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,PRY,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,LAO,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,AZE,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,MDA,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,DJI,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,SLE,All,2016,Rank,Rank,Total,Rank,123,2,TI2
+TI,NPL,All,2016,Rank,Rank,Total,Rank,131,2,TI2
+TI,KAZ,All,2016,Rank,Rank,Total,Rank,131,2,TI2
+TI,RUS,All,2016,Rank,Rank,Total,Rank,131,2,TI2
+TI,UKR,All,2016,Rank,Rank,Total,Rank,131,2,TI2
+TI,IRN,All,2016,Rank,Rank,Total,Rank,131,2,TI2
+TI,GTM,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,MMR,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,PNG,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,KGZ,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,LBN,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,NGA,All,2016,Rank,Rank,Total,Rank,136,2,TI2
+TI,GIN,All,2016,Rank,Rank,Total,Rank,142,2,TI2
+TI,MRT,All,2016,Rank,Rank,Total,Rank,142,2,TI2
+TI,MOZ,All,2016,Rank,Rank,Total,Rank,142,2,TI2
+TI,NIC,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,BGD,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,CMR,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,GMB,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,KEN,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,MDG,All,2016,Rank,Rank,Total,Rank,145,2,TI2
+TI,TJK,All,2016,Rank,Rank,Total,Rank,151,2,TI2
+TI,UGA,All,2016,Rank,Rank,Total,Rank,151,2,TI2
+TI,COM,All,2016,Rank,Rank,Total,Rank,153,2,TI2
+TI,TKM,All,2016,Rank,Rank,Total,Rank,154,2,TI2
+TI,ZWE,All,2016,Rank,Rank,Total,Rank,154,2,TI2
+TI,KHM,All,2016,Rank,Rank,Total,Rank,156,2,TI2
+TI,UZB,All,2016,Rank,Rank,Total,Rank,156,2,TI2
+TI,HTI,All,2016,Rank,Rank,Total,Rank,159,2,TI2
+TI,BDI,All,2016,Rank,Rank,Total,Rank,159,2,TI2
+TI,CAF,All,2016,Rank,Rank,Total,Rank,159,2,TI2
+TI,TCD,All,2016,Rank,Rank,Total,Rank,159,2,TI2
+TI,AGO,All,2016,Rank,Rank,Total,Rank,164,2,TI2
+TI,ERI,All,2016,Rank,Rank,Total,Rank,164,2,TI2
+TI,VEN,All,2016,Rank,Rank,Total,Rank,166,2,TI2
+TI,IRQ,All,2016,Rank,Rank,Total,Rank,166,2,TI2
+TI,GNB,All,2016,Rank,Rank,Total,Rank,168,2,TI2
+TI,AFG,All,2016,Rank,Rank,Total,Rank,169,2,TI2
+TI,LBY,All,2016,Rank,Rank,Total,Rank,170,2,TI2
+TI,YEM,All,2016,Rank,Rank,Total,Rank,170,2,TI2
+TI,SDN,All,2016,Rank,Rank,Total,Rank,170,2,TI2
+TI,SYR,All,2016,Rank,Rank,Total,Rank,173,2,TI2
+TI,SSD,All,2016,Rank,Rank,Total,Rank,175,2,TI2
+TI,SOM,All,2016,Rank,Rank,Total,Rank,176,2,TI2
+TI,NZL,All,2016,CPI,CPI Score,Total,CPI,90,1,TI1
+TI,DNK,All,2016,CPI,CPI Score,Total,CPI,90,1,TI1
+TI,FIN,All,2016,CPI,CPI Score,Total,CPI,89,1,TI1
+TI,SWE,All,2016,CPI,CPI Score,Total,CPI,88,1,TI1
+TI,CHE,All,2016,CPI,CPI Score,Total,CPI,86,1,TI1
+TI,NOR,All,2016,CPI,CPI Score,Total,CPI,85,1,TI1
+TI,SGP,All,2016,CPI,CPI Score,Total,CPI,84,1,TI1
+TI,NLD,All,2016,CPI,CPI Score,Total,CPI,83,1,TI1
+TI,CAN,All,2016,CPI,CPI Score,Total,CPI,82,1,TI1
+TI,DEU,All,2016,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,LUX,All,2016,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,GBR,All,2016,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,AUS,All,2016,CPI,CPI Score,Total,CPI,79,1,TI1
+TI,ISL,All,2016,CPI,CPI Score,Total,CPI,78,1,TI1
+TI,HKG,All,2016,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,BEL,All,2016,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,AUT,All,2016,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,IRL,All,2016,CPI,CPI Score,Total,CPI,73,1,TI1
+TI,JPN,All,2016,CPI,CPI Score,Total,CPI,72,1,TI1
+TI,URY,All,2016,CPI,CPI Score,Total,CPI,71,1,TI1
+TI,EST,All,2016,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,FRA,All,2016,CPI,CPI Score,Total,CPI,69,1,TI1
+TI,BHS,All,2016,CPI,CPI Score,Total,CPI,66,1,TI1
+TI,CHL,All,2016,CPI,CPI Score,Total,CPI,66,1,TI1
+TI,ARE,All,2016,CPI,CPI Score,Total,CPI,66,1,TI1
+TI,BTN,All,2016,CPI,CPI Score,Total,CPI,65,1,TI1
+TI,ISR,All,2016,CPI,CPI Score,Total,CPI,64,1,TI1
+TI,POL,All,2016,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,PRT,All,2016,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,BRB,All,2016,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,TWN,All,2016,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,QAT,All,2016,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,SVN,All,2016,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,LCA,All,2016,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,VCT,All,2016,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,BWA,All,2016,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,DMA,All,2016,CPI,CPI Score,Total,CPI,59,1,TI1
+TI,CPV,All,2016,CPI,CPI Score,Total,CPI,59,1,TI1
+TI,LTU,All,2016,CPI,CPI Score,Total,CPI,59,1,TI1
+TI,CRI,All,2016,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,BRN,All,2016,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,ESP,All,2016,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,GEO,All,2016,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,LVA,All,2016,CPI,CPI Score,Total,CPI,57,1,TI1
+TI,GRD,All,2016,CPI,CPI Score,Total,CPI,56,1,TI1
+TI,CYP,All,2016,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,CZE,All,2016,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,MLT,All,2016,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,MUS,All,2016,CPI,CPI Score,Total,CPI,54,1,TI1
+TI,RWA,All,2016,CPI,CPI Score,Total,CPI,54,1,TI1
+TI,NAM,All,2016,CPI,CPI Score,Total,CPI,52,1,TI1
+TI,SVK,All,2016,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,MYS,All,2016,CPI,CPI Score,Total,CPI,49,1,TI1
+TI,HRV,All,2016,CPI,CPI Score,Total,CPI,49,1,TI1
+TI,JOR,All,2016,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,HUN,All,2016,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,ROM,All,2016,CPI,CPI Score,Total,CPI,48,1,TI1
+TI,CUB,All,2016,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,ITA,All,2016,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,SAU,All,2016,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,STP,All,2016,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,SUR,All,2016,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,MNE,All,2016,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,OMN,All,2016,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,SEN,All,2016,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,ZAF,All,2016,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,GRC,All,2016,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,BHR,All,2016,CPI,CPI Score,Total,CPI,43,1,TI1
+TI,GHA,All,2016,CPI,CPI Score,Total,CPI,43,1,TI1
+TI,SLB,All,2016,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,SRB,All,2016,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,BFA,All,2016,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,TUR,All,2016,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,KWT,All,2016,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,TUN,All,2016,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,BGR,All,2016,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,BRA,All,2016,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,CHN,All,2016,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,IND,All,2016,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,BLR,All,2016,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,JAM,All,2016,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,ALB,All,2016,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,BIH,All,2016,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,LSO,All,2016,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,PAN,All,2016,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,MNG,All,2016,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,ZMB,All,2016,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,COL,All,2016,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,IDN,All,2016,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,MAR,All,2016,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,LBR,All,2016,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,ARG,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,SLV,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,MDV,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,LKA,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,KSV,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,BEN,All,2016,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,PER,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,TTO,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,PHL,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,THA,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,TMP,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,GAB,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,NER,All,2016,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,GUY,All,2016,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,DZA,All,2016,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,EGY,All,2016,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,ETH,All,2016,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,BOL,All,2016,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,VNM,All,2016,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,ARM,All,2016,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,PAK,All,2016,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,MLI,All,2016,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,TZA,All,2016,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,TGO,All,2016,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,DOM,All,2016,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,ECU,All,2016,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MWI,All,2016,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,HND,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,MEX,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,PRY,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,LAO,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,AZE,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,MDA,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,DJI,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,SLE,All,2016,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,NPL,All,2016,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,KAZ,All,2016,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,RUS,All,2016,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,UKR,All,2016,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,IRN,All,2016,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,GTM,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,MMR,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,PNG,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,KGZ,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,LBN,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,NGA,All,2016,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,GIN,All,2016,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,MRT,All,2016,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,MOZ,All,2016,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,NIC,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,BGD,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,CMR,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,GMB,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,KEN,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,MDG,All,2016,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,TJK,All,2016,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,UGA,All,2016,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,COM,All,2016,CPI,CPI Score,Total,CPI,24,1,TI1
+TI,TKM,All,2016,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,ZWE,All,2016,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,KHM,All,2016,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,UZB,All,2016,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,HTI,All,2016,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,BDI,All,2016,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,CAF,All,2016,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,TCD,All,2016,CPI,CPI Score,Total,CPI,20,1,TI1
+TI,AGO,All,2016,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,ERI,All,2016,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,VEN,All,2016,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,IRQ,All,2016,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,GNB,All,2016,CPI,CPI Score,Total,CPI,16,1,TI1
+TI,AFG,All,2016,CPI,CPI Score,Total,CPI,15,1,TI1
+TI,LBY,All,2016,CPI,CPI Score,Total,CPI,14,1,TI1
+TI,YEM,All,2016,CPI,CPI Score,Total,CPI,14,1,TI1
+TI,SDN,All,2016,CPI,CPI Score,Total,CPI,14,1,TI1
+TI,SYR,All,2016,CPI,CPI Score,Total,CPI,13,1,TI1
+TI,SSD,All,2016,CPI,CPI Score,Total,CPI,11,1,TI1
+TI,SOM,All,2016,CPI,CPI Score,Total,CPI,10,1,TI1
+TI,DNK,All,2015,CPI,CPI Score,Total,CPI,91,1,TI1
+TI,FIN,All,2015,CPI,CPI Score,Total,CPI,90,1,TI1
+TI,SWE,All,2015,CPI,CPI Score,Total,CPI,89,1,TI1
+TI,NZL,All,2015,CPI,CPI Score,Total,CPI,88,1,TI1
+TI,NLD,All,2015,CPI,CPI Score,Total,CPI,87,1,TI1
+TI,NOR,All,2015,CPI,CPI Score,Total,CPI,87,1,TI1
+TI,CHE,All,2015,CPI,CPI Score,Total,CPI,86,1,TI1
+TI,SGP,All,2015,CPI,CPI Score,Total,CPI,85,1,TI1
+TI,CAN,All,2015,CPI,CPI Score,Total,CPI,83,1,TI1
+TI,DEU,All,2015,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,LUX,All,2015,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,GBR,All,2015,CPI,CPI Score,Total,CPI,81,1,TI1
+TI,AUS,All,2015,CPI,CPI Score,Total,CPI,79,1,TI1
+TI,ISL,All,2015,CPI,CPI Score,Total,CPI,79,1,TI1
+TI,BEL,All,2015,CPI,CPI Score,Total,CPI,77,1,TI1
+TI,AUT,All,2015,CPI,CPI Score,Total,CPI,76,1,TI1
+TI,HKG,All,2015,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,IRL,All,2015,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,JPN,All,2015,CPI,CPI Score,Total,CPI,75,1,TI1
+TI,URY,All,2015,CPI,CPI Score,Total,CPI,74,1,TI1
+TI,QAT,All,2015,CPI,CPI Score,Total,CPI,71,1,TI1
+TI,CHL,All,2015,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,EST,All,2015,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,FRA,All,2015,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,ARE,All,2015,CPI,CPI Score,Total,CPI,70,1,TI1
+TI,BTN,All,2015,CPI,CPI Score,Total,CPI,65,1,TI1
+TI,BWA,All,2015,CPI,CPI Score,Total,CPI,63,1,TI1
+TI,PRT,All,2015,CPI,CPI Score,Total,CPI,63,1,TI1
+TI,POL,All,2015,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,TWN,All,2015,CPI,CPI Score,Total,CPI,62,1,TI1
+TI,CYP,All,2015,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,ISR,All,2015,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,LTU,All,2015,CPI,CPI Score,Total,CPI,61,1,TI1
+TI,SVN,All,2015,CPI,CPI Score,Total,CPI,60,1,TI1
+TI,ESP,All,2015,CPI,CPI Score,Total,CPI,58,1,TI1
+TI,CZE,All,2015,CPI,CPI Score,Total,CPI,56,1,TI1
+TI,MLT,All,2015,CPI,CPI Score,Total,CPI,56,1,TI1
+TI,CPV,All,2015,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,CRI,All,2015,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,LVA,All,2015,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,SYC,All,2015,CPI,CPI Score,Total,CPI,55,1,TI1
+TI,RWA,All,2015,CPI,CPI Score,Total,CPI,54,1,TI1
+TI,JOR,All,2015,CPI,CPI Score,Total,CPI,53,1,TI1
+TI,MUS,All,2015,CPI,CPI Score,Total,CPI,53,1,TI1
+TI,NAM,All,2015,CPI,CPI Score,Total,CPI,53,1,TI1
+TI,GEO,All,2015,CPI,CPI Score,Total,CPI,52,1,TI1
+TI,SAU,All,2015,CPI,CPI Score,Total,CPI,52,1,TI1
+TI,BHR,All,2015,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,HRV,All,2015,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,HUN,All,2015,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,SVK,All,2015,CPI,CPI Score,Total,CPI,51,1,TI1
+TI,MYS,All,2015,CPI,CPI Score,Total,CPI,50,1,TI1
+TI,KWT,All,2015,CPI,CPI Score,Total,CPI,49,1,TI1
+TI,CUB,All,2015,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,GHA,All,2015,CPI,CPI Score,Total,CPI,47,1,TI1
+TI,GRC,All,2015,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,ROM,All,2015,CPI,CPI Score,Total,CPI,46,1,TI1
+TI,OMN,All,2015,CPI,CPI Score,Total,CPI,45,1,TI1
+TI,ITA,All,2015,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,LSO,All,2015,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,MNE,All,2015,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,SEN,All,2015,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,ZAF,All,2015,CPI,CPI Score,Total,CPI,44,1,TI1
+TI,STP,All,2015,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,TUR,All,2015,CPI,CPI Score,Total,CPI,42,1,TI1
+TI,BGR,All,2015,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,JAM,All,2015,CPI,CPI Score,Total,CPI,41,1,TI1
+TI,SRB,All,2015,CPI,CPI Score,Total,CPI,40,1,TI1
+TI,SLV,All,2015,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,MNG,All,2015,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,PAN,All,2015,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,TTO,All,2015,CPI,CPI Score,Total,CPI,39,1,TI1
+TI,BIH,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,BRA,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,BFA,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,IND,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,THA,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,TUN,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,ZMB,All,2015,CPI,CPI Score,Total,CPI,38,1,TI1
+TI,BEN,All,2015,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,CHN,All,2015,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,COL,All,2015,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,LBR,All,2015,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,LKA,All,2015,CPI,CPI Score,Total,CPI,37,1,TI1
+TI,ALB,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,DZA,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,EGY,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,IDN,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,MAR,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,PER,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,SUR,All,2015,CPI,CPI Score,Total,CPI,36,1,TI1
+TI,ARM,All,2015,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,MLI,All,2015,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,MEX,All,2015,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,PHL,All,2015,CPI,CPI Score,Total,CPI,35,1,TI1
+TI,BOL,All,2015,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,DJI,All,2015,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,GAB,All,2015,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,NER,All,2015,CPI,CPI Score,Total,CPI,34,1,TI1
+TI,DOM,All,2015,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,ETH,All,2015,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,KSV,All,2015,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,MDA,All,2015,CPI,CPI Score,Total,CPI,33,1,TI1
+TI,ARG,All,2015,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,BLR,All,2015,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,ECU,All,2015,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,TGO,All,2015,CPI,CPI Score,Total,CPI,32,1,TI1
+TI,HND,All,2015,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MWI,All,2015,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MRT,All,2015,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,MOZ,All,2015,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,VNM,All,2015,CPI,CPI Score,Total,CPI,31,1,TI1
+TI,PAK,All,2015,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,TZA,All,2015,CPI,CPI Score,Total,CPI,30,1,TI1
+TI,AZE,All,2015,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,GUY,All,2015,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,RUS,All,2015,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,SLE,All,2015,CPI,CPI Score,Total,CPI,29,1,TI1
+TI,GMB,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,GTM,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,KAZ,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,KGZ,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,LBN,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,MDG,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,TMP,All,2015,CPI,CPI Score,Total,CPI,28,1,TI1
+TI,CMR,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,IRN,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,NPL,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,NIC,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,PRY,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,UKR,All,2015,CPI,CPI Score,Total,CPI,27,1,TI1
+TI,COM,All,2015,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,NGA,All,2015,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,TJK,All,2015,CPI,CPI Score,Total,CPI,26,1,TI1
+TI,BGD,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,GIN,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,KEN,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,LAO,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,PNG,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,UGA,All,2015,CPI,CPI Score,Total,CPI,25,1,TI1
+TI,CAF,All,2015,CPI,CPI Score,Total,CPI,24,1,TI1
+TI,TCD,All,2015,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,ZAR,All,2015,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,MMR,All,2015,CPI,CPI Score,Total,CPI,22,1,TI1
+TI,BDI,All,2015,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,KHM,All,2015,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,ZWE,All,2015,CPI,CPI Score,Total,CPI,21,1,TI1
+TI,UZB,All,2015,CPI,CPI Score,Total,CPI,19,1,TI1
+TI,ERI,All,2015,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,SYR,All,2015,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,TKM,All,2015,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,YEM,All,2015,CPI,CPI Score,Total,CPI,18,1,TI1
+TI,HTI,All,2015,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,GNB,All,2015,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,VEN,All,2015,CPI,CPI Score,Total,CPI,17,1,TI1
+TI,IRQ,All,2015,CPI,CPI Score,Total,CPI,16,1,TI1
+TI,LBY,All,2015,CPI,CPI Score,Total,CPI,16,1,TI1
+TI,AGO,All,2015,CPI,CPI Score,Total,CPI,15,1,TI1
+TI,SSD,All,2015,CPI,CPI Score,Total,CPI,15,1,TI1
+TI,SDN,All,2015,CPI,CPI Score,Total,CPI,12,1,TI1
+TI,AFG,All,2015,CPI,CPI Score,Total,CPI,11,1,TI1
+TI,SOM,All,2015,CPI,CPI Score,Total,CPI,8,1,TI1
+TI,DNK,All,2015,Rank,Rank,Total,Rank,1,2,TI2
+TI,FIN,All,2015,Rank,Rank,Total,Rank,2,2,TI2
+TI,SWE,All,2015,Rank,Rank,Total,Rank,3,2,TI2
+TI,NZL,All,2015,Rank,Rank,Total,Rank,4,2,TI2
+TI,NLD,All,2015,Rank,Rank,Total,Rank,5,2,TI2
+TI,NOR,All,2015,Rank,Rank,Total,Rank,5,2,TI2
+TI,CHE,All,2015,Rank,Rank,Total,Rank,7,2,TI2
+TI,SGP,All,2015,Rank,Rank,Total,Rank,8,2,TI2
+TI,CAN,All,2015,Rank,Rank,Total,Rank,9,2,TI2
+TI,DEU,All,2015,Rank,Rank,Total,Rank,10,2,TI2
+TI,LUX,All,2015,Rank,Rank,Total,Rank,10,2,TI2
+TI,GBR,All,2015,Rank,Rank,Total,Rank,10,2,TI2
+TI,AUS,All,2015,Rank,Rank,Total,Rank,13,2,TI2
+TI,ISL,All,2015,Rank,Rank,Total,Rank,13,2,TI2
+TI,BEL,All,2015,Rank,Rank,Total,Rank,15,2,TI2
+TI,AUT,All,2015,Rank,Rank,Total,Rank,16,2,TI2
+TI,HKG,All,2015,Rank,Rank,Total,Rank,18,2,TI2
+TI,IRL,All,2015,Rank,Rank,Total,Rank,18,2,TI2
+TI,JPN,All,2015,Rank,Rank,Total,Rank,18,2,TI2
+TI,URY,All,2015,Rank,Rank,Total,Rank,21,2,TI2
+TI,QAT,All,2015,Rank,Rank,Total,Rank,22,2,TI2
+TI,CHL,All,2015,Rank,Rank,Total,Rank,23,2,TI2
+TI,EST,All,2015,Rank,Rank,Total,Rank,23,2,TI2
+TI,FRA,All,2015,Rank,Rank,Total,Rank,23,2,TI2
+TI,ARE,All,2015,Rank,Rank,Total,Rank,23,2,TI2
+TI,BTN,All,2015,Rank,Rank,Total,Rank,27,2,TI2
+TI,BWA,All,2015,Rank,Rank,Total,Rank,28,2,TI2
+TI,PRT,All,2015,Rank,Rank,Total,Rank,28,2,TI2
+TI,POL,All,2015,Rank,Rank,Total,Rank,30,2,TI2
+TI,TWN,All,2015,Rank,Rank,Total,Rank,30,2,TI2
+TI,CYP,All,2015,Rank,Rank,Total,Rank,32,2,TI2
+TI,ISR,All,2015,Rank,Rank,Total,Rank,32,2,TI2
+TI,LTU,All,2015,Rank,Rank,Total,Rank,32,2,TI2
+TI,SVN,All,2015,Rank,Rank,Total,Rank,35,2,TI2
+TI,ESP,All,2015,Rank,Rank,Total,Rank,36,2,TI2
+TI,CZE,All,2015,Rank,Rank,Total,Rank,37,2,TI2
+TI,MLT,All,2015,Rank,Rank,Total,Rank,37,2,TI2
+TI,CPV,All,2015,Rank,Rank,Total,Rank,40,2,TI2
+TI,CRI,All,2015,Rank,Rank,Total,Rank,40,2,TI2
+TI,LVA,All,2015,Rank,Rank,Total,Rank,40,2,TI2
+TI,SYC,All,2015,Rank,Rank,Total,Rank,40,2,TI2
+TI,RWA,All,2015,Rank,Rank,Total,Rank,44,2,TI2
+TI,JOR,All,2015,Rank,Rank,Total,Rank,45,2,TI2
+TI,MUS,All,2015,Rank,Rank,Total,Rank,45,2,TI2
+TI,NAM,All,2015,Rank,Rank,Total,Rank,45,2,TI2
+TI,GEO,All,2015,Rank,Rank,Total,Rank,48,2,TI2
+TI,SAU,All,2015,Rank,Rank,Total,Rank,48,2,TI2
+TI,BHR,All,2015,Rank,Rank,Total,Rank,50,2,TI2
+TI,HRV,All,2015,Rank,Rank,Total,Rank,50,2,TI2
+TI,HUN,All,2015,Rank,Rank,Total,Rank,50,2,TI2
+TI,SVK,All,2015,Rank,Rank,Total,Rank,50,2,TI2
+TI,MYS,All,2015,Rank,Rank,Total,Rank,54,2,TI2
+TI,KWT,All,2015,Rank,Rank,Total,Rank,55,2,TI2
+TI,CUB,All,2015,Rank,Rank,Total,Rank,56,2,TI2
+TI,GHA,All,2015,Rank,Rank,Total,Rank,56,2,TI2
+TI,GRC,All,2015,Rank,Rank,Total,Rank,58,2,TI2
+TI,ROM,All,2015,Rank,Rank,Total,Rank,58,2,TI2
+TI,OMN,All,2015,Rank,Rank,Total,Rank,60,2,TI2
+TI,ITA,All,2015,Rank,Rank,Total,Rank,61,2,TI2
+TI,LSO,All,2015,Rank,Rank,Total,Rank,61,2,TI2
+TI,MNE,All,2015,Rank,Rank,Total,Rank,61,2,TI2
+TI,SEN,All,2015,Rank,Rank,Total,Rank,61,2,TI2
+TI,ZAF,All,2015,Rank,Rank,Total,Rank,61,2,TI2
+TI,STP,All,2015,Rank,Rank,Total,Rank,66,2,TI2
+TI,TUR,All,2015,Rank,Rank,Total,Rank,66,2,TI2
+TI,BGR,All,2015,Rank,Rank,Total,Rank,69,2,TI2
+TI,JAM,All,2015,Rank,Rank,Total,Rank,69,2,TI2
+TI,SRB,All,2015,Rank,Rank,Total,Rank,71,2,TI2
+TI,SLV,All,2015,Rank,Rank,Total,Rank,72,2,TI2
+TI,MNG,All,2015,Rank,Rank,Total,Rank,72,2,TI2
+TI,PAN,All,2015,Rank,Rank,Total,Rank,72,2,TI2
+TI,TTO,All,2015,Rank,Rank,Total,Rank,72,2,TI2
+TI,BIH,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,BRA,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,BFA,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,IND,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,THA,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,TUN,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,ZMB,All,2015,Rank,Rank,Total,Rank,76,2,TI2
+TI,BEN,All,2015,Rank,Rank,Total,Rank,83,2,TI2
+TI,CHN,All,2015,Rank,Rank,Total,Rank,83,2,TI2
+TI,COL,All,2015,Rank,Rank,Total,Rank,83,2,TI2
+TI,LBR,All,2015,Rank,Rank,Total,Rank,83,2,TI2
+TI,LKA,All,2015,Rank,Rank,Total,Rank,83,2,TI2
+TI,ALB,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,DZA,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,EGY,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,IDN,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,MAR,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,PER,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,SUR,All,2015,Rank,Rank,Total,Rank,88,2,TI2
+TI,ARM,All,2015,Rank,Rank,Total,Rank,95,2,TI2
+TI,MLI,All,2015,Rank,Rank,Total,Rank,95,2,TI2
+TI,MEX,All,2015,Rank,Rank,Total,Rank,95,2,TI2
+TI,PHL,All,2015,Rank,Rank,Total,Rank,95,2,TI2
+TI,BOL,All,2015,Rank,Rank,Total,Rank,99,2,TI2
+TI,DJI,All,2015,Rank,Rank,Total,Rank,99,2,TI2
+TI,GAB,All,2015,Rank,Rank,Total,Rank,99,2,TI2
+TI,NER,All,2015,Rank,Rank,Total,Rank,99,2,TI2
+TI,DOM,All,2015,Rank,Rank,Total,Rank,103,2,TI2
+TI,ETH,All,2015,Rank,Rank,Total,Rank,103,2,TI2
+TI,KSV,All,2015,Rank,Rank,Total,Rank,103,2,TI2
+TI,MDA,All,2015,Rank,Rank,Total,Rank,103,2,TI2
+TI,ARG,All,2015,Rank,Rank,Total,Rank,107,2,TI2
+TI,BLR,All,2015,Rank,Rank,Total,Rank,107,2,TI2
+TI,ECU,All,2015,Rank,Rank,Total,Rank,107,2,TI2
+TI,TGO,All,2015,Rank,Rank,Total,Rank,107,2,TI2
+TI,HND,All,2015,Rank,Rank,Total,Rank,112,2,TI2
+TI,MWI,All,2015,Rank,Rank,Total,Rank,112,2,TI2
+TI,MRT,All,2015,Rank,Rank,Total,Rank,112,2,TI2
+TI,MOZ,All,2015,Rank,Rank,Total,Rank,112,2,TI2
+TI,VNM,All,2015,Rank,Rank,Total,Rank,112,2,TI2
+TI,PAK,All,2015,Rank,Rank,Total,Rank,117,2,TI2
+TI,TZA,All,2015,Rank,Rank,Total,Rank,117,2,TI2
+TI,AZE,All,2015,Rank,Rank,Total,Rank,119,2,TI2
+TI,GUY,All,2015,Rank,Rank,Total,Rank,119,2,TI2
+TI,RUS,All,2015,Rank,Rank,Total,Rank,119,2,TI2
+TI,SLE,All,2015,Rank,Rank,Total,Rank,119,2,TI2
+TI,GMB,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,GTM,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,KAZ,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,KGZ,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,LBN,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,MDG,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,TMP,All,2015,Rank,Rank,Total,Rank,123,2,TI2
+TI,CMR,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,IRN,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,NPL,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,NIC,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,PRY,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,UKR,All,2015,Rank,Rank,Total,Rank,130,2,TI2
+TI,COM,All,2015,Rank,Rank,Total,Rank,136,2,TI2
+TI,NGA,All,2015,Rank,Rank,Total,Rank,136,2,TI2
+TI,TJK,All,2015,Rank,Rank,Total,Rank,136,2,TI2
+TI,BGD,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,GIN,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,KEN,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,LAO,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,PNG,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,UGA,All,2015,Rank,Rank,Total,Rank,139,2,TI2
+TI,CAF,All,2015,Rank,Rank,Total,Rank,145,2,TI2
+TI,TCD,All,2015,Rank,Rank,Total,Rank,147,2,TI2
+TI,ZAR,All,2015,Rank,Rank,Total,Rank,147,2,TI2
+TI,MMR,All,2015,Rank,Rank,Total,Rank,147,2,TI2
+TI,BDI,All,2015,Rank,Rank,Total,Rank,150,2,TI2
+TI,KHM,All,2015,Rank,Rank,Total,Rank,150,2,TI2
+TI,ZWE,All,2015,Rank,Rank,Total,Rank,150,2,TI2
+TI,UZB,All,2015,Rank,Rank,Total,Rank,153,2,TI2
+TI,ERI,All,2015,Rank,Rank,Total,Rank,154,2,TI2
+TI,SYR,All,2015,Rank,Rank,Total,Rank,154,2,TI2
+TI,TKM,All,2015,Rank,Rank,Total,Rank,154,2,TI2
+TI,YEM,All,2015,Rank,Rank,Total,Rank,154,2,TI2
+TI,HTI,All,2015,Rank,Rank,Total,Rank,158,2,TI2
+TI,GNB,All,2015,Rank,Rank,Total,Rank,158,2,TI2
+TI,VEN,All,2015,Rank,Rank,Total,Rank,158,2,TI2
+TI,IRQ,All,2015,Rank,Rank,Total,Rank,161,2,TI2
+TI,LBY,All,2015,Rank,Rank,Total,Rank,161,2,TI2
+TI,AGO,All,2015,Rank,Rank,Total,Rank,163,2,TI2
+TI,SSD,All,2015,Rank,Rank,Total,Rank,163,2,TI2
+TI,SDN,All,2015,Rank,Rank,Total,Rank,165,2,TI2
+TI,AFG,All,2015,Rank,Rank,Total,Rank,166,2,TI2
+TI,SOM,All,2015,Rank,Rank,Total,Rank,167,2,TI2
+TI,DNK,All,2014,CPI,CPI Score,CPI,CPI,92,1,TI1
+TI,NZL,All,2014,CPI,CPI Score,CPI,CPI,91,1,TI1
+TI,FIN,All,2014,CPI,CPI Score,CPI,CPI,89,1,TI1
+TI,SWE,All,2014,CPI,CPI Score,CPI,CPI,87,1,TI1
+TI,NOR,All,2014,CPI,CPI Score,CPI,CPI,86,1,TI1
+TI,CHE,All,2014,CPI,CPI Score,CPI,CPI,86,1,TI1
+TI,SGP,All,2014,CPI,CPI Score,CPI,CPI,84,1,TI1
+TI,NLD,All,2014,CPI,CPI Score,CPI,CPI,83,1,TI1
+TI,LUX,All,2014,CPI,CPI Score,CPI,CPI,82,1,TI1
+TI,CAN,All,2014,CPI,CPI Score,CPI,CPI,81,1,TI1
+TI,AUS,All,2014,CPI,CPI Score,CPI,CPI,80,1,TI1
+TI,DEU,All,2014,CPI,CPI Score,CPI,CPI,79,1,TI1
+TI,ISL,All,2014,CPI,CPI Score,CPI,CPI,79,1,TI1
+TI,GBR,All,2014,CPI,CPI Score,CPI,CPI,78,1,TI1
+TI,BEL,All,2014,CPI,CPI Score,CPI,CPI,76,1,TI1
+TI,JPN,All,2014,CPI,CPI Score,CPI,CPI,76,1,TI1
+TI,BRB,All,2014,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,HKG,All,2014,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,IRL,All,2014,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,USA,All,2014,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,CHL,All,2014,CPI,CPI Score,CPI,CPI,73,1,TI1
+TI,URY,All,2014,CPI,CPI Score,CPI,CPI,73,1,TI1
+TI,AUT,All,2014,CPI,CPI Score,CPI,CPI,72,1,TI1
+TI,BHS,All,2014,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,ARE,All,2014,CPI,CPI Score,CPI,CPI,70,1,TI1
+TI,EST,All,2014,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,FRA,All,2014,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,QAT,All,2014,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,VCT,All,2014,CPI,CPI Score,CPI,CPI,67,1,TI1
+TI,BTN,All,2014,CPI,CPI Score,CPI,CPI,65,1,TI1
+TI,BWA,All,2014,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,CYP,All,2014,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,PRT,All,2014,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,PRI,All,2014,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,POL,All,2014,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,TWN,All,2014,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,ISR,All,2014,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,ESP,All,2014,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,DMA,All,2014,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,LTU,All,2014,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,SVN,All,2014,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,CPV,All,2014,CPI,CPI Score,CPI,CPI,57,1,TI1
+TI,LVA,All,2014,CPI,CPI Score,CPI,CPI,55,1,TI1
+TI,MLT,All,2014,CPI,CPI Score,CPI,CPI,55,1,TI1
+TI,SYC,All,2014,CPI,CPI Score,CPI,CPI,55,1,TI1
+TI,CRI,All,2014,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,HUN,All,2014,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,MUS,All,2014,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,GEO,All,2014,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,MYS,All,2014,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,WSM,All,2014,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,CZE,All,2014,CPI,CPI Score,CPI,CPI,51,1,TI1
+TI,SVK,All,2014,CPI,CPI Score,CPI,CPI,50,1,TI1
+TI,BHR,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,JOR,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,LSO,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,NAM,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,RWA,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,SAU,All,2014,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,HRV,All,2014,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,GHA,All,2014,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,CUB,All,2014,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,OMN,All,2014,CPI,CPI Score,CPI,CPI,45,1,TI1
+TI,TUR,All,2014,CPI,CPI Score,CPI,CPI,45,1,TI1
+TI,KWT,All,2014,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,ZAF,All,2014,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,BRA,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,BGR,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,GRC,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,ITA,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,ROM,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,SEN,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,SWZ,All,2014,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,MNE,All,2014,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,STP,All,2014,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,SRB,All,2014,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,TUN,All,2014,CPI,CPI Score,CPI,CPI,40,1,TI1
+TI,BEN,All,2014,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,BIH,All,2014,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,SLV,All,2014,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,MNG,All,2014,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,MAR,All,2014,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,BFA,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,IND,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,JAM,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,PER,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,PHL,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,LKA,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,THA,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,TTO,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,ZMB,All,2014,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,ARM,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,COL,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,EGY,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,GAB,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,LBR,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,PAN,All,2014,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,DZA,All,2014,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,CHN,All,2014,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,SUR,All,2014,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,BOL,All,2014,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,MEX,All,2014,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,MDA,All,2014,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,NER,All,2014,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,ARG,All,2014,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,DJI,All,2014,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,IDN,All,2014,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,ALB,All,2014,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,ECU,All,2014,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,ETH,All,2014,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,KSV,All,2014,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,MWI,All,2014,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,DOM,All,2014,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,GTM,All,2014,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,MLI,All,2014,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,BLR,All,2014,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,MOZ,All,2014,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,SLE,All,2014,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,TZA,All,2014,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,VNM,All,2014,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,GUY,All,2014,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,MRT,All,2014,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,AZE,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,GMB,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,HND,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,KAZ,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,NPL,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,PAK,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,TGO,All,2014,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,MDG,All,2014,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,NIC,All,2014,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,TMP,All,2014,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,CMR,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,IRN,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,KGZ,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,LBN,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,NGA,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,RUS,All,2014,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,COM,All,2014,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,UGA,All,2014,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,UKR,All,2014,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,BGD,All,2014,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,GIN,All,2014,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,KEN,All,2014,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,LAO,All,2014,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,PNG,All,2014,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,CAF,All,2014,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,PRY,All,2014,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,TJK,All,2014,CPI,CPI Score,CPI,CPI,23,1,TI1
+TI,TCD,All,2014,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,ZAR,All,2014,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,KHM,All,2014,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,MMR,All,2014,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,ZWE,All,2014,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,BDI,All,2014,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,SYR,All,2014,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,AGO,All,2014,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,GNB,All,2014,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,HTI,All,2014,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,VEN,All,2014,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,YEM,All,2014,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,ERI,All,2014,CPI,CPI Score,CPI,CPI,18,1,TI1
+TI,LBY,All,2014,CPI,CPI Score,CPI,CPI,18,1,TI1
+TI,UZB,All,2014,CPI,CPI Score,CPI,CPI,18,1,TI1
+TI,TKM,All,2014,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,IRQ,All,2014,CPI,CPI Score,CPI,CPI,16,1,TI1
+TI,SSD,All,2014,CPI,CPI Score,CPI,CPI,15,1,TI1
+TI,AFG,All,2014,CPI,CPI Score,CPI,CPI,12,1,TI1
+TI,SDN,All,2014,CPI,CPI Score,CPI,CPI,11,1,TI1
+TI,SOM,All,2014,CPI,CPI Score,CPI,CPI,8,1,TI1
+TI,DNK,All,2014,Rank,Rank,Rank,Rank,1,2,TI2
+TI,NZL,All,2014,Rank,Rank,Rank,Rank,2,2,TI2
+TI,FIN,All,2014,Rank,Rank,Rank,Rank,3,2,TI2
+TI,SWE,All,2014,Rank,Rank,Rank,Rank,4,2,TI2
+TI,NOR,All,2014,Rank,Rank,Rank,Rank,5,2,TI2
+TI,CHE,All,2014,Rank,Rank,Rank,Rank,5,2,TI2
+TI,SGP,All,2014,Rank,Rank,Rank,Rank,7,2,TI2
+TI,NLD,All,2014,Rank,Rank,Rank,Rank,8,2,TI2
+TI,LUX,All,2014,Rank,Rank,Rank,Rank,9,2,TI2
+TI,CAN,All,2014,Rank,Rank,Rank,Rank,10,2,TI2
+TI,AUS,All,2014,Rank,Rank,Rank,Rank,11,2,TI2
+TI,DEU,All,2014,Rank,Rank,Rank,Rank,12,2,TI2
+TI,ISL,All,2014,Rank,Rank,Rank,Rank,12,2,TI2
+TI,GBR,All,2014,Rank,Rank,Rank,Rank,14,2,TI2
+TI,BEL,All,2014,Rank,Rank,Rank,Rank,15,2,TI2
+TI,JPN,All,2014,Rank,Rank,Rank,Rank,15,2,TI2
+TI,BRB,All,2014,Rank,Rank,Rank,Rank,17,2,TI2
+TI,HKG,All,2014,Rank,Rank,Rank,Rank,17,2,TI2
+TI,IRL,All,2014,Rank,Rank,Rank,Rank,17,2,TI2
+TI,USA,All,2014,Rank,Rank,Rank,Rank,17,2,TI2
+TI,CHL,All,2014,Rank,Rank,Rank,Rank,21,2,TI2
+TI,URY,All,2014,Rank,Rank,Rank,Rank,21,2,TI2
+TI,AUT,All,2014,Rank,Rank,Rank,Rank,23,2,TI2
+TI,BHS,All,2014,Rank,Rank,Rank,Rank,24,2,TI2
+TI,ARE,All,2014,Rank,Rank,Rank,Rank,25,2,TI2
+TI,EST,All,2014,Rank,Rank,Rank,Rank,26,2,TI2
+TI,FRA,All,2014,Rank,Rank,Rank,Rank,26,2,TI2
+TI,QAT,All,2014,Rank,Rank,Rank,Rank,26,2,TI2
+TI,VCT,All,2014,Rank,Rank,Rank,Rank,29,2,TI2
+TI,BTN,All,2014,Rank,Rank,Rank,Rank,30,2,TI2
+TI,BWA,All,2014,Rank,Rank,Rank,Rank,31,2,TI2
+TI,CYP,All,2014,Rank,Rank,Rank,Rank,31,2,TI2
+TI,PRT,All,2014,Rank,Rank,Rank,Rank,31,2,TI2
+TI,PRI,All,2014,Rank,Rank,Rank,Rank,31,2,TI2
+TI,POL,All,2014,Rank,Rank,Rank,Rank,35,2,TI2
+TI,TWN,All,2014,Rank,Rank,Rank,Rank,35,2,TI2
+TI,ISR,All,2014,Rank,Rank,Rank,Rank,37,2,TI2
+TI,ESP,All,2014,Rank,Rank,Rank,Rank,37,2,TI2
+TI,DMA,All,2014,Rank,Rank,Rank,Rank,39,2,TI2
+TI,LTU,All,2014,Rank,Rank,Rank,Rank,39,2,TI2
+TI,SVN,All,2014,Rank,Rank,Rank,Rank,39,2,TI2
+TI,CPV,All,2014,Rank,Rank,Rank,Rank,42,2,TI2
+TI,LVA,All,2014,Rank,Rank,Rank,Rank,43,2,TI2
+TI,MLT,All,2014,Rank,Rank,Rank,Rank,43,2,TI2
+TI,SYC,All,2014,Rank,Rank,Rank,Rank,43,2,TI2
+TI,CRI,All,2014,Rank,Rank,Rank,Rank,47,2,TI2
+TI,HUN,All,2014,Rank,Rank,Rank,Rank,47,2,TI2
+TI,MUS,All,2014,Rank,Rank,Rank,Rank,47,2,TI2
+TI,GEO,All,2014,Rank,Rank,Rank,Rank,50,2,TI2
+TI,MYS,All,2014,Rank,Rank,Rank,Rank,50,2,TI2
+TI,WSM,All,2014,Rank,Rank,Rank,Rank,50,2,TI2
+TI,CZE,All,2014,Rank,Rank,Rank,Rank,53,2,TI2
+TI,SVK,All,2014,Rank,Rank,Rank,Rank,54,2,TI2
+TI,BHR,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,JOR,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,LSO,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,NAM,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,RWA,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,SAU,All,2014,Rank,Rank,Rank,Rank,55,2,TI2
+TI,HRV,All,2014,Rank,Rank,Rank,Rank,61,2,TI2
+TI,GHA,All,2014,Rank,Rank,Rank,Rank,61,2,TI2
+TI,CUB,All,2014,Rank,Rank,Rank,Rank,63,2,TI2
+TI,OMN,All,2014,Rank,Rank,Rank,Rank,64,2,TI2
+TI,TUR,All,2014,Rank,Rank,Rank,Rank,64,2,TI2
+TI,KWT,All,2014,Rank,Rank,Rank,Rank,67,2,TI2
+TI,ZAF,All,2014,Rank,Rank,Rank,Rank,67,2,TI2
+TI,BRA,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,BGR,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,GRC,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,ITA,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,ROM,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,SEN,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,SWZ,All,2014,Rank,Rank,Rank,Rank,69,2,TI2
+TI,MNE,All,2014,Rank,Rank,Rank,Rank,76,2,TI2
+TI,STP,All,2014,Rank,Rank,Rank,Rank,76,2,TI2
+TI,SRB,All,2014,Rank,Rank,Rank,Rank,78,2,TI2
+TI,TUN,All,2014,Rank,Rank,Rank,Rank,79,2,TI2
+TI,BEN,All,2014,Rank,Rank,Rank,Rank,80,2,TI2
+TI,BIH,All,2014,Rank,Rank,Rank,Rank,80,2,TI2
+TI,SLV,All,2014,Rank,Rank,Rank,Rank,80,2,TI2
+TI,MNG,All,2014,Rank,Rank,Rank,Rank,80,2,TI2
+TI,MAR,All,2014,Rank,Rank,Rank,Rank,80,2,TI2
+TI,BFA,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,IND,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,JAM,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,PER,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,PHL,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,LKA,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,THA,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,TTO,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,ZMB,All,2014,Rank,Rank,Rank,Rank,85,2,TI2
+TI,ARM,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,COL,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,EGY,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,GAB,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,LBR,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,PAN,All,2014,Rank,Rank,Rank,Rank,94,2,TI2
+TI,DZA,All,2014,Rank,Rank,Rank,Rank,100,2,TI2
+TI,CHN,All,2014,Rank,Rank,Rank,Rank,100,2,TI2
+TI,SUR,All,2014,Rank,Rank,Rank,Rank,100,2,TI2
+TI,BOL,All,2014,Rank,Rank,Rank,Rank,103,2,TI2
+TI,MEX,All,2014,Rank,Rank,Rank,Rank,103,2,TI2
+TI,MDA,All,2014,Rank,Rank,Rank,Rank,103,2,TI2
+TI,NER,All,2014,Rank,Rank,Rank,Rank,103,2,TI2
+TI,ARG,All,2014,Rank,Rank,Rank,Rank,107,2,TI2
+TI,DJI,All,2014,Rank,Rank,Rank,Rank,107,2,TI2
+TI,IDN,All,2014,Rank,Rank,Rank,Rank,107,2,TI2
+TI,ALB,All,2014,Rank,Rank,Rank,Rank,110,2,TI2
+TI,ECU,All,2014,Rank,Rank,Rank,Rank,110,2,TI2
+TI,ETH,All,2014,Rank,Rank,Rank,Rank,110,2,TI2
+TI,KSV,All,2014,Rank,Rank,Rank,Rank,110,2,TI2
+TI,MWI,All,2014,Rank,Rank,Rank,Rank,110,2,TI2
+TI,DOM,All,2014,Rank,Rank,Rank,Rank,115,2,TI2
+TI,GTM,All,2014,Rank,Rank,Rank,Rank,115,2,TI2
+TI,MLI,All,2014,Rank,Rank,Rank,Rank,115,2,TI2
+TI,BLR,All,2014,Rank,Rank,Rank,Rank,119,2,TI2
+TI,MOZ,All,2014,Rank,Rank,Rank,Rank,119,2,TI2
+TI,SLE,All,2014,Rank,Rank,Rank,Rank,119,2,TI2
+TI,TZA,All,2014,Rank,Rank,Rank,Rank,119,2,TI2
+TI,VNM,All,2014,Rank,Rank,Rank,Rank,119,2,TI2
+TI,GUY,All,2014,Rank,Rank,Rank,Rank,124,2,TI2
+TI,MRT,All,2014,Rank,Rank,Rank,Rank,124,2,TI2
+TI,AZE,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,GMB,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,HND,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,KAZ,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,NPL,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,PAK,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,TGO,All,2014,Rank,Rank,Rank,Rank,126,2,TI2
+TI,MDG,All,2014,Rank,Rank,Rank,Rank,133,2,TI2
+TI,NIC,All,2014,Rank,Rank,Rank,Rank,133,2,TI2
+TI,TMP,All,2014,Rank,Rank,Rank,Rank,133,2,TI2
+TI,CMR,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,IRN,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,KGZ,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,LBN,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,NGA,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,RUS,All,2014,Rank,Rank,Rank,Rank,136,2,TI2
+TI,COM,All,2014,Rank,Rank,Rank,Rank,142,2,TI2
+TI,UGA,All,2014,Rank,Rank,Rank,Rank,142,2,TI2
+TI,UKR,All,2014,Rank,Rank,Rank,Rank,142,2,TI2
+TI,BGD,All,2014,Rank,Rank,Rank,Rank,145,2,TI2
+TI,GIN,All,2014,Rank,Rank,Rank,Rank,145,2,TI2
+TI,KEN,All,2014,Rank,Rank,Rank,Rank,145,2,TI2
+TI,LAO,All,2014,Rank,Rank,Rank,Rank,145,2,TI2
+TI,PNG,All,2014,Rank,Rank,Rank,Rank,145,2,TI2
+TI,CAF,All,2014,Rank,Rank,Rank,Rank,150,2,TI2
+TI,PRY,All,2014,Rank,Rank,Rank,Rank,150,2,TI2
+TI,TJK,All,2014,Rank,Rank,Rank,Rank,152,2,TI2
+TI,TCD,All,2014,Rank,Rank,Rank,Rank,154,2,TI2
+TI,ZAR,All,2014,Rank,Rank,Rank,Rank,154,2,TI2
+TI,KHM,All,2014,Rank,Rank,Rank,Rank,156,2,TI2
+TI,MMR,All,2014,Rank,Rank,Rank,Rank,156,2,TI2
+TI,ZWE,All,2014,Rank,Rank,Rank,Rank,156,2,TI2
+TI,BDI,All,2014,Rank,Rank,Rank,Rank,159,2,TI2
+TI,SYR,All,2014,Rank,Rank,Rank,Rank,159,2,TI2
+TI,AGO,All,2014,Rank,Rank,Rank,Rank,161,2,TI2
+TI,GNB,All,2014,Rank,Rank,Rank,Rank,161,2,TI2
+TI,HTI,All,2014,Rank,Rank,Rank,Rank,161,2,TI2
+TI,VEN,All,2014,Rank,Rank,Rank,Rank,161,2,TI2
+TI,YEM,All,2014,Rank,Rank,Rank,Rank,161,2,TI2
+TI,ERI,All,2014,Rank,Rank,Rank,Rank,166,2,TI2
+TI,LBY,All,2014,Rank,Rank,Rank,Rank,166,2,TI2
+TI,UZB,All,2014,Rank,Rank,Rank,Rank,166,2,TI2
+TI,TKM,All,2014,Rank,Rank,Rank,Rank,169,2,TI2
+TI,IRQ,All,2014,Rank,Rank,Rank,Rank,170,2,TI2
+TI,SSD,All,2014,Rank,Rank,Rank,Rank,171,2,TI2
+TI,AFG,All,2014,Rank,Rank,Rank,Rank,172,2,TI2
+TI,SDN,All,2014,Rank,Rank,Rank,Rank,173,2,TI2
+TI,SOM,All,2014,Rank,Rank,Rank,Rank,174,2,TI2
+TI,DNK,All,2013,CPI,CPI Score,CPI,CPI,91,1,TI1
+TI,NZL,All,2013,CPI,CPI Score,CPI,CPI,91,1,TI1
+TI,FIN,All,2013,CPI,CPI Score,CPI,CPI,89,1,TI1
+TI,SWE,All,2013,CPI,CPI Score,CPI,CPI,89,1,TI1
+TI,NOR,All,2013,CPI,CPI Score,CPI,CPI,86,1,TI1
+TI,SGP,All,2013,CPI,CPI Score,CPI,CPI,86,1,TI1
+TI,CHE,All,2013,CPI,CPI Score,CPI,CPI,85,1,TI1
+TI,NLD,All,2013,CPI,CPI Score,CPI,CPI,83,1,TI1
+TI,AUS,All,2013,CPI,CPI Score,CPI,CPI,81,1,TI1
+TI,CAN,All,2013,CPI,CPI Score,CPI,CPI,81,1,TI1
+TI,LUX,All,2013,CPI,CPI Score,CPI,CPI,80,1,TI1
+TI,DEU,All,2013,CPI,CPI Score,CPI,CPI,78,1,TI1
+TI,ISL,All,2013,CPI,CPI Score,CPI,CPI,78,1,TI1
+TI,GBR,All,2013,CPI,CPI Score,CPI,CPI,76,1,TI1
+TI,BRB,All,2013,CPI,CPI Score,CPI,CPI,75,1,TI1
+TI,BEL,All,2013,CPI,CPI Score,CPI,CPI,75,1,TI1
+TI,HKG,All,2013,CPI,CPI Score,CPI,CPI,75,1,TI1
+TI,JPN,All,2013,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,URY,All,2013,CPI,CPI Score,CPI,CPI,73,1,TI1
+TI,USA,All,2013,CPI,CPI Score,CPI,CPI,73,1,TI1
+TI,IRL,All,2013,CPI,CPI Score,CPI,CPI,72,1,TI1
+TI,BHS,All,2013,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,CHL,All,2013,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,FRA,All,2013,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,LCA,All,2013,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,AUT,All,2013,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,ARE,All,2013,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,EST,All,2013,CPI,CPI Score,CPI,CPI,68,1,TI1
+TI,QAT,All,2013,CPI,CPI Score,CPI,CPI,68,1,TI1
+TI,BWA,All,2013,CPI,CPI Score,CPI,CPI,64,1,TI1
+TI,BTN,All,2013,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,CYP,All,2013,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,PRT,All,2013,CPI,CPI Score,CPI,CPI,62,1,TI1
+TI,PRI,All,2013,CPI,CPI Score,CPI,CPI,62,1,TI1
+TI,VCT,All,2013,CPI,CPI Score,CPI,CPI,62,1,TI1
+TI,ISR,All,2013,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,TWN,All,2013,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,BRN,All,2013,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,POL,All,2013,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,ESP,All,2013,CPI,CPI Score,CPI,CPI,59,1,TI1
+TI,CPV,All,2013,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,DMA,All,2013,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,LTU,All,2013,CPI,CPI Score,CPI,CPI,57,1,TI1
+TI,SVN,All,2013,CPI,CPI Score,CPI,CPI,57,1,TI1
+TI,MLT,All,2013,CPI,CPI Score,CPI,CPI,56,1,TI1
+TI,HUN,All,2013,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,SYC,All,2013,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,CRI,All,2013,CPI,CPI Score,CPI,CPI,53,1,TI1
+TI,LVA,All,2013,CPI,CPI Score,CPI,CPI,53,1,TI1
+TI,RWA,All,2013,CPI,CPI Score,CPI,CPI,53,1,TI1
+TI,MUS,All,2013,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,MYS,All,2013,CPI,CPI Score,CPI,CPI,50,1,TI1
+TI,TUR,All,2013,CPI,CPI Score,CPI,CPI,50,1,TI1
+TI,GEO,All,2013,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,LSO,All,2013,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,BHR,All,2013,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,HRV,All,2013,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,CZE,All,2013,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,NAM,All,2013,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,OMN,All,2013,CPI,CPI Score,CPI,CPI,47,1,TI1
+TI,SVK,All,2013,CPI,CPI Score,CPI,CPI,47,1,TI1
+TI,CUB,All,2013,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,GHA,All,2013,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,SAU,All,2013,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,JOR,All,2013,CPI,CPI Score,CPI,CPI,45,1,TI1
+TI,MKD,All,2013,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,MNE,All,2013,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,ITA,All,2013,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,KWT,All,2013,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,ROM,All,2013,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,BIH,All,2013,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,BRA,All,2013,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,STP,All,2013,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,SRB,All,2013,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,ZAF,All,2013,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,BGR,All,2013,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,SEN,All,2013,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,TUN,All,2013,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,CHN,All,2013,CPI,CPI Score,CPI,CPI,40,1,TI1
+TI,GRC,All,2013,CPI,CPI Score,CPI,CPI,40,1,TI1
+TI,SWZ,All,2013,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,BFA,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,SLV,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,JAM,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,LBR,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,MNG,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,PER,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,TTO,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,ZMB,All,2013,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,MWI,All,2013,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,MAR,All,2013,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,LKA,All,2013,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,DZA,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,ARM,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,BEN,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,COL,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,DJI,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,IND,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,PHL,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,SUR,All,2013,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,ECU,All,2013,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,MDA,All,2013,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,PAN,All,2013,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,THA,All,2013,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,ARG,All,2013,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,BOL,All,2013,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,GAB,All,2013,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,MEX,All,2013,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,NER,All,2013,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,ETH,All,2013,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,KSV,All,2013,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,TZA,All,2013,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,EGY,All,2013,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,IDN,All,2013,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,ALB,All,2013,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,NPL,All,2013,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,VNM,All,2013,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,MRT,All,2013,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,MOZ,All,2013,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,SLE,All,2013,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,TMP,All,2013,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,BLR,All,2013,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,DOM,All,2013,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,GTM,All,2013,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,TGO,All,2013,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,AZE,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,COM,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,GMB,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,LBN,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,MDG,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,MLI,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,NIC,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,PAK,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,RUS,All,2013,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,BGD,All,2013,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,GUY,All,2013,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,KEN,All,2013,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,HND,All,2013,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,KAZ,All,2013,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,LAO,All,2013,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,UGA,All,2013,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,CMR,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,CAF,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,IRN,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,NGA,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,PNG,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,UKR,All,2013,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,GIN,All,2013,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,KGZ,All,2013,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,PRY,All,2013,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,AGO,All,2013,CPI,CPI Score,CPI,CPI,23,1,TI1
+TI,ZAR,All,2013,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,TJK,All,2013,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,BDI,All,2013,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,MMR,All,2013,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,ZWE,All,2013,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,KHM,All,2013,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,ERI,All,2013,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,VEN,All,2013,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,TCD,All,2013,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,GNQ,All,2013,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,GNB,All,2013,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,HTI,All,2013,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,YEM,All,2013,CPI,CPI Score,CPI,CPI,18,1,TI1
+TI,SYR,All,2013,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,TKM,All,2013,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,UZB,All,2013,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,IRQ,All,2013,CPI,CPI Score,CPI,CPI,16,1,TI1
+TI,LBY,All,2013,CPI,CPI Score,CPI,CPI,15,1,TI1
+TI,SSD,All,2013,CPI,CPI Score,CPI,CPI,14,1,TI1
+TI,SDN,All,2013,CPI,CPI Score,CPI,CPI,11,1,TI1
+TI,AFG,All,2013,CPI,CPI Score,CPI,CPI,8,1,TI1
+TI,SOM,All,2013,CPI,CPI Score,CPI,CPI,8,1,TI1
+TI,DNK,All,2013,Rank,Rank,Rank,Rank,1,2,TI2
+TI,NZL,All,2013,Rank,Rank,Rank,Rank,1,2,TI2
+TI,FIN,All,2013,Rank,Rank,Rank,Rank,3,2,TI2
+TI,SWE,All,2013,Rank,Rank,Rank,Rank,3,2,TI2
+TI,NOR,All,2013,Rank,Rank,Rank,Rank,5,2,TI2
+TI,SGP,All,2013,Rank,Rank,Rank,Rank,5,2,TI2
+TI,CHE,All,2013,Rank,Rank,Rank,Rank,7,2,TI2
+TI,NLD,All,2013,Rank,Rank,Rank,Rank,8,2,TI2
+TI,AUS,All,2013,Rank,Rank,Rank,Rank,9,2,TI2
+TI,CAN,All,2013,Rank,Rank,Rank,Rank,9,2,TI2
+TI,LUX,All,2013,Rank,Rank,Rank,Rank,11,2,TI2
+TI,DEU,All,2013,Rank,Rank,Rank,Rank,12,2,TI2
+TI,ISL,All,2013,Rank,Rank,Rank,Rank,12,2,TI2
+TI,GBR,All,2013,Rank,Rank,Rank,Rank,14,2,TI2
+TI,BRB,All,2013,Rank,Rank,Rank,Rank,15,2,TI2
+TI,BEL,All,2013,Rank,Rank,Rank,Rank,15,2,TI2
+TI,HKG,All,2013,Rank,Rank,Rank,Rank,15,2,TI2
+TI,JPN,All,2013,Rank,Rank,Rank,Rank,18,2,TI2
+TI,URY,All,2013,Rank,Rank,Rank,Rank,19,2,TI2
+TI,USA,All,2013,Rank,Rank,Rank,Rank,19,2,TI2
+TI,IRL,All,2013,Rank,Rank,Rank,Rank,21,2,TI2
+TI,BHS,All,2013,Rank,Rank,Rank,Rank,22,2,TI2
+TI,CHL,All,2013,Rank,Rank,Rank,Rank,22,2,TI2
+TI,FRA,All,2013,Rank,Rank,Rank,Rank,22,2,TI2
+TI,LCA,All,2013,Rank,Rank,Rank,Rank,22,2,TI2
+TI,AUT,All,2013,Rank,Rank,Rank,Rank,26,2,TI2
+TI,ARE,All,2013,Rank,Rank,Rank,Rank,26,2,TI2
+TI,EST,All,2013,Rank,Rank,Rank,Rank,28,2,TI2
+TI,QAT,All,2013,Rank,Rank,Rank,Rank,28,2,TI2
+TI,BWA,All,2013,Rank,Rank,Rank,Rank,30,2,TI2
+TI,BTN,All,2013,Rank,Rank,Rank,Rank,31,2,TI2
+TI,CYP,All,2013,Rank,Rank,Rank,Rank,31,2,TI2
+TI,PRT,All,2013,Rank,Rank,Rank,Rank,33,2,TI2
+TI,PRI,All,2013,Rank,Rank,Rank,Rank,33,2,TI2
+TI,VCT,All,2013,Rank,Rank,Rank,Rank,33,2,TI2
+TI,ISR,All,2013,Rank,Rank,Rank,Rank,36,2,TI2
+TI,TWN,All,2013,Rank,Rank,Rank,Rank,36,2,TI2
+TI,BRN,All,2013,Rank,Rank,Rank,Rank,38,2,TI2
+TI,POL,All,2013,Rank,Rank,Rank,Rank,38,2,TI2
+TI,ESP,All,2013,Rank,Rank,Rank,Rank,40,2,TI2
+TI,CPV,All,2013,Rank,Rank,Rank,Rank,41,2,TI2
+TI,DMA,All,2013,Rank,Rank,Rank,Rank,41,2,TI2
+TI,LTU,All,2013,Rank,Rank,Rank,Rank,43,2,TI2
+TI,SVN,All,2013,Rank,Rank,Rank,Rank,43,2,TI2
+TI,MLT,All,2013,Rank,Rank,Rank,Rank,45,2,TI2
+TI,HUN,All,2013,Rank,Rank,Rank,Rank,47,2,TI2
+TI,SYC,All,2013,Rank,Rank,Rank,Rank,47,2,TI2
+TI,CRI,All,2013,Rank,Rank,Rank,Rank,49,2,TI2
+TI,LVA,All,2013,Rank,Rank,Rank,Rank,49,2,TI2
+TI,RWA,All,2013,Rank,Rank,Rank,Rank,49,2,TI2
+TI,MUS,All,2013,Rank,Rank,Rank,Rank,52,2,TI2
+TI,MYS,All,2013,Rank,Rank,Rank,Rank,53,2,TI2
+TI,TUR,All,2013,Rank,Rank,Rank,Rank,53,2,TI2
+TI,GEO,All,2013,Rank,Rank,Rank,Rank,55,2,TI2
+TI,LSO,All,2013,Rank,Rank,Rank,Rank,55,2,TI2
+TI,BHR,All,2013,Rank,Rank,Rank,Rank,57,2,TI2
+TI,HRV,All,2013,Rank,Rank,Rank,Rank,57,2,TI2
+TI,CZE,All,2013,Rank,Rank,Rank,Rank,57,2,TI2
+TI,NAM,All,2013,Rank,Rank,Rank,Rank,57,2,TI2
+TI,OMN,All,2013,Rank,Rank,Rank,Rank,61,2,TI2
+TI,SVK,All,2013,Rank,Rank,Rank,Rank,61,2,TI2
+TI,CUB,All,2013,Rank,Rank,Rank,Rank,63,2,TI2
+TI,GHA,All,2013,Rank,Rank,Rank,Rank,63,2,TI2
+TI,SAU,All,2013,Rank,Rank,Rank,Rank,63,2,TI2
+TI,JOR,All,2013,Rank,Rank,Rank,Rank,66,2,TI2
+TI,MKD,All,2013,Rank,Rank,Rank,Rank,67,2,TI2
+TI,MNE,All,2013,Rank,Rank,Rank,Rank,67,2,TI2
+TI,ITA,All,2013,Rank,Rank,Rank,Rank,69,2,TI2
+TI,KWT,All,2013,Rank,Rank,Rank,Rank,69,2,TI2
+TI,ROM,All,2013,Rank,Rank,Rank,Rank,69,2,TI2
+TI,BIH,All,2013,Rank,Rank,Rank,Rank,72,2,TI2
+TI,BRA,All,2013,Rank,Rank,Rank,Rank,72,2,TI2
+TI,STP,All,2013,Rank,Rank,Rank,Rank,72,2,TI2
+TI,SRB,All,2013,Rank,Rank,Rank,Rank,72,2,TI2
+TI,ZAF,All,2013,Rank,Rank,Rank,Rank,72,2,TI2
+TI,BGR,All,2013,Rank,Rank,Rank,Rank,77,2,TI2
+TI,SEN,All,2013,Rank,Rank,Rank,Rank,77,2,TI2
+TI,TUN,All,2013,Rank,Rank,Rank,Rank,77,2,TI2
+TI,CHN,All,2013,Rank,Rank,Rank,Rank,80,2,TI2
+TI,GRC,All,2013,Rank,Rank,Rank,Rank,80,2,TI2
+TI,SWZ,All,2013,Rank,Rank,Rank,Rank,82,2,TI2
+TI,BFA,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,SLV,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,JAM,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,LBR,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,MNG,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,PER,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,TTO,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,ZMB,All,2013,Rank,Rank,Rank,Rank,83,2,TI2
+TI,MWI,All,2013,Rank,Rank,Rank,Rank,91,2,TI2
+TI,MAR,All,2013,Rank,Rank,Rank,Rank,91,2,TI2
+TI,LKA,All,2013,Rank,Rank,Rank,Rank,91,2,TI2
+TI,DZA,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,ARM,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,BEN,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,COL,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,DJI,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,IND,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,PHL,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,SUR,All,2013,Rank,Rank,Rank,Rank,94,2,TI2
+TI,ECU,All,2013,Rank,Rank,Rank,Rank,102,2,TI2
+TI,MDA,All,2013,Rank,Rank,Rank,Rank,102,2,TI2
+TI,PAN,All,2013,Rank,Rank,Rank,Rank,102,2,TI2
+TI,THA,All,2013,Rank,Rank,Rank,Rank,102,2,TI2
+TI,ARG,All,2013,Rank,Rank,Rank,Rank,106,2,TI2
+TI,BOL,All,2013,Rank,Rank,Rank,Rank,106,2,TI2
+TI,GAB,All,2013,Rank,Rank,Rank,Rank,106,2,TI2
+TI,MEX,All,2013,Rank,Rank,Rank,Rank,106,2,TI2
+TI,NER,All,2013,Rank,Rank,Rank,Rank,106,2,TI2
+TI,ETH,All,2013,Rank,Rank,Rank,Rank,111,2,TI2
+TI,KSV,All,2013,Rank,Rank,Rank,Rank,111,2,TI2
+TI,TZA,All,2013,Rank,Rank,Rank,Rank,111,2,TI2
+TI,EGY,All,2013,Rank,Rank,Rank,Rank,114,2,TI2
+TI,IDN,All,2013,Rank,Rank,Rank,Rank,114,2,TI2
+TI,ALB,All,2013,Rank,Rank,Rank,Rank,116,2,TI2
+TI,NPL,All,2013,Rank,Rank,Rank,Rank,116,2,TI2
+TI,VNM,All,2013,Rank,Rank,Rank,Rank,116,2,TI2
+TI,MRT,All,2013,Rank,Rank,Rank,Rank,119,2,TI2
+TI,MOZ,All,2013,Rank,Rank,Rank,Rank,119,2,TI2
+TI,SLE,All,2013,Rank,Rank,Rank,Rank,119,2,TI2
+TI,TMP,All,2013,Rank,Rank,Rank,Rank,119,2,TI2
+TI,BLR,All,2013,Rank,Rank,Rank,Rank,123,2,TI2
+TI,DOM,All,2013,Rank,Rank,Rank,Rank,123,2,TI2
+TI,GTM,All,2013,Rank,Rank,Rank,Rank,123,2,TI2
+TI,TGO,All,2013,Rank,Rank,Rank,Rank,123,2,TI2
+TI,AZE,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,COM,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,GMB,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,LBN,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,MDG,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,MLI,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,NIC,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,PAK,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,RUS,All,2013,Rank,Rank,Rank,Rank,127,2,TI2
+TI,BGD,All,2013,Rank,Rank,Rank,Rank,136,2,TI2
+TI,GUY,All,2013,Rank,Rank,Rank,Rank,136,2,TI2
+TI,KEN,All,2013,Rank,Rank,Rank,Rank,136,2,TI2
+TI,HND,All,2013,Rank,Rank,Rank,Rank,140,2,TI2
+TI,KAZ,All,2013,Rank,Rank,Rank,Rank,140,2,TI2
+TI,LAO,All,2013,Rank,Rank,Rank,Rank,140,2,TI2
+TI,UGA,All,2013,Rank,Rank,Rank,Rank,140,2,TI2
+TI,CMR,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,CAF,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,IRN,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,NGA,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,PNG,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,UKR,All,2013,Rank,Rank,Rank,Rank,144,2,TI2
+TI,GIN,All,2013,Rank,Rank,Rank,Rank,150,2,TI2
+TI,KGZ,All,2013,Rank,Rank,Rank,Rank,150,2,TI2
+TI,PRY,All,2013,Rank,Rank,Rank,Rank,150,2,TI2
+TI,AGO,All,2013,Rank,Rank,Rank,Rank,153,2,TI2
+TI,ZAR,All,2013,Rank,Rank,Rank,Rank,154,2,TI2
+TI,TJK,All,2013,Rank,Rank,Rank,Rank,154,2,TI2
+TI,BDI,All,2013,Rank,Rank,Rank,Rank,157,2,TI2
+TI,MMR,All,2013,Rank,Rank,Rank,Rank,157,2,TI2
+TI,ZWE,All,2013,Rank,Rank,Rank,Rank,157,2,TI2
+TI,KHM,All,2013,Rank,Rank,Rank,Rank,160,2,TI2
+TI,ERI,All,2013,Rank,Rank,Rank,Rank,160,2,TI2
+TI,VEN,All,2013,Rank,Rank,Rank,Rank,160,2,TI2
+TI,TCD,All,2013,Rank,Rank,Rank,Rank,163,2,TI2
+TI,GNQ,All,2013,Rank,Rank,Rank,Rank,163,2,TI2
+TI,GNB,All,2013,Rank,Rank,Rank,Rank,163,2,TI2
+TI,HTI,All,2013,Rank,Rank,Rank,Rank,163,2,TI2
+TI,YEM,All,2013,Rank,Rank,Rank,Rank,167,2,TI2
+TI,SYR,All,2013,Rank,Rank,Rank,Rank,168,2,TI2
+TI,TKM,All,2013,Rank,Rank,Rank,Rank,168,2,TI2
+TI,UZB,All,2013,Rank,Rank,Rank,Rank,168,2,TI2
+TI,IRQ,All,2013,Rank,Rank,Rank,Rank,171,2,TI2
+TI,LBY,All,2013,Rank,Rank,Rank,Rank,172,2,TI2
+TI,SSD,All,2013,Rank,Rank,Rank,Rank,173,2,TI2
+TI,SDN,All,2013,Rank,Rank,Rank,Rank,174,2,TI2
+TI,AFG,All,2013,Rank,Rank,Rank,Rank,175,2,TI2
+TI,SOM,All,2013,Rank,Rank,Rank,Rank,175,2,TI2
+TI,DNK,All,2012,CPI,CPI Score,CPI,CPI,90,1,TI1
+TI,FIN,All,2012,CPI,CPI Score,CPI,CPI,90,1,TI1
+TI,NZL,All,2012,CPI,CPI Score,CPI,CPI,90,1,TI1
+TI,SWE,All,2012,CPI,CPI Score,CPI,CPI,88,1,TI1
+TI,SGP,All,2012,CPI,CPI Score,CPI,CPI,87,1,TI1
+TI,CHE,All,2012,CPI,CPI Score,CPI,CPI,86,1,TI1
+TI,AUS,All,2012,CPI,CPI Score,CPI,CPI,85,1,TI1
+TI,NOR,All,2012,CPI,CPI Score,CPI,CPI,85,1,TI1
+TI,CAN,All,2012,CPI,CPI Score,CPI,CPI,84,1,TI1
+TI,NLD,All,2012,CPI,CPI Score,CPI,CPI,84,1,TI1
+TI,ISL,All,2012,CPI,CPI Score,CPI,CPI,82,1,TI1
+TI,LUX,All,2012,CPI,CPI Score,CPI,CPI,80,1,TI1
+TI,DEU,All,2012,CPI,CPI Score,CPI,CPI,79,1,TI1
+TI,HKG,All,2012,CPI,CPI Score,CPI,CPI,77,1,TI1
+TI,BRB,All,2012,CPI,CPI Score,CPI,CPI,76,1,TI1
+TI,BEL,All,2012,CPI,CPI Score,CPI,CPI,75,1,TI1
+TI,JPN,All,2012,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,GBR,All,2012,CPI,CPI Score,CPI,CPI,74,1,TI1
+TI,USA,All,2012,CPI,CPI Score,CPI,CPI,73,1,TI1
+TI,CHL,All,2012,CPI,CPI Score,CPI,CPI,72,1,TI1
+TI,URY,All,2012,CPI,CPI Score,CPI,CPI,72,1,TI1
+TI,BHS,All,2012,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,FRA,All,2012,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,LCA,All,2012,CPI,CPI Score,CPI,CPI,71,1,TI1
+TI,AUT,All,2012,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,IRL,All,2012,CPI,CPI Score,CPI,CPI,69,1,TI1
+TI,QAT,All,2012,CPI,CPI Score,CPI,CPI,68,1,TI1
+TI,ARE,All,2012,CPI,CPI Score,CPI,CPI,68,1,TI1
+TI,CYP,All,2012,CPI,CPI Score,CPI,CPI,66,1,TI1
+TI,BWA,All,2012,CPI,CPI Score,CPI,CPI,65,1,TI1
+TI,ESP,All,2012,CPI,CPI Score,CPI,CPI,65,1,TI1
+TI,EST,All,2012,CPI,CPI Score,CPI,CPI,64,1,TI1
+TI,BTN,All,2012,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,PRT,All,2012,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,PRI,All,2012,CPI,CPI Score,CPI,CPI,63,1,TI1
+TI,VCT,All,2012,CPI,CPI Score,CPI,CPI,62,1,TI1
+TI,SVN,All,2012,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,TWN,All,2012,CPI,CPI Score,CPI,CPI,61,1,TI1
+TI,CPV,All,2012,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,ISR,All,2012,CPI,CPI Score,CPI,CPI,60,1,TI1
+TI,DMA,All,2012,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,POL,All,2012,CPI,CPI Score,CPI,CPI,58,1,TI1
+TI,MLT,All,2012,CPI,CPI Score,CPI,CPI,57,1,TI1
+TI,MUS,All,2012,CPI,CPI Score,CPI,CPI,57,1,TI1
+TI,BRN,All,2012,CPI,CPI Score,CPI,CPI,55,1,TI1
+TI,HUN,All,2012,CPI,CPI Score,CPI,CPI,55,1,TI1
+TI,CRI,All,2012,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,LTU,All,2012,CPI,CPI Score,CPI,CPI,54,1,TI1
+TI,RWA,All,2012,CPI,CPI Score,CPI,CPI,53,1,TI1
+TI,GEO,All,2012,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,SYC,All,2012,CPI,CPI Score,CPI,CPI,52,1,TI1
+TI,BHR,All,2012,CPI,CPI Score,CPI,CPI,51,1,TI1
+TI,CZE,All,2012,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,LVA,All,2012,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,MYS,All,2012,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,TUR,All,2012,CPI,CPI Score,CPI,CPI,49,1,TI1
+TI,CUB,All,2012,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,JOR,All,2012,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,NAM,All,2012,CPI,CPI Score,CPI,CPI,48,1,TI1
+TI,OMN,All,2012,CPI,CPI Score,CPI,CPI,47,1,TI1
+TI,HRV,All,2012,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,SVK,All,2012,CPI,CPI Score,CPI,CPI,46,1,TI1
+TI,GHA,All,2012,CPI,CPI Score,CPI,CPI,45,1,TI1
+TI,LSO,All,2012,CPI,CPI Score,CPI,CPI,45,1,TI1
+TI,KWT,All,2012,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,ROM,All,2012,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,SAU,All,2012,CPI,CPI Score,CPI,CPI,44,1,TI1
+TI,BRA,All,2012,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,MKD,All,2012,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,ZAF,All,2012,CPI,CPI Score,CPI,CPI,43,1,TI1
+TI,BIH,All,2012,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,ITA,All,2012,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,STP,All,2012,CPI,CPI Score,CPI,CPI,42,1,TI1
+TI,BGR,All,2012,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,LBR,All,2012,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,MNE,All,2012,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,TUN,All,2012,CPI,CPI Score,CPI,CPI,41,1,TI1
+TI,LKA,All,2012,CPI,CPI Score,CPI,CPI,40,1,TI1
+TI,CHN,All,2012,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,SRB,All,2012,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,TTO,All,2012,CPI,CPI Score,CPI,CPI,39,1,TI1
+TI,BFA,All,2012,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,SLV,All,2012,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,JAM,All,2012,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,PAN,All,2012,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,PER,All,2012,CPI,CPI Score,CPI,CPI,38,1,TI1
+TI,MWI,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,MAR,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,SUR,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,SWZ,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,THA,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,ZMB,All,2012,CPI,CPI Score,CPI,CPI,37,1,TI1
+TI,BEN,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,COL,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,DJI,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,GRC,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,IND,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,MDA,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,MNG,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,SEN,All,2012,CPI,CPI Score,CPI,CPI,36,1,TI1
+TI,ARG,All,2012,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,GAB,All,2012,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,TZA,All,2012,CPI,CPI Score,CPI,CPI,35,1,TI1
+TI,DZA,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,ARM,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,BOL,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,GMB,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,KSV,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,MLI,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,MEX,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,PHL,All,2012,CPI,CPI Score,CPI,CPI,34,1,TI1
+TI,ALB,All,2012,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,ETH,All,2012,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,GTM,All,2012,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,NER,All,2012,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,TMP,All,2012,CPI,CPI Score,CPI,CPI,33,1,TI1
+TI,DOM,All,2012,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,ECU,All,2012,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,EGY,All,2012,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,IDN,All,2012,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,MDG,All,2012,CPI,CPI Score,CPI,CPI,32,1,TI1
+TI,BLR,All,2012,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,MRT,All,2012,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,MOZ,All,2012,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,SLE,All,2012,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,VNM,All,2012,CPI,CPI Score,CPI,CPI,31,1,TI1
+TI,LBN,All,2012,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,TGO,All,2012,CPI,CPI Score,CPI,CPI,30,1,TI1
+TI,NIC,All,2012,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,UGA,All,2012,CPI,CPI Score,CPI,CPI,29,1,TI1
+TI,COM,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,GUY,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,HND,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,IRN,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,KAZ,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,RUS,All,2012,CPI,CPI Score,CPI,CPI,28,1,TI1
+TI,AZE,All,2012,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,KEN,All,2012,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,NPL,All,2012,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,NGA,All,2012,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,PAK,All,2012,CPI,CPI Score,CPI,CPI,27,1,TI1
+TI,BGD,All,2012,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,CMR,All,2012,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,CAF,All,2012,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,SYR,All,2012,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,UKR,All,2012,CPI,CPI Score,CPI,CPI,26,1,TI1
+TI,ERI,All,2012,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,GNB,All,2012,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,PNG,All,2012,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,PRY,All,2012,CPI,CPI Score,CPI,CPI,25,1,TI1
+TI,GIN,All,2012,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,KGZ,All,2012,CPI,CPI Score,CPI,CPI,24,1,TI1
+TI,YEM,All,2012,CPI,CPI Score,CPI,CPI,23,1,TI1
+TI,AGO,All,2012,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,KHM,All,2012,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,TJK,All,2012,CPI,CPI Score,CPI,CPI,22,1,TI1
+TI,ZAR,All,2012,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,LAO,All,2012,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,LBY,All,2012,CPI,CPI Score,CPI,CPI,21,1,TI1
+TI,GNQ,All,2012,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,ZWE,All,2012,CPI,CPI Score,CPI,CPI,20,1,TI1
+TI,BDI,All,2012,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,TCD,All,2012,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,HTI,All,2012,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,VEN,All,2012,CPI,CPI Score,CPI,CPI,19,1,TI1
+TI,IRQ,All,2012,CPI,CPI Score,CPI,CPI,18,1,TI1
+TI,TKM,All,2012,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,UZB,All,2012,CPI,CPI Score,CPI,CPI,17,1,TI1
+TI,MMR,All,2012,CPI,CPI Score,CPI,CPI,15,1,TI1
+TI,SDN,All,2012,CPI,CPI Score,CPI,CPI,13,1,TI1
+TI,AFG,All,2012,CPI,CPI Score,CPI,CPI,8,1,TI1
+TI,SOM,All,2012,CPI,CPI Score,CPI,CPI,8,1,TI1
+TI,DNK,All,2012,Rank,Rank,Rank,Rank,1,2,TI2
+TI,FIN,All,2012,Rank,Rank,Rank,Rank,1,2,TI2
+TI,NZL,All,2012,Rank,Rank,Rank,Rank,1,2,TI2
+TI,SWE,All,2012,Rank,Rank,Rank,Rank,4,2,TI2
+TI,SGP,All,2012,Rank,Rank,Rank,Rank,5,2,TI2
+TI,CHE,All,2012,Rank,Rank,Rank,Rank,6,2,TI2
+TI,AUS,All,2012,Rank,Rank,Rank,Rank,7,2,TI2
+TI,NOR,All,2012,Rank,Rank,Rank,Rank,7,2,TI2
+TI,CAN,All,2012,Rank,Rank,Rank,Rank,9,2,TI2
+TI,NLD,All,2012,Rank,Rank,Rank,Rank,9,2,TI2
+TI,ISL,All,2012,Rank,Rank,Rank,Rank,11,2,TI2
+TI,LUX,All,2012,Rank,Rank,Rank,Rank,12,2,TI2
+TI,DEU,All,2012,Rank,Rank,Rank,Rank,13,2,TI2
+TI,HKG,All,2012,Rank,Rank,Rank,Rank,14,2,TI2
+TI,BRB,All,2012,Rank,Rank,Rank,Rank,15,2,TI2
+TI,BEL,All,2012,Rank,Rank,Rank,Rank,16,2,TI2
+TI,JPN,All,2012,Rank,Rank,Rank,Rank,17,2,TI2
+TI,GBR,All,2012,Rank,Rank,Rank,Rank,17,2,TI2
+TI,USA,All,2012,Rank,Rank,Rank,Rank,19,2,TI2
+TI,CHL,All,2012,Rank,Rank,Rank,Rank,20,2,TI2
+TI,URY,All,2012,Rank,Rank,Rank,Rank,20,2,TI2
+TI,BHS,All,2012,Rank,Rank,Rank,Rank,22,2,TI2
+TI,FRA,All,2012,Rank,Rank,Rank,Rank,22,2,TI2
+TI,LCA,All,2012,Rank,Rank,Rank,Rank,22,2,TI2
+TI,AUT,All,2012,Rank,Rank,Rank,Rank,25,2,TI2
+TI,IRL,All,2012,Rank,Rank,Rank,Rank,25,2,TI2
+TI,QAT,All,2012,Rank,Rank,Rank,Rank,27,2,TI2
+TI,ARE,All,2012,Rank,Rank,Rank,Rank,27,2,TI2
+TI,CYP,All,2012,Rank,Rank,Rank,Rank,29,2,TI2
+TI,BWA,All,2012,Rank,Rank,Rank,Rank,30,2,TI2
+TI,ESP,All,2012,Rank,Rank,Rank,Rank,30,2,TI2
+TI,EST,All,2012,Rank,Rank,Rank,Rank,32,2,TI2
+TI,BTN,All,2012,Rank,Rank,Rank,Rank,33,2,TI2
+TI,PRT,All,2012,Rank,Rank,Rank,Rank,33,2,TI2
+TI,PRI,All,2012,Rank,Rank,Rank,Rank,33,2,TI2
+TI,VCT,All,2012,Rank,Rank,Rank,Rank,36,2,TI2
+TI,SVN,All,2012,Rank,Rank,Rank,Rank,37,2,TI2
+TI,TWN,All,2012,Rank,Rank,Rank,Rank,37,2,TI2
+TI,CPV,All,2012,Rank,Rank,Rank,Rank,39,2,TI2
+TI,ISR,All,2012,Rank,Rank,Rank,Rank,39,2,TI2
+TI,DMA,All,2012,Rank,Rank,Rank,Rank,41,2,TI2
+TI,POL,All,2012,Rank,Rank,Rank,Rank,41,2,TI2
+TI,MLT,All,2012,Rank,Rank,Rank,Rank,43,2,TI2
+TI,MUS,All,2012,Rank,Rank,Rank,Rank,43,2,TI2
+TI,BRN,All,2012,Rank,Rank,Rank,Rank,46,2,TI2
+TI,HUN,All,2012,Rank,Rank,Rank,Rank,46,2,TI2
+TI,CRI,All,2012,Rank,Rank,Rank,Rank,48,2,TI2
+TI,LTU,All,2012,Rank,Rank,Rank,Rank,48,2,TI2
+TI,RWA,All,2012,Rank,Rank,Rank,Rank,50,2,TI2
+TI,GEO,All,2012,Rank,Rank,Rank,Rank,51,2,TI2
+TI,SYC,All,2012,Rank,Rank,Rank,Rank,51,2,TI2
+TI,BHR,All,2012,Rank,Rank,Rank,Rank,53,2,TI2
+TI,CZE,All,2012,Rank,Rank,Rank,Rank,54,2,TI2
+TI,LVA,All,2012,Rank,Rank,Rank,Rank,54,2,TI2
+TI,MYS,All,2012,Rank,Rank,Rank,Rank,54,2,TI2
+TI,TUR,All,2012,Rank,Rank,Rank,Rank,54,2,TI2
+TI,CUB,All,2012,Rank,Rank,Rank,Rank,58,2,TI2
+TI,JOR,All,2012,Rank,Rank,Rank,Rank,58,2,TI2
+TI,NAM,All,2012,Rank,Rank,Rank,Rank,58,2,TI2
+TI,OMN,All,2012,Rank,Rank,Rank,Rank,61,2,TI2
+TI,HRV,All,2012,Rank,Rank,Rank,Rank,62,2,TI2
+TI,SVK,All,2012,Rank,Rank,Rank,Rank,62,2,TI2
+TI,GHA,All,2012,Rank,Rank,Rank,Rank,64,2,TI2
+TI,LSO,All,2012,Rank,Rank,Rank,Rank,64,2,TI2
+TI,KWT,All,2012,Rank,Rank,Rank,Rank,66,2,TI2
+TI,ROM,All,2012,Rank,Rank,Rank,Rank,66,2,TI2
+TI,SAU,All,2012,Rank,Rank,Rank,Rank,66,2,TI2
+TI,BRA,All,2012,Rank,Rank,Rank,Rank,69,2,TI2
+TI,MKD,All,2012,Rank,Rank,Rank,Rank,69,2,TI2
+TI,ZAF,All,2012,Rank,Rank,Rank,Rank,69,2,TI2
+TI,BIH,All,2012,Rank,Rank,Rank,Rank,72,2,TI2
+TI,ITA,All,2012,Rank,Rank,Rank,Rank,72,2,TI2
+TI,STP,All,2012,Rank,Rank,Rank,Rank,72,2,TI2
+TI,BGR,All,2012,Rank,Rank,Rank,Rank,75,2,TI2
+TI,LBR,All,2012,Rank,Rank,Rank,Rank,75,2,TI2
+TI,MNE,All,2012,Rank,Rank,Rank,Rank,75,2,TI2
+TI,TUN,All,2012,Rank,Rank,Rank,Rank,75,2,TI2
+TI,LKA,All,2012,Rank,Rank,Rank,Rank,79,2,TI2
+TI,CHN,All,2012,Rank,Rank,Rank,Rank,80,2,TI2
+TI,SRB,All,2012,Rank,Rank,Rank,Rank,80,2,TI2
+TI,TTO,All,2012,Rank,Rank,Rank,Rank,80,2,TI2
+TI,BFA,All,2012,Rank,Rank,Rank,Rank,83,2,TI2
+TI,SLV,All,2012,Rank,Rank,Rank,Rank,83,2,TI2
+TI,JAM,All,2012,Rank,Rank,Rank,Rank,83,2,TI2
+TI,PAN,All,2012,Rank,Rank,Rank,Rank,83,2,TI2
+TI,PER,All,2012,Rank,Rank,Rank,Rank,83,2,TI2
+TI,MWI,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,MAR,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,SUR,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,SWZ,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,THA,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,ZMB,All,2012,Rank,Rank,Rank,Rank,88,2,TI2
+TI,BEN,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,COL,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,DJI,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,GRC,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,IND,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,MDA,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,MNG,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,SEN,All,2012,Rank,Rank,Rank,Rank,94,2,TI2
+TI,ARG,All,2012,Rank,Rank,Rank,Rank,102,2,TI2
+TI,GAB,All,2012,Rank,Rank,Rank,Rank,102,2,TI2
+TI,TZA,All,2012,Rank,Rank,Rank,Rank,102,2,TI2
+TI,DZA,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,ARM,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,BOL,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,GMB,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,KSV,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,MLI,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,MEX,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,PHL,All,2012,Rank,Rank,Rank,Rank,105,2,TI2
+TI,ALB,All,2012,Rank,Rank,Rank,Rank,113,2,TI2
+TI,ETH,All,2012,Rank,Rank,Rank,Rank,113,2,TI2
+TI,GTM,All,2012,Rank,Rank,Rank,Rank,113,2,TI2
+TI,NER,All,2012,Rank,Rank,Rank,Rank,113,2,TI2
+TI,TMP,All,2012,Rank,Rank,Rank,Rank,113,2,TI2
+TI,DOM,All,2012,Rank,Rank,Rank,Rank,118,2,TI2
+TI,ECU,All,2012,Rank,Rank,Rank,Rank,118,2,TI2
+TI,EGY,All,2012,Rank,Rank,Rank,Rank,118,2,TI2
+TI,IDN,All,2012,Rank,Rank,Rank,Rank,118,2,TI2
+TI,MDG,All,2012,Rank,Rank,Rank,Rank,118,2,TI2
+TI,BLR,All,2012,Rank,Rank,Rank,Rank,123,2,TI2
+TI,MRT,All,2012,Rank,Rank,Rank,Rank,123,2,TI2
+TI,MOZ,All,2012,Rank,Rank,Rank,Rank,123,2,TI2
+TI,SLE,All,2012,Rank,Rank,Rank,Rank,123,2,TI2
+TI,VNM,All,2012,Rank,Rank,Rank,Rank,123,2,TI2
+TI,LBN,All,2012,Rank,Rank,Rank,Rank,128,2,TI2
+TI,TGO,All,2012,Rank,Rank,Rank,Rank,128,2,TI2
+TI,NIC,All,2012,Rank,Rank,Rank,Rank,130,2,TI2
+TI,UGA,All,2012,Rank,Rank,Rank,Rank,130,2,TI2
+TI,COM,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,GUY,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,HND,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,IRN,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,KAZ,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,RUS,All,2012,Rank,Rank,Rank,Rank,133,2,TI2
+TI,AZE,All,2012,Rank,Rank,Rank,Rank,139,2,TI2
+TI,KEN,All,2012,Rank,Rank,Rank,Rank,139,2,TI2
+TI,NPL,All,2012,Rank,Rank,Rank,Rank,139,2,TI2
+TI,NGA,All,2012,Rank,Rank,Rank,Rank,139,2,TI2
+TI,PAK,All,2012,Rank,Rank,Rank,Rank,139,2,TI2
+TI,BGD,All,2012,Rank,Rank,Rank,Rank,144,2,TI2
+TI,CMR,All,2012,Rank,Rank,Rank,Rank,144,2,TI2
+TI,CAF,All,2012,Rank,Rank,Rank,Rank,144,2,TI2
+TI,SYR,All,2012,Rank,Rank,Rank,Rank,144,2,TI2
+TI,UKR,All,2012,Rank,Rank,Rank,Rank,144,2,TI2
+TI,ERI,All,2012,Rank,Rank,Rank,Rank,150,2,TI2
+TI,GNB,All,2012,Rank,Rank,Rank,Rank,150,2,TI2
+TI,PNG,All,2012,Rank,Rank,Rank,Rank,150,2,TI2
+TI,PRY,All,2012,Rank,Rank,Rank,Rank,150,2,TI2
+TI,GIN,All,2012,Rank,Rank,Rank,Rank,154,2,TI2
+TI,KGZ,All,2012,Rank,Rank,Rank,Rank,154,2,TI2
+TI,YEM,All,2012,Rank,Rank,Rank,Rank,156,2,TI2
+TI,AGO,All,2012,Rank,Rank,Rank,Rank,157,2,TI2
+TI,KHM,All,2012,Rank,Rank,Rank,Rank,157,2,TI2
+TI,TJK,All,2012,Rank,Rank,Rank,Rank,157,2,TI2
+TI,ZAR,All,2012,Rank,Rank,Rank,Rank,160,2,TI2
+TI,LAO,All,2012,Rank,Rank,Rank,Rank,160,2,TI2
+TI,LBY,All,2012,Rank,Rank,Rank,Rank,160,2,TI2
+TI,GNQ,All,2012,Rank,Rank,Rank,Rank,163,2,TI2
+TI,ZWE,All,2012,Rank,Rank,Rank,Rank,163,2,TI2
+TI,BDI,All,2012,Rank,Rank,Rank,Rank,165,2,TI2
+TI,TCD,All,2012,Rank,Rank,Rank,Rank,165,2,TI2
+TI,HTI,All,2012,Rank,Rank,Rank,Rank,165,2,TI2
+TI,VEN,All,2012,Rank,Rank,Rank,Rank,165,2,TI2
+TI,IRQ,All,2012,Rank,Rank,Rank,Rank,169,2,TI2
+TI,TKM,All,2012,Rank,Rank,Rank,Rank,170,2,TI2
+TI,UZB,All,2012,Rank,Rank,Rank,Rank,170,2,TI2
+TI,MMR,All,2012,Rank,Rank,Rank,Rank,172,2,TI2
+TI,SDN,All,2012,Rank,Rank,Rank,Rank,173,2,TI2
+TI,AFG,All,2012,Rank,Rank,Rank,Rank,174,2,TI2
+TI,SOM,All,2012,Rank,Rank,Rank,Rank,174,2,TI2

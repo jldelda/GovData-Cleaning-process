@@ -1,0 +1,41 @@
+---
+title: '# GOVDATA FINAL CLEANING'
+author: "Jose Luis Delgado Davara"
+date: "5/30/2018"
+output: html_document
+---
+
+```{r}
+library(stringr)
+library(dplyr)
+```
+
+```{r setup, include=FALSE}
+GovData360 = read.csv('GovData360.csv', sep = ",")
+GovData360IND = read.csv('GovData360IND.csv', sep = ",")
+```
+
+# Clean old names
+
+
+```{r General cleanings}
+GovData360IND$Display_Name = gsub('¥', '', GovData360IND$Display_Name)
+GovData360IND$Display_Name = gsub('Â', '', GovData360IND$Display_Name)
+GovData360IND$Display_Name = gsub('â', '', GovData360IND$Display_Name)
+GovData360IND$Display_Name = gsub('Ë', '', GovData360IND$Display_Name)
+GovData360IND$Display_Name = gsub('¥', '', GovData360IND$Display_Name)
+```
+
+```{r PAM_IAD}
+# Remove the '(Codes )'
+
+
+```
+
+
+# Add descriptions
+```{r}
+
+```
+
+

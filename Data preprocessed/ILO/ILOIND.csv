@@ -1,0 +1,42 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+ILO1,,SOC_CEAP_SEX_GEO_RT,Female,Active contributors to an old age contributory scheme as a percent of employment by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,1
+ILO1,,SOC_CEAP_SEX_GEO_RT,Male,Active contributors to an old age contributory scheme as a percent of employment by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,1
+ILO1,,SOC_CEAP_SEX_GEO_RT,Total,Active contributors to an old age contributory scheme as a percent of employment by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,1
+ILO2,,SOC_CEAP_SEX_RT,Total,Active contributors to an old age contributory scheme as a percent of labour force by sex (%),ILO,,,,,,,,,,,,,,,,,,,,,2
+ILO3,,SOC_CEAT_NOC_RT,Total,Active contributors to an old age contributory scheme as a percent of labour force (%),ILO,,,,,,,,,,,,,,,,,,,,,3
+ILO4,,SOC_CGFR_GEO_RT,Total,Financial deficit by rural / urban areas (% of population not covered due to financial resource deficit) (%),ILO,,,,,,,,,,,,,,,,,,,,,4
+ILO5,,SOC_CGHP_GEO_RT,Total,Staff access deficit by rural / urban areas (% of population not covered due to health professional staff deficit) (%),ILO,,,,,,,,,,,,,,,,,,,,,5
+ILO6,,SOC_CWAP_SEX_RT,Total,Active contributors to an old age contributory scheme as a percent of the working age population by sex (%),ILO,,,,,,,,,,,,,,,,,,,,,6
+ILO7,,SOC_CWAT_NOC_RT,Total,Active contributors to an old age contributory scheme as a percent of the workingage population (%),ILO,,,,,,,,,,,,,,,,,,,,,7
+ILO8,,SOC_EBEC_NOC_RT,Total,Public social protection expenditure on benefits for children as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,8
+ILO9,,SOC_EBEN_AGE_RT,YGE65,Public social protection expenditure on benefits as a percent of GDP by age (%),ILO,,,,,,,,,,,,,,,,,,,,,9
+ILO9,,SOC_EBEN_AGE_RT,YGE15,Public social protection expenditure on benefits as a percent of GDP by age (%),ILO,,,,,,,,,,,,,,,,,,,,,9
+ILO9,,SOC_EBEN_AGE_RT,YLT15,Public social protection expenditure on benefits as a percent of GDP by age (%),ILO,,,,,,,,,,,,,,,,,,,,,9
+ILO10,,SOC_EBEO_NOC_RT,Total,Public social protection expenditure on old age and survivors benefits as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,10
+ILO11,,SOC_EBEW_NOC_RT,Total,Public social protection expenditure on benefits for the working age as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,11
+ILO12,,SOC_EGGE_NOC_RT,Total,Public health expenditure as a percent of General Government Expenditure (%),ILO,,,,,,,,,,,,,,,,,,,,,12
+ILO13,,SOC_HCOV_GEO_RT,Total,Legal health coverage deficit by rural / urban areas (% of population without legal coverage) (%),ILO,,,,,,,,,,,,,,,,,,,,,13
+ILO14,,SOC_HCOV_NOC_RT,Total,Social health protection coverage as a percent of total population (%),ILO,,,,,,,,,,,,,,,,,,,,,14
+ILO15,,SOC_HEXP_INS_RT,Total,Total health expenditure as a percent of GDP by institutional sector (%),ILO,,,,,,,,,,,,,,,,,,,,,15
+ILO16,,SOC_HEXR_NOC_RT,Total,Private health expenditure as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,16
+ILO17,,SOC_HEXT_NOC_RT,Total,Total health expenditure as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,17
+ILO18,,SOC_HEXU_NOC_RT,Total,Public health expenditure as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,18
+ILO19,,SOC_MMPB_GEO_RT,Total,Maternal mortality ratio per 10 000 live births by rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,19
+ILO20,,SOC_NPHC_NOC_RT,Total,Percentage of health care expenditure not financed by private households out of pocket payments (%),ILO,,,,,,,,,,,,,,,,,,,,,20
+ILO21,,SOC_OOPE_GEO_RT,Total,Outofpocket expenditure as a percentage of total health expenditure by rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,21
+ILO22,,SOC_PEXN_NOC_RT,Total,Public social protection expenditure [excluding health care] as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,22
+ILO23,,SOC_PEXT_NOC_RT,Total,Public social protection expenditure [all functions] as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,23
+ILO24,,SOC_PPEN_SEX_GEO_RT,Female,Share of population above statutory pensionable age receiving a contributory old age pension by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,24
+ILO24,,SOC_PPEN_SEX_GEO_RT,Male,Share of population above statutory pensionable age receiving a contributory old age pension by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,24
+ILO24,,SOC_PPEN_SEX_GEO_RT,Total,Share of population above statutory pensionable age receiving a contributory old age pension by sex and rural / urban areas (%),ILO,,,,,,,,,,,,,,,,,,,,,24
+ILO25,,SOC_PPEN_SEX_TYP_RT,Total,Share of population above statutory pensionable age receiving an old age pension by contribution and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,25
+ILO25,,SOC_PPEN_SEX_TYP_RT,Female,Share of population above statutory pensionable age receiving an old age pension by contribution and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,25
+ILO25,,SOC_PPEN_SEX_TYP_RT,Male,Share of population above statutory pensionable age receiving an old age pension by contribution and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,25
+ILO26,,SOC_PPNT_NOC_RT,Total,Share of population above statutory pensionable age receiving an old age pension (%),ILO,,,,,,,,,,,,,,,,,,,,,26
+ILO27,,SOC_PSPE_EXP_RT,Total,Public social protection expenditure as a percent of GDP in function of health care (%),ILO,,,,,,,,,,,,,,,,,,,,,27
+ILO28,,SOC_SOCP_SEX_SOC_RT,Total,Share of unemployed receiving regular periodic social security unemployment benefits by schemes and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,28
+ILO28,,SOC_SOCP_SEX_SOC_RT,Female,Share of unemployed receiving regular periodic social security unemployment benefits by schemes and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,28
+ILO28,,SOC_SOCP_SEX_SOC_RT,Male,Share of unemployed receiving regular periodic social security unemployment benefits by schemes and sex (%),ILO,,,,,,,,,,,,,,,,,,,,,28
+ILO29,,SOC_SOCT_NOC_RT,Total,Share of unemployed receiving regular periodic social security unemployment benefits (%),ILO,,,,,,,,,,,,,,,,,,,,,29
+ILO30,,SOC_WBEN_GSA_RT,Total,Public social protection expenditure on benefits for the workingage as a percent of GDP in function of general social assistance (%),ILO,,,,,,,,,,,,,,,,,,,,,30
+ILO31,,SOC_WBET_NOC_RT,Total,Public social protection expenditure on benefits for the working age [including general social assistance] as a percent of GDP (%),ILO,,,,,,,,,,,,,,,,,,,,,31

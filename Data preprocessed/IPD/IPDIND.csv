@@ -1,0 +1,1366 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+IPD693,,D9091,D9091,Proportion of unemployed young people in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,693
+IPD692,,D9090,D9090,Proportion of unemployed young people in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,692
+IPD726,,D9081,D9081,Recognition of occupational safety,IPD,,,,,,,,,,,,,,,,,,,,,726
+IPD725,,D9080,D9080,Recognition of occupational health,IPD,,,,,,,,,,,,,,,,,,,,,725
+IPD728,,D9071,D9071,Redistribution mechanisms: disadvantaged areas,IPD,,,,,,,,,,,,,,,,,,,,,728
+IPD729,,D9070,D9070,Redistribution mechanisms: poorer section of the population,IPD,,,,,,,,,,,,,,,,,,,,,729
+IPD829,,D9062,D9062,Share of higher education graduates: informal sector,IPD,,,,,,,,,,,,,,,,,,,,,829
+IPD755,,D9061,D9061,Reluctance to hire higher university graduates,IPD,,,,,,,,,,,,,,,,,,,,,755
+IPD958,,D9060,D9060,Unemployment rate for young university graduates,IPD,,,,,,,,,,,,,,,,,,,,,958
+IPD960,,D9040,D9040,Upward social mobility linked to merit,IPD,,,,,,,,,,,,,,,,,,,,,960
+IPD500,,D9032,D9032,Irregularities in obtaining university degrees,IPD,,,,,,,,,,,,,,,,,,,,,500
+IPD789,,D9031,D9031,Role of networks in recruitment and promotion in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,789
+IPD788,,D9030,D9030,Role of networks in recruitment and promotion in the administration,IPD,,,,,,,,,,,,,,,,,,,,,788
+IPD790,,D9030,D9030,Role of networks in recruitment and promotion of senior officials,IPD,,,,,,,,,,,,,,,,,,,,,790
+IPD108,,D9021,D9021,Child labour in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,108
+IPD109,,D9020,D9020,Child labour in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,109
+IPD186,,D9012,D9012,Discrimination on the labour market: gender,IPD,,,,,,,,,,,,,,,,,,,,,186
+IPD185,,D9011,D9011,Discrimination on the labour market: communitybased,IPD,,,,,,,,,,,,,,,,,,,,,185
+IPD194,,D9010,D9010,Disparity in labour income,IPD,,,,,,,,,,,,,,,,,,,,,194
+IPD721,,D9004,D9004,Quality of public services: public transport,IPD,,,,,,,,,,,,,,,,,,,,,721
+IPD717,,D9003,D9003,Quality of public services: basic healthcare,IPD,,,,,,,,,,,,,,,,,,,,,717
+IPD718,,D9002,D9002,Quality of public services: higher educationuniversity,IPD,,,,,,,,,,,,,,,,,,,,,718
+IPD719,,D9001,D9001,Quality of public services: primary and secondary education (rural areas),IPD,,,,,,,,,,,,,,,,,,,,,719
+IPD720,,D9000,D9000,Quality of public services: primary and secondary education (urban areas),IPD,,,,,,,,,,,,,,,,,,,,,720
+IPD2,,D8000,D8000,Ability to hire foreign executives in firms,IPD,,,,,,,,,,,,,,,,,,,,,2
+IPD271,,D7022,D7022,Employers organizations and the general interest,IPD,,,,,,,,,,,,,,,,,,,,,271
+IPD982,,D7021,D7021,Workers organizations and the general interest,IPD,,,,,,,,,,,,,,,,,,,,,982
+IPD168,,D7020,D7020,Demands of workers and employers organisations taken into account,IPD,,,,,,,,,,,,,,,,,,,,,168
+IPD851,,D7012,D7012,Social dialogue effectiveness at branch level,IPD,,,,,,,,,,,,,,,,,,,,,851
+IPD852,,D7011,D7011,Social dialogue effectiveness at national level,IPD,,,,,,,,,,,,,,,,,,,,,852
+IPD853,,D7010,D7010,Social dialogue effectiveness within companies,IPD,,,,,,,,,,,,,,,,,,,,,853
+IPD803,,D7001,D7001,Scale of strike movements: private sector,IPD,,,,,,,,,,,,,,,,,,,,,803
+IPD804,,D7000,D7000,Scale of strike movements: public sector,IPD,,,,,,,,,,,,,,,,,,,,,804
+IPD274,,D6022,D6022,Employment contract protection: redundancies,IPD,,,,,,,,,,,,,,,,,,,,,274
+IPD273,,D6021,D6021,Employment contract protection: individual dismissal,IPD,,,,,,,,,,,,,,,,,,,,,273
+IPD834,,D6020,D6020,Share of permanent contracts,IPD,,,,,,,,,,,,,,,,,,,,,834
+IPD262,,D6011,D6011,Efficiency of the system of industrial tribunals,IPD,,,,,,,,,,,,,,,,,,,,,262
+IPD448,,D6010,D6010,Independence of the workplace inspectorate,IPD,,,,,,,,,,,,,,,,,,,,,448
+IPD193,,D6001,D6001,Dismissal procedures observed in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,193
+IPD592,,D6000,D6000,Minimum wage respected in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,592
+IPD404,,D5010,D5010,Higher education system and business needs,IPD,,,,,,,,,,,,,,,,,,,,,404
+IPD972,,D5001,D5001,Vocational training adapted to firms requirements?,IPD,,,,,,,,,,,,,,,,,,,,,972
+IPD971,,D5000,D5000,Vocational training,IPD,,,,,,,,,,,,,,,,,,,,,971
+IPD844,,D4021,D4021,Significance of informal work in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,844
+IPD845,,D4020,D4020,Significance of informal work in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,845
+IPD675,,D4011,D4011,Professional mobility of formal sector employees,IPD,,,,,,,,,,,,,,,,,,,,,675
+IPD727,,D4010,D4010,Redeployment and retraining mechanisms for employees,IPD,,,,,,,,,,,,,,,,,,,,,727
+IPD977,,D4002,D4002,Wage indexation to inflation,IPD,,,,,,,,,,,,,,,,,,,,,977
+IPD656,,D4001,D4001,Practice of guaranteed employment in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,656
+IPD659,,D4000,D4000,Practice of guaranteed hiring of graduates in the public sector,IPD,,,,,,,,,,,,,,,,,,,,,659
+IPD638,,D1011,D1011,Pluralism of trade unions,IPD,,,,,,,,,,,,,,,,,,,,,638
+IPD348,,D1003,D1003,Freedom for trade unions to operate in firms,IPD,,,,,,,,,,,,,,,,,,,,,348
+IPD354,,D1002,D1002,Freedom of collective bargaining in firms,IPD,,,,,,,,,,,,,,,,,,,,,354
+IPD781,,D1001,D1001,Right to strike in the public sector and the civil service,IPD,,,,,,,,,,,,,,,,,,,,,781
+IPD780,,D1000,D1000,Right to strike in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,780
+IPD585,,C9002,C9002,Microfinance: repayment rates,IPD,,,,,,,,,,,,,,,,,,,,,585
+IPD469,,C9001,C9001,Institutional microfinance,IPD,,,,,,,,,,,,,,,,,,,,,469
+IPD457,,C9000,C9000,Informal microfinance,IPD,,,,,,,,,,,,,,,,,,,,,457
+IPD243,,C8003,C8003,Ease of domestic banks and companies to obtain access to international finance,IPD,,,,,,,,,,,,,,,,,,,,,243
+IPD244,,C8002,C8002,Ease of foreignfunded firms to obtain loans from local banks,IPD,,,,,,,,,,,,,,,,,,,,,244
+IPD308,,C8001,C8001,Existence of establishment rights for foreign banks,IPD,,,,,,,,,,,,,,,,,,,,,308
+IPD609,,C8000,C8000,Opening of bank capital to foreign investment,IPD,,,,,,,,,,,,,,,,,,,,,609
+IPD897,,C7042,C7042,Strengthening of the systems providing information about the position of banks,IPD,,,,,,,,,,,,,,,,,,,,,897
+IPD896,,C7041,C7041,Strengthening of the supervision of the financial system,IPD,,,,,,,,,,,,,,,,,,,,,896
+IPD895,,C7040,C7040,Strengthening of the prudential rules in the banking system,IPD,,,,,,,,,,,,,,,,,,,,,895
+IPD260,,C7032,C7032,Efficiency of the financial market supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,260
+IPD261,,C7031,C7031,Efficiency of the insurance market supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,261
+IPD259,,C7030,C7030,Efficiency of the banking supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,259
+IPD82,,C7023,C7023,Banking prudential rules: external exposure,IPD,,,,,,,,,,,,,,,,,,,,,82
+IPD81,,C7022,C7022,Banking prudential rules: concentration of loans,IPD,,,,,,,,,,,,,,,,,,,,,81
+IPD83,,C7021,C7021,Banking prudential rules: sectoral concentration of loans,IPD,,,,,,,,,,,,,,,,,,,,,83
+IPD80,,C7020,C7020,Banking prudential rules: asset coverage,IPD,,,,,,,,,,,,,,,,,,,,,80
+IPD337,,C7010,C7010,Financial sector: competition regulation,IPD,,,,,,,,,,,,,,,,,,,,,337
+IPD123,,C7000,C7000,Competition in the banking system,IPD,,,,,,,,,,,,,,,,,,,,,123
+IPD950,,C6020,C6020,Transparency of information on listed companies,IPD,,,,,,,,,,,,,,,,,,,,,950
+IPD258,,C6010,C6010,Efficiency of bank guarantees,IPD,,,,,,,,,,,,,,,,,,,,,258
+IPD22,,C6001,C6001,Accounts certification for banks,IPD,,,,,,,,,,,,,,,,,,,,,22
+IPD877,,C6000,C6000,Standardised accounting system,IPD,,,,,,,,,,,,,,,,,,,,,877
+IPD872,,C5020,C5020,Sovereign wealth fund (national),IPD,,,,,,,,,,,,,,,,,,,,,872
+IPD172,,C5010,C5010,Development of venture capital,IPD,,,,,,,,,,,,,,,,,,,,,172
+IPD848,,C5000,C5000,Skills level of bank executives,IPD,,,,,,,,,,,,,,,,,,,,,848
+IPD442,,C4020,C4020,Independence of the Central Bank,IPD,,,,,,,,,,,,,,,,,,,,,442
+IPD389,,C4012,C4012,Guidance of the credit flow by the State,IPD,,,,,,,,,,,,,,,,,,,,,389
+IPD153,,C4011,C4011,Credit: quantitative control,IPD,,,,,,,,,,,,,,,,,,,,,153
+IPD821,,C4000,C4000,Share of Stateowned banks,IPD,,,,,,,,,,,,,,,,,,,,,821
+IPD414,,B8030,B8030,Importance of joint ventures,IPD,,,,,,,,,,,,,,,,,,,,,414
+IPD759,,B8021,B8021,Resistance to financial liberalisation: public services,IPD,,,,,,,,,,,,,,,,,,,,,759
+IPD758,,B8020,B8020,Resistance to financial liberalisation: private companies,IPD,,,,,,,,,,,,,,,,,,,,,758
+IPD760,,B8011,B8011,Resistance to trade liberalization: lobby groups,IPD,,,,,,,,,,,,,,,,,,,,,760
+IPD605,,B8010,B8010,Obtaining import licenses,IPD,,,,,,,,,,,,,,,,,,,,,605
+IPD974,,B8001,B8001,WTO membership,IPD,,,,,,,,,,,,,,,,,,,,,974
+IPD154,,B8000,B8000,Currency convertibility,IPD,,,,,,,,,,,,,,,,,,,,,154
+IPD706,,B7040,B7040,Public information on the capital structure of firms,IPD,,,,,,,,,,,,,,,,,,,,,706
+IPD707,,B7030,B7030,Public ownership in large firms,IPD,,,,,,,,,,,,,,,,,,,,,707
+IPD254,,B7020,B7020,"Effectiveness of arrangements to combat restrictive collective agreements (cartels, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,254
+IPD827,,B7012,B7012,Share of distribution guaranteed by large foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,827
+IPD828,,B7011,B7011,Share of distribution guaranteed by large national firms,IPD,,,,,,,,,,,,,,,,,,,,,828
+IPD833,,B7010,B7010,Share of largescale distribution in the retail sector,IPD,,,,,,,,,,,,,,,,,,,,,833
+IPD159,,B7001,B7001,De facto obstacles related to established competing firms practices,IPD,,,,,,,,,,,,,,,,,,,,,159
+IPD158,,B7000,B7000,"De facto obstacles of an administrative nature (red tape, etc)",IPD,,,,,,,,,,,,,,,,,,,,,158
+IPD665,,B6092,B6092,Price tension on land: averagesized towns,IPD,,,,,,,,,,,,,,,,,,,,,665
+IPD666,,B6091,B6091,Price tension on land: large conglomerations,IPD,,,,,,,,,,,,,,,,,,,,,666
+IPD663,,B6090,B6090,Pressure on land: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,663
+IPD543,,B6083,B6083,Land tenure rights: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,543
+IPD544,,B6082,B6082,Land tenure rights: urban and periurban areas,IPD,,,,,,,,,,,,,,,,,,,,,544
+IPD542,,B6081,B6081,Land issues as a political and media concern,IPD,,,,,,,,,,,,,,,,,,,,,542
+IPD289,,B6080,B6080,"Evictionexpulsion operations (excluding conflicts, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,289
+IPD708,,B6071,B6071,Public policies for access to land: disadvantaged groups,IPD,,,,,,,,,,,,,,,,,,,,,708
+IPD673,,B6070,B6070,Procedures for land tenure formalisation and registration,IPD,,,,,,,,,,,,,,,,,,,,,673
+IPD541,,B6060,B6060,Land in public ownership,IPD,,,,,,,,,,,,,,,,,,,,,541
+IPD943,,B6050,B6050,Traditional rights system: rural land,IPD,,,,,,,,,,,,,,,,,,,,,943
+IPD198,,B6040,B6040,Diversity of the land tenure system: recognition by the State,IPD,,,,,,,,,,,,,,,,,,,,,198
+IPD197,,B6030,B6030,Diversity of the land tenure system,IPD,,,,,,,,,,,,,,,,,,,,,197
+IPD479,,B6022,B6022,Intellectual property: intangible goods,IPD,,,,,,,,,,,,,,,,,,,,,479
+IPD478,,B6021,B6021,Intellectual property: industrial counterfeiting,IPD,,,,,,,,,,,,,,,,,,,,,478
+IPD480,,B6020,B6020,Intellectual property: trade secretsindustrial patents,IPD,,,,,,,,,,,,,,,,,,,,,480
+IPD908,,B6011,B6011,System of norms and standards (international system),IPD,,,,,,,,,,,,,,,,,,,,,908
+IPD909,,B6010,B6010,System of norms and standards (national system),IPD,,,,,,,,,,,,,,,,,,,,,909
+IPD497,,B6004,B6004,Intervention of international auditing firms,IPD,,,,,,,,,,,,,,,,,,,,,497
+IPD106,,B6003,B6003,Certification of company accounts (large firms),IPD,,,,,,,,,,,,,,,,,,,,,106
+IPD105,,B6002,B6002,Certification of company accounts (SMEs),IPD,,,,,,,,,,,,,,,,,,,,,105
+IPD878,,B6001,B6001,Standardised accounting system: large companies,IPD,,,,,,,,,,,,,,,,,,,,,878
+IPD875,,B6000,B6000,Standard accounting system  (SMEs),IPD,,,,,,,,,,,,,,,,,,,,,875
+IPD902,,B5022,B5022,Subcontracting: national and foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,902
+IPD901,,B5021,B5021,Subcontracting: large national firms and SMEs,IPD,,,,,,,,,,,,,,,,,,,,,901
+IPD900,,B5020,B5020,Subcontracting: between SMEs,IPD,,,,,,,,,,,,,,,,,,,,,900
+IPD714,,B5013,B5013,Public support in moving upmarket and acquiring technologies: large companies,IPD,,,,,,,,,,,,,,,,,,,,,714
+IPD713,,B5012,B5012,Public support in moving upmarket and acquiring technologies: SMEs,IPD,,,,,,,,,,,,,,,,,,,,,713
+IPD916,,B5011,B5011,Technology transfers: foreign to domestic stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,916
+IPD703,,B5010,B5010,Public authorities support to public or private R&D,IPD,,,,,,,,,,,,,,,,,,,,,703
+IPD914,,B5002,B5002,Technical capacities: large companies,IPD,,,,,,,,,,,,,,,,,,,,,914
+IPD913,,B5001,B5001,Technical capacities: SMEs,IPD,,,,,,,,,,,,,,,,,,,,,913
+IPD746,,B5000,B5000,Relationship between firms and universitiesresearch institutes,IPD,,,,,,,,,,,,,,,,,,,,,746
+IPD906,,B4042,B4042,Subsidies: petrol at the pumps,IPD,,,,,,,,,,,,,,,,,,,,,906
+IPD905,,B4041,B4041,Subsidies: commodities,IPD,,,,,,,,,,,,,,,,,,,,,905
+IPD822,,B4040,B4040,Share of administered prices,IPD,,,,,,,,,,,,,,,,,,,,,822
+IPD77,,B4030,B4030,Balance of the accounts of Stateowned and partly Stateowned firms,IPD,,,,,,,,,,,,,,,,,,,,,77
+IPD671,,B4023,B4023,Privatization: replacement of managersshareholders,IPD,,,,,,,,,,,,,,,,,,,,,671
+IPD672,,B4022,B4022,Privatization: transfer pricemarket price,IPD,,,,,,,,,,,,,,,,,,,,,672
+IPD952,,B4021,B4021,Transparency of privatisation procedures,IPD,,,,,,,,,,,,,,,,,,,,,952
+IPD670,,B4020,B4020,Privatization programme: strategic vision,IPD,,,,,,,,,,,,,,,,,,,,,670
+IPD683,,B4015,B4015,Proportion of public sector: public transport,IPD,,,,,,,,,,,,,,,,,,,,,683
+IPD684,,B4014,B4014,Proportion of public sector: telecommunications,IPD,,,,,,,,,,,,,,,,,,,,,684
+IPD681,,B4013,B4013,Proportion of public sector: electricity,IPD,,,,,,,,,,,,,,,,,,,,,681
+IPD685,,B4012,B4012,Proportion of public sector: water and sanitation,IPD,,,,,,,,,,,,,,,,,,,,,685
+IPD680,,B4011,B4011,Proportion of public sector: basic healthcare,IPD,,,,,,,,,,,,,,,,,,,,,680
+IPD682,,B4010,B4010,Proportion of public sector: primary and secondary education,IPD,,,,,,,,,,,,,,,,,,,,,682
+IPD676,,B4000,B4000,Proportion of GDP accounted for by Stateowned and partly Stateowned firms,IPD,,,,,,,,,,,,,,,,,,,,,676
+IPD679,,B3050,B3050,Proportion of public revenues from the exploitation of natural resources,IPD,,,,,,,,,,,,,,,,,,,,,679
+IPD315,,B3042,B3042,Exploitation of natural resources: achievement of objectives serving the general interest,IPD,,,,,,,,,,,,,,,,,,,,,315
+IPD776,,B3041,B3041,Revenues from the exploitation of natural resources: longterm investment,IPD,,,,,,,,,,,,,,,,,,,,,776
+IPD777,,B3040,B3040,Revenues from the exploitation of natural resources: transparency,IPD,,,,,,,,,,,,,,,,,,,,,777
+IPD710,,B3031,B3031,Public procurement: conditions relating to the general interest,IPD,,,,,,,,,,,,,,,,,,,,,710
+IPD907,,B3030,B3030,Support: related to general interest objectives,IPD,,,,,,,,,,,,,,,,,,,,,907
+IPD242,,B3020,B3020,Dynamism of Special Economic Zones,IPD,,,,,,,,,,,,,,,,,,,,,242
+IPD910,,B3010,B3010,Targeted support: emerging dynamic sectors,IPD,,,,,,,,,,,,,,,,,,,,,910
+IPD245,,B3001,B3001,Ease of setting up a subsidiary of a foreign firm,IPD,,,,,,,,,,,,,,,,,,,,,245
+IPD246,,B3000,B3000,Ease of starting a business (local law),IPD,,,,,,,,,,,,,,,,,,,,,246
+IPD476,,A9081,A9081,Integration capacity: smaller cities and towns,IPD,,,,,,,,,,,,,,,,,,,,,476
+IPD475,,A9080,A9080,Integration capacity: major cities,IPD,,,,,,,,,,,,,,,,,,,,,475
+IPD947,,A9072,A9072,Traditional solidarity: between urban and rural areas,IPD,,,,,,,,,,,,,,,,,,,,,947
+IPD948,,A9071,A9071,Traditional solidarity: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,948
+IPD938,,A9070,A9070,Traditional Solidarity: urban and periurban areas,IPD,,,,,,,,,,,,,,,,,,,,,938
+IPD467,,A9062,A9062,Institutional Solidarity: retirement,IPD,,,,,,,,,,,,,,,,,,,,,467
+IPD468,,A9061,A9061,Institutional Solidarity: unemployment,IPD,,,,,,,,,,,,,,,,,,,,,468
+IPD466,,A9060,A9060,Institutional Solidarity: health and disability,IPD,,,,,,,,,,,,,,,,,,,,,466
+IPD924,,A9055,A9055,Territorial coverage: maintenance and solid waste disposal,IPD,,,,,,,,,,,,,,,,,,,,,924
+IPD926,,A9054,A9054,Territorial coverage: transport infrastructure,IPD,,,,,,,,,,,,,,,,,,,,,926
+IPD923,,A9053,A9053,Territorial coverage: electricity grid,IPD,,,,,,,,,,,,,,,,,,,,,923
+IPD922,,A9052,A9052,Territorial coverage: drinking water and sanitation networks,IPD,,,,,,,,,,,,,,,,,,,,,922
+IPD921,,A9051,A9051,Territorial coverage: basic healthcare services,IPD,,,,,,,,,,,,,,,,,,,,,921
+IPD925,,A9050,A9050,Territorial coverage: public schools,IPD,,,,,,,,,,,,,,,,,,,,,925
+IPD279,,A9043,A9043,Equal treatment: access to public employment,IPD,,,,,,,,,,,,,,,,,,,,,279
+IPD282,,A9042,A9042,Equal treatment: administrative procedures,IPD,,,,,,,,,,,,,,,,,,,,,282
+IPD280,,A9041,A9041,Equal treatment: access to public healthcare,IPD,,,,,,,,,,,,,,,,,,,,,280
+IPD281,,A9040,A9040,Equal treatment: access to public schools,IPD,,,,,,,,,,,,,,,,,,,,,281
+IPD189,,A9034,A9034,Discrimination: on grounds of geographical origin,IPD,,,,,,,,,,,,,,,,,,,,,189
+IPD190,,A9033,A9033,Discrimination: on grounds of regional origin,IPD,,,,,,,,,,,,,,,,,,,,,190
+IPD191,,A9032,A9032,Discrimination: on grounds of religion,IPD,,,,,,,,,,,,,,,,,,,,,191
+IPD187,,A9031,A9031,"Discrimination: on grounds of ethnicity, caste",IPD,,,,,,,,,,,,,,,,,,,,,187
+IPD188,,A9030,A9030,Discrimination: on grounds of gender,IPD,,,,,,,,,,,,,,,,,,,,,188
+IPD587,,A9022,A9022,Middle Classes: political and cultural influence,IPD,,,,,,,,,,,,,,,,,,,,,587
+IPD170,,A9021,A9021,Development of the middle classes: living standards and social status,IPD,,,,,,,,,,,,,,,,,,,,,170
+IPD171,,A9020,A9020,Development of the middle classes: size,IPD,,,,,,,,,,,,,,,,,,,,,171
+IPD268,,A9011,A9011,Elite: capacity to mobilize society,IPD,,,,,,,,,,,,,,,,,,,,,268
+IPD593,,A9010,A9010,Mobilisation of society to take up challenges,IPD,,,,,,,,,,,,,,,,,,,,,593
+IPD819,,A9000,A9000,Sense of national identity,IPD,,,,,,,,,,,,,,,,,,,,,819
+IPD602,,A8020,A8020,Neighbouring countries: destabilisation  conflict,IPD,,,,,,,,,,,,,,,,,,,,,602
+IPD350,,A8011,A8011,Freedom of access to the foreign press (no seizures),IPD,,,,,,,,,,,,,,,,,,,,,350
+IPD351,,A8010,A8010,Freedom of access: cablesatellite,IPD,,,,,,,,,,,,,,,,,,,,,351
+IPD356,,A8002,A8002,Freedom of movement for nationals (world),IPD,,,,,,,,,,,,,,,,,,,,,356
+IPD366,,A8001,A8001,Freedom to leave the country,IPD,,,,,,,,,,,,,,,,,,,,,366
+IPD355,,A8000,A8000,Freedom of entry for foreigners,IPD,,,,,,,,,,,,,,,,,,,,,355
+IPD920,,A6041,A6041,Termination of contract without compensation: foreign stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,920
+IPD919,,A6040,A6040,Termination of contract without compensation: domestic stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,919
+IPD774,,A6031,A6031,Restructuring procedures,IPD,,,,,,,,,,,,,,,,,,,,,774
+IPD465,,A6030,A6030,Insolvency legislation,IPD,,,,,,,,,,,,,,,,,,,,,465
+IPD410,,A6023,A6023,Impartiality of the justice system in commercial disputes involving nationals and foreigners,IPD,,,,,,,,,,,,,,,,,,,,,410
+IPD409,,A6022,A6022,Impartiality of the justice system in commercial disputes involving national stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,409
+IPD411,,A6021,A6021,Impartiality of the justice system in commercial disputes involving the State,IPD,,,,,,,,,,,,,,,,,,,,,411
+IPD535,,A6020,A6020,Judicial decisions in commercial matters: timeliness,IPD,,,,,,,,,,,,,,,,,,,,,535
+IPD603,,A6011,A6011,Observance of contractual terms: national and foreign private stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,603
+IPD604,,A6010,A6010,Observance of contractual terms: national private stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,604
+IPD116,,A6003,A6003,Compensation in cases of expropriation: production means,IPD,,,,,,,,,,,,,,,,,,,,,116
+IPD115,,A6002,A6002,Compensation in cases of expropriation: land ownership,IPD,,,,,,,,,,,,,,,,,,,,,115
+IPD40,,A6001,A6001,Arbitrary pressures on private property,IPD,,,,,,,,,,,,,,,,,,,,,40
+IPD548,,A6000,A6000,Legal means to protect property rights,IPD,,,,,,,,,,,,,,,,,,,,,548
+IPD405,,A5100,A5100,Hopes of young people,IPD,,,,,,,,,,,,,,,,,,,,,405
+IPD865,,A5092,A5092,Societys capacity for legal and institutional adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,865
+IPD866,,A5091,A5091,Societys capacity for managerial adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,866
+IPD867,,A5090,A5090,Societys capacity technological adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,867
+IPD94,,A5084,A5084,Capacity of national public authorities hampered: lack of cooperation with neighbours,IPD,,,,,,,,,,,,,,,,,,,,,94
+IPD93,,A5083,A5083,Capacity of national public authorities hampered: external stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,93
+IPD96,,A5082,A5082,Capacity of national public authorities hampered: pressure group,IPD,,,,,,,,,,,,,,,,,,,,,96
+IPD92,,A5081,A5081,Capacity of national public authorities hampered: divisions between the State apparatus,IPD,,,,,,,,,,,,,,,,,,,,,92
+IPD95,,A5080,A5080,Capacity of national public authorities hampered: political divisions,IPD,,,,,,,,,,,,,,,,,,,,,95
+IPD631,,A5074,A5074,Overall coherence of public policies,IPD,,,,,,,,,,,,,,,,,,,,,631
+IPD141,,A5073,A5073,Cooperation of public authorities and local stakeholders: public policy,IPD,,,,,,,,,,,,,,,,,,,,,141
+IPD100,,A5072,A5072,Capacity to adapt policies,IPD,,,,,,,,,,,,,,,,,,,,,100
+IPD288,,A5071,A5071,Evaluation of public policies,IPD,,,,,,,,,,,,,,,,,,,,,288
+IPD709,,A5070,A5070,Public policy experimentation,IPD,,,,,,,,,,,,,,,,,,,,,709
+IPD450,,A5060,A5060,Independent decisionmaking: political authorities,IPD,,,,,,,,,,,,,,,,,,,,,450
+IPD174,,A5051,A5051,Developmenteconomic growth: public sector elite,IPD,,,,,,,,,,,,,,,,,,,,,174
+IPD173,,A5050,A5050,Developmenteconomic growth: political priority,IPD,,,,,,,,,,,,,,,,,,,,,173
+IPD933,,A5040,A5040,Think tanks,IPD,,,,,,,,,,,,,,,,,,,,,933
+IPD890,,A5033,A5033,Strategic vision: internationalregional integration,IPD,,,,,,,,,,,,,,,,,,,,,890
+IPD891,,A5032,A5032,Strategic vision: protection of the environment,IPD,,,,,,,,,,,,,,,,,,,,,891
+IPD887,,A5031,A5031,Strategic Vision: territorialurban planning,IPD,,,,,,,,,,,,,,,,,,,,,887
+IPD889,,A5030,A5030,Strategic vision: human capital,IPD,,,,,,,,,,,,,,,,,,,,,889
+IPD888,,A5022,A5022,Strategic vision: capacity to encourage,IPD,,,,,,,,,,,,,,,,,,,,,888
+IPD576,,A5020,A5020,Longterm strategic vision,IPD,,,,,,,,,,,,,,,,,,,,,576
+IPD149,,A5011,A5011,Coordinationcollaboration: within administration,IPD,,,,,,,,,,,,,,,,,,,,,149
+IPD148,,A5010,A5010,Coordinationcollaboration: between ministries,IPD,,,,,,,,,,,,,,,,,,,,,148
+IPD143,,A5002,A5002,Cooperation privatepublic sectors: general interest,IPD,,,,,,,,,,,,,,,,,,,,,143
+IPD144,,A5001,A5001,Cooperation privatepublic sectors: involvement by the State,IPD,,,,,,,,,,,,,,,,,,,,,144
+IPD142,,A5000,A5000,Cooperation privatepublic sectors,IPD,,,,,,,,,,,,,,,,,,,,,142
+IPD911,,A3130,A3130,Tax exemptions,IPD,,,,,,,,,,,,,,,,,,,,,911
+IPD8,,A3124,A3124,Ability to reform: environmental protection,IPD,,,,,,,,,,,,,,,,,,,,,8
+IPD12,,A3123,A3123,Ability to reform: societal,IPD,,,,,,,,,,,,,,,,,,,,,12
+IPD9,,A3122,A3122,Ability to reform: health and education,IPD,,,,,,,,,,,,,,,,,,,,,9
+IPD11,,A3121,A3121,Ability to reform: social,IPD,,,,,,,,,,,,,,,,,,,,,11
+IPD7,,A3120,A3120,Ability to reform: economic,IPD,,,,,,,,,,,,,,,,,,,,,7
+IPD66,,A3113,A3113,Authority of the political bodies over the government,IPD,,,,,,,,,,,,,,,,,,,,,66
+IPD10,,A3112,A3112,Ability to reform: justice,IPD,,,,,,,,,,,,,,,,,,,,,10
+IPD5,,A3111,A3111,Ability to reform: civil and political rights,IPD,,,,,,,,,,,,,,,,,,,,,5
+IPD6,,A3110,A3110,Ability to reform: constitutional fields,IPD,,,,,,,,,,,,,,,,,,,,,6
+IPD362,,A3094,A3094,"Freedom to establish and operate: educational, sporting and cultural organizations",IPD,,,,,,,,,,,,,,,,,,,,,362
+IPD365,,A3093,A3093,Freedom to establish and operate: religious organisations,IPD,,,,,,,,,,,,,,,,,,,,,365
+IPD361,,A3092,A3092,Freedom to establish and operate : professional organisations,IPD,,,,,,,,,,,,,,,,,,,,,361
+IPD363,,A3091,A3091,Freedom to establish and operate: large firms,IPD,,,,,,,,,,,,,,,,,,,,,363
+IPD364,,A3090,A3090,Freedom to establish and operate: political parties,IPD,,,,,,,,,,,,,,,,,,,,,364
+IPD454,,A3080,A3080,Influence of donors: public policies,IPD,,,,,,,,,,,,,,,,,,,,,454
+IPD341,,A3072,A3072,Foreign economic stakeholders influence: public policies,IPD,,,,,,,,,,,,,,,,,,,,,341
+IPD600,,A3071,A3071,National economic stakeholders influence: tax policy,IPD,,,,,,,,,,,,,,,,,,,,,600
+IPD599,,A3070,A3070,National economic stakeholders influence: economic legislation,IPD,,,,,,,,,,,,,,,,,,,,,599
+IPD278,,A3054,A3054,Equal treatment before the law: foreigners,IPD,,,,,,,,,,,,,,,,,,,,,278
+IPD277,,A3053,A3053,Equal treatment before the law: citizens,IPD,,,,,,,,,,,,,,,,,,,,,277
+IPD935,,A3052,A3052,Timeliness of judicial decisions,IPD,,,,,,,,,,,,,,,,,,,,,935
+IPD275,,A3051,A3051,Enforcement of judicial decisions,IPD,,,,,,,,,,,,,,,,,,,,,275
+IPD536,,A3050,A3050,Judicial independence,IPD,,,,,,,,,,,,,,,,,,,,,536
+IPD955,,A3040,A3040,Transparency: public procurement,IPD,,,,,,,,,,,,,,,,,,,,,955
+IPD3,,A3033,A3033,Ability to limit tax evasion,IPD,,,,,,,,,,,,,,,,,,,,,3
+IPD265,,A3032,A3032,Efficiency of the tax administration: national territory,IPD,,,,,,,,,,,,,,,,,,,,,265
+IPD264,,A3031,A3031,Efficiency of the tax administration: income tax,IPD,,,,,,,,,,,,,,,,,,,,,264
+IPD263,,A3030,A3030,Efficiency of the tax administration: corporation tax,IPD,,,,,,,,,,,,,,,,,,,,,263
+IPD151,,A3023,A3023,Corruption: between administrations and foreign businesses,IPD,,,,,,,,,,,,,,,,,,,,,151
+IPD152,,A3022,A3022,Corruption: between administrations and local businesses,IPD,,,,,,,,,,,,,,,,,,,,,152
+IPD569,,A3021,A3021,Level of largescale corruption (between the administration and firms),IPD,,,,,,,,,,,,,,,,,,,,,569
+IPD555,,A3020,A3020,Level of,IPD,,,,,,,,,,,,,,,,,,,,,555
+IPD507,,A3011,A3011,Is economic policy the subject of public debate,IPD,,,,,,,,,,,,,,,,,,,,,507
+IPD506,,A3010,A3010,Is economic policy the subject of an official communication,IPD,,,,,,,,,,,,,,,,,,,,,506
+IPD750,,A3005,A3005,Reliability: Stateowned banks accounts,IPD,,,,,,,,,,,,,,,,,,,,,750
+IPD751,,A3004,A3004,Reliability: Stateowned firms accounts,IPD,,,,,,,,,,,,,,,,,,,,,751
+IPD752,,A3003,A3003,Reliability: economic and financial statistics,IPD,,,,,,,,,,,,,,,,,,,,,752
+IPD748,,A3002,A3002,Reliability: State accounts,IPD,,,,,,,,,,,,,,,,,,,,,748
+IPD749,,A3001,A3001,Reliability: State budget,IPD,,,,,,,,,,,,,,,,,,,,,749
+IPD511,,A3000,A3000,Is the IMF consultation under Article IV published?,IPD,,,,,,,,,,,,,,,,,,,,,511
+IPD966,,A2042,A2042,Violent activities: natural resources,IPD,,,,,,,,,,,,,,,,,,,,,966
+IPD965,,A2041,A2041,Violent activities: criminal organisations,IPD,,,,,,,,,,,,,,,,,,,,,965
+IPD967,,A2040,A2040,Violent activities: political organisations,IPD,,,,,,,,,,,,,,,,,,,,,967
+IPD962,,A2033,A2033,Violence against public officials,IPD,,,,,,,,,,,,,,,,,,,,,962
+IPD485,,A2032,A2032,Internal conflicts: landrelated issues in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,485
+IPD484,,A2032,A2032,Internal conflicts: landrelated issues in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,484
+IPD486,,A2031,A2031,Internal conflicts: socialrelated issues,IPD,,,,,,,,,,,,,,,,,,,,,486
+IPD482,,A2030,A2030,"Internal conflicts: ethnic, religious, regional",IPD,,,,,,,,,,,,,,,,,,,,,482
+IPD886,,A2020,A2020,States arbitrary violence,IPD,,,,,,,,,,,,,,,,,,,,,886
+IPD4,,A2013,A2013,Ability to reform: armed bodies,IPD,,,,,,,,,,,,,,,,,,,,,4
+IPD136,,A2012,A2012,Control over the customs authorities,IPD,,,,,,,,,,,,,,,,,,,,,136
+IPD137,,A2011,A2011,Control over the police,IPD,,,,,,,,,,,,,,,,,,,,,137
+IPD135,,A2010,A2010,Control over the army,IPD,,,,,,,,,,,,,,,,,,,,,135
+IPD807,,A2001,A2001,Security across the territory,IPD,,,,,,,,,,,,,,,,,,,,,807
+IPD809,,A2000,A2000,Security of persons and goods,IPD,,,,,,,,,,,,,,,,,,,,,809
+IPD339,,A1091,A1091,Fiscal autonomy: other subnational authorities,IPD,,,,,,,,,,,,,,,,,,,,,339
+IPD338,,A1090,A1090,Fiscal autonomy: municipal authorities,IPD,,,,,,,,,,,,,,,,,,,,,338
+IPD627,,A1081,A1081,Other subnational authorities: elected or appointed,IPD,,,,,,,,,,,,,,,,,,,,,627
+IPD597,,A1080,A1080,Municipal authorities: elected or appointed,IPD,,,,,,,,,,,,,,,,,,,,,597
+IPD550,,A1072,A1072,Legitimacy of the political authorities: national pride,IPD,,,,,,,,,,,,,,,,,,,,,550
+IPD551,,A1071,A1071,Legitimacy of the political authorities: social benefit,IPD,,,,,,,,,,,,,,,,,,,,,551
+IPD549,,A1070,A1070,Legitimacy of the political authorities: economic benefit,IPD,,,,,,,,,,,,,,,,,,,,,549
+IPD622,,A1061,A1061,Opposition to the most recent change of Head of State: population,IPD,,,,,,,,,,,,,,,,,,,,,622
+IPD621,,A1060,A1060,Opposition to the most recent change of Head of State: political forces,IPD,,,,,,,,,,,,,,,,,,,,,621
+IPD62,,A1051,A1051,Assumption of political office in accordance with the rules,IPD,,,,,,,,,,,,,,,,,,,,,62
+IPD38,,A1050,A1050,Amendment of the rules governing the assumption of political office,IPD,,,,,,,,,,,,,,,,,,,,,38
+IPD349,,A1042,A1042,Freedom of access on the Internet,IPD,,,,,,,,,,,,,,,,,,,,,349
+IPD377,,A1041,A1041,Genuine media pluralism,IPD,,,,,,,,,,,,,,,,,,,,,377
+IPD359,,A1040,A1040,Freedom of the Press,IPD,,,,,,,,,,,,,,,,,,,,,359
+IPD772,,A1033,A1033,Respect for the rights of minorities,IPD,,,,,,,,,,,,,,,,,,,,,772
+IPD276,,A1032,A1032,Equal treatment,IPD,,,,,,,,,,,,,,,,,,,,,276
+IPD352,,A1031,A1031,Freedom of assembly and demonstration,IPD,,,,,,,,,,,,,,,,,,,,,352
+IPD353,,A1030,A1030,Freedom of association,IPD,,,,,,,,,,,,,,,,,,,,,353
+IPD650,,A1022,A1022,Population participation (local level),IPD,,,,,,,,,,,,,,,,,,,,,650
+IPD651,,A1021,A1021,Population participation (national level),IPD,,,,,,,,,,,,,,,,,,,,,651
+IPD640,,A1020,A1020,Political or Social expression via ITC,IPD,,,,,,,,,,,,,,,,,,,,,640
+IPD499,,A1011,A1011,Involvement of the military in politics,IPD,,,,,,,,,,,,,,,,,,,,,499
+IPD455,,A1010,A1010,Influence of organizations,IPD,,,,,,,,,,,,,,,,,,,,,455
+IPD632,,A1003,A1003,Oversight institutions,IPD,,,,,,,,,,,,,,,,,,,,,632
+IPD756,,A1002,A1002,Representative Institutions,IPD,,,,,,,,,,,,,,,,,,,,,756
+IPD266,,A1001,A1001,Electoral processes,IPD,,,,,,,,,,,,,,,,,,,,,266
+IPD347,,A1000,A1000,Freedom and legality of elections,IPD,,,,,,,,,,,,,,,,,,,,,347
+IPD693,,d9091,d9091,Proportion of unemployed young people in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,693
+IPD692,,d9090,d9090,Proportion of unemployed young people in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,692
+IPD726,,d9081,d9081,Recognition of occupational safety,IPD,,,,,,,,,,,,,,,,,,,,,726
+IPD725,,d9080,d9080,Recognition of occupational health,IPD,,,,,,,,,,,,,,,,,,,,,725
+IPD728,,d9071,d9071,Redistribution mechanisms: disadvantaged areas,IPD,,,,,,,,,,,,,,,,,,,,,728
+IPD729,,d9070,d9070,Redistribution mechanisms: poorer section of the population,IPD,,,,,,,,,,,,,,,,,,,,,729
+IPD829,,d9062,d9062,Share of higher education graduates: informal sector,IPD,,,,,,,,,,,,,,,,,,,,,829
+IPD755,,d9061,d9061,Reluctance to hire higher university graduates,IPD,,,,,,,,,,,,,,,,,,,,,755
+IPD958,,d9060,d9060,Unemployment rate for young university graduates,IPD,,,,,,,,,,,,,,,,,,,,,958
+IPD791,,d9052,d9052,Role of networks: selection of business leaders,IPD,,,,,,,,,,,,,,,,,,,,,791
+IPD792,,d9051,d9051,Role of networks: selection of senior officials,IPD,,,,,,,,,,,,,,,,,,,,,792
+IPD793,,d9050,d9050,Role of networks: selection of senior politicians,IPD,,,,,,,,,,,,,,,,,,,,,793
+IPD960,,d9040,d9040,Upward social mobility linked to merit,IPD,,,,,,,,,,,,,,,,,,,,,960
+IPD500,,d9032,d9032,Irregularities in obtaining university degrees,IPD,,,,,,,,,,,,,,,,,,,,,500
+IPD789,,d9031,d9031,Role of networks in recruitment and promotion in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,789
+IPD788,,d9030,d9030,Role of networks in recruitment and promotion in the administration,IPD,,,,,,,,,,,,,,,,,,,,,788
+IPD108,,d9021,d9021,Child labour in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,108
+IPD109,,d9020,d9020,Child labour in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,109
+IPD186,,d9012,d9012,Discrimination on the labour market: gender,IPD,,,,,,,,,,,,,,,,,,,,,186
+IPD185,,d9011,d9011,Discrimination on the labour market: communitybased,IPD,,,,,,,,,,,,,,,,,,,,,185
+IPD194,,d9010,d9010,Disparity in labour income,IPD,,,,,,,,,,,,,,,,,,,,,194
+IPD721,,d9004,d9004,Quality of public services: public transport,IPD,,,,,,,,,,,,,,,,,,,,,721
+IPD717,,d9003,d9003,Quality of public services: basic healthcare,IPD,,,,,,,,,,,,,,,,,,,,,717
+IPD718,,d9002,d9002,Quality of public services: higher educationuniversity,IPD,,,,,,,,,,,,,,,,,,,,,718
+IPD719,,d9001,d9001,Quality of public services: primary and secondary education (rural areas),IPD,,,,,,,,,,,,,,,,,,,,,719
+IPD720,,d9000,d9000,Quality of public services: primary and secondary education (urban areas),IPD,,,,,,,,,,,,,,,,,,,,,720
+IPD2,,d8000,d8000,Ability to hire foreign executives in firms,IPD,,,,,,,,,,,,,,,,,,,,,2
+IPD271,,d7022,d7022,Employers organizations and the general interest,IPD,,,,,,,,,,,,,,,,,,,,,271
+IPD982,,d7021,d7021,Workers organizations and the general interest,IPD,,,,,,,,,,,,,,,,,,,,,982
+IPD168,,d7020,d7020,Demands of workers and employers organisations taken into account,IPD,,,,,,,,,,,,,,,,,,,,,168
+IPD851,,d7012,d7012,Social dialogue effectiveness at branch level,IPD,,,,,,,,,,,,,,,,,,,,,851
+IPD852,,d7011,d7011,Social dialogue effectiveness at national level,IPD,,,,,,,,,,,,,,,,,,,,,852
+IPD853,,d7010,d7010,Social dialogue effectiveness within companies,IPD,,,,,,,,,,,,,,,,,,,,,853
+IPD803,,d7001,d7001,Scale of strike movements: private sector,IPD,,,,,,,,,,,,,,,,,,,,,803
+IPD804,,d7000,d7000,Scale of strike movements: public sector,IPD,,,,,,,,,,,,,,,,,,,,,804
+IPD274,,d6022,d6022,Employment contract protection: redundancies,IPD,,,,,,,,,,,,,,,,,,,,,274
+IPD273,,d6021,d6021,Employment contract protection: individual dismissal,IPD,,,,,,,,,,,,,,,,,,,,,273
+IPD834,,d6020,d6020,Share of permanent contracts,IPD,,,,,,,,,,,,,,,,,,,,,834
+IPD262,,d6011,d6011,Efficiency of the system of industrial tribunals,IPD,,,,,,,,,,,,,,,,,,,,,262
+IPD448,,d6010,d6010,Independence of the workplace inspectorate,IPD,,,,,,,,,,,,,,,,,,,,,448
+IPD193,,d6001,d6001,Dismissal procedures observed in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,193
+IPD592,,d6000,d6000,Minimum wage respected in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,592
+IPD404,,d5010,d5010,Higher education system and business needs,IPD,,,,,,,,,,,,,,,,,,,,,404
+IPD972,,d5001,d5001,Vocational training adapted to firms requirements?,IPD,,,,,,,,,,,,,,,,,,,,,972
+IPD971,,d5000,d5000,Vocational training,IPD,,,,,,,,,,,,,,,,,,,,,971
+IPD844,,d4021,d4021,Significance of informal work in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,844
+IPD845,,d4020,d4020,Significance of informal work in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,845
+IPD675,,d4011,d4011,Professional mobility of formal sector employees,IPD,,,,,,,,,,,,,,,,,,,,,675
+IPD727,,d4010,d4010,Redeployment and retraining mechanisms for employees,IPD,,,,,,,,,,,,,,,,,,,,,727
+IPD977,,d4002,d4002,Wage indexation to inflation,IPD,,,,,,,,,,,,,,,,,,,,,977
+IPD656,,d4001,d4001,Practice of guaranteed employment in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,656
+IPD659,,d4000,d4000,Practice of guaranteed hiring of graduates in the public sector,IPD,,,,,,,,,,,,,,,,,,,,,659
+IPD638,,d1011,d1011,Pluralism of trade unions,IPD,,,,,,,,,,,,,,,,,,,,,638
+IPD449,,d1010,d1010,Independence of trade unions,IPD,,,,,,,,,,,,,,,,,,,,,449
+IPD348,,d1003,d1003,Freedom for trade unions to operate in firms,IPD,,,,,,,,,,,,,,,,,,,,,348
+IPD354,,d1002,d1002,Freedom of collective bargaining in firms,IPD,,,,,,,,,,,,,,,,,,,,,354
+IPD781,,d1001,d1001,Right to strike in the public sector and the civil service,IPD,,,,,,,,,,,,,,,,,,,,,781
+IPD780,,d1000,d1000,Right to strike in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,780
+IPD585,,c9002,c9002,Microfinance: repayment rates,IPD,,,,,,,,,,,,,,,,,,,,,585
+IPD469,,c9001,c9001,Institutional microfinance,IPD,,,,,,,,,,,,,,,,,,,,,469
+IPD457,,c9000,c9000,Informal microfinance,IPD,,,,,,,,,,,,,,,,,,,,,457
+IPD243,,c8003,c8003,Ease of domestic banks and companies to obtain access to international finance,IPD,,,,,,,,,,,,,,,,,,,,,243
+IPD244,,c8002,c8002,Ease of foreignfunded firms to obtain loans from local banks,IPD,,,,,,,,,,,,,,,,,,,,,244
+IPD308,,c8001,c8001,Existence of establishment rights for foreign banks,IPD,,,,,,,,,,,,,,,,,,,,,308
+IPD609,,c8000,c8000,Opening of bank capital to foreign investment,IPD,,,,,,,,,,,,,,,,,,,,,609
+IPD897,,c7042,c7042,Strengthening of the systems providing information about the position of banks,IPD,,,,,,,,,,,,,,,,,,,,,897
+IPD896,,c7041,c7041,Strengthening of the supervision of the financial system,IPD,,,,,,,,,,,,,,,,,,,,,896
+IPD895,,c7040,c7040,Strengthening of the prudential rules in the banking system,IPD,,,,,,,,,,,,,,,,,,,,,895
+IPD260,,c7032,c7032,Efficiency of the financial market supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,260
+IPD261,,c7031,c7031,Efficiency of the insurance market supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,261
+IPD259,,c7030,c7030,Efficiency of the banking supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,259
+IPD82,,c7023,c7023,Banking prudential rules: external exposure,IPD,,,,,,,,,,,,,,,,,,,,,82
+IPD81,,c7022,c7022,Banking prudential rules: concentration of loans,IPD,,,,,,,,,,,,,,,,,,,,,81
+IPD83,,c7021,c7021,Banking prudential rules: sectoral concentration of loans,IPD,,,,,,,,,,,,,,,,,,,,,83
+IPD80,,c7020,c7020,Banking prudential rules: asset coverage,IPD,,,,,,,,,,,,,,,,,,,,,80
+IPD337,,c7010,c7010,Financial sector: competition regulation,IPD,,,,,,,,,,,,,,,,,,,,,337
+IPD123,,c7000,c7000,Competition in the banking system,IPD,,,,,,,,,,,,,,,,,,,,,123
+IPD950,,c6020,c6020,Transparency of information on listed companies,IPD,,,,,,,,,,,,,,,,,,,,,950
+IPD258,,c6010,c6010,Efficiency of bank guarantees,IPD,,,,,,,,,,,,,,,,,,,,,258
+IPD22,,c6001,c6001,Accounts certification for banks,IPD,,,,,,,,,,,,,,,,,,,,,22
+IPD877,,c6000,c6000,Standardised accounting system,IPD,,,,,,,,,,,,,,,,,,,,,877
+IPD872,,c5020,c5020,Sovereign wealth fund (national),IPD,,,,,,,,,,,,,,,,,,,,,872
+IPD172,,c5010,c5010,Development of venture capital,IPD,,,,,,,,,,,,,,,,,,,,,172
+IPD848,,c5000,c5000,Skills level of bank executives,IPD,,,,,,,,,,,,,,,,,,,,,848
+IPD442,,c4020,c4020,Independence of the Central Bank,IPD,,,,,,,,,,,,,,,,,,,,,442
+IPD389,,c4012,c4012,Guidance of the credit flow by the State,IPD,,,,,,,,,,,,,,,,,,,,,389
+IPD153,,c4011,c4011,Credit: quantitative control,IPD,,,,,,,,,,,,,,,,,,,,,153
+IPD832,,c4010,c4010,Share of interest rates administrated,IPD,,,,,,,,,,,,,,,,,,,,,832
+IPD821,,c4000,c4000,Share of Stateowned banks,IPD,,,,,,,,,,,,,,,,,,,,,821
+IPD414,,b8030,b8030,Importance of joint ventures,IPD,,,,,,,,,,,,,,,,,,,,,414
+IPD759,,b8021,b8021,Resistance to financial liberalisation: public services,IPD,,,,,,,,,,,,,,,,,,,,,759
+IPD758,,b8020,b8020,Resistance to financial liberalisation: private companies,IPD,,,,,,,,,,,,,,,,,,,,,758
+IPD760,,b8011,b8011,Resistance to trade liberalization: lobby groups,IPD,,,,,,,,,,,,,,,,,,,,,760
+IPD605,,b8010,b8010,Obtaining import licenses,IPD,,,,,,,,,,,,,,,,,,,,,605
+IPD974,,b8001,b8001,WTO membership,IPD,,,,,,,,,,,,,,,,,,,,,974
+IPD154,,b8000,b8000,Currency convertibility,IPD,,,,,,,,,,,,,,,,,,,,,154
+IPD706,,b7040,b7040,Public information on the capital structure of firms,IPD,,,,,,,,,,,,,,,,,,,,,706
+IPD707,,b7030,b7030,Public ownership in large firms,IPD,,,,,,,,,,,,,,,,,,,,,707
+IPD254,,b7020,b7020,"Effectiveness of arrangements to combat restrictive collective agreements (cartels, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,254
+IPD827,,b7012,b7012,Share of distribution guaranteed by large foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,827
+IPD828,,b7011,b7011,Share of distribution guaranteed by large national firms,IPD,,,,,,,,,,,,,,,,,,,,,828
+IPD833,,b7010,b7010,Share of largescale distribution in the retail sector,IPD,,,,,,,,,,,,,,,,,,,,,833
+IPD159,,b7001,b7001,De facto obstacles related to established competing firms practices,IPD,,,,,,,,,,,,,,,,,,,,,159
+IPD158,,b7000,b7000,"De facto obstacles of an administrative nature (red tape, etc)",IPD,,,,,,,,,,,,,,,,,,,,,158
+IPD665,,b6092,b6092,Price tension on land: averagesized towns,IPD,,,,,,,,,,,,,,,,,,,,,665
+IPD666,,b6091,b6091,Price tension on land: large conglomerations,IPD,,,,,,,,,,,,,,,,,,,,,666
+IPD663,,b6090,b6090,Pressure on land: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,663
+IPD543,,b6083,b6083,Land tenure rights: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,543
+IPD544,,b6082,b6082,Land tenure rights: urban and periurban areas,IPD,,,,,,,,,,,,,,,,,,,,,544
+IPD542,,b6081,b6081,Land issues as a political and media concern,IPD,,,,,,,,,,,,,,,,,,,,,542
+IPD289,,b6080,b6080,"Evictionexpulsion operations (excluding conflicts, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,289
+IPD708,,b6071,b6071,Public policies for access to land: disadvantaged groups,IPD,,,,,,,,,,,,,,,,,,,,,708
+IPD673,,b6070,b6070,Procedures for land tenure formalisation and registration,IPD,,,,,,,,,,,,,,,,,,,,,673
+IPD541,,b6060,b6060,Land in public ownership,IPD,,,,,,,,,,,,,,,,,,,,,541
+IPD943,,b6050,b6050,Traditional rights system: rural land,IPD,,,,,,,,,,,,,,,,,,,,,943
+IPD198,,b6040,b6040,Diversity of the land tenure system: recognition by the State,IPD,,,,,,,,,,,,,,,,,,,,,198
+IPD197,,b6030,b6030,Diversity of the land tenure system,IPD,,,,,,,,,,,,,,,,,,,,,197
+IPD479,,b6022,b6022,Intellectual property: intangible goods,IPD,,,,,,,,,,,,,,,,,,,,,479
+IPD478,,b6021,b6021,Intellectual property: industrial counterfeiting,IPD,,,,,,,,,,,,,,,,,,,,,478
+IPD480,,b6020,b6020,Intellectual property: trade secretsindustrial patents,IPD,,,,,,,,,,,,,,,,,,,,,480
+IPD908,,b6011,b6011,System of norms and standards (international system),IPD,,,,,,,,,,,,,,,,,,,,,908
+IPD909,,b6010,b6010,System of norms and standards (national system),IPD,,,,,,,,,,,,,,,,,,,,,909
+IPD497,,b6004,b6004,Intervention of international auditing firms,IPD,,,,,,,,,,,,,,,,,,,,,497
+IPD106,,b6003,b6003,Certification of company accounts (large firms),IPD,,,,,,,,,,,,,,,,,,,,,106
+IPD105,,b6002,b6002,Certification of company accounts (SMEs),IPD,,,,,,,,,,,,,,,,,,,,,105
+IPD878,,b6001,b6001,Standardised accounting system: large companies,IPD,,,,,,,,,,,,,,,,,,,,,878
+IPD875,,b6000,b6000,Standard accounting system  (SMEs),IPD,,,,,,,,,,,,,,,,,,,,,875
+IPD902,,b5022,b5022,Subcontracting: national and foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,902
+IPD901,,b5021,b5021,Subcontracting: large national firms and SMEs,IPD,,,,,,,,,,,,,,,,,,,,,901
+IPD900,,b5020,b5020,Subcontracting: between SMEs,IPD,,,,,,,,,,,,,,,,,,,,,900
+IPD714,,b5013,b5013,Public support in moving upmarket and acquiring technologies: large companies,IPD,,,,,,,,,,,,,,,,,,,,,714
+IPD713,,b5012,b5012,Public support in moving upmarket and acquiring technologies: SMEs,IPD,,,,,,,,,,,,,,,,,,,,,713
+IPD916,,b5011,b5011,Technology transfers: foreign to domestic stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,916
+IPD703,,b5010,b5010,Public authorities support to public or private R&D,IPD,,,,,,,,,,,,,,,,,,,,,703
+IPD914,,b5002,b5002,Technical capacities: large companies,IPD,,,,,,,,,,,,,,,,,,,,,914
+IPD913,,b5001,b5001,Technical capacities: SMEs,IPD,,,,,,,,,,,,,,,,,,,,,913
+IPD746,,b5000,b5000,Relationship between firms and universitiesresearch institutes,IPD,,,,,,,,,,,,,,,,,,,,,746
+IPD906,,b4042,b4042,Subsidies: petrol at the pumps,IPD,,,,,,,,,,,,,,,,,,,,,906
+IPD905,,b4041,b4041,Subsidies: commodities,IPD,,,,,,,,,,,,,,,,,,,,,905
+IPD822,,b4040,b4040,Share of administered prices,IPD,,,,,,,,,,,,,,,,,,,,,822
+IPD77,,b4030,b4030,Balance of the accounts of Stateowned and partly Stateowned firms,IPD,,,,,,,,,,,,,,,,,,,,,77
+IPD671,,b4023,b4023,Privatization: replacement of managersshareholders,IPD,,,,,,,,,,,,,,,,,,,,,671
+IPD672,,b4022,b4022,Privatization: transfer pricemarket price,IPD,,,,,,,,,,,,,,,,,,,,,672
+IPD952,,b4021,b4021,Transparency of privatisation procedures,IPD,,,,,,,,,,,,,,,,,,,,,952
+IPD670,,b4020,b4020,Privatization programme: strategic vision,IPD,,,,,,,,,,,,,,,,,,,,,670
+IPD683,,b4015,b4015,Proportion of public sector: public transport,IPD,,,,,,,,,,,,,,,,,,,,,683
+IPD684,,b4014,b4014,Proportion of public sector: telecommunications,IPD,,,,,,,,,,,,,,,,,,,,,684
+IPD681,,b4013,b4013,Proportion of public sector: electricity,IPD,,,,,,,,,,,,,,,,,,,,,681
+IPD685,,b4012,b4012,Proportion of public sector: water and sanitation,IPD,,,,,,,,,,,,,,,,,,,,,685
+IPD680,,b4011,b4011,Proportion of public sector: basic healthcare,IPD,,,,,,,,,,,,,,,,,,,,,680
+IPD682,,b4010,b4010,Proportion of public sector: primary and secondary education,IPD,,,,,,,,,,,,,,,,,,,,,682
+IPD676,,b4000,b4000,Proportion of GDP accounted for by Stateowned and partly Stateowned firms,IPD,,,,,,,,,,,,,,,,,,,,,676
+IPD679,,b3050,b3050,Proportion of public revenues from the exploitation of natural resources,IPD,,,,,,,,,,,,,,,,,,,,,679
+IPD314,,b3042,b3042,Exploitation of natural resources: achievement of objectives serving the general,IPD,,,,,,,,,,,,,,,,,,,,,314
+IPD776,,b3041,b3041,Revenues from the exploitation of natural resources: longterm investment,IPD,,,,,,,,,,,,,,,,,,,,,776
+IPD777,,b3040,b3040,Revenues from the exploitation of natural resources: transparency,IPD,,,,,,,,,,,,,,,,,,,,,777
+IPD710,,b3031,b3031,Public procurement: conditions relating to the general interest,IPD,,,,,,,,,,,,,,,,,,,,,710
+IPD907,,b3030,b3030,Support: related to general interest objectives,IPD,,,,,,,,,,,,,,,,,,,,,907
+IPD242,,b3020,b3020,Dynamism of Special Economic Zones,IPD,,,,,,,,,,,,,,,,,,,,,242
+IPD910,,b3010,b3010,Targeted support: emerging dynamic sectors,IPD,,,,,,,,,,,,,,,,,,,,,910
+IPD245,,b3001,b3001,Ease of setting up a subsidiary of a foreign firm,IPD,,,,,,,,,,,,,,,,,,,,,245
+IPD246,,b3000,b3000,Ease of starting a business (local law),IPD,,,,,,,,,,,,,,,,,,,,,246
+IPD476,,a9081,a9081,Integration capacity: smaller cities and towns,IPD,,,,,,,,,,,,,,,,,,,,,476
+IPD475,,a9080,a9080,Integration capacity: major cities,IPD,,,,,,,,,,,,,,,,,,,,,475
+IPD947,,a9072,a9072,Traditional solidarity: between urban and rural areas,IPD,,,,,,,,,,,,,,,,,,,,,947
+IPD948,,a9071,a9071,Traditional solidarity: rural areas,IPD,,,,,,,,,,,,,,,,,,,,,948
+IPD938,,a9070,a9070,Traditional Solidarity: urban and periurban areas,IPD,,,,,,,,,,,,,,,,,,,,,938
+IPD467,,a9062,a9062,Institutional Solidarity: retirement,IPD,,,,,,,,,,,,,,,,,,,,,467
+IPD468,,a9061,a9061,Institutional Solidarity: unemployment,IPD,,,,,,,,,,,,,,,,,,,,,468
+IPD466,,a9060,a9060,Institutional Solidarity: health and disability,IPD,,,,,,,,,,,,,,,,,,,,,466
+IPD924,,a9055,a9055,Territorial coverage: maintenance and solid waste disposal,IPD,,,,,,,,,,,,,,,,,,,,,924
+IPD926,,a9054,a9054,Territorial coverage: transport infrastructure,IPD,,,,,,,,,,,,,,,,,,,,,926
+IPD923,,a9053,a9053,Territorial coverage: electricity grid,IPD,,,,,,,,,,,,,,,,,,,,,923
+IPD922,,a9052,a9052,Territorial coverage: drinking water and sanitation networks,IPD,,,,,,,,,,,,,,,,,,,,,922
+IPD921,,a9051,a9051,Territorial coverage: basic healthcare services,IPD,,,,,,,,,,,,,,,,,,,,,921
+IPD925,,a9050,a9050,Territorial coverage: public schools,IPD,,,,,,,,,,,,,,,,,,,,,925
+IPD279,,a9043,a9043,Equal treatment: access to public employment,IPD,,,,,,,,,,,,,,,,,,,,,279
+IPD282,,a9042,a9042,Equal treatment: administrative procedures,IPD,,,,,,,,,,,,,,,,,,,,,282
+IPD280,,a9041,a9041,Equal treatment: access to public healthcare,IPD,,,,,,,,,,,,,,,,,,,,,280
+IPD281,,a9040,a9040,Equal treatment: access to public schools,IPD,,,,,,,,,,,,,,,,,,,,,281
+IPD189,,a9034,a9034,Discrimination: on grounds of geographical origin,IPD,,,,,,,,,,,,,,,,,,,,,189
+IPD190,,a9033,a9033,Discrimination: on grounds of regional origin,IPD,,,,,,,,,,,,,,,,,,,,,190
+IPD191,,a9032,a9032,Discrimination: on grounds of religion,IPD,,,,,,,,,,,,,,,,,,,,,191
+IPD187,,a9031,a9031,"Discrimination: on grounds of ethnicity, caste",IPD,,,,,,,,,,,,,,,,,,,,,187
+IPD188,,a9030,a9030,Discrimination: on grounds of gender,IPD,,,,,,,,,,,,,,,,,,,,,188
+IPD587,,a9022,a9022,Middle Classes: political and cultural influence,IPD,,,,,,,,,,,,,,,,,,,,,587
+IPD170,,a9021,a9021,Development of the middle classes: living standards and social status,IPD,,,,,,,,,,,,,,,,,,,,,170
+IPD171,,a9020,a9020,Development of the middle classes: size,IPD,,,,,,,,,,,,,,,,,,,,,171
+IPD268,,a9011,a9011,Elite: capacity to mobilize society,IPD,,,,,,,,,,,,,,,,,,,,,268
+IPD593,,a9010,a9010,Mobilisation of society to take up challenges,IPD,,,,,,,,,,,,,,,,,,,,,593
+IPD819,,a9000,a9000,Sense of national identity,IPD,,,,,,,,,,,,,,,,,,,,,819
+IPD602,,a8020,a8020,Neighbouring countries: destabilisation  conflict,IPD,,,,,,,,,,,,,,,,,,,,,602
+IPD350,,a8011,a8011,Freedom of access to the foreign press (no seizures),IPD,,,,,,,,,,,,,,,,,,,,,350
+IPD351,,a8010,a8010,Freedom of access: cablesatellite,IPD,,,,,,,,,,,,,,,,,,,,,351
+IPD356,,a8002,a8002,Freedom of movement for nationals (world),IPD,,,,,,,,,,,,,,,,,,,,,356
+IPD366,,a8001,a8001,Freedom to leave the country,IPD,,,,,,,,,,,,,,,,,,,,,366
+IPD355,,a8000,a8000,Freedom of entry for foreigners,IPD,,,,,,,,,,,,,,,,,,,,,355
+IPD920,,a6041,a6041,Termination of contract without compensation: foreign stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,920
+IPD919,,a6040,a6040,Termination of contract without compensation: domestic stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,919
+IPD774,,a6031,a6031,Restructuring procedures,IPD,,,,,,,,,,,,,,,,,,,,,774
+IPD465,,a6030,a6030,Insolvency legislation,IPD,,,,,,,,,,,,,,,,,,,,,465
+IPD410,,a6023,a6023,Impartiality of the justice system in commercial disputes involving nationals and foreigners,IPD,,,,,,,,,,,,,,,,,,,,,410
+IPD409,,a6022,a6022,Impartiality of the justice system in commercial disputes involving national stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,409
+IPD411,,a6021,a6021,Impartiality of the justice system in commercial disputes involving the State,IPD,,,,,,,,,,,,,,,,,,,,,411
+IPD535,,a6020,a6020,Judicial decisions in commercial matters: timeliness,IPD,,,,,,,,,,,,,,,,,,,,,535
+IPD603,,a6011,a6011,Observance of contractual terms: national and foreign private stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,603
+IPD604,,a6010,a6010,Observance of contractual terms: national private stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,604
+IPD116,,a6003,a6003,Compensation in cases of expropriation: production means,IPD,,,,,,,,,,,,,,,,,,,,,116
+IPD115,,a6002,a6002,Compensation in cases of expropriation: land ownership,IPD,,,,,,,,,,,,,,,,,,,,,115
+IPD40,,a6001,a6001,Arbitrary pressures on private property,IPD,,,,,,,,,,,,,,,,,,,,,40
+IPD548,,a6000,a6000,Legal means to protect property rights,IPD,,,,,,,,,,,,,,,,,,,,,548
+IPD405,,a5100,a5100,Hopes of young people,IPD,,,,,,,,,,,,,,,,,,,,,405
+IPD865,,a5092,a5092,Societys capacity for legal and institutional adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,865
+IPD866,,a5091,a5091,Societys capacity for managerial adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,866
+IPD867,,a5090,a5090,Societys capacity technological adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,867
+IPD94,,a5084,a5084,Capacity of national public authorities hampered: lack of cooperation with neighbours,IPD,,,,,,,,,,,,,,,,,,,,,94
+IPD93,,a5083,a5083,Capacity of national public authorities hampered: external stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,93
+IPD96,,a5082,a5082,Capacity of national public authorities hampered: pressure group,IPD,,,,,,,,,,,,,,,,,,,,,96
+IPD92,,a5081,a5081,Capacity of national public authorities hampered: divisions between the State apparatus,IPD,,,,,,,,,,,,,,,,,,,,,92
+IPD95,,a5080,a5080,Capacity of national public authorities hampered: political divisions,IPD,,,,,,,,,,,,,,,,,,,,,95
+IPD631,,a5074,a5074,Overall coherence of public policies,IPD,,,,,,,,,,,,,,,,,,,,,631
+IPD141,,a5073,a5073,Cooperation of public authorities and local stakeholders: public policy,IPD,,,,,,,,,,,,,,,,,,,,,141
+IPD100,,a5072,a5072,Capacity to adapt policies,IPD,,,,,,,,,,,,,,,,,,,,,100
+IPD288,,a5071,a5071,Evaluation of public policies,IPD,,,,,,,,,,,,,,,,,,,,,288
+IPD709,,a5070,a5070,Public policy experimentation,IPD,,,,,,,,,,,,,,,,,,,,,709
+IPD450,,a5060,a5060,Independent decisionmaking: political authorities,IPD,,,,,,,,,,,,,,,,,,,,,450
+IPD174,,a5051,a5051,Developmenteconomic growth: public sector elite,IPD,,,,,,,,,,,,,,,,,,,,,174
+IPD173,,a5050,a5050,Developmenteconomic growth: political priority,IPD,,,,,,,,,,,,,,,,,,,,,173
+IPD933,,a5040,a5040,Think tanks,IPD,,,,,,,,,,,,,,,,,,,,,933
+IPD890,,a5033,a5033,Strategic vision: internationalregional integration,IPD,,,,,,,,,,,,,,,,,,,,,890
+IPD891,,a5032,a5032,Strategic vision: protection of the environment,IPD,,,,,,,,,,,,,,,,,,,,,891
+IPD887,,a5031,a5031,Strategic Vision: territorialurban planning,IPD,,,,,,,,,,,,,,,,,,,,,887
+IPD889,,a5030,a5030,Strategic vision: human capital,IPD,,,,,,,,,,,,,,,,,,,,,889
+IPD888,,a5022,a5022,Strategic vision: capacity to encourage,IPD,,,,,,,,,,,,,,,,,,,,,888
+IPD892,,a5021,a5021,Strategic vision: shared by society as a whole,IPD,,,,,,,,,,,,,,,,,,,,,892
+IPD576,,a5020,a5020,Longterm strategic vision,IPD,,,,,,,,,,,,,,,,,,,,,576
+IPD149,,a5011,a5011,Coordinationcollaboration: within administration,IPD,,,,,,,,,,,,,,,,,,,,,149
+IPD148,,a5010,a5010,Coordinationcollaboration: between ministries,IPD,,,,,,,,,,,,,,,,,,,,,148
+IPD143,,a5002,a5002,Cooperation privatepublic sectors: general interest,IPD,,,,,,,,,,,,,,,,,,,,,143
+IPD144,,a5001,a5001,Cooperation privatepublic sectors: involvement by the State,IPD,,,,,,,,,,,,,,,,,,,,,144
+IPD142,,a5000,a5000,Cooperation privatepublic sectors,IPD,,,,,,,,,,,,,,,,,,,,,142
+IPD911,,a3130,a3130,Tax exemptions,IPD,,,,,,,,,,,,,,,,,,,,,911
+IPD8,,a3124,a3124,Ability to reform: environmental protection,IPD,,,,,,,,,,,,,,,,,,,,,8
+IPD12,,a3123,a3123,Ability to reform: societal,IPD,,,,,,,,,,,,,,,,,,,,,12
+IPD9,,a3122,a3122,Ability to reform: health and education,IPD,,,,,,,,,,,,,,,,,,,,,9
+IPD11,,a3121,a3121,Ability to reform: social,IPD,,,,,,,,,,,,,,,,,,,,,11
+IPD7,,a3120,a3120,Ability to reform: economic,IPD,,,,,,,,,,,,,,,,,,,,,7
+IPD66,,a3113,a3113,Authority of the political bodies over the government,IPD,,,,,,,,,,,,,,,,,,,,,66
+IPD10,,a3112,a3112,Ability to reform: justice,IPD,,,,,,,,,,,,,,,,,,,,,10
+IPD5,,a3111,a3111,Ability to reform: civil and political rights,IPD,,,,,,,,,,,,,,,,,,,,,5
+IPD6,,a3110,a3110,Ability to reform: constitutional fields,IPD,,,,,,,,,,,,,,,,,,,,,6
+IPD616,,a3104,a3104,"Operational independence: educational, sporting and cultural organizations",IPD,,,,,,,,,,,,,,,,,,,,,616
+IPD620,,a3103,a3103,Operational independence: religious organizations,IPD,,,,,,,,,,,,,,,,,,,,,620
+IPD619,,a3102,a3102,Operational independence: professional organizations,IPD,,,,,,,,,,,,,,,,,,,,,619
+IPD617,,a3101,a3101,Operational independence: large firms,IPD,,,,,,,,,,,,,,,,,,,,,617
+IPD618,,a3100,a3100,Operational independence: political parties,IPD,,,,,,,,,,,,,,,,,,,,,618
+IPD362,,a3094,a3094,"Freedom to establish and operate: educational, sporting and cultural organizations",IPD,,,,,,,,,,,,,,,,,,,,,362
+IPD365,,a3093,a3093,Freedom to establish and operate: religious organisations,IPD,,,,,,,,,,,,,,,,,,,,,365
+IPD361,,a3092,a3092,Freedom to establish and operate : professional organisations,IPD,,,,,,,,,,,,,,,,,,,,,361
+IPD363,,a3091,a3091,Freedom to establish and operate: large firms,IPD,,,,,,,,,,,,,,,,,,,,,363
+IPD364,,a3090,a3090,Freedom to establish and operate: political parties,IPD,,,,,,,,,,,,,,,,,,,,,364
+IPD454,,a3080,a3080,Influence of donors: public policies,IPD,,,,,,,,,,,,,,,,,,,,,454
+IPD341,,a3072,a3072,Foreign economic stakeholders influence: public policies,IPD,,,,,,,,,,,,,,,,,,,,,341
+IPD600,,a3071,a3071,National economic stakeholders influence: tax policy,IPD,,,,,,,,,,,,,,,,,,,,,600
+IPD599,,a3070,a3070,National economic stakeholders influence: economic legislation,IPD,,,,,,,,,,,,,,,,,,,,,599
+IPD636,,a3061,a3061,PlanningUrban planning: averagesized towns,IPD,,,,,,,,,,,,,,,,,,,,,636
+IPD637,,a3060,a3060,PlanningUrban planning: major conglomerations,IPD,,,,,,,,,,,,,,,,,,,,,637
+IPD278,,a3054,a3054,Equal treatment before the law: foreigners,IPD,,,,,,,,,,,,,,,,,,,,,278
+IPD277,,a3053,a3053,Equal treatment before the law: citizens,IPD,,,,,,,,,,,,,,,,,,,,,277
+IPD935,,a3052,a3052,Timeliness of judicial decisions,IPD,,,,,,,,,,,,,,,,,,,,,935
+IPD275,,a3051,a3051,Enforcement of judicial decisions,IPD,,,,,,,,,,,,,,,,,,,,,275
+IPD536,,a3050,a3050,Judicial independence,IPD,,,,,,,,,,,,,,,,,,,,,536
+IPD955,,a3040,a3040,Transparency: public procurement,IPD,,,,,,,,,,,,,,,,,,,,,955
+IPD3,,a3033,a3033,Ability to limit tax evasion,IPD,,,,,,,,,,,,,,,,,,,,,3
+IPD265,,a3032,a3032,Efficiency of the tax administration: national territory,IPD,,,,,,,,,,,,,,,,,,,,,265
+IPD264,,a3031,a3031,Efficiency of the tax administration: income tax,IPD,,,,,,,,,,,,,,,,,,,,,264
+IPD263,,a3030,a3030,Efficiency of the tax administration: corporation tax,IPD,,,,,,,,,,,,,,,,,,,,,263
+IPD151,,a3023,a3023,Corruption: between administrations and foreign businesses,IPD,,,,,,,,,,,,,,,,,,,,,151
+IPD152,,a3022,a3022,Corruption: between administrations and local businesses,IPD,,,,,,,,,,,,,,,,,,,,,152
+IPD569,,a3021,a3021,Level of largescale corruption (between the administration and firms),IPD,,,,,,,,,,,,,,,,,,,,,569
+IPD555,,a3020,a3020,Level of,IPD,,,,,,,,,,,,,,,,,,,,,555
+IPD507,,a3011,a3011,Is economic policy the subject of public debate,IPD,,,,,,,,,,,,,,,,,,,,,507
+IPD506,,a3010,a3010,Is economic policy the subject of an official communication,IPD,,,,,,,,,,,,,,,,,,,,,506
+IPD750,,a3005,a3005,Reliability: Stateowned banks accounts,IPD,,,,,,,,,,,,,,,,,,,,,750
+IPD751,,a3004,a3004,Reliability: Stateowned firms accounts,IPD,,,,,,,,,,,,,,,,,,,,,751
+IPD752,,a3003,a3003,Reliability: economic and financial statistics,IPD,,,,,,,,,,,,,,,,,,,,,752
+IPD748,,a3002,a3002,Reliability: State accounts,IPD,,,,,,,,,,,,,,,,,,,,,748
+IPD749,,a3001,a3001,Reliability: State budget,IPD,,,,,,,,,,,,,,,,,,,,,749
+IPD511,,a3000,a3000,Is the IMF consultation under Article IV published?,IPD,,,,,,,,,,,,,,,,,,,,,511
+IPD966,,a2042,a2042,Violent activities: natural resources,IPD,,,,,,,,,,,,,,,,,,,,,966
+IPD965,,a2041,a2041,Violent activities: criminal organisations,IPD,,,,,,,,,,,,,,,,,,,,,965
+IPD967,,a2040,a2040,Violent activities: political organisations,IPD,,,,,,,,,,,,,,,,,,,,,967
+IPD962,,a2033,a2033,Violence against public officials,IPD,,,,,,,,,,,,,,,,,,,,,962
+IPD483,,a2032,a2032,Internal conflicts: landrelated issues,IPD,,,,,,,,,,,,,,,,,,,,,483
+IPD486,,a2031,a2031,Internal conflicts: socialrelated issues,IPD,,,,,,,,,,,,,,,,,,,,,486
+IPD482,,a2030,a2030,"Internal conflicts: ethnic, religious, regional",IPD,,,,,,,,,,,,,,,,,,,,,482
+IPD886,,a2020,a2020,States arbitrary violence,IPD,,,,,,,,,,,,,,,,,,,,,886
+IPD4,,a2013,a2013,Ability to reform: armed bodies,IPD,,,,,,,,,,,,,,,,,,,,,4
+IPD136,,a2012,a2012,Control over the customs authorities,IPD,,,,,,,,,,,,,,,,,,,,,136
+IPD137,,a2011,a2011,Control over the police,IPD,,,,,,,,,,,,,,,,,,,,,137
+IPD135,,a2010,a2010,Control over the army,IPD,,,,,,,,,,,,,,,,,,,,,135
+IPD807,,a2001,a2001,Security across the territory,IPD,,,,,,,,,,,,,,,,,,,,,807
+IPD809,,a2000,a2000,Security of persons and goods,IPD,,,,,,,,,,,,,,,,,,,,,809
+IPD339,,a1091,a1091,Fiscal autonomy: other subnational authorities,IPD,,,,,,,,,,,,,,,,,,,,,339
+IPD338,,a1090,a1090,Fiscal autonomy: municipal authorities,IPD,,,,,,,,,,,,,,,,,,,,,338
+IPD627,,a1081,a1081,Other subnational authorities: elected or appointed,IPD,,,,,,,,,,,,,,,,,,,,,627
+IPD597,,a1080,a1080,Municipal authorities: elected or appointed,IPD,,,,,,,,,,,,,,,,,,,,,597
+IPD550,,a1072,a1072,Legitimacy of the political authorities: national pride,IPD,,,,,,,,,,,,,,,,,,,,,550
+IPD551,,a1071,a1071,Legitimacy of the political authorities: social benefit,IPD,,,,,,,,,,,,,,,,,,,,,551
+IPD549,,a1070,a1070,Legitimacy of the political authorities: economic benefit,IPD,,,,,,,,,,,,,,,,,,,,,549
+IPD622,,a1061,a1061,Opposition to the most recent change of Head of State: population,IPD,,,,,,,,,,,,,,,,,,,,,622
+IPD621,,a1060,a1060,Opposition to the most recent change of Head of State: political forces,IPD,,,,,,,,,,,,,,,,,,,,,621
+IPD62,,a1051,a1051,Assumption of political office in accordance with the rules,IPD,,,,,,,,,,,,,,,,,,,,,62
+IPD38,,a1050,a1050,Amendment of the rules governing the assumption of political office,IPD,,,,,,,,,,,,,,,,,,,,,38
+IPD349,,a1042,a1042,Freedom of access on the Internet,IPD,,,,,,,,,,,,,,,,,,,,,349
+IPD377,,a1041,a1041,Genuine media pluralism,IPD,,,,,,,,,,,,,,,,,,,,,377
+IPD359,,a1040,a1040,Freedom of the Press,IPD,,,,,,,,,,,,,,,,,,,,,359
+IPD772,,a1033,a1033,Respect for the rights of minorities,IPD,,,,,,,,,,,,,,,,,,,,,772
+IPD276,,a1032,a1032,Equal treatment,IPD,,,,,,,,,,,,,,,,,,,,,276
+IPD352,,a1031,a1031,Freedom of assembly and demonstration,IPD,,,,,,,,,,,,,,,,,,,,,352
+IPD353,,a1030,a1030,Freedom of association,IPD,,,,,,,,,,,,,,,,,,,,,353
+IPD650,,a1022,a1022,Population participation (local level),IPD,,,,,,,,,,,,,,,,,,,,,650
+IPD651,,a1021,a1021,Population participation (national level),IPD,,,,,,,,,,,,,,,,,,,,,651
+IPD640,,a1020,a1020,Political or Social expression via ITC,IPD,,,,,,,,,,,,,,,,,,,,,640
+IPD499,,a1011,a1011,Involvement of the military in politics,IPD,,,,,,,,,,,,,,,,,,,,,499
+IPD455,,a1010,a1010,Influence of organizations,IPD,,,,,,,,,,,,,,,,,,,,,455
+IPD632,,a1003,a1003,Oversight institutions,IPD,,,,,,,,,,,,,,,,,,,,,632
+IPD756,,a1002,a1002,Representative Institutions,IPD,,,,,,,,,,,,,,,,,,,,,756
+IPD266,,a1001,a1001,Electoral processes,IPD,,,,,,,,,,,,,,,,,,,,,266
+IPD347,,a1000,a1000,Freedom and legality of elections,IPD,,,,,,,,,,,,,,,,,,,,,347
+IPD779,,D1010,D1010,Right to organise trade unions,IPD,,,,,,,,,,,,,,,,,,,,,779
+IPD387,,D4000,D4000,Guaranteed employment for graduates in the public sector,IPD,,,,,,,,,,,,,,,,,,,,,387
+IPD657,,D4001,D4001,"Practice of guaranteed employment in the private sector (""lifelong employment"" type)",IPD,,,,,,,,,,,,,,,,,,,,,657
+IPD160,,D4002,D4002,De facto or de jure wage indexation to inflation,IPD,,,,,,,,,,,,,,,,,,,,,160
+IPD873,,D4003,D4003,Staff mobility in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,873
+IPD257,,D4010,D4010,Effectiveness of staff retraining and reskilling measures,IPD,,,,,,,,,,,,,,,,,,,,,257
+IPD973,,D5001,D5001,Vocational training matched to firms requirements?,IPD,,,,,,,,,,,,,,,,,,,,,973
+IPD200,,D5010,D5010,Do any formal or informal institutions link the education system with the needs of firms on the labour market?,IPD,,,,,,,,,,,,,,,,,,,,,200
+IPD517,,D5011,D5011,Is the education system associated with a longterm vision of skills requirements in the country?,IPD,,,,,,,,,,,,,,,,,,,,,517
+IPD591,,D6001,D6001,Minimum wage,IPD,,,,,,,,,,,,,,,,,,,,,591
+IPD192,,D6002,D6002,Dismissal procedures,IPD,,,,,,,,,,,,,,,,,,,,,192
+IPD538,,D6010,D6010,Labour inspectorate,IPD,,,,,,,,,,,,,,,,,,,,,538
+IPD453,,D6011,D6011,Industrial tribunals,IPD,,,,,,,,,,,,,,,,,,,,,453
+IPD695,,D6020,D6020,Protection against individual dismissal,IPD,,,,,,,,,,,,,,,,,,,,,695
+IPD696,,D6021,D6021,Protection against mass redundancies,IPD,,,,,,,,,,,,,,,,,,,,,696
+IPD608,,D6022,D6022,Openended contracts as share of total employment contracts,IPD,,,,,,,,,,,,,,,,,,,,,608
+IPD578,,D7000,D7000,Main wage bargaining level,IPD,,,,,,,,,,,,,,,,,,,,,578
+IPD899,,D7010,D7010,Strikes in the public sector,IPD,,,,,,,,,,,,,,,,,,,,,899
+IPD898,,D7011,D7011,Strikes in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,898
+IPD380,,D7020,D7020,Government consultation with management and labour representatives to steer public labour market policy,IPD,,,,,,,,,,,,,,,,,,,,,380
+IPD211,,D7021,D7021,Do the labour representatives strictly defend their members interests or do they have a broader vision (public interest)?,IPD,,,,,,,,,,,,,,,,,,,,,211
+IPD210,,D7022,D7022,Do the employers organisations strictly defend their members interests or do they have a broader vision (public interest)?,IPD,,,,,,,,,,,,,,,,,,,,,210
+IPD369,,D7030,D7030,Functioning of labourmanagement dialogue within firms,IPD,,,,,,,,,,,,,,,,,,,,,369
+IPD368,,D7031,D7031,Functioning of labourmanagement dialogue at national level,IPD,,,,,,,,,,,,,,,,,,,,,368
+IPD653,,D8000,D8000,Positioning of foreign executives in local firms,IPD,,,,,,,,,,,,,,,,,,,,,653
+IPD652,,D8001,D8001,Positioning of foreign executives in foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,652
+IPD883,,D9000,D9000,State primary and secondary urban education system,IPD,,,,,,,,,,,,,,,,,,,,,883
+IPD882,,D9001,D9001,State primary and secondary rural education system,IPD,,,,,,,,,,,,,,,,,,,,,882
+IPD885,,D9002,D9002,State university system (education and research),IPD,,,,,,,,,,,,,,,,,,,,,885
+IPD884,,D9003,D9003,State primary healthcare system,IPD,,,,,,,,,,,,,,,,,,,,,884
+IPD814,,D9010,D9010,"Segmentation of the labour market by origin (ethnic, religious, caste, etc)",IPD,,,,,,,,,,,,,,,,,,,,,814
+IPD813,,D9011,D9011,Segmentation of the labour market by gender,IPD,,,,,,,,,,,,,,,,,,,,,813
+IPD440,,D9020,D9020,Incidence of child labour in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,440
+IPD784,,D9030,D9030,"Role of family, clan and social networks in recruitment and promotion in the administration",IPD,,,,,,,,,,,,,,,,,,,,,784
+IPD783,,D9031,D9031,"Role of family, clan and social networks in recruitment and promotion in private firms",IPD,,,,,,,,,,,,,,,,,,,,,783
+IPD959,,D9032,D9032,"University degree irregularities (exam fraud, cheating, buying degrees, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,959
+IPD785,,D9040,D9040,"Role of family, clan and social networks in the selection of highlevel politicians (ministers, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,785
+IPD786,,D9041,D9041,"Role of family, clan and social networks in the selection of senior civil servants",IPD,,,,,,,,,,,,,,,,,,,,,786
+IPD787,,D9042,D9042,"Role of family, clan and social networks in the selection of senior corporate management",IPD,,,,,,,,,,,,,,,,,,,,,787
+IPD222,,D9050,D9050,Do young graduates experience a higher unemployment rate than the average unemployment rate?,IPD,,,,,,,,,,,,,,,,,,,,,222
+IPD918,,D9051,D9051,Tendency of firms to recruit graduates,IPD,,,,,,,,,,,,,,,,,,,,,918
+IPD985,,D9052,D9052,Young graduates working in the informal sector,IPD,,,,,,,,,,,,,,,,,,,,,985
+IPD516,,D9060,D9060,Is the distribution of income an issue in public debates?,IPD,,,,,,,,,,,,,,,,,,,,,516
+IPD57,,D9061,D9061,Are there any transfer mechanisms to help underprivileged social groups?,IPD,,,,,,,,,,,,,,,,,,,,,57
+IPD55,,D9062,D9062,Are there any redistribution mechanisms to help underprivileged regions?,IPD,,,,,,,,,,,,,,,,,,,,,55
+IPD937,,D100,D100,Tradeunion rights freedom,IPD,,,,,,,,,,,,,,,,,,,,,937
+IPD936,,D101,D101,Trade union plurality and autonomy,IPD,,,,,,,,,,,,,,,,,,,,,936
+IPD367,,D1010,D1010,Freedom to organise trade unions,IPD,,,,,,,,,,,,,,,,,,,,,367
+IPD694,,D400,D400,Proportion of workforce in civil service and publicsector enterprises,IPD,,,,,,,,,,,,,,,,,,,,,694
+IPD984,,D4000,D4000,Workforce employed in the civil service as % of total labour force,IPD,,,,,,,,,,,,,,,,,,,,,984
+IPD983,,D4001,D4001,Workforce employed in publicsector enterprises as % of total labour force,IPD,,,,,,,,,,,,,,,,,,,,,983
+IPD782,,D401,D401,Rigidity of the formal labour market (private and public),IPD,,,,,,,,,,,,,,,,,,,,,782
+IPD386,,D4010,D4010,Guarantee of employment for graduates in the public sector,IPD,,,,,,,,,,,,,,,,,,,,,386
+IPD658,,D4011,D4011,"Practice of guaranteed employment in the private sector (of the ""lifelong employment"" type)",IPD,,,,,,,,,,,,,,,,,,,,,658
+IPD451,,D4012,D4012,Indexation of wages on inflation,IPD,,,,,,,,,,,,,,,,,,,,,451
+IPD399,,D450,D450,Have there been reforms to make the formal labour market more flexible in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,399
+IPD730,,D4500,D4500,Reducing guaranteed recruitment,IPD,,,,,,,,,,,,,,,,,,,,,730
+IPD747,,D4501,D4501,Relaxing dismissal requirements,IPD,,,,,,,,,,,,,,,,,,,,,747
+IPD498,,D4502,D4502,Introducing fixedterm contracts,IPD,,,,,,,,,,,,,,,,,,,,,498
+IPD626,,D4503,D4503,Other measures,IPD,,,,,,,,,,,,,,,,,,,,,626
+IPD32,,D500,D500,Adult vocational training,IPD,,,,,,,,,,,,,,,,,,,,,32
+IPD456,,D600,D600,Informal labour market,IPD,,,,,,,,,,,,,,,,,,,,,456
+IPD831,,D6000,D6000,Share of informal employment in the urban sector,IPD,,,,,,,,,,,,,,,,,,,,,831
+IPD830,,D6001,D6001,Share of informal employment in the rural sector,IPD,,,,,,,,,,,,,,,,,,,,,830
+IPD303,,D601,D601,Existence and observance of labour legislation and measures,IPD,,,,,,,,,,,,,,,,,,,,,303
+IPD591,,D6010,D6010,Minimum wage,IPD,,,,,,,,,,,,,,,,,,,,,591
+IPD192,,D6011,D6011,Dismissal procedures,IPD,,,,,,,,,,,,,,,,,,,,,192
+IPD272,,D602,D602,Employment contract protection,IPD,,,,,,,,,,,,,,,,,,,,,272
+IPD539,,D603,D603,"Labour inspectorate, labour courts, etc",IPD,,,,,,,,,,,,,,,,,,,,,539
+IPD538,,D6030,D6030,Labour inspectorate,IPD,,,,,,,,,,,,,,,,,,,,,538
+IPD537,,D6031,D6031,Labour courts,IPD,,,,,,,,,,,,,,,,,,,,,537
+IPD976,,D700,D700,Wage bargaining  for nonmanagerial staff,IPD,,,,,,,,,,,,,,,,,,,,,976
+IPD975,,D7000,D7000,Wage bargaining  for bluecollar workers,IPD,,,,,,,,,,,,,,,,,,,,,975
+IPD850,,D701,D701,Social dialogue,IPD,,,,,,,,,,,,,,,,,,,,,850
+IPD371,,D7012,D7012,Functioning of social dialogue within firms,IPD,,,,,,,,,,,,,,,,,,,,,371
+IPD370,,D7013,D7013,Functioning of social dialogue at national level,IPD,,,,,,,,,,,,,,,,,,,,,370
+IPD614,,D800,D800,Openness to employment of foreign executives,IPD,,,,,,,,,,,,,,,,,,,,,614
+IPD14,,D8000,D8000,Acceptance of foreign executives in local firms,IPD,,,,,,,,,,,,,,,,,,,,,14
+IPD13,,D8001,D8001,Acceptance of foreign executives in foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,13
+IPD72,,D801,D801,Balance of migration for movements of UNSKILLED individuals,IPD,,,,,,,,,,,,,,,,,,,,,72
+IPD75,,D8010,D8010,Balance of migration for unskilled men,IPD,,,,,,,,,,,,,,,,,,,,,75
+IPD76,,D8011,D8011,Balance of migration for unskilled women,IPD,,,,,,,,,,,,,,,,,,,,,76
+IPD71,,D802,D802,Balance of migration for movements of SKILLED individuals,IPD,,,,,,,,,,,,,,,,,,,,,71
+IPD73,,D8020,D8020,Balance of migration for skilled men,IPD,,,,,,,,,,,,,,,,,,,,,73
+IPD74,,D8021,D8021,Balance of migration for skilled women,IPD,,,,,,,,,,,,,,,,,,,,,74
+IPD812,,D900,D900,Segmentation of the labour market,IPD,,,,,,,,,,,,,,,,,,,,,812
+IPD814,,D9000,D9000,"Segmentation of the labour market by origin (ethnic, religious, caste, etc)",IPD,,,,,,,,,,,,,,,,,,,,,814
+IPD813,,D9001,D9001,Segmentation of the labour market by gender,IPD,,,,,,,,,,,,,,,,,,,,,813
+IPD110,,D9002,D9002,Child labour safeguards,IPD,,,,,,,,,,,,,,,,,,,,,110
+IPD856,,D901,D901,Social mobility: recruitment and promotion in the public and private sectors,IPD,,,,,,,,,,,,,,,,,,,,,856
+IPD854,,D9010,D9010,Social mobility in the civil service,IPD,,,,,,,,,,,,,,,,,,,,,854
+IPD855,,D9011,D9011,Social mobility in the private sector,IPD,,,,,,,,,,,,,,,,,,,,,855
+IPD857,,D902,D902,Social mobility: young graduates from higher education,IPD,,,,,,,,,,,,,,,,,,,,,857
+IPD223,,D9020,D9020,Do young graduates post an aboveaverage unemployment rate?,IPD,,,,,,,,,,,,,,,,,,,,,223
+IPD26,,D9021,D9021,Adaptation of the education system to the labour market,IPD,,,,,,,,,,,,,,,,,,,,,26
+IPD918,,D9022,D9022,Tendency of firms to recruit graduates,IPD,,,,,,,,,,,,,,,,,,,,,918
+IPD107,,D903,D903,Child labour,IPD,,,,,,,,,,,,,,,,,,,,,107
+IPD689,,D9030,D9030,Proportion of the population for which children are a source of income (children not attending school),IPD,,,,,,,,,,,,,,,,,,,,,689
+IPD398,,D950,D950,Have there been reforms aimed at desegmentation of the labour market in the past three years?,IPD,,,,,,,,,,,,,,,,,,,,,398
+IPD582,,D9500,D9500,Measures to reduce segmentation by origin,IPD,,,,,,,,,,,,,,,,,,,,,582
+IPD581,,D9501,D9501,Measures to reduce segmentation by gender,IPD,,,,,,,,,,,,,,,,,,,,,581
+IPD580,,D9502,D9502,Measures to reduce child labour or introduce child labour safeguards,IPD,,,,,,,,,,,,,,,,,,,,,580
+IPD31,,C4020,C4020,Administrative setting of interest rates,IPD,,,,,,,,,,,,,,,,,,,,,31
+IPD723,,C4021,C4021,Quantitative credit controls,IPD,,,,,,,,,,,,,,,,,,,,,723
+IPD114,,C4022,C4022,"Compartmentalisation of banking system by law (loans to agriculture, industry, hotel sector, etc)",IPD,,,,,,,,,,,,,,,,,,,,,114
+IPD579,,C4023,C4023,"Managed lending (by sector, to public enterprises etc)",IPD,,,,,,,,,,,,,,,,,,,,,579
+IPD553,,C4024,C4024,Lending directed towards Treasury financing,IPD,,,,,,,,,,,,,,,,,,,,,553
+IPD442,,C4025,C4025,Independence of the Central Bank,IPD,,,,,,,,,,,,,,,,,,,,,442
+IPD562,,C5000,C5000,Level of competence of bank executives in local banks,IPD,,,,,,,,,,,,,,,,,,,,,562
+IPD561,,C5001,C5001,Level of competence of bank executives in foreign banks,IPD,,,,,,,,,,,,,,,,,,,,,561
+IPD382,,C5010,C5010,Government venture capital incentives,IPD,,,,,,,,,,,,,,,,,,,,,382
+IPD523,,C5020,C5020,Is the sovereign wealth fund (SWF) set up to meet profitability goals?,IPD,,,,,,,,,,,,,,,,,,,,,523
+IPD522,,C5021,C5021,Is the sovereign wealth fund (SWF) set up to meet a longterm profitability goal?,IPD,,,,,,,,,,,,,,,,,,,,,522
+IPD524,,C5022,C5022,Is the sovereign wealth fund (SWF) set up to preserve shareholder control of national enterprises?,IPD,,,,,,,,,,,,,,,,,,,,,524
+IPD521,,C5023,C5023,Is the sovereign wealth fund (SWF) set up to foster takeovers of firms abroad?,IPD,,,,,,,,,,,,,,,,,,,,,521
+IPD874,,C6000,C6000,Standard accounting system,IPD,,,,,,,,,,,,,,,,,,,,,874
+IPD104,,C6001,C6001,Certification of banks accounts,IPD,,,,,,,,,,,,,,,,,,,,,104
+IPD595,,C6010,C6010,Mortgage guarantee system,IPD,,,,,,,,,,,,,,,,,,,,,595
+IPD628,,C6011,C6011,Other system of guarantees required by the banks,IPD,,,,,,,,,,,,,,,,,,,,,628
+IPD526,,C6020,C6020,Is there a publication requirement for issuing firms?,IPD,,,,,,,,,,,,,,,,,,,,,526
+IPD375,,C7000,C7000,"Generally speaking, is the banking system mainly made up of cartels or mainly competitive?",IPD,,,,,,,,,,,,,,,,,,,,,375
+IPD307,,C7010,C7010,Existence of arrangements to combat restrictive collective agreements (cartels),IPD,,,,,,,,,,,,,,,,,,,,,307
+IPD304,,C7011,C7011,Existence of arrangements to combat abuse of dominant position,IPD,,,,,,,,,,,,,,,,,,,,,304
+IPD177,,C7020,C7020,"Difference between local and international capital adequacy standards (Cooke ratio, etc)",IPD,,,,,,,,,,,,,,,,,,,,,177
+IPD180,,C7021,C7021,Difference between local and international standards in terms of rules limiting sector concentration of loans,IPD,,,,,,,,,,,,,,,,,,,,,180
+IPD179,,C7022,C7022,Difference between local and international standards in terms of rules limiting concentration of loans to particular borrowers,IPD,,,,,,,,,,,,,,,,,,,,,179
+IPD178,,C7023,C7023,Difference between local and international standards in terms of rules limiting banks external exposure,IPD,,,,,,,,,,,,,,,,,,,,,178
+IPD84,,C7030,C7030,Banking supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,84
+IPD336,,C7031,C7031,Financial markets supervisory authority,IPD,,,,,,,,,,,,,,,,,,,,,336
+IPD474,,C7032,C7032,Insurance market supervisory body,IPD,,,,,,,,,,,,,,,,,,,,,474
+IPD490,,C7040,C7040,Internal monitoring and auditing arrangements for private banks,IPD,,,,,,,,,,,,,,,,,,,,,490
+IPD491,,C7041,C7041,Internal monitoring and auditing arrangements for public banks,IPD,,,,,,,,,,,,,,,,,,,,,491
+IPD441,,C7050,C7050,Increase in the level of competition in the financial system,IPD,,,,,,,,,,,,,,,,,,,,,441
+IPD934,,C7051,C7051,Tighter prudential rules for the financial system,IPD,,,,,,,,,,,,,,,,,,,,,934
+IPD113,,C7052,C7052,Closer supervision of the financial system,IPD,,,,,,,,,,,,,,,,,,,,,113
+IPD420,,C7053,C7053,Improved information systems on the situation of the banks,IPD,,,,,,,,,,,,,,,,,,,,,420
+IPD745,,C7054,C7054,Reinforcement of internal bank control,IPD,,,,,,,,,,,,,,,,,,,,,745
+IPD610,,C8000,C8000,Openness of bank capital to foreign shareholding,IPD,,,,,,,,,,,,,,,,,,,,,610
+IPD778,,C8001,C8001,Right of establishment for foreign banks (deposit banks and investment banks),IPD,,,,,,,,,,,,,,,,,,,,,778
+IPD16,,C8002,C8002,Access of foreignowned or partlyforeignowned firms to loans from local banks,IPD,,,,,,,,,,,,,,,,,,,,,16
+IPD18,,C8003,C8003,Access of local banks and firms to international bank loans,IPD,,,,,,,,,,,,,,,,,,,,,18
+IPD19,,C8004,C8004,Access of local firms to international financial markets,IPD,,,,,,,,,,,,,,,,,,,,,19
+IPD458,,C9000,C9000,Informal microlending,IPD,,,,,,,,,,,,,,,,,,,,,458
+IPD470,,C9001,C9001,"Institutional microlending (backed up by NGOs, banks…)",IPD,,,,,,,,,,,,,,,,,,,,,470
+IPD716,,C9002,C9002,Quality of microlending guarantees (informal or institutional),IPD,,,,,,,,,,,,,,,,,,,,,716
+IPD564,,C402,C402,Level of government intervention in allocation of lending,IPD,,,,,,,,,,,,,,,,,,,,,564
+IPD37,,C4023,C4023,"Allocated lending (by sector, to stateowned enterprises etc)",IPD,,,,,,,,,,,,,,,,,,,,,37
+IPD554,,C4024,C4024,Lending entirely directed towards Treasury financing,IPD,,,,,,,,,,,,,,,,,,,,,554
+IPD101,,C4025,C4025,Central Bank independence,IPD,,,,,,,,,,,,,,,,,,,,,101
+IPD742,,C451,C451,Reforms: implementation of the bank privatisation programme,IPD,,,,,,,,,,,,,,,,,,,,,742
+IPD952,,C4510,C4510,Transparency of privatisation procedures,IPD,,,,,,,,,,,,,,,,,,,,,952
+IPD133,,C4512,C4512,"Consistency, continuity and predictability of the privatisation programme",IPD,,,,,,,,,,,,,,,,,,,,,133
+IPD741,,C452,C452,Reforms: de facto openness of bank and financial establishment privatisations,IPD,,,,,,,,,,,,,,,,,,,,,741
+IPD806,,C4520,C4520,Sector exclusion of certain banks and financial establishments,IPD,,,,,,,,,,,,,,,,,,,,,806
+IPD300,,C4521,C4521,Exclusion of foreign capital,IPD,,,,,,,,,,,,,,,,,,,,,300
+IPD737,,C453,C453,Reforms to liberalise the credit sector in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,737
+IPD299,,C4530,C4530,Exchange rate liberalisation,IPD,,,,,,,,,,,,,,,,,,,,,299
+IPD731,,C4531,C4531,Reduction in quantitative credit controls,IPD,,,,,,,,,,,,,,,,,,,,,731
+IPD732,,C4532,C4532,Reduction in the allocation of lending by sector or to stateowned enterprises,IPD,,,,,,,,,,,,,,,,,,,,,732
+IPD162,,C4533,C4533,Decompartmentalisation of the financial institutions,IPD,,,,,,,,,,,,,,,,,,,,,162
+IPD333,,C4534,C4534,Facilitation of access by businesses to the money market,IPD,,,,,,,,,,,,,,,,,,,,,333
+IPD196,,C500,C500,"Dissemination of technology, innovation",IPD,,,,,,,,,,,,,,,,,,,,,196
+IPD560,,C5000,C5000,Level of competence of bank executives,IPD,,,,,,,,,,,,,,,,,,,,,560
+IPD464,,C501,C501,Innovation: venture capital,IPD,,,,,,,,,,,,,,,,,,,,,464
+IPD335,,C5010,C5010,Financial arrangements encouraging venture capital,IPD,,,,,,,,,,,,,,,,,,,,,335
+IPD473,,C502,C502,"Insurance companies, pension funds",IPD,,,,,,,,,,,,,,,,,,,,,473
+IPD472,,C5020,C5020,Insurance companies,IPD,,,,,,,,,,,,,,,,,,,,,472
+IPD634,,C5021,C5021,Pension funds,IPD,,,,,,,,,,,,,,,,,,,,,634
+IPD940,,C600,C600,Traditional credit systems (informal or quasiinformal),IPD,,,,,,,,,,,,,,,,,,,,,940
+IPD939,,C6000,C6000,Traditional credit system,IPD,,,,,,,,,,,,,,,,,,,,,939
+IPD388,,C6001,C6001,Guarantees implicit in this traditional credit system,IPD,,,,,,,,,,,,,,,,,,,,,388
+IPD462,,C601,C601,Information on the situation of the banks,IPD,,,,,,,,,,,,,,,,,,,,,462
+IPD874,,C6010,C6010,Standard accounting system,IPD,,,,,,,,,,,,,,,,,,,,,874
+IPD104,,C6011,C6011,Certification of banks accounts,IPD,,,,,,,,,,,,,,,,,,,,,104
+IPD552,,C602,C602,Lender guarantees: banking system (mortgages etc),IPD,,,,,,,,,,,,,,,,,,,,,552
+IPD595,,C6020,C6020,Mortgage guarantee system,IPD,,,,,,,,,,,,,,,,,,,,,595
+IPD628,,C6021,C6021,Other system of guarantees required by the banks,IPD,,,,,,,,,,,,,,,,,,,,,628
+IPD126,,C603,C603,Compulsory publication of information by firms at the time of share issues,IPD,,,,,,,,,,,,,,,,,,,,,126
+IPD532,,C6030,C6030,Is there an obligation on issuing firms to publish?,IPD,,,,,,,,,,,,,,,,,,,,,532
+IPD124,,C700,C700,Competition within the banking system,IPD,,,,,,,,,,,,,,,,,,,,,124
+IPD376,,C7000,C7000,"Generally speaking, is the functioning of the banking system mainly cartelised or mainly competitive?",IPD,,,,,,,,,,,,,,,,,,,,,376
+IPD744,,C701,C701,Regulation of competition in the banking system,IPD,,,,,,,,,,,,,,,,,,,,,744
+IPD306,,C7010,C7010,Existence of arrangements to combat restrictive collective agreements,IPD,,,,,,,,,,,,,,,,,,,,,306
+IPD697,,C702,C702,Prudential rules: difference between local and international standards,IPD,,,,,,,,,,,,,,,,,,,,,697
+IPD698,,C7020,C7020,"Prudential rules: difference between local and international standards regarding capital adequacy (Cooke ratio, etc)",IPD,,,,,,,,,,,,,,,,,,,,,698
+IPD701,,C7021,C7021,Prudential rules: difference between local and international standards regarding rules limiting sectoral concentration of the loans granted,IPD,,,,,,,,,,,,,,,,,,,,,701
+IPD700,,C7022,C7022,Prudential rules: difference between local and international standards regarding rules limiting concentration of loans to particular borrowers,IPD,,,,,,,,,,,,,,,,,,,,,700
+IPD699,,C7023,C7023,Prudential rules: difference between local and international standards regarding rules limiting banks external exposure,IPD,,,,,,,,,,,,,,,,,,,,,699
+IPD79,,C703,C703,Banking and financial supervision,IPD,,,,,,,,,,,,,,,,,,,,,79
+IPD489,,C704,C704,Internal control of banks,IPD,,,,,,,,,,,,,,,,,,,,,489
+IPD487,,C7040,C7040,Internal control arrangements for private banks,IPD,,,,,,,,,,,,,,,,,,,,,487
+IPD488,,C7041,C7041,Internal control arrangements for publiclyowned banks,IPD,,,,,,,,,,,,,,,,,,,,,488
+IPD736,,C750,C750,Reforms of the regulation of the financial system in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,736
+IPD441,,C7500,C7500,Increase in the level of competition in the financial system,IPD,,,,,,,,,,,,,,,,,,,,,441
+IPD893,,C7501,C7501,Strengthening of the financial systems prudential rules,IPD,,,,,,,,,,,,,,,,,,,,,893
+IPD894,,C7502,C7502,Strengthening of the financial systems supervision,IPD,,,,,,,,,,,,,,,,,,,,,894
+IPD615,,C800,C800,Openness to foreign capital and loans,IPD,,,,,,,,,,,,,,,,,,,,,615
+IPD611,,C8000,C8000,Openness of bank capital to foreign shareholdings,IPD,,,,,,,,,,,,,,,,,,,,,611
+IPD17,,C8003,C8003,Access of local banking firms to international bank loans,IPD,,,,,,,,,,,,,,,,,,,,,17
+IPD740,,C850,C850,Reforms to open up the financial system in the past 3 years ?,IPD,,,,,,,,,,,,,,,,,,,,,740
+IPD738,,C8500,C8500,Reforms to open up the banking system,IPD,,,,,,,,,,,,,,,,,,,,,738
+IPD739,,C8501,C8501,Reforms to open up the financial market,IPD,,,,,,,,,,,,,,,,,,,,,739
+IPD586,,C900,C900,Microlending,IPD,,,,,,,,,,,,,,,,,,,,,586
+IPD430,,B3000,B3000,"In practice, ease of setting up a local business",IPD,,,,,,,,,,,,,,,,,,,,,430
+IPD249,,B3010,B3010,"Economic zones with favourable exemptions (tax, regulatory, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,249
+IPD502,,B3020,B3020,"Is aid to public or private firms (subsidies, de jure or de facto trade protection, financial facilities, etc.) dependent on meeting publicinterest targets?",IPD,,,,,,,,,,,,,,,,,,,,,502
+IPD509,,B3021,B3021,"Is public or private business access to mining and operating rights (natural resources, trading, concessions, etc.) dependent on meeting publicinterest targets?",IPD,,,,,,,,,,,,,,,,,,,,,509
+IPD392,,B3022,B3022,Have targeted support measures been put in place for the emerging growth sectors?,IPD,,,,,,,,,,,,,,,,,,,,,392
+IPD951,,B3030,B3030,"Transparency of management of income from mining natural resources (oil, other mining resources, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,951
+IPD961,,B3031,B3031,Use of income from mining oil and other mining resources,IPD,,,,,,,,,,,,,,,,,,,,,961
+IPD952,,B4020,B4020,Transparency of privatisation procedures,IPD,,,,,,,,,,,,,,,,,,,,,952
+IPD798,,B4021,B4021,Sale price close to market price,IPD,,,,,,,,,,,,,,,,,,,,,798
+IPD394,,B4022,B4022,Have the privatisations benefited mainly the former company directors or rather new local or foreign players?,IPD,,,,,,,,,,,,,,,,,,,,,394
+IPD133,,B4023,B4023,"Consistency, continuity and predictability of the privatisation programme",IPD,,,,,,,,,,,,,,,,,,,,,133
+IPD46,,B4030,B4030,Are the majority of the public and semipublic enterprises …,IPD,,,,,,,,,,,,,,,,,,,,,46
+IPD846,,B4050,B4050,Single exchange rate for commercial transactions,IPD,,,,,,,,,,,,,,,,,,,,,846
+IPD686,,B5000,B5000,"Proportion of technical staff (engineers, technicians) in SMEsSMIs",IPD,,,,,,,,,,,,,,,,,,,,,686
+IPD687,,B5001,B5001,"Proportion of technical staff (engineers, technicians) in large firms",IPD,,,,,,,,,,,,,,,,,,,,,687
+IPD140,,B5002,B5002,"Cooperation links between businesses, universities and research centres",IPD,,,,,,,,,,,,,,,,,,,,,140
+IPD311,,B5010,B5010,Existence of institutions or arrangements to support research and technological acquisitions for SMEs,IPD,,,,,,,,,,,,,,,,,,,,,311
+IPD310,,B5011,B5011,Existence of institutions or arrangements to support research and technological acquisions for large firms,IPD,,,,,,,,,,,,,,,,,,,,,310
+IPD309,,B5012,B5012,Existence of institutions or arrangements to encourage technology transfers and skills transfers from foreign players to domestic players,IPD,,,,,,,,,,,,,,,,,,,,,309
+IPD327,,B5020,B5020,Extent of subcontracting between SMEs,IPD,,,,,,,,,,,,,,,,,,,,,327
+IPD328,,B5021,B5021,Extent of subcontracting between SMEs and large national firms,IPD,,,,,,,,,,,,,,,,,,,,,328
+IPD329,,B5022,B5022,Extent of subcontracting between national firms and foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,329
+IPD876,,B6001,B6001,Standard accounting system (large firms),IPD,,,,,,,,,,,,,,,,,,,,,876
+IPD909,,B6004,B6004,System of norms and standards (national system),IPD,,,,,,,,,,,,,,,,,,,,,909
+IPD601,,B6010,B6010,National norms and standards,IPD,,,,,,,,,,,,,,,,,,,,,601
+IPD573,,B6030,B6030,Local arrangements for the protection of intellectual property,IPD,,,,,,,,,,,,,,,,,,,,,573
+IPD493,,B6031,B6031,International arrangements: TRIPS agreement,IPD,,,,,,,,,,,,,,,,,,,,,493
+IPD419,,B6040,B6040,"Importance of traditional collectively owned land (traditional rights, religious rights, community rights, others, etc)",IPD,,,,,,,,,,,,,,,,,,,,,419
+IPD416,,B6050,B6050,"Importance of public property (central, regional government property, etc)",IPD,,,,,,,,,,,,,,,,,,,,,416
+IPD667,,B6051,B6051,Private or private type of public property use,IPD,,,,,,,,,,,,,,,,,,,,,667
+IPD528,,B6060,B6060,"Is there a range of different landrights systems in practice in urban and suburban areas (traditional, customary, collective, religious, ""modern"" rights, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,528
+IPD527,,B6061,B6061,"Is there a range of different landrights systems in practice in rural areas (traditional, customary, collective, religious, ""modern"" rights, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,527
+IPD229,,B6070,B6070,Does the government formally recognise the diversity of landrights systems in urban and suburban areas?,IPD,,,,,,,,,,,,,,,,,,,,,229
+IPD228,,B6071,B6071,Does the government formally recognise the diversity of landrights systems in rural areas?,IPD,,,,,,,,,,,,,,,,,,,,,228
+IPD45,,B6080,B6080,Are public arrangements in place for formalisationregistration of land rights in urban and suburban areas?,IPD,,,,,,,,,,,,,,,,,,,,,45
+IPD44,,B6081,B6081,Are public arrangements in place for formalisationregistration of land rights in rural areas?,IPD,,,,,,,,,,,,,,,,,,,,,44
+IPD233,,B6082,B6082,"Does the government have a policy to foster access to land for certain disadvantaged groups (minorities, natives, indigenous peoples, immigrants, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,233
+IPD319,,B6083,B6083,"Extent of eviction operations over the last three years (excluding conflicts, civil wars, etc.)?",IPD,,,,,,,,,,,,,,,,,,,,,319
+IPD691,,B6090,B6090,Proportion of the populations with no formally recognised land rights in urban and suburban areas,IPD,,,,,,,,,,,,,,,,,,,,,691
+IPD690,,B6091,B6091,Proportion of the populations with no formally recognised land rights in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,690
+IPD635,,B6092,B6092,"Percentage of land disputes (urban, suburban and rural) to the total number of disputes handled by the courts",IPD,,,,,,,,,,,,,,,,,,,,,635
+IPD415,,B6093,B6093,Importance of land issues on the political agenda and in the press,IPD,,,,,,,,,,,,,,,,,,,,,415
+IPD529,,B6100,B6100,Is there a strong demand for landincrease in prices in the large towns and cities?,IPD,,,,,,,,,,,,,,,,,,,,,529
+IPD530,,B6101,B6101,Is there a strong demand for landincrease in prices in the middlesized towns?,IPD,,,,,,,,,,,,,,,,,,,,,530
+IPD56,,B6102,B6102,"Are there any significant rural areas in the country where demand for land is high (competition for land, price increase)?",IPD,,,,,,,,,,,,,,,,,,,,,56
+IPD321,,B6110,B6110,Extent of large investment (national or international) in urban land property,IPD,,,,,,,,,,,,,,,,,,,,,321
+IPD322,,B6111,B6111,"Extent of large, national or international investment (food, industrial, tourism, mining or forestry sectors) in rural land property",IPD,,,,,,,,,,,,,,,,,,,,,322
+IPD838,,B7010,B7010,Share of supermarkets in the retail trade (household consumption),IPD,,,,,,,,,,,,,,,,,,,,,838
+IPD826,,B7011,B7011,Share of distribution delivered by large national firms,IPD,,,,,,,,,,,,,,,,,,,,,826
+IPD825,,B7012,B7012,Share of distribution delivered by large foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,825
+IPD253,,B7021,B7021,Effectiiveness of arrangements to combat abuses of dominant positions,IPD,,,,,,,,,,,,,,,,,,,,,253
+IPD711,,B7030,B7030,"Public shareholders (government, etc)",IPD,,,,,,,,,,,,,,,,,,,,,711
+IPD565,,B7040,B7040,Level of information on the structure of shareholdings in local firms,IPD,,,,,,,,,,,,,,,,,,,,,565
+IPD566,,B7041,B7041,Level of information on the structure of shareholdings in the subsidiaries of foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,566
+IPD231,,B7050,B7050,Does the government have a land development policy for economic activity in urban and suburban areas?,IPD,,,,,,,,,,,,,,,,,,,,,231
+IPD230,,B7051,B7051,Does the government have a land development policy for economic activity in agriculture in rural areas?,IPD,,,,,,,,,,,,,,,,,,,,,230
+IPD232,,B7052,B7052,Does the government have a land development policy for housing in urban and suburban areas?,IPD,,,,,,,,,,,,,,,,,,,,,232
+IPD139,,B8000,B8000,Convertibility for current transactions,IPD,,,,,,,,,,,,,,,,,,,,,139
+IPD534,,B8002,B8002,Issue of import licences,IPD,,,,,,,,,,,,,,,,,,,,,534
+IPD207,,B8003,B8003,Do pressure groups lobby against trade openness?,IPD,,,,,,,,,,,,,,,,,,,,,207
+IPD204,,B8010,B8010,Do foreign investors encounter de facto or de jure resistance to shareholdings in private firms?,IPD,,,,,,,,,,,,,,,,,,,,,204
+IPD203,,B8011,B8011,"Do foreign investors encounter de facto or de jure resistance to investment in public services (publicprivate partnerships, concessions, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,203
+IPD320,,B8020,B8020,Extent of joint ventures in the national economy,IPD,,,,,,,,,,,,,,,,,,,,,320
+IPD429,,B8030,B8030,"In practice, do nonnationals have the right to purchase (freehold or longterm lease) landhouses in urban areas?",IPD,,,,,,,,,,,,,,,,,,,,,429
+IPD428,,B8031,B8031,"In practice, do nonnationals have the right to purchase (freehold or longterm lease) land in rural areas?",IPD,,,,,,,,,,,,,,,,,,,,,428
+IPD29,,B300,B300,Administrative business startup formalities,IPD,,,,,,,,,,,,,,,,,,,,,29
+IPD29,,B3000,B3000,Administrative business startup formalities,IPD,,,,,,,,,,,,,,,,,,,,,29
+IPD836,,B402,B402,Share of public sector in public utility services,IPD,,,,,,,,,,,,,,,,,,,,,836
+IPD978,,B4020,B4020,Water and sanitation,IPD,,,,,,,,,,,,,,,,,,,,,978
+IPD267,,B4021,B4021,Electricity,IPD,,,,,,,,,,,,,,,,,,,,,267
+IPD917,,B4022,B4022,Telecommunications,IPD,,,,,,,,,,,,,,,,,,,,,917
+IPD956,,B4023,B4023,Transport infrastructures,IPD,,,,,,,,,,,,,,,,,,,,,956
+IPD402,,B4024,B4024,Healthcare,IPD,,,,,,,,,,,,,,,,,,,,,402
+IPD251,,B4025,B4025,Education,IPD,,,,,,,,,,,,,,,,,,,,,251
+IPD624,,B4026,B4026,Other,IPD,,,,,,,,,,,,,,,,,,,,,624
+IPD27,,B403,B403,Administered prices and market prices,IPD,,,,,,,,,,,,,,,,,,,,,27
+IPD677,,B4030,B4030,Proportion of administered prices,IPD,,,,,,,,,,,,,,,,,,,,,677
+IPD183,,B4031,B4031,Direct subsidies on prices of primary products,IPD,,,,,,,,,,,,,,,,,,,,,183
+IPD607,,B4032,B4032,Oil: pumpprice differential versus world prices,IPD,,,,,,,,,,,,,,,,,,,,,607
+IPD846,,B4033,B4033,Single exchange rate for commercial transactions,IPD,,,,,,,,,,,,,,,,,,,,,846
+IPD743,,B450,B450,Reforms: nonfinancial enterprises privatisations from 2001 to 2006,IPD,,,,,,,,,,,,,,,,,,,,,743
+IPD385,,B4500,B4500,Growth in the share of nonfinancial enterprises in GDP (special score),IPD,,,,,,,,,,,,,,,,,,,,,385
+IPD412,,B451,B451,Implementation of the privatisation programme,IPD,,,,,,,,,,,,,,,,,,,,,412
+IPD952,,B4510,B4510,Transparency of privatisation procedures,IPD,,,,,,,,,,,,,,,,,,,,,952
+IPD1,,B4511,B4511,"""True price"" of sale",IPD,,,,,,,,,,,,,,,,,,,,,1
+IPD669,,B4512,B4512,"Privatisation mainly benefiting former managers or mainly benefiting new players, local or foreign",IPD,,,,,,,,,,,,,,,,,,,,,669
+IPD133,,B4513,B4513,"Consistency, continuity and predictability of the privatisation programme",IPD,,,,,,,,,,,,,,,,,,,,,133
+IPD613,,B452,B452,Openness of the privatisation programme,IPD,,,,,,,,,,,,,,,,,,,,,613
+IPD301,,B4520,B4520,"Exclusion of particular sectors (""strategic"")",IPD,,,,,,,,,,,,,,,,,,,,,301
+IPD300,,B4521,B4521,Exclusion of foreign capital,IPD,,,,,,,,,,,,,,,,,,,,,300
+IPD612,,B4522,B4522,"Openness of public services to local or foreign private capital (BOT, concessions, etc)",IPD,,,,,,,,,,,,,,,,,,,,,612
+IPD915,,B500,B500,"Technological environment, dissemination of technology",IPD,,,,,,,,,,,,,,,,,,,,,915
+IPD169,,B5002,B5002,"Density and ""continuity"" of corporate fabric (locallyavailable maintenance and subcontracting, etc)",IPD,,,,,,,,,,,,,,,,,,,,,169
+IPD461,,B600,B600,Information on the situation of firms,IPD,,,,,,,,,,,,,,,,,,,,,461
+IPD460,,B601,B601,Information on the quality of the goods: national norms and standards,IPD,,,,,,,,,,,,,,,,,,,,,460
+IPD459,,B602,B602,Information on the quality of the goods: international norms and standards,IPD,,,,,,,,,,,,,,,,,,,,,459
+IPD494,,B6020,B6020,"International norms and standards (ISO, Codex, etc)",IPD,,,,,,,,,,,,,,,,,,,,,494
+IPD477,,B603,B603,Intellectual property,IPD,,,,,,,,,,,,,,,,,,,,,477
+IPD766,,B6030,B6030,"Respect for intellectual property as regards manufacturing secrets, patents, etc",IPD,,,,,,,,,,,,,,,,,,,,,766
+IPD765,,B6031,B6031,Respect for intellectual property as regards counterfeit goods,IPD,,,,,,,,,,,,,,,,,,,,,765
+IPD61,,B604,B604,Arrangements for the protection of intellectual property,IPD,,,,,,,,,,,,,,,,,,,,,61
+IPD572,,B6040,B6040,Local arrangements for protection of intellectual property,IPD,,,,,,,,,,,,,,,,,,,,,572
+IPD493,,B6041,B6041,International arrangements: TRIPS agreement,IPD,,,,,,,,,,,,,,,,,,,,,493
+IPD36,,B605,B605,Agricultural sector: traditional collective property,IPD,,,,,,,,,,,,,,,,,,,,,36
+IPD805,,B6050,B6050,"Scale of traditional collectively owned land (traditional rights, religious rights, others, etc)",IPD,,,,,,,,,,,,,,,,,,,,,805
+IPD34,,B606,B606,Agricultural sector: public property,IPD,,,,,,,,,,,,,,,,,,,,,34
+IPD799,,B6060,B6060,"Scale of collectively owned land (State property, Region property, etc)",IPD,,,,,,,,,,,,,,,,,,,,,799
+IPD35,,B607,B607,Agricultural sector: security of rights and property transactions,IPD,,,,,,,,,,,,,,,,,,,,,35
+IPD41,,B6070,B6070,Are agricultural land property rights mainly traditional (informal or quasiinformal) or are they formal?,IPD,,,,,,,,,,,,,,,,,,,,,41
+IPD520,,B6071,B6071,Is the security of TRADITIONAL property rights and transactions assured?,IPD,,,,,,,,,,,,,,,,,,,,,520
+IPD519,,B6072,B6072,Is the security of FORMAL property rights and transactions assured?,IPD,,,,,,,,,,,,,,,,,,,,,519
+IPD125,,B700,B700,Competition: productive sector: ease of market entry for new firms,IPD,,,,,,,,,,,,,,,,,,,,,125
+IPD122,,B701,B701,Competition in distribution (household consumption),IPD,,,,,,,,,,,,,,,,,,,,,122
+IPD824,,B7010,B7010,Share of distribution accounted for by large national firms,IPD,,,,,,,,,,,,,,,,,,,,,824
+IPD823,,B7011,B7011,Share of distribution acccounted for by large foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,823
+IPD121,,B702,B702,Competition between businesses: competition regulation arrangements,IPD,,,,,,,,,,,,,,,,,,,,,121
+IPD306,,B7020,B7020,Existence of arrangements to combat restrictive collective agreements,IPD,,,,,,,,,,,,,,,,,,,,,306
+IPD305,,B7021,B7021,Existence of arrangements to combat abuses of dominant positions,IPD,,,,,,,,,,,,,,,,,,,,,305
+IPD33,,B703,B703,Agricultural sector: concentration of agricultural land,IPD,,,,,,,,,,,,,,,,,,,,,33
+IPD501,,B7030,B7030,Is agricultural landed property rather dispersed or concentrated?,IPD,,,,,,,,,,,,,,,,,,,,,501
+IPD496,,B704,B704,Interpenetration of local capital (private andor public),IPD,,,,,,,,,,,,,,,,,,,,,496
+IPD800,,B7040,B7040,Scale of financial crossholdings between local firms,IPD,,,,,,,,,,,,,,,,,,,,,800
+IPD801,,B7041,B7041,Scale of financial crossholdings between local firms and banks,IPD,,,,,,,,,,,,,,,,,,,,,801
+IPD802,,B7042,B7042,Scale of financial crossholdings between local firms and banks involving foreign firms or banks,IPD,,,,,,,,,,,,,,,,,,,,,802
+IPD841,,B705,B705,Shareholders: weight of institutional investors,IPD,,,,,,,,,,,,,,,,,,,,,841
+IPD78,,B7050,B7050,Bank shareholders (private and public),IPD,,,,,,,,,,,,,,,,,,,,,78
+IPD625,,B7051,B7051,Other institutional investors,IPD,,,,,,,,,,,,,,,,,,,,,625
+IPD842,,B706,B706,Shareholders: weight of the government,IPD,,,,,,,,,,,,,,,,,,,,,842
+IPD712,,B7060,B7060,"Public shareholders (government, etc+C76)",IPD,,,,,,,,,,,,,,,,,,,,,712
+IPD840,,B707,B707,Shareholders: weight of family shareholders,IPD,,,,,,,,,,,,,,,,,,,,,840
+IPD334,,B7070,B7070,Family shareholders,IPD,,,,,,,,,,,,,,,,,,,,,334
+IPD839,,B708,B708,Shareholders: Weight of dispersed shareownership,IPD,,,,,,,,,,,,,,,,,,,,,839
+IPD195,,B7080,B7080,Dispersed shareownership,IPD,,,,,,,,,,,,,,,,,,,,,195
+IPD596,,B709,B709,Multisector groups (of Korean Choebol type),IPD,,,,,,,,,,,,,,,,,,,,,596
+IPD979,,B7090,B7090,Weight of multisector groups that DO NOT have a financial institution in their group,IPD,,,,,,,,,,,,,,,,,,,,,979
+IPD980,,B7091,B7091,Weight of multisector groups that HAVE one or more financial institutions in their group,IPD,,,,,,,,,,,,,,,,,,,,,980
+IPD463,,B710,B710,Information on the structure of shareholdings in local firms,IPD,,,,,,,,,,,,,,,,,,,,,463
+IPD565,,B7100,B7100,Level of information on the structure of shareholdings in local firms,IPD,,,,,,,,,,,,,,,,,,,,,565
+IPD138,,B800,B800,Convertibility and WTO membership,IPD,,,,,,,,,,,,,,,,,,,,,138
+IPD384,,B8002,B8002,Granting of import licences,IPD,,,,,,,,,,,,,,,,,,,,,384
+IPD835,,B400,B400,Share of public sector in GDP,IPD,,,,,,,,,,,,,,,,,,,,,835
+IPD837,,B4000,B4000,Share of stateowned enterprises,IPD,,,,,,,,,,,,,,,,,,,,,837
+IPD495,,B704,B704,Interpenetration of local capital,IPD,,,,,,,,,,,,,,,,,,,,,495
+IPD220,,A1001,A1001,Do the representative political institutions (parliament or equivalent) operate in compliance with the formal rules in force (constitution or equivalent)?,IPD,,,,,,,,,,,,,,,,,,,,,220
+IPD218,,A1002,A1002,"Do the political oversight institutions (constitutional court or equivalent, etc) operate in compliance with the formal rules in force (constitution or equivalent)?",IPD,,,,,,,,,,,,,,,,,,,,,218
+IPD54,,A1003,A1003,"Are there any institutions that de jure or de facto have a significant influence over the political running of the country alongside the legal institutions (political party, religious organisation, armed body, etc.)?",IPD,,,,,,,,,,,,,,,,,,,,,54
+IPD633,,A1004,A1004,"Participation of armed forces in political life, de jure or de facto",IPD,,,,,,,,,,,,,,,,,,,,,633
+IPD583,,A1010,A1010,"Mechanisms for population participation (other than in elections) in national political decisions (polls, committees, public debates, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,583
+IPD942,,A1011,A1011,"Traditional or modern mechanisms for population participation (other than in elections) in local political decisions (polls, committees, consultations, public debates, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,942
+IPD112,,A1012,A1012,Civil society opposition or political or social expression practices using the Internet or mobile telephones,IPD,,,,,,,,,,,,,,,,,,,,,112
+IPD655,,A1020,A1020,Power to table bills or propose measures to the executive body,IPD,,,,,,,,,,,,,,,,,,,,,655
+IPD654,,A1021,A1021,Power of control over the executive body,IPD,,,,,,,,,,,,,,,,,,,,,654
+IPD360,,A1030,A1030,Freedom of the press,IPD,,,,,,,,,,,,,,,,,,,,,360
+IPD353,,A1031,A1031,Freedom of association,IPD,,,,,,,,,,,,,,,,,,,,,353
+IPD352,,A1032,A1032,Freedom of assembly and demonstration,IPD,,,,,,,,,,,,,,,,,,,,,352
+IPD767,,A1033,A1033,Respect for law in relations between citizens and administrations,IPD,,,,,,,,,,,,,,,,,,,,,767
+IPD770,,A1034,A1034,"Respect for minorities (ethnic, religious, linguistic, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,770
+IPD225,,A1040,A1040,"Does the State control the content of the information in the different media, de jure or de facto?",IPD,,,,,,,,,,,,,,,,,,,,,225
+IPD316,,A1041,A1041,Extent of concentration of private media,IPD,,,,,,,,,,,,,,,,,,,,,316
+IPD880,,A1042,A1042,State control over Internet access,IPD,,,,,,,,,,,,,,,,,,,,,880
+IPD395,,A1050,A1050,Have the rules in force when the current head of state or government came to power changed in the last three years to improve the head of state or governments chances of staying in hisher position?,IPD,,,,,,,,,,,,,,,,,,,,,395
+IPD176,,A1051,A1051,"Did the current head of state or government come to power in compliance with the (changed) rules in force at the moment of hisher accession (election, dynastic succession, etc.)?",IPD,,,,,,,,,,,,,,,,,,,,,176
+IPD931,,A1052,A1052,The legality of the process appointing these political authorities,IPD,,,,,,,,,,,,,,,,,,,,,931
+IPD642,,A1060,A1060,Political parties acceptance or dispute of most recent change at highest level of government,IPD,,,,,,,,,,,,,,,,,,,,,642
+IPD649,,A1061,A1061,Population acceptance or dispute of most recent change at highest level of government,IPD,,,,,,,,,,,,,,,,,,,,,649
+IPD928,,A1062,A1062,"The capacity of the political authorites to secure an economic benefit (jobs, income, etc.) for a large proportion of the population",IPD,,,,,,,,,,,,,,,,,,,,,928
+IPD930,,A1063,A1063,"The capacity of the political authorities to provide broadbased access to education, healthcare, culture, etc. for the population",IPD,,,,,,,,,,,,,,,,,,,,,930
+IPD929,,A1064,A1064,The capacity of the political authorities to maintain a feeling of national pride,IPD,,,,,,,,,,,,,,,,,,,,,929
+IPD47,,A1070,A1070,Are the municipal authorities elected or appointed by central government?,IPD,,,,,,,,,,,,,,,,,,,,,47
+IPD49,,A1071,A1071,"Are the other local authorities (State in the case of federations, Regions, Provinces, etc.) elected or appointed by central government?",IPD,,,,,,,,,,,,,,,,,,,,,49
+IPD323,,A1080,A1080,Extent of municipal authorities autonomy in fiscal matters,IPD,,,,,,,,,,,,,,,,,,,,,323
+IPD325,,A1081,A1081,"Extent of other local authorities autonomy in fiscal matters (State in the case of federations, Regions, Provinces, etc)",IPD,,,,,,,,,,,,,,,,,,,,,325
+IPD324,,A1082,A1082,"Extent of municipal authorities decisionmaking autonomy in the supply of basic services (water, sanitation, education, healthcare, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,324
+IPD326,,A1083,A1083,"Extent of other local authorities decisionmaking autonomy (State for federations, Regions, Provinces, etc.) in the supply of basic services (water, sanitation, education, healthcare, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,326
+IPD287,,A2001,A2001,"Ethnic, religious, regional or other types of conflicts",IPD,,,,,,,,,,,,,,,,,,,,,287
+IPD964,,A2002,A2002,Violent actions by underground political organisations,IPD,,,,,,,,,,,,,,,,,,,,,964
+IPD623,,A2003,A2003,"Organised criminal activity (drugtrafficking, armstrafficking, etc.",IPD,,,,,,,,,,,,,,,,,,,,,623
+IPD963,,A2004,A2004,"Violence over access to natural resources (oil, mining resources, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,963
+IPD968,,A2005,A2005,Violent labour disputes,IPD,,,,,,,,,,,,,,,,,,,,,968
+IPD970,,A2006,A2006,Violent social conflicts over land matters,IPD,,,,,,,,,,,,,,,,,,,,,970
+IPD226,,A2007,A2007,Does the State look after national security?,IPD,,,,,,,,,,,,,,,,,,,,,226
+IPD630,,A2012,A2012,Over the secret services,IPD,,,,,,,,,,,,,,,,,,,,,630
+IPD629,,A2013,A2013,"Over the other armed forces (paramilitary police, official militia, others, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,629
+IPD98,,A2014,A2014,Capacity of the political authorities to reform these different armed forces,IPD,,,,,,,,,,,,,,,,,,,,,98
+IPD111,,A2020,A2020,Civil society institutions (NGOs) working to control arbitrary state violence,IPD,,,,,,,,,,,,,,,,,,,,,111
+IPD589,,A2030,A2030,Military tensions with other countries (excluding military intervention under international mandate),IPD,,,,,,,,,,,,,,,,,,,,,589
+IPD181,,A2031,A2031,Diplomaticmilitary tensions with the international community,IPD,,,,,,,,,,,,,,,,,,,,,181
+IPD378,,A3000,A3000,Government budget,IPD,,,,,,,,,,,,,,,,,,,,,378
+IPD332,,A3001,A3001,Extrabudgetary funds,IPD,,,,,,,,,,,,,,,,,,,,,332
+IPD24,,A3002,A3002,Accounts of stateowned enterprises,IPD,,,,,,,,,,,,,,,,,,,,,24
+IPD23,,A3003,A3003,Accounts of public banks,IPD,,,,,,,,,,,,,,,,,,,,,23
+IPD87,,A3004,A3004,"Basic economic and financial statistics (national accounts, price indices, foreign trade, currency and credit, etc)",IPD,,,,,,,,,,,,,,,,,,,,,87
+IPD511,,A3005,A3005,Is the IMF consultation under Article IV published?,IPD,,,,,,,,,,,,,,,,,,,,,511
+IPD505,,A3010,A3010,Is economic policy subject to an official communication?,IPD,,,,,,,,,,,,,,,,,,,,,505
+IPD556,,A3022,A3022,"Level of ""largescale"" corruption (between administrations and foreign firms)",IPD,,,,,,,,,,,,,,,,,,,,,556
+IPD559,,A3023,A3023,"Level of ""political corrruption"" (bribery to enter public office, rigged elections, buying MPs votes, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,559
+IPD431,,A3030,A3030,"In practice, fiscal administrations capacity to levy corporate tax on all nonexempt economic sectors",IPD,,,,,,,,,,,,,,,,,,,,,431
+IPD432,,A3031,A3031,"In practice, fiscal administrations capacity to levy income tax on all households with formal earnings (excluding measures exempting lowincome households)",IPD,,,,,,,,,,,,,,,,,,,,,432
+IPD433,,A3032,A3032,"In practice, fiscal administrations capacity to levy taxes nationwide (excluding legal measures exempting parts of the country for specific reasons)",IPD,,,,,,,,,,,,,,,,,,,,,433
+IPD427,,A3033,A3033,"In practice, administrations capacity to curb tax evasion",IPD,,,,,,,,,,,,,,,,,,,,,427
+IPD52,,A3040,A3040,Are the results of national public procurement bids predictable?,IPD,,,,,,,,,,,,,,,,,,,,,52
+IPD51,,A3041,A3041,Are the results of local public procurement bids predictable?,IPD,,,,,,,,,,,,,,,,,,,,,51
+IPD445,,A3050,A3050,Independence of the justice system from Government,IPD,,,,,,,,,,,,,,,,,,,,,445
+IPD156,,A3051,A3051,De facto equality of treatment of citizens before the law,IPD,,,,,,,,,,,,,,,,,,,,,156
+IPD157,,A3052,A3052,De facto equality of treatment of foreigners (compared with nationals),IPD,,,,,,,,,,,,,,,,,,,,,157
+IPD318,,A3053,A3053,Extent of enforcement and speed of rulings,IPD,,,,,,,,,,,,,,,,,,,,,318
+IPD59,,A3060,A3060,"Are there urban planning and development tools (guidelines, strategic planning, master plan) for the large towns and cities?",IPD,,,,,,,,,,,,,,,,,,,,,59
+IPD525,,A3061,A3061,Is there a national mediumsized town planning vision?,IPD,,,,,,,,,,,,,,,,,,,,,525
+IPD214,,A3070,A3070,Do the major national economic stakeholders (lobby groups) influence the content of public economic regulatory policies?,IPD,,,,,,,,,,,,,,,,,,,,,214
+IPD213,,A3071,A3071,Do the major national economic stakeholders (lobby groups) influence the content of fiscal policies?,IPD,,,,,,,,,,,,,,,,,,,,,213
+IPD215,,A3072,A3072,Do the major national economic stakeholders (lobby groups) influence the content of public land tenure policies?,IPD,,,,,,,,,,,,,,,,,,,,,215
+IPD212,,A3073,A3073,Do the major foreign economic stakeholders influence the content of public policies?,IPD,,,,,,,,,,,,,,,,,,,,,212
+IPD224,,A3080,A3080,Does donors (when the countries receive official development assistance) influence the content of public policies?,IPD,,,,,,,,,,,,,,,,,,,,,224
+IPD540,,A3092,A3092,Labour unions,IPD,,,,,,,,,,,,,,,,,,,,,540
+IPD270,,A3093,A3093,Employer organisations,IPD,,,,,,,,,,,,,,,,,,,,,270
+IPD361,,A3094,A3094,Freedom to establish and operate : professional organisations,IPD,,,,,,,,,,,,,,,,,,,,,361
+IPD365,,A3095,A3095,Freedom to establish and operate: religious organisations,IPD,,,,,,,,,,,,,,,,,,,,,365
+IPD584,,A3096,A3096,"Media (press, television, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,584
+IPD252,,A3097,A3097,"Educational, sports and cultural organisations",IPD,,,,,,,,,,,,,,,,,,,,,252
+IPD641,,A3100,A3100,Political parties,IPD,,,,,,,,,,,,,,,,,,,,,641
+IPD545,,A3101,A3101,Large corporations,IPD,,,,,,,,,,,,,,,,,,,,,545
+IPD540,,A3102,A3102,Labour unions,IPD,,,,,,,,,,,,,,,,,,,,,540
+IPD270,,A3103,A3103,Employer organisations,IPD,,,,,,,,,,,,,,,,,,,,,270
+IPD674,,A3104,A3104,"Professional associations (lawyers, archetcts, doctors, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,674
+IPD753,,A3105,A3105,Religious organisations,IPD,,,,,,,,,,,,,,,,,,,,,753
+IPD584,,A3106,A3106,"Media (press, television, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,584
+IPD252,,A3107,A3107,"Educational, sports and cultural organisations",IPD,,,,,,,,,,,,,,,,,,,,,252
+IPD132,,A3112,A3112,Consistency and continuity of political reforms,IPD,,,,,,,,,,,,,,,,,,,,,132
+IPD421,,A3122,A3122,In health and education,IPD,,,,,,,,,,,,,,,,,,,,,421
+IPD131,,A3125,A3125,Consistency and continuity of government action in nonpolitical matters,IPD,,,,,,,,,,,,,,,,,,,,,131
+IPD89,,A3130,A3130,"By law, do any economic sectors benefit from fiscal exemptions?",IPD,,,,,,,,,,,,,,,,,,,,,89
+IPD205,,A5000,A5000,"Do one or more (political or administrative) organisations handle, de facto or de jure, dialogue between the main private and public stakeholders?",IPD,,,,,,,,,,,,,,,,,,,,,205
+IPD221,,A5001,A5001,Do the toplevel government authorities take part in this (these) dialogue structure(s)?,IPD,,,,,,,,,,,,,,,,,,,,,221
+IPD241,,A5002,A5002,Doesdo thisthese dialogue structure(s) consider the interests of the countrys main economic and social stakeholders?,IPD,,,,,,,,,,,,,,,,,,,,,241
+IPD145,,A5010,A5010,Coordination and cooperation between ministries,IPD,,,,,,,,,,,,,,,,,,,,,145
+IPD146,,A5011,A5011,Coordination and cooperation within the administrations,IPD,,,,,,,,,,,,,,,,,,,,,146
+IPD508,,A5020,A5020,Is government action guided by a longterm strategic vision?,IPD,,,,,,,,,,,,,,,,,,,,,508
+IPD237,,A5021,A5021,Does the government have the capacity to share this vision with society as a whole?,IPD,,,,,,,,,,,,,,,,,,,,,237
+IPD236,,A5022,A5022,"Does the government have the capacity to motivate public and private stakeholders to work towards this vision (e.g. via fiscal, financial, commercial and regulatory incentives)?",IPD,,,,,,,,,,,,,,,,,,,,,236
+IPD422,,A5030,A5030,"In particular, do the authorities have a strategy for the development of human capital (training, health, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,422
+IPD425,,A5031,A5031,"In particular, does the government have an environmental protection strategy?",IPD,,,,,,,,,,,,,,,,,,,,,425
+IPD426,,A5032,A5032,"In particular, does the government have an international or regional integration strategy?",IPD,,,,,,,,,,,,,,,,,,,,,426
+IPD238,,A5033,A5033,Does the government support private or public research & development?,IPD,,,,,,,,,,,,,,,,,,,,,238
+IPD503,,A5040,A5040,"Is development and economic growth a government priority, political assertions aside?",IPD,,,,,,,,,,,,,,,,,,,,,503
+IPD533,,A5041,A5041,"Isdevelopment and economic growth a priority for the countrys ruling classes (senior civil servants, academics, journalists, etc.)?",IPD,,,,,,,,,,,,,,,,,,,,,533
+IPD201,,A5042,A5042,"Do any public or private forums or think tanks exist that produce analyses, reports and proposals on the major national issues?",IPD,,,,,,,,,,,,,,,,,,,,,201
+IPD234,,A5050,A5050,Does the government have an independent arbitration capacity visàvis the different private and public stakeholders at national level?,IPD,,,,,,,,,,,,,,,,,,,,,234
+IPD235,,A5051,A5051,"Does the government have an independent arbitration capacity visàvis the different private and public stakeholders at subnational  (local, regional, etc.) level?",IPD,,,,,,,,,,,,,,,,,,,,,235
+IPD58,,A5060,A5060,Are there de facto mechanisms to test and evaluate public policies before nation wide implementation?,IPD,,,,,,,,,,,,,,,,,,,,,58
+IPD227,,A5061,A5061,Does the government display capacity to adapt to changes in the domestic or international economic or social environment?,IPD,,,,,,,,,,,,,,,,,,,,,227
+IPD216,,A5062,A5062,"Do the national authorities and local stakeholders (local and regional authorities, private sector, NGOs, etc.) cooperate to develop and improve the effectiveness of public policies?",IPD,,,,,,,,,,,,,,,,,,,,,216
+IPD513,,A5070,A5070,Is the capacity of the national authorities hindered by internal political dissent?,IPD,,,,,,,,,,,,,,,,,,,,,513
+IPD512,,A5071,A5071,"Is the capacity of the national authorities hindered by discord between economic, regional or other factions?",IPD,,,,,,,,,,,,,,,,,,,,,512
+IPD515,,A5072,A5072,"Is the capacity of the public authorities hindered by external factors (regional conflicts, pressure from foreign firms, foreign powers, etc.)?",IPD,,,,,,,,,,,,,,,,,,,,,515
+IPD514,,A5073,A5073,Is the capacity of the public authorities hindered by a lack of regional cooperation?,IPD,,,,,,,,,,,,,,,,,,,,,514
+IPD870,,A5080,A5080,Societys responsiveness to technological change and innovation,IPD,,,,,,,,,,,,,,,,,,,,,870
+IPD869,,A5081,A5081,Societys responsiveness to managerial change and innovation,IPD,,,,,,,,,,,,,,,,,,,,,869
+IPD868,,A5082,A5082,Societys responsiveness to legal and institutional change and innovation,IPD,,,,,,,,,,,,,,,,,,,,,868
+IPD64,,A5090,A5090,"At local, individual level (neighbourhood, village, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,64
+IPD63,,A5091,A5091,"At local, civil society level (informal traditional andor religious associations and NGOs)",IPD,,,,,,,,,,,,,,,,,,,,,63
+IPD65,,A5092,A5092,At regional and national civil society level (NGOs),IPD,,,,,,,,,,,,,,,,,,,,,65
+IPD434,,A5100,A5100,"In terms of future prospects, do the young peoples hopes look to the country or outside the country?",IPD,,,,,,,,,,,,,,,,,,,,,434
+IPD255,,A6000,A6000,Effectiveness of legal measures to defend property rights between private agents,IPD,,,,,,,,,,,,,,,,,,,,,255
+IPD119,,A6001,A6001,Compensation in the event of de jure or de facto expropriation of land property (by the government or the local authorities)?,IPD,,,,,,,,,,,,,,,,,,,,,119
+IPD120,,A6002,A6002,Compensation in the event of de jure or de facto expropriation of property for production (by the government or the local authorities)?,IPD,,,,,,,,,,,,,,,,,,,,,120
+IPD374,,A6003,A6003,"Generally speaking, does the government exert arbitrary pressure on private property (red tape, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,374
+IPD773,,A6010,A6010,Respect for written contracts without mediation,IPD,,,,,,,,,,,,,,,,,,,,,773
+IPD764,,A6011,A6011,"Respect for contracts with private mediation (lawyers, etc.)",IPD,,,,,,,,,,,,,,,,,,,,,764
+IPD762,,A6012,A6012,Respect for contracts between local private players and foreigners,IPD,,,,,,,,,,,,,,,,,,,,,762
+IPD444,,A6020,A6020,Independence of the courts from the government in commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,444
+IPD443,,A6021,A6021,Independence of the courts from litigants (local players) in commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,443
+IPD284,,A6022,A6022,Equality of treatment between nationals and foreigners in commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,284
+IPD317,,A6023,A6023,Extent of enforcement and speed of court rulings in commercial matters,IPD,,,,,,,,,,,,,,,,,,,,,317
+IPD86,,A6030,A6030,Bankruptcy law,IPD,,,,,,,,,,,,,,,,,,,,,86
+IPD312,,A6031,A6031,Existence of simplified legal procedures in favour of restructuring rather than liquidation?,IPD,,,,,,,,,,,,,,,,,,,,,312
+IPD437,,A6040,A6040,"In the last 5 years, has the Government or local authorities terminated any contracts with local agents (without ""reasonable"" compensation)?",IPD,,,,,,,,,,,,,,,,,,,,,437
+IPD436,,A6041,A6041,"In the last 5 years, has the Government or local authorities terminated any contracts with foreign agents (without ""reasonable"" compensation)?",IPD,,,,,,,,,,,,,,,,,,,,,436
+IPD391,,A6050,A6050,Have any large public or private firms been declared bankrupt over the last five years?,IPD,,,,,,,,,,,,,,,,,,,,,391
+IPD373,,A6060,A6060,"Generally speaking, are unprofitable firms put into liquidation or kept in business ?",IPD,,,,,,,,,,,,,,,,,,,,,373
+IPD358,,A8000,A8000,Freedom of movement of nationals (exit),IPD,,,,,,,,,,,,,,,,,,,,,358
+IPD357,,A8001,A8001,Freedom of movement of foreigners (entry),IPD,,,,,,,,,,,,,,,,,,,,,357
+IPD350,,A8002,A8002,Freedom of access to the foreign press (no seizures),IPD,,,,,,,,,,,,,,,,,,,,,350
+IPD351,,A8003,A8003,Freedom of access: cablesatellite,IPD,,,,,,,,,,,,,,,,,,,,,351
+IPD349,,A8004,A8004,Freedom of access on the Internet,IPD,,,,,,,,,,,,,,,,,,,,,349
+IPD647,,A8010,A8010,Political relations between the USA and the countrys leaders,IPD,,,,,,,,,,,,,,,,,,,,,647
+IPD646,,A8011,A8011,Political relations between a European country (or the EU) and the countrys leaders,IPD,,,,,,,,,,,,,,,,,,,,,646
+IPD645,,A8012,A8012,Political relations between Japan and the countrys leaders,IPD,,,,,,,,,,,,,,,,,,,,,645
+IPD644,,A8013,A8013,Political relations between China and the countrys leaders,IPD,,,,,,,,,,,,,,,,,,,,,644
+IPD481,,A8020,A8020,Intensity of relationship with neighbor countries,IPD,,,,,,,,,,,,,,,,,,,,,481
+IPD531,,A9000,A9000,Is there a strong national sense of identity in the country?,IPD,,,,,,,,,,,,,,,,,,,,,531
+IPD510,,A9010,A9010,Is society capable of rallying to take up major domestic or external challenges?,IPD,,,,,,,,,,,,,,,,,,,,,510
+IPD53,,A9011,A9011,Are the ruling classes capable of driving society to take up these challenges?,IPD,,,,,,,,,,,,,,,,,,,,,53
+IPD390,,A9020,A9020,Has the middle classes standard of living risen or fallen over the last five years?,IPD,,,,,,,,,,,,,,,,,,,,,390
+IPD393,,A9021,A9021,Have the middle classes social standards risen or fallen over the last five years?,IPD,,,,,,,,,,,,,,,,,,,,,393
+IPD372,,A9030,A9030,Genderbased segregation,IPD,,,,,,,,,,,,,,,,,,,,,372
+IPD286,,A9031,A9031,Ethnic or castebased segregation,IPD,,,,,,,,,,,,,,,,,,,,,286
+IPD754,,A9032,A9032,Religious segregation,IPD,,,,,,,,,,,,,,,,,,,,,754
+IPD815,,A9033,A9033,Segregation based on regional identities within the country,IPD,,,,,,,,,,,,,,,,,,,,,815
+IPD30,,A9042,A9042,Administrative formalities,IPD,,,,,,,,,,,,,,,,,,,,,30
+IPD20,,A9050,A9050,Access to state education (primary and secondary),IPD,,,,,,,,,,,,,,,,,,,,,20
+IPD403,,A9060,A9060,Healthcare coverage,IPD,,,,,,,,,,,,,,,,,,,,,403
+IPD946,,A9070,A9070,Traditional solidarity in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,946
+IPD871,,A9073,A9073,"Solidarity from traditional informal or quasi informal (religious, etc.) institutions",IPD,,,,,,,,,,,,,,,,,,,,,871
+IPD904,,A908f,A908f,Subsidies on commodities,IPD,,,,,,,,,,,,,,,,,,,,,904
+IPD182,,A9080f,A9080f,Direct commodity price subsidies,IPD,,,,,,,,,,,,,,,,,,,,,182
+IPD606,,A9081f,A9081f,Oil: deviation between local market prices and world prices,IPD,,,,,,,,,,,,,,,,,,,,,606
+IPD648,,A100,A100,Political rights and functioning of political institutions,IPD,,,,,,,,,,,,,,,,,,,,,648
+IPD15,,A1001,A1001,Acceptance or contestation of most recent change at highest level of government,IPD,,,,,,,,,,,,,,,,,,,,,15
+IPD633,,A1002,A1002,"Participation of armed forces in political life, de jure or de facto",IPD,,,,,,,,,,,,,,,,,,,,,633
+IPD293,,A150,A150,Evolution of political rights in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,293
+IPD994,,A1500,A1500,"in the past 3 years, have these rights and this functioning in your view substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,994
+IPD705,,A101,A101,Public freedoms and the autonomy of the civil society,IPD,,,,,,,,,,,,,,,,,,,,,705
+IPD360,,A1010,A1010,Freedom of the press,IPD,,,,,,,,,,,,,,,,,,,,,360
+IPD353,,A1011,A1011,Freedom of association,IPD,,,,,,,,,,,,,,,,,,,,,353
+IPD352,,A1012,A1012,Freedom of assembly and demonstration,IPD,,,,,,,,,,,,,,,,,,,,,352
+IPD768,,A1013,A1013,Respect for law in relations between citizens and the administration,IPD,,,,,,,,,,,,,,,,,,,,,768
+IPD769,,A1014,A1014,"Respect for minorities (ethnic, religious, linguistic, etc)",IPD,,,,,,,,,,,,,,,,,,,,,769
+IPD291,,A151,A151,Evolution of freedoms and civil society autonomy in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,291
+IPD989,,A1510,A1510,"in the past 3 years, do you consider that these freedoms and autonomy have on the whole substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,989
+IPD128,,A102,A102,Concentration of the media,IPD,,,,,,,,,,,,,,,,,,,,,128
+IPD688,,A1020,A1020,Proportion of the media under de jure or de facto Government control,IPD,,,,,,,,,,,,,,,,,,,,,688
+IPD165,,A1021,A1021,Degree of concentration of private media,IPD,,,,,,,,,,,,,,,,,,,,,165
+IPD103,,A103,A103,Centralisation  decentralisation: devolution of local authorities,IPD,,,,,,,,,,,,,,,,,,,,,103
+IPD47,,A1030,A1030,Are the municipal authorities elected or appointed by central government?,IPD,,,,,,,,,,,,,,,,,,,,,47
+IPD50,,A1031,A1031,"Are the other local authorities (States in the case of federations, Regions, Provinces, etc) elected or appointed by central government?",IPD,,,,,,,,,,,,,,,,,,,,,50
+IPD102,,A104,A104,Centralisation  decentralisation: autonomy in tax matters,IPD,,,,,,,,,,,,,,,,,,,,,102
+IPD166,,A1040,A1040,Degree of municipal authorities autonomy in tax matters,IPD,,,,,,,,,,,,,,,,,,,,,166
+IPD167,,A1041,A1041,"Degree of other local authorities autonomy in tax matters (States in the case of federations, Regions, Provinces, etc)",IPD,,,,,,,,,,,,,,,,,,,,,167
+IPD492,,A200,A200,Internal public security,IPD,,,,,,,,,,,,,,,,,,,,,492
+IPD129,,A2001,A2001,"Conflicts of ethnic, religious, regional nature …",IPD,,,,,,,,,,,,,,,,,,,,,129
+IPD969,,A2004,A2004,Violent social conflicts,IPD,,,,,,,,,,,,,,,,,,,,,969
+IPD331,,A201,A201,External public security,IPD,,,,,,,,,,,,,,,,,,,,,331
+IPD588,,A2010,A2010,Military tensions with other countries,IPD,,,,,,,,,,,,,,,,,,,,,588
+IPD590,,A2011,A2011,Military tensions with the international community,IPD,,,,,,,,,,,,,,,,,,,,,590
+IPD296,,A250,A250,Evolution of the security in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,296
+IPD990,,A2500,A2500,"in the past 3 years, has public security in your view substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,990
+IPD953,,A300,A300,Transparency of public action in the economic field,IPD,,,,,,,,,,,,,,,,,,,,,953
+IPD949,,A301,A301,"Transparency of economic policy (fiscal, taxation, monetary, exchangerate, etc)",IPD,,,,,,,,,,,,,,,,,,,,,949
+IPD298,,A350,A350,Evolution of transparency of public action in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,298
+IPD439,,A3500,A3500,"In the past 3 years, has the transparency of public action in your view substantially  improved, moderately improved , remained stable , deteriorated , severely deteriorated ?",IPD,,,,,,,,,,,,,,,,,,,,,439
+IPD150,,A302,A302,Corruption  Corruption,IPD,,,,,,,,,,,,,,,,,,,,,150
+IPD558,,A3020,A3020,"Level of ""petty"" corruption (between citizens and the administration)",IPD,,,,,,,,,,,,,,,,,,,,,558
+IPD557,,A3021,A3021,"Level of ""largescale"" corruption (between the administration and firms)",IPD,,,,,,,,,,,,,,,,,,,,,557
+IPD292,,A351,A351,Evolution of petty and largescale corruption in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,292
+IPD988,,A3510,A3510,"in the past 3 years, do you consider that the situation as regards ""petty"" corruption has substantially improved, moderately improved, remained stable, deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,988
+IPD987,,A3511,A3511,"in the past 3 years, do you consider that the situation as regards ""largescale"" corruption has substantially improved, moderately improved, remained stable, deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,987
+IPD383,,A303,A303,Governmentcitizen relations,IPD,,,,,,,,,,,,,,,,,,,,,383
+IPD724,,A3030,A3030,Rapidity and efficiency of citizens dealings with the  administration,IPD,,,,,,,,,,,,,,,,,,,,,724
+IPD704,,A3031,A3031,Public confidence in the administration,IPD,,,,,,,,,,,,,,,,,,,,,704
+IPD290,,A352,A352,Evolution in the effectiveness of public action as a whole in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,290
+IPD992,,A3520,A3520,"in the past 3 years, has the overall effectiveness of public action in your view substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,992
+IPD256,,A304,A304,Effectiveness of public action: tax system,IPD,,,,,,,,,,,,,,,,,,,,,256
+IPD418,,A3040,A3040,Importance of the informal economy,IPD,,,,,,,,,,,,,,,,,,,,,418
+IPD417,,A3041,A3041,Importance of tax evasion in the formal sector,IPD,,,,,,,,,,,,,,,,,,,,,417
+IPD413,,A3042,A3042,"Importance of customs evasion (smuggling, underdeclaration, etc)",IPD,,,,,,,,,,,,,,,,,,,,,413
+IPD99,,A3043,A3043,Capacity of the tax administration to implement measures decided on,IPD,,,,,,,,,,,,,,,,,,,,,99
+IPD912,,A353,A353,Tax reforms in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,912
+IPD997,,A3530,A3530,tax reform aimed at improving recovery within the framework of existing arrangements (strengthening of tax discipline),IPD,,,,,,,,,,,,,,,,,,,,,997
+IPD998,,A3531,A3531,tax reform aimed at reducing exemptions (tax distortions),IPD,,,,,,,,,,,,,,,,,,,,,998
+IPD996,,A3532,A3532,"tax reform aimed at ... broadening the incometax base, the VAT base, etc",IPD,,,,,,,,,,,,,,,,,,,,,996
+IPD999,,A3533,A3533,tax reform aimed at simplifying arrangements,IPD,,,,,,,,,,,,,,,,,,,,,999
+IPD134,,A3534,A3534,"Consistency, continuity and predictability of these tax reforms",IPD,,,,,,,,,,,,,,,,,,,,,134
+IPD294,,A354,A354,Evolution of the efficiency of the tax system in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,294
+IPD991,,A3540,A3540,"in the past 3 years, has the effectiveness of the tax system in your view substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,991
+IPD795,,A305,A305,Running of the customs administration,IPD,,,,,,,,,,,,,,,,,,,,,795
+IPD90,,A3050,A3050,"Capability of the customs administration to implement its customs commitments (rules of origin, rules of valuation for customs purposes)",IPD,,,,,,,,,,,,,,,,,,,,,90
+IPD91,,A3051,A3051,"Capability of the customs administration to take advantage of the trade advantages (preferences, regional agreements, etc)",IPD,,,,,,,,,,,,,,,,,,,,,91
+IPD563,,A3052,A3052,"Level of cooperation of the local customs administration with the customs administrations of other countries (rules of origin, detection of fraud, etc)",IPD,,,,,,,,,,,,,,,,,,,,,563
+IPD68,,A306,A306,Award of public procurement contracts and delegation of public service,IPD,,,,,,,,,,,,,,,,,,,,,68
+IPD70,,A3060,A3060,Award of public procurement contracts and public service delegation to local firms,IPD,,,,,,,,,,,,,,,,,,,,,70
+IPD69,,A3061,A3061,Award of public procurement contracts and public service delegation to foreign firms,IPD,,,,,,,,,,,,,,,,,,,,,69
+IPD796,,A307,A307,Running of the justice system,IPD,,,,,,,,,,,,,,,,,,,,,796
+IPD445,,A3070,A3070,Independence of the justice system from Government,IPD,,,,,,,,,,,,,,,,,,,,,445
+IPD155,,A3071,A3071,De facto equality of treatment for foreigners,IPD,,,,,,,,,,,,,,,,,,,,,155
+IPD164,,A3072,A3072,Degree of application and speed of rulings,IPD,,,,,,,,,,,,,,,,,,,,,164
+IPD295,,A355,A355,Evolution of the independence and efficiency of the justice system in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,295
+IPD993,,A3550,A3550,"in the past 3 years, have the independence and efficiency of the justice system in your view substantially improved, moderately improved, remained stable, deteriorated, severely deteriorated?",IPD,,,,,,,,,,,,,,,,,,,,,993
+IPD702,,A356,A356,Public administration reforms in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,702
+IPD25,,A3560,A3560,Action aimed at improving the training of civil servants,IPD,,,,,,,,,,,,,,,,,,,,,25
+IPD733,,A3561,A3561,Reforms aimed at linking civil servants remuneration and promotion to their performance,IPD,,,,,,,,,,,,,,,,,,,,,733
+IPD735,,A3562,A3562,Reforms aimed at simplifying administrative formalities,IPD,,,,,,,,,,,,,,,,,,,,,735
+IPD734,,A3563,A3563,Reforms aimed at reducing corruption,IPD,,,,,,,,,,,,,,,,,,,,,734
+IPD722,,A308,A308,Quality of the supply of public goods: education and basic health,IPD,,,,,,,,,,,,,,,,,,,,,722
+IPD881,,A3080,A3080,State primary and secondary education system,IPD,,,,,,,,,,,,,,,,,,,,,881
+IPD879,,A3081,A3081,State basic health system,IPD,,,,,,,,,,,,,,,,,,,,,879
+IPD575,,A5000,A5000,Local large corporations and banks,IPD,,,,,,,,,,,,,,,,,,,,,575
+IPD797,,A5001,A5001,SMEs,IPD,,,,,,,,,,,,,,,,,,,,,797
+IPD340,,A5002,A5002,Foreign  large corporations and banks,IPD,,,,,,,,,,,,,,,,,,,,,340
+IPD546,,A5003,A5003,Large landowners,IPD,,,,,,,,,,,,,,,,,,,,,546
+IPD849,,A5004,A5004,Small farmers,IPD,,,,,,,,,,,,,,,,,,,,,849
+IPD668,,A5005,A5005,Privatesector employees,IPD,,,,,,,,,,,,,,,,,,,,,668
+IPD715,,A5006,A5006,Publicsector employees,IPD,,,,,,,,,,,,,,,,,,,,,715
+IPD28,,A5007,A5007,Administration,IPD,,,,,,,,,,,,,,,,,,,,,28
+IPD574,,A5008,A5008,"Local authorities (regions, states in the case of federal states, etc)",IPD,,,,,,,,,,,,,,,,,,,,,574
+IPD60,,A5009,A5009,Army andor security services,IPD,,,,,,,,,,,,,,,,,,,,,60
+IPD452,,A5010,A5010,Indigenous regional and ethnic groups,IPD,,,,,,,,,,,,,,,,,,,,,452
+IPD342,,A5011,A5011,Foreign minorities and minorities of foreign origin,IPD,,,,,,,,,,,,,,,,,,,,,342
+IPD753,,A5012,A5012,Religious organisations,IPD,,,,,,,,,,,,,,,,,,,,,753
+IPD598,,A5013,A5013,NGOs,IPD,,,,,,,,,,,,,,,,,,,,,598
+IPD643,,A5014,A5014,Political parties in a multiparty system,IPD,,,,,,,,,,,,,,,,,,,,,643
+IPD847,,A5015,A5015,Single political party (de facto),IPD,,,,,,,,,,,,,,,,,,,,,847
+IPD344,,A5016,A5016,Formal and informal networks of influence,IPD,,,,,,,,,,,,,,,,,,,,,344
+IPD407,,A5017,A5017,Illegal organisations,IPD,,,,,,,,,,,,,,,,,,,,,407
+IPD88,,A5018,A5018,Bilateral and multilateral donors,IPD,,,,,,,,,,,,,,,,,,,,,88
+IPD127,,A502,A502,Concentration of organisations within the major stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,127
+IPD504,,A5020,A5020,Is each of the stakeholders with the most weight represented by a high or low number of organisations?,IPD,,,,,,,,,,,,,,,,,,,,,504
+IPD345,,A503,A503,Formal or informal organisations,IPD,,,,,,,,,,,,,,,,,,,,,345
+IPD48,,A5030,A5030,Are the organisations that represent the interests of these major stakeholders formal or informal?,IPD,,,,,,,,,,,,,,,,,,,,,48
+IPD757,,A504,A504,Representative organisations,IPD,,,,,,,,,,,,,,,,,,,,,757
+IPD217,,A5040,A5040,Do the organisations that embody the interests of these major stakeholders represent all the interests of the group in question?,IPD,,,,,,,,,,,,,,,,,,,,,217
+IPD175,,A505,A505,Dialogue structures headed by the political authority to find a common interest among stakeholders,IPD,,,,,,,,,,,,,,,,,,,,,175
+IPD240,,A5050,A5050,Does the political authority organise dialogue structures among the main stakeholders?,IPD,,,,,,,,,,,,,,,,,,,,,240
+IPD379,,A506,A506,Government capacity for autonomous decisionmaking,IPD,,,,,,,,,,,,,,,,,,,,,379
+IPD239,,A5060,A5060,Does the political authority have an autonomous decisionmaking capacity compared with the different stakeholders?,IPD,,,,,,,,,,,,,,,,,,,,,239
+IPD954,,A507,A507,Transparency of the dialogue process,IPD,,,,,,,,,,,,,,,,,,,,,954
+IPD518,,A5070,A5070,"Is the entire process (dialogue and decision) communicated to the public (press, television, debates, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,518
+IPD147,,A508,A508,Coordination between ministries and within the administrations,IPD,,,,,,,,,,,,,,,,,,,,,147
+IPD145,,A5080,A5080,Coordination and cooperation between ministries,IPD,,,,,,,,,,,,,,,,,,,,,145
+IPD146,,A5081,A5081,Coordination and cooperation within the administrations,IPD,,,,,,,,,,,,,,,,,,,,,146
+IPD639,,A509,A509,Polarisation of the ministries and administrations towards the executive,IPD,,,,,,,,,,,,,,,,,,,,,639
+IPD794,,A5090,A5090,Running of the administrations polarised by and towards the executive (Head of State or Prime Minister),IPD,,,,,,,,,,,,,,,,,,,,,794
+IPD97,,A510,A510,Capacity of the political authorities,IPD,,,,,,,,,,,,,,,,,,,,,97
+IPD161,,A5100,A5100,"Decisionmaking capacity of the political authorities in economic matters (responsibility, rapidity, etc)",IPD,,,,,,,,,,,,,,,,,,,,,161
+IPD130,,A5101,A5101,Consistency and continuity of government action in economic matters,IPD,,,,,,,,,,,,,,,,,,,,,130
+IPD67,,A5102,A5102,Authority of the political powers over the administration,IPD,,,,,,,,,,,,,,,,,,,,,67
+IPD861,,A511,A511,Societys aptitude for adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,861
+IPD864,,A5110,A5110,Societys aptitude for technological adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,864
+IPD863,,A5111,A5111,Societys aptitude for managerial adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,863
+IPD862,,A5112,A5112,Societys aptitude for legal and institutional adaptation and innovation,IPD,,,,,,,,,,,,,,,,,,,,,862
+IPD577,,A512,A512,Longterm strategic vision of the authorities,IPD,,,,,,,,,,,,,,,,,,,,,577
+IPD208,,A5120,A5120,Do the authorities act on the basis of a strategic vision?,IPD,,,,,,,,,,,,,,,,,,,,,208
+IPD927,,A513,A513,The authorities strategies,IPD,,,,,,,,,,,,,,,,,,,,,927
+IPD422,,A5130,A5130,"In particular, do the authorities have a strategy for the development of human capital (training, health, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,422
+IPD424,,A5131,A5131,"In particular, do the authorities have an environmental protection strategy?",IPD,,,,,,,,,,,,,,,,,,,,,424
+IPD423,,A5132,A5132,"In particular, do the authorities have a strategy for the integration of the country at world or regional level?",IPD,,,,,,,,,,,,,,,,,,,,,423
+IPD219,,A5133,A5133,Do the public authorities support private or public research & development?,IPD,,,,,,,,,,,,,,,,,,,,,219
+IPD932,,A514,A514,The priorities of the local elites,IPD,,,,,,,,,,,,,,,,,,,,,932
+IPD43,,A5140,A5140,"Are development and economic growth a priority for the political authority, over and above the declarations?",IPD,,,,,,,,,,,,,,,,,,,,,43
+IPD42,,A5141,A5141,"Are development and economic growth a priority for the local public elites (senior civil servants, academics, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,42
+IPD995,,A515,A515,investment in the future of the population,IPD,,,,,,,,,,,,,,,,,,,,,995
+IPD199,,A5150,A5150,Do  parents invest a great deal in their childrens education?,IPD,,,,,,,,,,,,,,,,,,,,,199
+IPD206,,A5151,A5151,Do parents steer their children more towards the civil service or the private sector?,IPD,,,,,,,,,,,,,,,,,,,,,206
+IPD811,,A600,A600,Security of traditional property rights,IPD,,,,,,,,,,,,,,,,,,,,,811
+IPD302,,A6000,A6000,Existence and importance of a traditional system of property rights,IPD,,,,,,,,,,,,,,,,,,,,,302
+IPD406,,A6001,A6001,"If a traditional system exists, does it ensure security of property rights?",IPD,,,,,,,,,,,,,,,,,,,,,406
+IPD810,,A601,A601,Security of property rights: formal property rights,IPD,,,,,,,,,,,,,,,,,,,,,810
+IPD255,,A6010,A6010,Effectiveness of legal measures to defend property rights between private agents,IPD,,,,,,,,,,,,,,,,,,,,,255
+IPD118,,A6011,A6011,Compensation in the event of de jure or de facto expropriation (by the Government) of real property,IPD,,,,,,,,,,,,,,,,,,,,,118
+IPD117,,A6012,A6012,Compensation in the event of de jure or de facto expropriation (by the Government) of instruments of production?,IPD,,,,,,,,,,,,,,,,,,,,,117
+IPD374,,A6013,A6013,"Generally speaking, does the government exert arbitrary pressure on private property (red tape, etc)?",IPD,,,,,,,,,,,,,,,,,,,,,374
+IPD343,,A602,A602,Form of contracts between private agents,IPD,,,,,,,,,,,,,,,,,,,,,343
+IPD202,,A6020,A6020,Do contracts between private agents tend to be oral or written,IPD,,,,,,,,,,,,,,,,,,,,,202
+IPD435,,A6021,A6021,"In the case of the written contracts, are these drafted without mediation or with private mediation (lawyers)?",IPD,,,,,,,,,,,,,,,,,,,,,435
+IPD808,,A603,A603,Security of contracts between private agents,IPD,,,,,,,,,,,,,,,,,,,,,808
+IPD771,,A6030,A6030,Respect for oral contracts,IPD,,,,,,,,,,,,,,,,,,,,,771
+IPD773,,A6031,A6031,Respect for written contracts without mediation,IPD,,,,,,,,,,,,,,,,,,,,,773
+IPD763,,A6032,A6032,Respect for contracts with private mediation (lawyers),IPD,,,,,,,,,,,,,,,,,,,,,763
+IPD761,,A6033,A6033,Respect for contracts between local private agents and foreigners,IPD,,,,,,,,,,,,,,,,,,,,,761
+IPD381,,A604,A604,Government respect for contracts,IPD,,,,,,,,,,,,,,,,,,,,,381
+IPD400,,A6040,A6040,"Have there in the past 5 years been terminations of contracts by the Government visàvis local agents (without ""reasonable"" compensation)?",IPD,,,,,,,,,,,,,,,,,,,,,400
+IPD401,,A6041,A6041,"Have there in the past five years been terminations of contracts by the Government visàvis foreigners (without ""reasonable"" compensation)?",IPD,,,,,,,,,,,,,,,,,,,,,401
+IPD820,,A605,A605,Settlement of economic disputes: justice in commercial matters,IPD,,,,,,,,,,,,,,,,,,,,,820
+IPD447,,A6050,A6050,Independence of the justice system visàvis the Government as regards commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,447
+IPD446,,A6051,A6051,Independence of the justice system visàvis litigants (local) as regards commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,446
+IPD283,,A6052,A6052,Equality of treatment between nationals and foreigners as regards commercial disputes,IPD,,,,,,,,,,,,,,,,,,,,,283
+IPD163,,A6053,A6053,Degree of application and rapidity of legal rulings on commercial matters,IPD,,,,,,,,,,,,,,,,,,,,,163
+IPD547,,A606,A606,Law on bankruptcies,IPD,,,,,,,,,,,,,,,,,,,,,547
+IPD85,,A6060,A6060,Bankruptcy Act,IPD,,,,,,,,,,,,,,,,,,,,,85
+IPD594,,A6061,A6061,"More precisely, independence of courts ruling on bankruptcies",IPD,,,,,,,,,,,,,,,,,,,,,594
+IPD313,,A6062,A6062,Existence of simplified legal procedures to restructure rather than put into liquidation?,IPD,,,,,,,,,,,,,,,,,,,,,313
+IPD39,,A607,A607,Application of law on bankruptcies,IPD,,,,,,,,,,,,,,,,,,,,,39
+IPD396,,A6070,A6070,Have there been any private bankruptcies in the past 5 years?,IPD,,,,,,,,,,,,,,,,,,,,,396
+IPD397,,A6071,A6071,Have there been any publicsector business bankruptcies in the past 5 years?,IPD,,,,,,,,,,,,,,,,,,,,,397
+IPD373,,A6072,A6072,"Generally speaking, are unprofitable firms put into liquidation or kept in business ?",IPD,,,,,,,,,,,,,,,,,,,,,373
+IPD297,,A650,A650,Evolution of the security of transactions in the past 3 years,IPD,,,,,,,,,,,,,,,,,,,,,297
+IPD438,,A6500,A6500,"In the past 3 years, has the general situation regarding security of transactions in your view  substantially improved, moderately improved , remained stable , deteriorated , severely deteriorated ?",IPD,,,,,,,,,,,,,,,,,,,,,438
+IPD346,,A800,A800,"Free movement of persons, information, etc",IPD,,,,,,,,,,,,,,,,,,,,,346
+IPD269,,A801,A801,Emigrants and diasporas of nationals abroad: role in the economic life of the country of origin (your country of residence),IPD,,,,,,,,,,,,,,,,,,,,,269
+IPD571,,A8010,A8010,Level of remittances received by the country (entering into your country of residence),IPD,,,,,,,,,,,,,,,,,,,,,571
+IPD247,,A8011,A8011,Economic role of emigrants in trade (import and export networks),IPD,,,,,,,,,,,,,,,,,,,,,247
+IPD567,,A8012,A8012,Level of investment by emigrants in their country of origin (entering into your country of residence),IPD,,,,,,,,,,,,,,,,,,,,,567
+IPD408,,A802,A802,Immigrants in the country: economic role,IPD,,,,,,,,,,,,,,,,,,,,,408
+IPD570,,A8020,A8020,Level of remittances  leaving (your country of residence) to go to  immigrants countries of origin,IPD,,,,,,,,,,,,,,,,,,,,,570
+IPD248,,A8021,A8021,Economic role of immigrants in trade (import and export networks),IPD,,,,,,,,,,,,,,,,,,,,,248
+IPD568,,A8022,A8022,Level of investment by immigrants in their country of origin (leaving your country of residence),IPD,,,,,,,,,,,,,,,,,,,,,568
+IPD330,,A803,A803,External pressure,IPD,,,,,,,,,,,,,,,,,,,,,330
+IPD661,,A8030,A8030,"Pressure from international financial institutions (IMF, World Bank)",IPD,,,,,,,,,,,,,,,,,,,,,661
+IPD664,,A8031,A8031,Pressure stemming from WTO membership,IPD,,,,,,,,,,,,,,,,,,,,,664
+IPD660,,A8032,A8032,"Pressure from a regional institutional framework (e.g. Mercosur, NAFTA, Euromed)",IPD,,,,,,,,,,,,,,,,,,,,,660
+IPD662,,A8033,A8033,Pressure from major foreign corporations,IPD,,,,,,,,,,,,,,,,,,,,,662
+IPD986,,A900,A900,equality of treatment: segregation based on traditions and beliefs,IPD,,,,,,,,,,,,,,,,,,,,,986
+IPD859,,A9000,A9000,Social segregation based on gender,IPD,,,,,,,,,,,,,,,,,,,,,859
+IPD858,,A9001,A9001,Social segregation based on ethnic origin or caste,IPD,,,,,,,,,,,,,,,,,,,,,858
+IPD860,,A9002,A9002,Social segregation based on religion,IPD,,,,,,,,,,,,,,,,,,,,,860
+IPD21,,A901,A901,Access without discrimination to healthcare and public and private employment,IPD,,,,,,,,,,,,,,,,,,,,,21
+IPD816,,A9010,A9010,"Segregation in access to education, health care, etc",IPD,,,,,,,,,,,,,,,,,,,,,816
+IPD818,,A9011,A9011,Segregation in access to publicsector employment,IPD,,,,,,,,,,,,,,,,,,,,,818
+IPD817,,A9012,A9012,Segregation in access to privatesector employment,IPD,,,,,,,,,,,,,,,,,,,,,817
+IPD903,,A902,A902,Subsidies for primary products (social safety net) aggregated and inversed,IPD,,,,,,,,,,,,,,,,,,,,,903
+IPD678,,A9020,A9020,Proportion of administered prices (inversed score),IPD,,,,,,,,,,,,,,,,,,,,,678
+IPD184,,A9021,A9021,Direct subsidies on primary product prices for the benefit of the consumer (inversed score),IPD,,,,,,,,,,,,,,,,,,,,,184
+IPD941,,A903,A903,Traditional forms of solidarity,IPD,,,,,,,,,,,,,,,,,,,,,941
+IPD946,,A9030,A9030,Traditional solidarity in urban areas,IPD,,,,,,,,,,,,,,,,,,,,,946
+IPD945,,A9031,A9031,Traditional solidarity in rural areas,IPD,,,,,,,,,,,,,,,,,,,,,945
+IPD944,,A9032,A9032,Traditional solidarity between urban and rural areas (in both directions),IPD,,,,,,,,,,,,,,,,,,,,,944
+IPD471,,A904,A904,Institutional solidarity,IPD,,,,,,,,,,,,,,,,,,,,,471
+IPD843,,A9040,A9040,Sickness coverage,IPD,,,,,,,,,,,,,,,,,,,,,843
+IPD957,,A9041,A9041,Unemployment coverage,IPD,,,,,,,,,,,,,,,,,,,,,957
+IPD775,,A9042,A9042,Retirement coverage,IPD,,,,,,,,,,,,,,,,,,,,,775
+IPD285,,A905,A905,"Equity in access to basic public goods: education, healthcare, water and electricity",IPD,,,,,,,,,,,,,,,,,,,,,285
+IPD250,,A906,A906,Educating the elite,IPD,,,,,,,,,,,,,,,,,,,,,250
+IPD981,,A9060,A9060,Where the elite are educated,IPD,,,,,,,,,,,,,,,,,,,,,981
+IPD209,,A9061,A9061,"Do the countrys education systems bolster the reproduction of ""closed club"" elites or are they an instrument for social mobility?",IPD,,,,,,,,,,,,,,,,,,,,,209

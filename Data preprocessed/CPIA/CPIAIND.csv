@@ -1,0 +1,22 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+CPIA1,,IQ.CPA.HRES.XQ,Total,CPIA building human resources rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,1
+CPIA2,,IQ.CPA.BREG.XQ,Total,CPIA business regulatory environment rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,2
+CPIA3,,IQ.CPA.DEBT.XQ,Total,CPIA debt policy rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,3
+CPIA4,,IQ.CPA.ECON.XQ,Total,CPIA economic management cluster average 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,4
+CPIA5,,IQ.CPA.REVN.XQ,Total,CPIA efficiency of revenue mobilization rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,5
+CPIA6,,IQ.CPA.PRES.XQ,Total,CPIA equity of public resource use rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,6
+CPIA7,,IQ.CPA.FINS.XQ,Total,CPIA financial sector rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,7
+CPIA8,,IQ.CPA.FISP.XQ,Total,CPIA fiscal policy rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,8
+CPIA9,,IQ.CPA.GNDR.XQ,Total,CPIA gender equality rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,9
+CPIA10,,IQ.CPA.MACR.XQ,Total,CPIA macroeconomic management rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,10
+CPIA11,,IQ.CPA.SOCI.XQ,Total,CPIA policies for social inclusionequity cluster average 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,11
+CPIA12,,IQ.CPA.ENVR.XQ,Total,CPIA policy and institutions for environmental sustainability rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,12
+CPIA13,,IQ.CPA.PROP.XQ,Total,CPIA property rights and rulebased governance rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,13
+CPIA14,,IQ.CPA.PUBS.XQ,Total,CPIA public sector management and institutions cluster average 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,14
+CPIA15,,IQ.CPA.FINQ.XQ,Total,CPIA quality of budgetary and financial management rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,15
+CPIA16,,IQ.CPA.PADM.XQ,Total,CPIA quality of public administration rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,16
+CPIA17,,IQ.CPA.PROT.XQ,Total,CPIA social protection rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,17
+CPIA18,,IQ.CPA.STRC.XQ,Total,CPIA structural policies cluster average 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,18
+CPIA19,,IQ.CPA.TRAD.XQ,Total,CPIA trade rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,19
+CPIA20,,IQ.CPA.TRAN.XQ,Total,CPIA transparency accountability and corruption in the public sector rating 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,20
+CPIA21,,IQ.CPA.IRAI.XQ,Total,IDA resource allocation index 1low to 6high,CPIA,,,,,,,,,,,,,,,,,,,,,21

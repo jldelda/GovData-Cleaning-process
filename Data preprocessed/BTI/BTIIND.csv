@@ -1,0 +1,73 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+BTI41,,G ,Total,Governance Index,BTI,,,,,,,,,,,,,,,,,,,,,41
+BTI84,,Q17.3 ,Total,Regional cooperation,BTI,,,,,,,,,,,,,,,,,,,,,84
+BTI19,,Q17.2 ,Total,Credibility,BTI,,,,,,,,,,,,,,,,,,,,,19
+BTI33,,Q17.1 ,Total,Effective use of support,BTI,,,,,,,,,,,,,,,,,,,,,33
+BTI46,,Q17 ,Total,International Cooperation,BTI,,,,,,,,,,,,,,,,,,,,,46
+BTI83,,Q16.5 ,Total,Reconciliation,BTI,,,,,,,,,,,,,,,,,,,,,83
+BTI12,,Q16.4 ,Total,Civil society participation,BTI,,,,,,,,,,,,,,,,,,,,,12
+BTI14,,Q16.3 ,Total,Cleavage  conflict management,BTI,,,,,,,,,,,,,,,,,,,,,14
+BTI2,,Q16.2 ,Total,Antidemocratic actors,BTI,,,,,,,,,,,,,,,,,,,,,2
+BTI17,,Q16.1 ,Total,Consensus on goals,BTI,,,,,,,,,,,,,,,,,,,,,17
+BTI18,,Q16 ,Total,ConsensusBuilding,BTI,,,,,,,,,,,,,,,,,,,,,18
+BTI1,,Q15.3 ,Total,Anticorruption policy,BTI,,,,,,,,,,,,,,,,,,,,,1
+BTI72,,Q15.2 ,Total,Policy coordination,BTI,,,,,,,,,,,,,,,,,,,,,72
+BTI34,,Q15.1 ,Total,Efficient use of assets,BTI,,,,,,,,,,,,,,,,,,,,,34
+BTI85,,Q15 ,Total,Resource Efficiency,BTI,,,,,,,,,,,,,,,,,,,,,85
+BTI73,,Q14.3 ,Total,Policy learning,BTI,,,,,,,,,,,,,,,,,,,,,73
+BTI43,,Q14.2 ,Total,Implementation,BTI,,,,,,,,,,,,,,,,,,,,,43
+BTI76,,Q14.1 ,Total,Prioritization,BTI,,,,,,,,,,,,,,,,,,,,,76
+BTI100,,Q14 ,Total,Steering Capability,BTI,,,,,,,,,,,,,,,,,,,,,100
+BTI42,,GII ,Total,Governance Performance,BTI,,,,,,,,,,,,,,,,,,,,,42
+BTI7,,Q13.6 ,Total,BTI Stateness & Rule of Law,BTI,,,,,,,,,,,,,,,,,,,,,7
+BTI106,,Q13.5 ,Total,UN Educ Index rescaled,BTI,,,,,,,,,,,,,,,,,,,,,106
+BTI40,,Q13.4 ,Total,GNI pc Atlas method rescaled,BTI,,,,,,,,,,,,,,,,,,,,,40
+BTI16,,Q13.3 ,Total,Conflict intensity,BTI,,,,,,,,,,,,,,,,,,,,,16
+BTI13,,Q13.2 ,Total,Civil society traditions,BTI,,,,,,,,,,,,,,,,,,,,,13
+BTI101,,Q13.1 ,Total,Structural constraints,BTI,,,,,,,,,,,,,,,,,,,,,101
+BTI47,,Q13 ,Total,Level of Difficulty,BTI,,,,,,,,,,,,,,,,,,,,,47
+BTI31,,Q12.2 ,Total,Education policy  R&D,BTI,,,,,,,,,,,,,,,,,,,,,31
+BTI35,,Q12.1 ,Total,Environmental policy,BTI,,,,,,,,,,,,,,,,,,,,,35
+BTI102,,Q12 ,Total,Sustainability,BTI,,,,,,,,,,,,,,,,,,,,,102
+BTI69,,Q11.1 ,Total,Output strength,BTI,,,,,,,,,,,,,,,,,,,,,69
+BTI30,,Q11 ,Total,Economic Performance,BTI,,,,,,,,,,,,,,,,,,,,,30
+BTI36,,Q10.2 ,Total,Equal opportunity,BTI,,,,,,,,,,,,,,,,,,,,,36
+BTI94,,Q10.1 ,Total,Social safety nets,BTI,,,,,,,,,,,,,,,,,,,,,94
+BTI107,,Q10 ,Total,Welfare Regime,BTI,,,,,,,,,,,,,,,,,,,,,107
+BTI78,,Q9.2 ,Total,Private enterprise,BTI,,,,,,,,,,,,,,,,,,,,,78
+BTI79,,Q9.1 ,Total,Property rights,BTI,,,,,,,,,,,,,,,,,,,,,79
+BTI77,,Q9 ,Total,Private Property,BTI,,,,,,,,,,,,,,,,,,,,,77
+BTI50,,Q8.2 ,Total,Macrostability,BTI,,,,,,,,,,,,,,,,,,,,,50
+BTI3,,Q8.1 ,Total,Antiinflation  forex policy,BTI,,,,,,,,,,,,,,,,,,,,,3
+BTI20,,Q8 ,Total,Currency and Price Stability,BTI,,,,,,,,,,,,,,,,,,,,,20
+BTI8,,Q7.4 ,Total,Banking system,BTI,,,,,,,,,,,,,,,,,,,,,8
+BTI49,,Q7.3 ,Total,Liberalization of foreign trade,BTI,,,,,,,,,,,,,,,,,,,,,49
+BTI4,,Q7.2 ,Total,Antimonopoly policy,BTI,,,,,,,,,,,,,,,,,,,,,4
+BTI65,,Q7.1 ,Total,Marketbased competition,BTI,,,,,,,,,,,,,,,,,,,,,65
+BTI68,,Q7 ,Total,Organization of the Market and Competition,BTI,,,,,,,,,,,,,,,,,,,,,68
+BTI95,,Q6.1 ,Total,Socioeconomic barriers,BTI,,,,,,,,,,,,,,,,,,,,,95
+BTI48,,Q6 ,Total,Level of Socioeconomic Development,BTI,,,,,,,,,,,,,,,,,,,,,48
+BTI93,,Q5.4 ,Total,Social capital,BTI,,,,,,,,,,,,,,,,,,,,,93
+BTI5,,Q5.3 ,Total,Approval of democracy,BTI,,,,,,,,,,,,,,,,,,,,,5
+BTI45,,Q5.2 ,Total,Interest groups,BTI,,,,,,,,,,,,,,,,,,,,,45
+BTI70,,Q5.1 ,Total,Party system,BTI,,,,,,,,,,,,,,,,,,,,,70
+BTI75,,Q5 ,Total,Political and Social Integration,BTI,,,,,,,,,,,,,,,,,,,,,75
+BTI15,,Q4.2 ,Total,Commitment to democratic institutions,BTI,,,,,,,,,,,,,,,,,,,,,15
+BTI71,,Q4.1 ,Total,Performance of democratic institutions,BTI,,,,,,,,,,,,,,,,,,,,,71
+BTI96,,Q4 ,Total,Stability of Democratic Institutions,BTI,,,,,,,,,,,,,,,,,,,,,96
+BTI11,,Q3.4 ,Total,Civil rights,BTI,,,,,,,,,,,,,,,,,,,,,11
+BTI80,,Q3.3 ,Total,Prosecution of office abuse,BTI,,,,,,,,,,,,,,,,,,,,,80
+BTI44,,Q3.2 ,Total,Independent judiciary,BTI,,,,,,,,,,,,,,,,,,,,,44
+BTI92,,Q3.1 ,Total,Separation of powers,BTI,,,,,,,,,,,,,,,,,,,,,92
+BTI86,,Q3 ,Total,Rule of Law,BTI,,,,,,,,,,,,,,,,,,,,,86
+BTI39,,Q2.4 ,Total,Freedom of expression,BTI,,,,,,,,,,,,,,,,,,,,,39
+BTI6,,Q2.3 ,Total,Association  assembly rights,BTI,,,,,,,,,,,,,,,,,,,,,6
+BTI32,,Q2.2 ,Total,Effective power to govern,BTI,,,,,,,,,,,,,,,,,,,,,32
+BTI38,,Q2.1 ,Total,Free and fair elections,BTI,,,,,,,,,,,,,,,,,,,,,38
+BTI74,,Q2 ,Total,Political Participation,BTI,,,,,,,,,,,,,,,,,,,,,74
+BTI9,,Q1.4 ,Total,Basic administration,BTI,,,,,,,,,,,,,,,,,,,,,9
+BTI67,,Q1.3 ,Total,No interference of religious dogmas,BTI,,,,,,,,,,,,,,,,,,,,,67
+BTI97,,Q1.2 ,Total,State identity,BTI,,,,,,,,,,,,,,,,,,,,,97
+BTI66,,Q1.1 ,Total,Monopoly on the use of force,BTI,,,,,,,,,,,,,,,,,,,,,66
+BTI98,,Q1 ,Total,Stateness,BTI,,,,,,,,,,,,,,,,,,,,,98
+BTI29,,Democracy/Autocracy,Total,DemocracyAutocracy,BTI,,,,,,,,,,,,,,,,,,,,,29

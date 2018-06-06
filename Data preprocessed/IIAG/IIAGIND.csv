@@ -1,0 +1,250 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+IIAG3,,ART_Provision_for_Pregnant_Women_(UNAIDS),Total,ART Provision for Pregnant Women UNAIDS,IIAG,,,,,,,,,,,,,,,,,,,,,3
+IIAG2,,ART_Provision_(UNAIDS),Total,ART Provision UNAIDS,IIAG,,,,,,,,,,,,,,,,,,,,,2
+IIAG21,,Antiretroviral_Treatment_(ART)_Provision_(UNAIDS),Total,Antiretroviral Treatment ART Provision UNAIDS,IIAG,,,,,,,,,,,,,,,,,,,,,21
+IIAG120,,Immunisation_against_Hepatitis_B_(WHO),Total,Immunisation against Hepatitis B WHO,IIAG,,,,,,,,,,,,,,,,,,,,,120
+IIAG119,,Immunisation_against_DPT_(WB),Total,Immunisation against DPT WB,IIAG,,,,,,,,,,,,,,,,,,,,,119
+IIAG121,,Immunisation_against_Measles_(WB),Total,Immunisation against Measles WB,IIAG,,,,,,,,,,,,,,,,,,,,,121
+IIAG118,,Immunisation_(WB/WHO),Total,Immunisation WBWHO,IIAG,,,,,,,,,,,,,,,,,,,,,118
+IIAG231,,Tuberculosis_(WHO),Total,Tuberculosis WHO,IIAG,,,,,,,,,,,,,,,,,,,,,231
+IIAG139,,Malaria_(WHO),Total,Malaria WHO,IIAG,,,,,,,,,,,,,,,,,,,,,139
+IIAG55,,Disease_(WHO),Total,Disease WHO,IIAG,,,,,,,,,,,,,,,,,,,,,55
+IIAG232,,Undernourishment_(WB),Total,Undernourishment WB,IIAG,,,,,,,,,,,,,,,,,,,,,232
+IIAG152,,Open_Defecation_Sanitation_(WHO/UNICEF),Total,Open Defecation Sanitation WHOUNICEF,IIAG,,,,,,,,,,,,,,,,,,,,,152
+IIAG5,,Access_to_Improved_Sanitation_(WHO/UNICEF),Total,Access to Improved Sanitation WHOUNICEF,IIAG,,,,,,,,,,,,,,,,,,,,,5
+IIAG12,,Access_to_Sanitation_(WHO/UNICEF),Total,Access to Sanitation WHOUNICEF,IIAG,,,,,,,,,,,,,,,,,,,,,12
+IIAG140,,Maternal_Mortality_(MMEIG),Total,Maternal Mortality MMEIG,IIAG,,,,,,,,,,,,,,,,,,,,,140
+IIAG32,,Child_Mortality_(IGME),Total,Child Mortality IGME,IIAG,,,,,,,,,,,,,,,,,,,,,32
+IIAG184,,Public_Health_Campaigns_(GI),Total,Public Health Campaigns GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,184
+IIAG24,,Basic_Health_Services_(AFR),Total,Basic Health Services AFR,IIAG,,,,,,,,,,,,,,,,,,,,,24
+IIAG107,,HEALTH,Total,HEALTH,IIAG,,,,,,,,,,,,,,,,,,,,,107
+IIAG136,,Literacy_(WB),Total,Literacy WB,IIAG,,,,,,,,,,,,,,,,,,,,,136
+IIAG226,,Tertiary_Education_Enrolment_(UNESCO),Total,Tertiary Education Enrolment UNESCO IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,226
+IIAG215,,Secondary_School_Enrolment_(UNESCO),Total,Secondary School Enrolment UNESCO,IIAG,,,,,,,,,,,,,,,,,,,,,215
+IIAG169,,Primary_School_Completion_(WB),Total,Primary School Completion WB,IIAG,,,,,,,,,,,,,,,,,,,,,169
+IIAG112,,Human_Resources_in_Primary_Schools_(UNESCO),Total,Human Resources in Primary Schools UNESCO IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,112
+IIAG62,,Educational_System_Management_(WEF),Total,Educational System Management WEF,IIAG,,,,,,,,,,,,,,,,,,,,,62
+IIAG61,,Education_Quality_(BS),Total,Education Quality BS,IIAG,,,,,,,,,,,,,,,,,,,,,61
+IIAG60,,Education_Provision_(AFR),Total,Education Provision AFR,IIAG,,,,,,,,,,,,,,,,,,,,,60
+IIAG59,,EDUCATION,Total,EDUCATION IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,59
+IIAG75,,Environmental_Sustainability_(WB),Total,Environmental Sustainability WB,IIAG,,,,,,,,,,,,,,,,,,,,,75
+IIAG73,,Environmental_Sustainability_(AfDB),Total,Environmental Sustainability AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,73
+IIAG74,,Environmental_Sustainability_(AfDB/WB),Total,Environmental Sustainability AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,74
+IIAG72,,Environmental_Policy_(BS),Total,Environmental Policy BS,IIAG,,,,,,,,,,,,,,,,,,,,,72
+IIAG147,,Narrowing_Income_Gaps_(AFR),Total,Narrowing Income Gaps AFR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,147
+IIAG78,,Equity_of_Public_Resource_Use_(WB),Total,Equity of Public Resource Use WB,IIAG,,,,,,,,,,,,,,,,,,,,,78
+IIAG76,,Equity_of_Public_Resource_Use_(AfDB),Total,Equity of Public Resource Use AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,76
+IIAG77,,Equity_of_Public_Resource_Use_(AfDB/WB),Total,Equity of Public Resource Use AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,77
+IIAG138,,Living_Standards_of_the_Poor_(AFR),Total,Living Standards of the Poor AFR,IIAG,,,,,,,,,,,,,,,,,,,,,138
+IIAG168,,Poverty_Reduction_Priorities_(AFR/AfDB/WB),Total,Poverty Reduction Priorities AFRAfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,168
+IIAG44,,Cooking_Fuel_Deprivation_(AFR),Total,Cooking Fuel Deprivation AFR,IIAG,,,,,,,,,,,,,,,,,,,,,44
+IIAG237,,Water_Deprivation_(AFR),Total,Water Deprivation AFR,IIAG,,,,,,,,,,,,,,,,,,,,,237
+IIAG84,,Food_Deprivation_(AFR),Total,Food Deprivation AFR,IIAG,,,,,,,,,,,,,,,,,,,,,84
+IIAG137,,Living_Conditions_(AFR),Total,Living Conditions AFR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,137
+IIAG167,,Poverty_(AFR),Total,Poverty AFR,IIAG,,,,,,,,,,,,,,,,,,,,,167
+IIAG216,,Social_Exclusion_(BS),Total,Social Exclusion BS,IIAG,,,,,,,,,,,,,,,,,,,,,216
+IIAG219,,Social_Protection_&_Labour_(WB),Total,Social Protection & Labour WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,219
+IIAG217,,Social_Protection_&_Labour_(AfDB),Total,Social Protection & Labour AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,217
+IIAG218,,Social_Protection_&_Labour_(AfDB/WB),Total,Social Protection & Labour AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,218
+IIAG220,,Social_Safety_Nets_(BS),Total,Social Safety Nets BS,IIAG,,,,,,,,,,,,,,,,,,,,,220
+IIAG240,,Welfare_Services_(WB),Total,Welfare Services WB,IIAG,,,,,,,,,,,,,,,,,,,,,240
+IIAG238,,Welfare_Services_(AfDB),Total,Welfare Services AfDB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,238
+IIAG239,,Welfare_Services_(AfDB/WB),Total,Welfare Services AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,239
+IIAG235,,WELFARE,Total,WELFARE IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,235
+IIAG108,,HUMAN_DEVELOPMENT,Total,HUMAN DEVELOPMENT,IIAG,,,,,,,,,,,,,,,,,,,,,108
+IIAG206,,Rural_Accountability_&_Transparency__(IFAD),Total,Rural Accountability & Transparency  IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,206
+IIAG100,,Gender_Balance_in_Rural_Decision-making_(IFAD),Total,Gender Balance in Rural Decisionmaking IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,100
+IIAG53,,Dialogue_between_Government_&_Rural_Organisations_(IFAD),Total,Dialogue between Government & Rural Organisations IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,53
+IIAG85,,Framework_for_Rural_Organisations_(IFAD),Total,Framework for Rural Organisations IFAD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,85
+IIAG71,,Engagement_with_Rural_Organisations_(IFAD),Total,Engagement with Rural Organisations IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,71
+IIAG17,,Agricultural_Policy_Costs_(WEF),Total,Agricultural Policy Costs WEF,IIAG,,,,,,,,,,,,,,,,,,,,,17
+IIAG18,,Agricultural_Support_System_(IFAD),Total,Agricultural Support System IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,18
+IIAG208,,Rural_Development_Resources_(IFAD),Total,Rural Development Resources IFAD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,208
+IIAG16,,Agricultural_Input_&_Produce_Markets_(IFAD),Total,Agricultural Input & Produce Markets IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,16
+IIAG209,,Rural_Financial_Services_Development_(IFAD),Total,Rural Financial Services Development IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,209
+IIAG125,,Investment_Climate_for_Rural_Businesses_(IFAD),Total,Investment Climate for Rural Businesses IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,125
+IIAG207,,Rural_Business_Climate_(IFAD),Total,Rural Business Climate IFAD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,207
+IIAG13,,Access_to_Water_for_Agriculture_(IFAD),Total,Access to Water for Agriculture IFAD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,13
+IIAG9,,Access_to_Land_(IFAD),Total,Access to Land IFAD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,9
+IIAG210,,Rural_Land_&_Water_(IFAD),Total,Rural Land & Water IFAD,IIAG,,,,,,,,,,,,,,,,,,,,,210
+IIAG193,,RURAL_SECTOR,Total,RURAL SECTOR,IIAG,,,,,,,,,,,,,,,,,,,,,193
+IIAG236,,Water_&_Sanitation_Services_(AFR),Total,Water & Sanitation Services AFR,IIAG,,,,,,,,,,,,,,,,,,,,,236
+IIAG6,,Access_to_Improved_Water__(WHO/UNICEF),Total,Access to Improved Water  WHOUNICEF,IIAG,,,,,,,,,,,,,,,,,,,,,6
+IIAG111,,Household_Internet_Access_(ITU),Total,Household Internet Access ITU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,111
+IIAG110,,Household_Computers_(ITU),Total,Household Computers ITU,IIAG,,,,,,,,,,,,,,,,,,,,,110
+IIAG144,,Mobile_Phone_Subscribers_(ITU),Total,Mobile Phone Subscribers ITU,IIAG,,,,,,,,,,,,,,,,,,,,,144
+IIAG117,,IT_Infrastructure_(EIU),Total,IT Infrastructure EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,117
+IIAG54,,Digital_&_IT_Infrastructure_(EIU/ITU),Total,Digital & IT Infrastructure EIUITU,IIAG,,,,,,,,,,,,,,,,,,,,,54
+IIAG197,,Reliable_Electricity_Supply_(AFR),Total,Reliable Electricity Supply AFR,IIAG,,,,,,,,,,,,,,,,,,,,,197
+IIAG69,,Electricity_Supply_(WEF),Total,Electricity Supply WEF,IIAG,,,,,,,,,,,,,,,,,,,,,69
+IIAG68,,Electricity_Infrastructure_(WEF/AFR),Total,Electricity Infrastructure WEFAFR,IIAG,,,,,,,,,,,,,,,,,,,,,68
+IIAG20,,Air_Transport_Safety_(GI),Total,Air Transport Safety GI,IIAG,,,,,,,,,,,,,,,,,,,,,20
+IIAG190,,Quality_of_Air_Transport_(WEF),Total,Quality of Air Transport WEF,IIAG,,,,,,,,,,,,,,,,,,,,,190
+IIAG19,,Air_Transport___(WEF/GI),Total,Air Transport   WEFGI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,19
+IIAG194,,Rail_Network__(EIU),Total,Rail Network  EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,194
+IIAG204,,Road_&_Bridge_Maintenance_(AFR),Total,Road & Bridge Maintenance AFR,IIAG,,,,,,,,,,,,,,,,,,,,,204
+IIAG205,,Road_Network_(WEF),Total,Road Network WEF,IIAG,,,,,,,,,,,,,,,,,,,,,205
+IIAG230,,Transport_Infrastructure_(WEF/AFR/EIU/GI),Total,Transport Infrastructure WEFAFREIUGI,IIAG,,,,,,,,,,,,,,,,,,,,,230
+IIAG116,,INFRASTRUCTURE,Total,INFRASTRUCTURE IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,116
+IIAG196,,Regional_Integration_(AfDB),Total,Regional Integration AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,196
+IIAG70,,Employment_Creation_(AFR),Total,Employment Creation AFR,IIAG,,,,,,,,,,,,,,,,,,,,,70
+IIAG223,,Soundness_of_Banks_(WEF),Total,Soundness of Banks WEF,IIAG,,,,,,,,,,,,,,,,,,,,,223
+IIAG51,,Customs_Procedures_(WEF),Total,Customs Procedures WEF,IIAG,,,,,,,,,,,,,,,,,,,,,51
+IIAG30,,Business_Bureaucracy_&_Red_Tape_(EIU),Total,Business Bureaucracy & Red Tape EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,30
+IIAG43,,Competitive_Environment_(WB),Total,Competitive Environment WB,IIAG,,,,,,,,,,,,,,,,,,,,,43
+IIAG41,,Competitive_Environment_(AfDB),Total,Competitive Environment AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,41
+IIAG42,,Competitive_Environment_(AfDB/WB),Total,Competitive Environment AfDBWB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,42
+IIAG225,,Tendering_Process_(GI),Total,Tendering Process GI,IIAG,,,,,,,,,,,,,,,,,,,,,225
+IIAG39,,Competition_(BS),Total,Competition BS,IIAG,,,,,,,,,,,,,,,,,,,,,39
+IIAG40,,Competition_(BS/GI/AfDB/WB),Total,Competition BSGIAfDBWB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,40
+IIAG124,,Investment_Climate_(HER),Total,Investment Climate HER,IIAG,,,,,,,,,,,,,,,,,,,,,124
+IIAG22,,BUSINESS_ENVIRONMENT,Total,BUSINESS ENVIRONMENT,IIAG,,,,,,,,,,,,,,,,,,,,,22
+IIAG229,,Transparency_of_State-owned_Companies_(GI),Total,Transparency of Stateowned Companies GI,IIAG,,,,,,,,,,,,,,,,,,,,,229
+IIAG201,,Revenue_Collection_(WB),Total,Revenue Collection WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,201
+IIAG199,,Revenue_Collection_(AfDB),Total,Revenue Collection AfDB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,199
+IIAG200,,Revenue_Collection_(AfDB/WB),Total,Revenue Collection AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,200
+IIAG224,,Taxation_Capacity_(ICTD),Total,Taxation Capacity ICTD,IIAG,,,,,,,,,,,,,,,,,,,,,224
+IIAG202,,Revenue_Mobilisation_(ICTD/AfDB/WB),Total,Revenue Mobilisation ICTDAfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,202
+IIAG83,,Fiscal_Policy_(WB),Total,Fiscal Policy WB,IIAG,,,,,,,,,,,,,,,,,,,,,83
+IIAG81,,Fiscal_Policy_(AfDB),Total,Fiscal Policy AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,81
+IIAG82,,Fiscal_Policy_(AfDB/WB),Total,Fiscal Policy AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,82
+IIAG26,,Budget_Balance_(AfDB/AUC/UNECA),Total,Budget Balance AfDBAUCUNECA IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,26
+IIAG29,,Budget_Management_(WB),Total,Budget Management WB,IIAG,,,,,,,,,,,,,,,,,,,,,29
+IIAG27,,Budget_Management_(AfDB),Total,Budget Management AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,27
+IIAG28,,Budget_Management_(AfDB/WB),Total,Budget Management AfDBWB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,28
+IIAG56,,Diversification_(AfDB/OECD/UNDP),Total,Diversification AfDBOECDUNDP,IIAG,,,,,,,,,,,,,,,,,,,,,56
+IIAG183,,Public_Administration_(WB),Total,Public Administration WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,183
+IIAG181,,Public_Administration_(AfDB),Total,Public Administration AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,181
+IIAG182,,Public_Administration_(AfDB/WB),Total,Public Administration AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,182
+IIAG52,,Death_Registration_(GI),Total,Death Registration GI,IIAG,,,,,,,,,,,,,,,,,,,,,52
+IIAG25,,Birth_Registration_(GI),Total,Birth Registration GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,25
+IIAG38,,Civil_registration_(GI),Total,Civil registration GI,IIAG,,,,,,,,,,,,,,,,,,,,,38
+IIAG106,,Governmental_Statistical_Capacity_(WB),Total,Governmental Statistical Capacity WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,106
+IIAG156,,PUBLIC_MANAGEMENT,Total,PUBLIC MANAGEMENT,IIAG,,,,,,,,,,,,,,,,,,,,,156
+IIAG212,,SUSTAINABLE_ECONOMIC_OPPORTUNITY,Total,SUSTAINABLE ECONOMIC OPPORTUNITY,IIAG,,,,,,,,,,,,,,,,,,,,,212
+IIAG247,,Women's_Political_Empowerment__(V-Dem),Total,Womens Political Empowerment  VDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,247
+IIAG134,,Laws_on_Violence_against_Women_(OECD),Total,Laws on Violence against Women OECD,IIAG,,,,,,,,,,,,,,,,,,,,,134
+IIAG245,,Women_in_the_Judiciary_(GI),Total,Women in the Judiciary GI,IIAG,,,,,,,,,,,,,,,,,,,,,245
+IIAG249,,Workplace_Gender_Equality_(GI),Total,Workplace Gender Equality GI,IIAG,,,,,,,,,,,,,,,,,,,,,249
+IIAG246,,Women's_Labour_Force_Participation_(WB),Total,Womens Labour Force Participation WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,246
+IIAG99,,Gender_Balance_in_Education_(UNESCO),Total,Gender Balance in Education UNESCO,IIAG,,,,,,,,,,,,,,,,,,,,,99
+IIAG243,,Women_in_Ministerial_Positions_(WB),Total,Women in Ministerial Positions WB,IIAG,,,,,,,,,,,,,,,,,,,,,243
+IIAG241,,Women_in_Cabinet_(GI),Total,Women in Cabinet GI,IIAG,,,,,,,,,,,,,,,,,,,,,241
+IIAG242,,Women_in_Ministerial_Positions_(GI/WB),Total,Women in Ministerial Positions GIWB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,242
+IIAG244,,Women_in_Parliament_(IPU),Total,Women in Parliament IPU,IIAG,,,,,,,,,,,,,,,,,,,,,244
+IIAG248,,Women's_Political_Participation_(IPU/GI/WB),Total,Womens Political Participation IPUGIWB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,248
+IIAG103,,Gender_Equality_(WB),Total,Gender Equality WB IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,103
+IIAG101,,Gender_Equality_(AfDB),Total,Gender Equality AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,101
+IIAG102,,Gender_Equality_(AfDB/WB),Total,Gender Equality AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,102
+IIAG98,,GENDER,Total,GENDER,IIAG,,,,,,,,,,,,,,,,,,,,,98
+IIAG178,,Protection_against_Religious_Discrimination_(GI),Total,Protection against Religious Discrimination GI,IIAG,,,,,,,,,,,,,,,,,,,,,178
+IIAG177,,Protection_against_Ethnic_Discrimination_(GI),Total,Protection against Ethnic Discrimination GI,IIAG,,,,,,,,,,,,,,,,,,,,,177
+IIAG176,,Protection_against_Discrimination_(GI),Total,Protection against Discrimination GI,IIAG,,,,,,,,,,,,,,,,,,,,,176
+IIAG114,,Human_Rights_Violations_(EIU),Total,Human Rights Violations EIU,IIAG,,,,,,,,,,,,,,,,,,,,,114
+IIAG113,,Human_Rights_Conventions_(UNOLA/OHCHR),Total,Human Rights Conventions UNOLAOHCHR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,113
+IIAG34,,Civil_Liberties_(FH),Total,Civil Liberties FH,IIAG,,,,,,,,,,,,,,,,,,,,,34
+IIAG179,,Protection_of_Civil_Liberties_(BS),Total,Protection of Civil Liberties BS IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,179
+IIAG33,,Civil_Liberties_(BS/FH_),Total,Civil Liberties BSFH,IIAG,,,,,,,,,,,,,,,,,,,,,33
+IIAG227,,Trade_Unions_(GI),Total,Trade Unions GI,IIAG,,,,,,,,,,,,,,,,,,,,,227
+IIAG92,,Freedom_of_Association_(GI),Total,Freedom of Association GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,92
+IIAG91,,Freedom_of_Association_&_Assembly_(BS),Total,Freedom of Association & Assembly BS,IIAG,,,,,,,,,,,,,,,,,,,,,91
+IIAG90,,Freedom_of_Association_&_Assembly___(BS/GI),Total,Freedom of Association & Assembly   BSGI,IIAG,,,,,,,,,,,,,,,,,,,,,90
+IIAG150,,Online_Censorship_(GI),Total,Online Censorship GI,IIAG,,,,,,,,,,,,,,,,,,,,,150
+IIAG141,,Media_Censorship_(GI),Total,Media Censorship GI,IIAG,,,,,,,,,,,,,,,,,,,,,141
+IIAG31,,Censorship_(GI),Total,Censorship GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,31
+IIAG95,,Freedom_of_Expression_(V-Dem),Total,Freedom of Expression VDem,IIAG,,,,,,,,,,,,,,,,,,,,,95
+IIAG143,,Media_Impartiality_(V-Dem),Total,Media Impartiality VDem,IIAG,,,,,,,,,,,,,,,,,,,,,143
+IIAG142,,Media_Freedom_(RSF),Total,Media Freedom RSF IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,142
+IIAG94,,Freedom_of_Expression_(BS),Total,Freedom of Expression BS,IIAG,,,,,,,,,,,,,,,,,,,,,94
+IIAG93,,Freedom_of_Expression___(BS/RSF/V-Dem/GI),Total,Freedom of Expression   BSRSFVDemGI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,93
+IIAG191,,RIGHTS,Total,RIGHTS,IIAG,,,,,,,,,,,,,,,,,,,,,191
+IIAG135,,Legitimacy_of_Political_Process_(BS),Total,Legitimacy of Political Process BS,IIAG,,,,,,,,,,,,,,,,,,,,,135
+IIAG67,,Election_Monitoring_Agency_Reporting_(GI),Total,Election Monitoring Agency Reporting GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,67
+IIAG66,,Election_Monitoring_Agency_Independence_(GI),Total,Election Monitoring Agency Independence GI,IIAG,,,,,,,,,,,,,,,,,,,,,66
+IIAG64,,Election_Monitoring_Agencies_(GI),Total,Election Monitoring Agencies GI,IIAG,,,,,,,,,,,,,,,,,,,,,64
+IIAG63,,Election_Management_Bodies_(V-Dem),Total,Election Management Bodies VDem,IIAG,,,,,,,,,,,,,,,,,,,,,63
+IIAG65,,Election_Monitoring_Agencies_(V-Dem/GI),Total,Election Monitoring Agencies VDemGI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,65
+IIAG88,,Free_&_Fair_Elections_(V-Dem),Total,Free & Fair Elections VDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,88
+IIAG89,,Free_&_Fair_Executive_Elections_(CDD),Total,Free & Fair Executive Elections CDD,IIAG,,,,,,,,,,,,,,,,,,,,,89
+IIAG86,,Free_&_Fair_Elections_(BS),Total,Free & Fair Elections BS,IIAG,,,,,,,,,,,,,,,,,,,,,86
+IIAG87,,Free_&_Fair_Elections_(BS/CDD/V-Dem),Total,Free & Fair Elections BSCDDVDem,IIAG,,,,,,,,,,,,,,,,,,,,,87
+IIAG109,,Harassment_of_NGOs_(GI),Total,Harassment of NGOs GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,109
+IIAG157,,Persecution_of_NGOs_(GI),Total,Persecution of NGOs GI,IIAG,,,,,,,,,,,,,,,,,,,,,157
+IIAG23,,Barriers_to_NGO_Operations_(GI),Total,Barriers to NGO Operations GI,IIAG,,,,,,,,,,,,,,,,,,,,,23
+IIAG96,,Freedom_of_NGOs_(GI),Total,Freedom of NGOs GI,IIAG,,,,,,,,,,,,,,,,,,,,,96
+IIAG35,,Civil_Society_Inclusion_(V-Dem),Total,Civil Society Inclusion VDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,35
+IIAG36,,Civil_Society_Participation_(BS),Total,Civil Society Participation BS,IIAG,,,,,,,,,,,,,,,,,,,,,36
+IIAG37,,Civil_Society_Participation_(BS/V-Dem/GI),Total,Civil Society Participation BSVDemGI,IIAG,,,,,,,,,,,,,,,,,,,,,37
+IIAG97,,Freedom_of_Political_Parties_(V-Dem),Total,Freedom of Political Parties VDem,IIAG,,,,,,,,,,,,,,,,,,,,,97
+IIAG163,,Political_Pluralism_(FH),Total,Political Pluralism FH IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,163
+IIAG161,,Political_Participation_(EIU),Total,Political Participation EIU,IIAG,,,,,,,,,,,,,,,,,,,,,161
+IIAG162,,Political_Participation_(EIU/FH/V-Dem),Total,Political Participation EIUFHVDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,162
+IIAG153,,PARTICIPATION,Total,PARTICIPATION,IIAG,,,,,,,,,,,,,,,,,,,,,153
+IIAG154,,PARTICIPATION_&_HUMAN_RIGHTS,Total,PARTICIPATION & HUMAN RIGHTS,IIAG,,,,,,,,,,,,,,,,,,,,,154
+IIAG164,,Political_Refugees_(UNHCR),Total,Political Refugees UNHCR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,164
+IIAG123,,Internally_Displaced_People_(IDMC),Total,Internally Displaced People IDMC,IIAG,,,,,,,,,,,,,,,,,,,,,123
+IIAG50,,Cross-border_Tensions__(EIU),Total,Crossborder Tensions  EIU,IIAG,,,,,,,,,,,,,,,,,,,,,50
+IIAG233,,Violence_by_Non-state_Actors_(ACLED),Total,Violence by Nonstate Actors ACLED IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,233
+IIAG58,,Domestic_Armed_Conflict__(EIU),Total,Domestic Armed Conflict  EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,58
+IIAG104,,Government_Involvement_in_Armed_Conflict_(UCDP),Total,Government Involvement in Armed Conflict UCDP IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,104
+IIAG146,,NATIONAL_SECURITY,Total,NATIONAL SECURITY,IIAG,,,,,,,,,,,,,,,,,,,,,146
+IIAG115,,Human_Trafficking_(USDS),Total,Human Trafficking USDS,IIAG,,,,,,,,,,,,,,,,,,,,,115
+IIAG166,,Political_Violence_(PTS),Total,Political Violence PTS,IIAG,,,,,,,,,,,,,,,,,,,,,166
+IIAG105,,Government_Violence_against_Civilians_(ACLED),Total,Government Violence against Civilians ACLED,IIAG,,,,,,,,,,,,,,,,,,,,,105
+IIAG165,,Political_Violence_(ACLED/PTS),Total,Political Violence ACLEDPTS,IIAG,,,,,,,,,,,,,,,,,,,,,165
+IIAG195,,Reducing_Crime_(AFR),Total,Reducing Crime AFR,IIAG,,,,,,,,,,,,,,,,,,,,,195
+IIAG198,,Residential_Crime_(AFR),Total,Residential Crime AFR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,198
+IIAG234,,Violent_Crime_(EIU),Total,Violent Crime EIU,IIAG,,,,,,,,,,,,,,,,,,,,,234
+IIAG49,,Crime_(EIU/AFR),Total,Crime EIUAFR,IIAG,,,,,,,,,,,,,,,,,,,,,49
+IIAG203,,Riots_&_Protests_(ACLED),Total,Riots & Protests ACLED,IIAG,,,,,,,,,,,,,,,,,,,,,203
+IIAG221,,Social_Unrest_(EIU),Total,Social Unrest EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,221
+IIAG222,,Social_Unrest_(EIU/ACLED),Total,Social Unrest EIUACLED,IIAG,,,,,,,,,,,,,,,,,,,,,222
+IIAG158,,Police_Misconduct_Investigation_(GI),Total,Police Misconduct Investigation GI,IIAG,,,,,,,,,,,,,,,,,,,,,158
+IIAG159,,Police_Services_(WEF),Total,Police Services WEF,IIAG,,,,,,,,,,,,,,,,,,,,,159
+IIAG160,,Police_Services_(WEF/GI),Total,Police Services WEFGI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,160
+IIAG148,,Neighbourhood_Safety_(AFR),Total,Neighbourhood Safety AFR,IIAG,,,,,,,,,,,,,,,,,,,,,148
+IIAG213,,Safety_of_the_Person__(EIU),Total,Safety of the Person  EIU,IIAG,,,,,,,,,,,,,,,,,,,,,213
+IIAG214,,Safety_of_the_Person__(EIU/AFR),Total,Safety of the Person  EIUAFR,IIAG,,,,,,,,,,,,,,,,,,,,,214
+IIAG155,,PERSONAL_SAFETY,Total,PERSONAL SAFETY IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,155
+IIAG80,,Fighting_Corruption_(AFR),Total,Fighting Corruption AFR,IIAG,,,,,,,,,,,,,,,,,,,,,80
+IIAG46,,Corruption_Investigation_(GI),Total,Corruption Investigation GI,IIAG,,,,,,,,,,,,,,,,,,,,,46
+IIAG189,,Public_Sector_Corruption_Bodies_(GI),Total,Public Sector Corruption Bodies GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,189
+IIAG47,,Corruption_Investigation_(GI/AFR),Total,Corruption Investigation GIAFR IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,47
+IIAG57,,Diversion_of_Public_Funds_(WEF),Total,Diversion of Public Funds WEF,IIAG,,,,,,,,,,,,,,,,,,,,,57
+IIAG45,,Corruption_&_Bureaucracy_(WB),Total,Corruption & Bureaucracy WB,IIAG,,,,,,,,,,,,,,,,,,,,,45
+IIAG48,,Corruption_in_Government_&_Public_Officials__(EIU),Total,Corruption in Government & Public Officials  EIU,IIAG,,,,,,,,,,,,,,,,,,,,,48
+IIAG4,,Abuse_of_Office_(BS),Total,Abuse of Office BS IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,4
+IIAG15,,Accountability_of_Public_Officials_(EIU),Total,Accountability of Public Officials EIU,IIAG,,,,,,,,,,,,,,,,,,,,,15
+IIAG14,,Accountability_of_Public_Officials__(EIU/BS),Total,Accountability of Public Officials  EIUBS,IIAG,,,,,,,,,,,,,,,,,,,,,14
+IIAG188,,Public_Sector_Accountability_&_Transparency_(WB),Total,Public Sector Accountability & Transparency WB,IIAG,,,,,,,,,,,,,,,,,,,,,188
+IIAG185,,Public_Sector_Accountability_&_Transparency_(AfDB),Total,Public Sector Accountability & Transparency AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,185
+IIAG186,,Public_Sector_Accountability_&_Transparency_(AfDB/WB),Total,Public Sector Accountability & Transparency AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,186
+IIAG79,,Executive_Corruption_(V-Dem),Total,Executive Corruption VDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,79
+IIAG187,,Public_Sector_Accountability_&_Transparency_(V-Dem/AfDB/WB),Total,Public Sector Accountability & Transparency VDemAfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,187
+IIAG151,,Online_Public_Services_(UNDESA),Total,Online Public Services UNDESA,IIAG,,,,,,,,,,,,,,,,,,,,,151
+IIAG10,,Access_to_Legislative_Information_(GI),Total,Access to Legislative Information GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,10
+IIAG11,,Access_to_Public_Information_(GI),Total,Access to Public Information GI,IIAG,,,,,,,,,,,,,,,,,,,,,11
+IIAG7,,Access_to_Information_(GI),Total,Access to Information GI,IIAG,,,,,,,,,,,,,,,,,,,,,7
+IIAG1,,ACCOUNTABILITY,Total,ACCOUNTABILITY,IIAG,,,,,,,,,,,,,,,,,,,,,1
+IIAG145,,Multilateral_Sanctions__(CDD),Total,Multilateral Sanctions  CDD IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,145
+IIAG228,,Transfers_of_Power_(EIU),Total,Transfers of Power EIU IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,228
+IIAG175,,Property_Rights_(WB),Total,Property Rights WB,IIAG,,,,,,,,,,,,,,,,,,,,,175
+IIAG172,,Property_Rights_(AfDB),Total,Property Rights AfDB,IIAG,,,,,,,,,,,,,,,,,,,,,172
+IIAG173,,Property_Rights_(AfDB/WB),Total,Property Rights AfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,173
+IIAG180,,Protection_of_Property_Rights_(WEF),Total,Protection of Property Rights WEF,IIAG,,,,,,,,,,,,,,,,,,,,,180
+IIAG170,,Property_Freedom_(HER),Total,Property Freedom HER IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,170
+IIAG171,,Property_Rights_&_Regulations__(BS),Total,Property Rights & Regulations  BS,IIAG,,,,,,,,,,,,,,,,,,,,,171
+IIAG174,,Property_Rights_(BS/HER/WEF/AfDB/WB),Total,Property Rights BSHERWEFAfDBWB,IIAG,,,,,,,,,,,,,,,,,,,,,174
+IIAG8,,Access_to_Justice_(V-Dem),Total,Access to Justice VDem,IIAG,,,,,,,,,,,,,,,,,,,,,8
+IIAG129,,Judicial_Decisions_(GI),Total,Judicial Decisions GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,129
+IIAG132,,Judicial_Process__(EIU),Total,Judicial Process  EIU,IIAG,,,,,,,,,,,,,,,,,,,,,132
+IIAG133,,Judicial_Process__(EIU/GI),Total,Judicial Process  EIUGI,IIAG,,,,,,,,,,,,,,,,,,,,,133
+IIAG126,,Judicial_Appointments_(GI),Total,Judicial Appointments GI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,126
+IIAG131,,Judicial_Independence_(GI),Total,Judicial Independence GI,IIAG,,,,,,,,,,,,,,,,,,,,,131
+IIAG127,,Judicial_Authority_(V-Dem),Total,Judicial Authority VDem IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,127
+IIAG128,,Judicial_Autonomy_(WEF),Total,Judicial Autonomy WEF,IIAG,,,,,,,,,,,,,,,,,,,,,128
+IIAG122,,Independent_Judiciary_(BS),Total,Independent Judiciary BS,IIAG,,,,,,,,,,,,,,,,,,,,,122
+IIAG130,,Judicial_Independence_(BS/WEF/V-Dem/GI),Total,Judicial Independence BSWEFVDemGI IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,130
+IIAG192,,RULE_OF_LAW,Total,RULE OF LAW IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,192
+IIAG211,,SAFETY_&_RULE_OF_LAW,Total,SAFETY & RULE OF LAW IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,211
+IIAG149,,OVERALL_GOVERNANCE,Total,OVERALL GOVERNANCE IIAG_calculation,IIAG,,,,,,,,,,,,,,,,,,,,,149

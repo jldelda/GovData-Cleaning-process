@@ -1,0 +1,183 @@
+Indicator_Id,Indicator,Indicator_Name,answer,Display_Name,Dataset,Rank,Category_11,Category_12,Category_13,Category_14,Category_15,Category_21,Category_22,Category_23,Category_24,Category_25,Category_31,Category_32,Category_33,Category_34,New1,New2,New3,New4,New5,keyN
+SGI1,, Access to Government Information,Total, Access to Government Information,SGI,,,,,,,,,,,,,,,,,,,,,1
+SGI10,, Budget Consolidation,Total, Budget Consolidation,SGI,,,,,,,,,,,,,,,,,,,,,10
+SGI100,, Multilateral Environmental Agreements,Total, Multilateral Environmental Agreements,SGI,,,,,,,,,,,,,,,,,,,,,100
+SGI101,, NEET Rate,Total, NEET Rate,SGI,,,,,,,,,,,,,,,,,,,,,101
+SGI102,, National Standards,Total, National Standards,SGI,,,,,,,,,,,,,,,,,,,,,102
+SGI103,, Negotiating Public Support,Total, Negotiating Public Support,SGI,,,,,,,,,,,,,,,,,,,,,103
+SGI104,, Newspaper Circulation,Total, Newspaper Circulation,SGI,,,,,,,,,,,,,,,,,,,,,104
+SGI105,, Non-discrimination,Total, Non-discrimination,SGI,,,,,,,,,,,,,,,,,,,,,105
+SGI106,, Non-public R&D Spending,Total, Non-public R&D Spending,SGI,,,,,,,,,,,,,,,,,,,,,106
+SGI107,, ODA,Total, ODA,SGI,,,,,,,,,,,,,,,,,,,,,107
+SGI108,, Obtaining Documents,Total, Obtaining Documents,SGI,,,,,,,,,,,,,,,,,,,,,108
+SGI109,, Old Age Dependency Ratio,Total, Old Age Dependency Ratio,SGI,,,,,,,,,,,,,,,,,,,,,109
+SGI11,, Budgetary Policy,Total, Budgetary Policy,SGI,,,,,,,,,,,,,,,,,,,,,11
+SGI110,, Older Employment,Total, Older Employment,SGI,,,,,,,,,,,,,,,,,,,,,110
+SGI111,, Ombuds Office,Total, Ombuds Office,SGI,,,,,,,,,,,,,,,,,,,,,111
+SGI112,, Organizational Reform,Total, Organizational Reform,SGI,,,,,,,,,,,,,,,,,,,,,112
+SGI113,, PCT Patent Applications,Total, PCT Patent Applications,SGI,,,,,,,,,,,,,,,,,,,,,113
+SGI114,," PISA, Socioeconomic Background",Total," PISA, Socioeconomic Background",SGI,,,,,,,,,,,,,,,,,,,,,114
+SGI115,, PISA results,Total, PISA results,SGI,,,,,,,,,,,,,,,,,,,,,115
+SGI116,, Parliamentary Resources,Total, Parliamentary Resources,SGI,,,,,,,,,,,,,,,,,,,,,116
+SGI117,, Particulate Matter,Total, Particulate Matter,SGI,,,,,,,,,,,,,,,,,,,,,117
+SGI118,, Parties and Interest Associations,Total, Parties and Interest Associations,SGI,,,,,,,,,,,,,,,,,,,,,118
+SGI119,, Party Financing,Total, Party Financing,SGI,,,,,,,,,,,,,,,,,,,,,119
+SGI12,, Budgets,Total, Budgets,SGI,,,,,,,,,,,,,,,,,,,,,12
+SGI120,, Pension Policy,Total, Pension Policy,SGI,,,,,,,,,,,,,,,,,,,,,120
+SGI121,, Pensions,Total, Pensions,SGI,,,,,,,,,,,,,,,,,,,,,121
+SGI122,, Perceived Health Status,Total, Perceived Health Status,SGI,,,,,,,,,,,,,,,,,,,,,122
+SGI123,, Policy Communication,Total, Policy Communication,SGI,,,,,,,,,,,,,,,,,,,,,123
+SGI124,, Policy Knowledge,Total, Policy Knowledge,SGI,,,,,,,,,,,,,,,,,,,,,124
+SGI125,, Policy Performance,Total, Policy Performance,SGI,,,,,,,,,,,,,,,,,,,,,125
+SGI126,, Political Liberties,Total, Political Liberties,SGI,,,,,,,,,,,,,,,,,,,,,126
+SGI127,, Popular Decision-Making,Total, Popular Decision-Making,SGI,,,,,,,,,,,,,,,,,,,,,127
+SGI128,," Potential Output, Growth Rate",Total," Potential Output, Growth Rate",SGI,,,,,,,,,,,,,,,,,,,,,128
+SGI129,, Poverty Rate,Total, Poverty Rate,SGI,,,,,,,,,,,,,,,,,,,,,129
+SGI13,, Cabinet Committees,Total, Cabinet Committees,SGI,,,,,,,,,,,,,,,,,,,,,13
+SGI130,, Pre-primary Expenditure,Total, Pre-primary Expenditure,SGI,,,,,,,,,,,,,,,,,,,,,130
+SGI131,, Primary Balance,Total, Primary Balance,SGI,,,,,,,,,,,,,,,,,,,,,131
+SGI132,, Public R&D Spending,Total, Public R&D Spending,SGI,,,,,,,,,,,,,,,,,,,,,132
+SGI133,, Quality Newspapers,Total, Quality Newspapers,SGI,,,,,,,,,,,,,,,,,,,,,133
+SGI134,, Quality of Democracy,Total, Quality of Democracy,SGI,,,,,,,,,,,,,,,,,,,,,134
+SGI135,, Quality of RIA Process,Total, Quality of RIA Process,SGI,,,,,,,,,,,,,,,,,,,,,135
+SGI136,, R&I Policy,Total, R&I Policy,SGI,,,,,,,,,,,,,,,,,,,,,136
+SGI137,, RIA Application,Total, RIA Application,SGI,,,,,,,,,,,,,,,,,,,,,137
+SGI1381,,Rank among 41 countries  Social Policies,Total,Rank among 41 countries  Social Policies,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI1382,,Rank among 41 countries  Environmental Policies,Total,Rank among 41 countries  Environmental Policies,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI1383,,Rank among 41 countries  Quality of Democracy,Total,Rank among 41 countries  Quality of Democracy,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI1384,,Rank among 41 countries  Executive Accountability,Total,Rank among 41 countries  Executive Accountability,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI1385,,Rank among 41 countries  Governance,Total,Rank among 41 countries  Governance,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI1386,,Rank among 41 countries  Executive Capacity,Total,Rank among 41 countries  Executive Capacity,SGI,,,,,,,,,,,,,,,,,,,,,138
+SGI139,, Real Interest Rates,Total, Real Interest Rates,SGI,,,,,,,,,,,,,,,,,,,,,139
+SGI14,, Candidacy Procedures,Total, Candidacy Procedures,SGI,,,,,,,,,,,,,,,,,,,,,14
+SGI140,, Redistribution Effect,Total, Redistribution Effect,SGI,,,,,,,,,,,,,,,,,,,,,140
+SGI141,, Renewable Energy,Total, Renewable Energy,SGI,,,,,,,,,,,,,,,,,,,,,141
+SGI142,, Research and Innovation,Total, Research and Innovation,SGI,,,,,,,,,,,,,,,,,,,,,142
+SGI143,, Rule of Law,Total, Rule of Law,SGI,,,,,,,,,,,,,,,,,,,,,143
+SGI144,, Safe Living,Total, Safe Living,SGI,,,,,,,,,,,,,,,,,,,,,144
+SGI145,, Safe Living Conditions,Total, Safe Living Conditions,SGI,,,,,,,,,,,,,,,,,,,,,145
+SGI146,, Scholarly Advice,Total, Scholarly Advice,SGI,,,,,,,,,,,,,,,,,,,,,146
+SGI147,, Self-monitoring,Total, Self-monitoring,SGI,,,,,,,,,,,,,,,,,,,,,147
+SGI148,, Senior Citizen Poverty,Total, Senior Citizen Poverty,SGI,,,,,,,,,,,,,,,,,,,,,148
+SGI149,, Social Inclusion,Total, Social Inclusion,SGI,,,,,,,,,,,,,,,,,,,,,149
+SGI15,," Child Care Density, Age 0-2",Total," Child Care Density, Age 0-2",SGI,,,,,,,,,,,,,,,,,,,,,15
+SGI150,, Social Inclusion Policy,Total, Social Inclusion Policy,SGI,,,,,,,,,,,,,,,,,,,,,150
+SGI151,, Social Policies,Total, Social Policies,SGI,,,,,,,,,,,,,,,,,,,,,151
+SGI152,, Societal Consultation,Total, Societal Consultation,SGI,,,,,,,,,,,,,,,,,,,,,152
+SGI153,, Spending on Health Programs,Total, Spending on Health Programs,SGI,,,,,,,,,,,,,,,,,,,,,153
+SGI154,, Stabilizing Global Financial Markets,Total, Stabilizing Global Financial Markets,SGI,,,,,,,,,,,,,,,,,,,,,154
+SGI155,, Strategic Capacity,Total, Strategic Capacity,SGI,,,,,,,,,,,,,,,,,,,,,155
+SGI156,, Strategic Planning,Total, Strategic Planning,SGI,,,,,,,,,,,,,,,,,,,,,156
+SGI157,, Structural Balance,Total, Structural Balance,SGI,,,,,,,,,,,,,,,,,,,,,157
+SGI158,, Summoning Experts,Total, Summoning Experts,SGI,,,,,,,,,,,,,,,,,,,,,158
+SGI159,, Summoning Ministers,Total, Summoning Ministers,SGI,,,,,,,,,,,,,,,,,,,,,159
+SGI16,," Child Care Density, Age 3-5",Total," Child Care Density, Age 3-5",SGI,,,,,,,,,,,,,,,,,,,,,16
+SGI160,, Sustainability Check,Total, Sustainability Check,SGI,,,,,,,,,,,,,,,,,,,,,160
+SGI161,, Task Area Congruence,Total, Task Area Congruence,SGI,,,,,,,,,,,,,,,,,,,,,161
+SGI162,, Task Funding,Total, Task Funding,SGI,,,,,,,,,,,,,,,,,,,,,162
+SGI163,, Tax Policy,Total, Tax Policy,SGI,,,,,,,,,,,,,,,,,,,,,163
+SGI164,, Tax System Complexity,Total, Tax System Complexity,SGI,,,,,,,,,,,,,,,,,,,,,164
+SGI165,, Taxes,Total, Taxes,SGI,,,,,,,,,,,,,,,,,,,,,165
+SGI166,, Tertiary Attainment,Total, Tertiary Attainment,SGI,,,,,,,,,,,,,,,,,,,,,166
+SGI167,, Thefts,Total, Thefts,SGI,,,,,,,,,,,,,,,,,,,,,167
+SGI168,, Tier 1 Capital Ratio,Total, Tier 1 Capital Ratio,SGI,,,,,,,,,,,,,,,,,,,,,168
+SGI169,, Total Researchers,Total, Total Researchers,SGI,,,,,,,,,,,,,,,,,,,,,169
+SGI17,, Child Poverty,Total, Child Poverty,SGI,,,,,,,,,,,,,,,,,,,,,17
+SGI170,, Unemployment,Total, Unemployment,SGI,,,,,,,,,,,,,,,,,,,,,170
+SGI171,, Upper Secondary Attainment,Total, Upper Secondary Attainment,SGI,,,,,,,,,,,,,,,,,,,,,171
+SGI172,, Voicing Opinion to Officials,Total, Voicing Opinion to Officials,SGI,,,,,,,,,,,,,,,,,,,,,172
+SGI173,, Voter Turnout,Total, Voter Turnout,SGI,,,,,,,,,,,,,,,,,,,,,173
+SGI174,, Voting and Registration Rights,Total, Voting and Registration Rights,SGI,,,,,,,,,,,,,,,,,,,,,174
+SGI175,, Waste Generation,Total, Waste Generation,SGI,,,,,,,,,,,,,,,,,,,,,175
+SGI176,, Water Usage,Total, Water Usage,SGI,,,,,,,,,,,,,,,,,,,,,176
+SGI177,, Youth Unemployment,Total, Youth Unemployment,SGI,,,,,,,,,,,,,,,,,,,,,177
+SGI18,, Citizens' Participatory Competence,Total, Citizens' Participatory Competence,SGI,,,,,,,,,,,,,,,,,,,,,18
+SGI19,, Civil Rights,Total, Civil Rights,SGI,,,,,,,,,,,,,,,,,,,,,19
+SGI2,, Access to Information,Total, Access to Information,SGI,,,,,,,,,,,,,,,,,,,,,2
+SGI20,, Civil Rights and Political Liberties,Total, Civil Rights and Political Liberties,SGI,,,,,,,,,,,,,,,,,,,,,20
+SGI21,, Coherent Communication,Total, Coherent Communication,SGI,,,,,,,,,,,,,,,,,,,,,21
+SGI22,, Confidence in Police,Total, Confidence in Police,SGI,,,,,,,,,,,,,,,,,,,,,22
+SGI23,, Constitutional Discretion,Total, Constitutional Discretion,SGI,,,,,,,,,,,,,,,,,,,,,23
+SGI24,, Corruption Prevention,Total, Corruption Prevention,SGI,,,,,,,,,,,,,,,,,,,,,24
+SGI25,, Debt Interest Ratio,Total, Debt Interest Ratio,SGI,,,,,,,,,,,,,,,,,,,,,25
+SGI26,, Debt to GDP,Total, Debt to GDP,SGI,,,,,,,,,,,,,,,,,,,,,26
+SGI27,, Domestic Adaptability,Total, Domestic Adaptability,SGI,,,,,,,,,,,,,,,,,,,,,27
+SGI28,, Economic Policies,Total, Economic Policies,SGI,,,,,,,,,,,,,,,,,,,,,28
+SGI29,, Economic Policy,Total, Economic Policy,SGI,,,,,,,,,,,,,,,,,,,,,29
+SGI3,, Adaptability,Total, Adaptability,SGI,,,,,,,,,,,,,,,,,,,,,3
+SGI30,, Economy,Total, Economy,SGI,,,,,,,,,,,,,,,,,,,,,30
+SGI31,, Education,Total, Education,SGI,,,,,,,,,,,,,,,,,,,,,31
+SGI32,, Education Policy,Total, Education Policy,SGI,,,,,,,,,,,,,,,,,,,,,32
+SGI33,, Electoral Processes,Total, Electoral Processes,SGI,,,,,,,,,,,,,,,,,,,,,33
+SGI34,, Employment Rate,Total, Employment Rate,SGI,,,,,,,,,,,,,,,,,,,,,34
+SGI35,, Energy Productivity,Total, Energy Productivity,SGI,,,,,,,,,,,,,,,,,,,,,35
+SGI36,, Environment,Total, Environment,SGI,,,,,,,,,,,,,,,,,,,,,36
+SGI37,, Environmental Policies,Total, Environmental Policies,SGI,,,,,,,,,,,,,,,,,,,,,37
+SGI38,, Environmental Policy,Total, Environmental Policy,SGI,,,,,,,,,,,,,,,,,,,,,38
+SGI39,, Evidence-based Instruments,Total, Evidence-based Instruments,SGI,,,,,,,,,,,,,,,,,,,,,39
+SGI4,, Appointment of Justices,Total, Appointment of Justices,SGI,,,,,,,,,,,,,,,,,,,,,4
+SGI40,, Executive Accountability,Total, Executive Accountability,SGI,,,,,,,,,,,,,,,,,,,,,40
+SGI41,, Executive Capacity,Total, Executive Capacity,SGI,,,,,,,,,,,,,,,,,,,,,41
+SGI42,, FB-N Employment,Total, FB-N Employment,SGI,,,,,,,,,,,,,,,,,,,,,42
+SGI43,, FB-N Tertiary Attainment,Total, FB-N Tertiary Attainment,SGI,,,,,,,,,,,,,,,,,,,,,43
+SGI44,, FB-N Unemployment,Total, FB-N Unemployment,SGI,,,,,,,,,,,,,,,,,,,,,44
+SGI45,, FB-N Upper Secondary Attainment,Total, FB-N Upper Secondary Attainment,SGI,,,,,,,,,,,,,,,,,,,,,45
+SGI46,, Families,Total, Families,SGI,,,,,,,,,,,,,,,,,,,,,46
+SGI47,, Family Policy,Total, Family Policy,SGI,,,,,,,,,,,,,,,,,,,,,47
+SGI48,, Fertility Rate,Total, Fertility Rate,SGI,,,,,,,,,,,,,,,,,,,,,48
+SGI49,, GDP per Capita,Total, GDP per Capita,SGI,,,,,,,,,,,,,,,,,,,,,49
+SGI5,, Association Competence (Business),Total, Association Competence (Business),SGI,,,,,,,,,,,,,,,,,,,,,5
+SGI50,, GO Expertise,Total, GO Expertise,SGI,,,,,,,,,,,,,,,,,,,,,50
+SGI51,, GO Gatekeeping,Total, GO Gatekeeping,SGI,,,,,,,,,,,,,,,,,,,,,51
+SGI52,, Gender Equality in Parliaments,Total, Gender Equality in Parliaments,SGI,,,,,,,,,,,,,,,,,,,,,52
+SGI53,, Gini Coefficient,Total, Gini Coefficient,SGI,,,,,,,,,,,,,,,,,,,,,53
+SGI54,, Global Environmental Policy,Total, Global Environmental Policy,SGI,,,,,,,,,,,,,,,,,,,,,54
+SGI55,, Global Environmental Protection,Total, Global Environmental Protection,SGI,,,,,,,,,,,,,,,,,,,,,55
+SGI56,, Global Financial System,Total, Global Financial System,SGI,,,,,,,,,,,,,,,,,,,,,56
+SGI57,, Global Inequalities,Total, Global Inequalities,SGI,,,,,,,,,,,,,,,,,,,,,57
+SGI58,, Global Social Policy,Total, Global Social Policy,SGI,,,,,,,,,,,,,,,,,,,,,58
+SGI59,, Governance,Total, Governance,SGI,,,,,,,,,,,,,,,,,,,,,59
+SGI6,, Association Competence (Others),Total, Association Competence (Others),SGI,,,,,,,,,,,,,,,,,,,,,6
+SGI60,, Government Efficiency,Total, Government Efficiency,SGI,,,,,,,,,,,,,,,,,,,,,60
+SGI61,, Greenhouse Gas Emissions,Total, Greenhouse Gas Emissions,SGI,,,,,,,,,,,,,,,,,,,,,61
+SGI62,, Gross Fixed Capital Formation,Total, Gross Fixed Capital Formation,SGI,,,,,,,,,,,,,,,,,,,,,62
+SGI63,, Health,Total, Health,SGI,,,,,,,,,,,,,,,,,,,,,63
+SGI64,, Health Policy,Total, Health Policy,SGI,,,,,,,,,,,,,,,,,,,,,64
+SGI65,, Homicides,Total, Homicides,SGI,,,,,,,,,,,,,,,,,,,,,65
+SGI66,, Implementation,Total, Implementation,SGI,,,,,,,,,,,,,,,,,,,,,66
+SGI67,, Infant Mortality,Total, Infant Mortality,SGI,,,,,,,,,,,,,,,,,,,,,67
+SGI68,, Inflation,Total, Inflation,SGI,,,,,,,,,,,,,,,,,,,,,68
+SGI69,, Informal Coordination,Total, Informal Coordination,SGI,,,,,,,,,,,,,,,,,,,,,69
+SGI7,, Audit Office,Total, Audit Office,SGI,,,,,,,,,,,,,,,,,,,,,7
+SGI70,, Institutional Reform,Total, Institutional Reform,SGI,,,,,,,,,,,,,,,,,,,,,70
+SGI71,, Integration,Total, Integration,SGI,,,,,,,,,,,,,,,,,,,,,71
+SGI72,, Integration Policy,Total, Integration Policy,SGI,,,,,,,,,,,,,,,,,,,,,72
+SGI73,, Intellectual Property Licenses,Total, Intellectual Property Licenses,SGI,,,,,,,,,,,,,,,,,,,,,73
+SGI74,, Interministerial Coordination,Total, Interministerial Coordination,SGI,,,,,,,,,,,,,,,,,,,,,74
+SGI75,, International Coordination,Total, International Coordination,SGI,,,,,,,,,,,,,,,,,,,,,75
+SGI76,, Intra-party Democracy,Total, Intra-party Democracy,SGI,,,,,,,,,,,,,,,,,,,,,76
+SGI77,, Judicial Review,Total, Judicial Review,SGI,,,,,,,,,,,,,,,,,,,,,77
+SGI78,, Kyoto Participation and Achievements,Total, Kyoto Participation and Achievements,SGI,,,,,,,,,,,,,,,,,,,,,78
+SGI79,, Labor Market Policy,Total, Labor Market Policy,SGI,,,,,,,,,,,,,,,,,,,,,79
+SGI8,, Banks' Nonperforming Loans,Total, Banks' Nonperforming Loans,SGI,,,,,,,,,,,,,,,,,,,,,8
+SGI80,, Labor Markets,Total, Labor Markets,SGI,,,,,,,,,,,,,,,,,,,,,80
+SGI81,, Legal Certainty,Total, Legal Certainty,SGI,,,,,,,,,,,,,,,,,,,,,81
+SGI82,, Legislative Actors' Resources,Total, Legislative Actors' Resources,SGI,,,,,,,,,,,,,,,,,,,,,82
+SGI83,, Life Expectancy,Total, Life Expectancy,SGI,,,,,,,,,,,,,,,,,,,,,83
+SGI84,, Life Satisfaction,Total, Life Satisfaction,SGI,,,,,,,,,,,,,,,,,,,,,84
+SGI85,, Line Ministries,Total, Line Ministries,SGI,,,,,,,,,,,,,,,,,,,,,85
+SGI86,, Long-term Unemployment,Total, Long-term Unemployment,SGI,,,,,,,,,,,,,,,,,,,,,86
+SGI87,, Low Pay Incidence,Total, Low Pay Incidence,SGI,,,,,,,,,,,,,,,,,,,,,87
+SGI88,, Low-skilled Unemployment,Total, Low-skilled Unemployment,SGI,,,,,,,,,,,,,,,,,,,,,88
+SGI89,, Marginal Tax Burden for Businesses,Total, Marginal Tax Burden for Businesses,SGI,,,,,,,,,,,,,,,,,,,,,89
+SGI9,, Biodiversity,Total, Biodiversity,SGI,,,,,,,,,,,,,,,,,,,,,9
+SGI90,, Material Recycling,Total, Material Recycling,SGI,,,,,,,,,,,,,,,,,,,,,90
+SGI91,, Media,Total, Media,SGI,,,,,,,,,,,,,,,,,,,,,91
+SGI92,, Media Access,Total, Media Access,SGI,,,,,,,,,,,,,,,,,,,,,92
+SGI93,, Media Freedom,Total, Media Freedom,SGI,,,,,,,,,,,,,,,,,,,,,93
+SGI94,, Media Pluralism,Total, Media Pluralism,SGI,,,,,,,,,,,,,,,,,,,,,94
+SGI95,, Media Reporting,Total, Media Reporting,SGI,,,,,,,,,,,,,,,,,,,,,95
+SGI96,, Ministerial Bureaucracy,Total, Ministerial Bureaucracy,SGI,,,,,,,,,,,,,,,,,,,,,96
+SGI97,, Ministerial Compliance,Total, Ministerial Compliance,SGI,,,,,,,,,,,,,,,,,,,,,97
+SGI98,," Monitoring Agencies, Bureaucracies",Total," Monitoring Agencies, Bureaucracies",SGI,,,,,,,,,,,,,,,,,,,,,98
+SGI99,, Monitoring Ministries,Total, Monitoring Ministries,SGI,,,,,,,,,,,,,,,,,,,,,99

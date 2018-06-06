@@ -1,0 +1,88 @@
+---
+title: 'Dataset report: WBL'
+author: "Jose Luis Delgado Davara"
+date: "April 20, 2018"
+output: html_document
+---
+
+
+```{r General variables, include=FALSE}
+library(formatR)
+  # General Variables
+Data.Source = "Women, Business and the Law"
+Dataset = "WBL"
+Date = Sys.Date()
+
+  # Indicators file - XXX.IND.csv 
+Data.IND = read.csv("Test/WBLIND.csv", sep = ";")
+
+  # Values file - XXX.csv
+Data = read.csv("WBL.csv", sep = ";")
+
+  # Descriptions
+#MainIndex = read.xlsx("../../mainIndex.xlsx", 2, startRow = 2)
+#Desc = MainIndex$About.the.source.[MainIndex$ID == Dataset]
+#Methodology = MainIndex[MainIndex$ID == Dataset, 13] 
+#License = MainIndex[MainIndex$ID == Dataset, 13]
+#Last.update = MainIndex[MainIndex$ID == Dataset, 13]
+#Link = MainIndex[MainIndex$ID == Dataset, 13]
+
+  #Dataset variables
+Dim = dim(Data)
+n.countries = nlevels(Data$iso3)
+n.question = nlevels(Data$question)
+Years = unique(Data$year)
+min.year = min(Data$year)
+max.year = max(Data$year)
+n.indicators = nlevels(Data$indicator)
+```
+
+## Women, Business and the Law
+
+**About the Data source:**
+Women, Business and the Law (WBL) is a World Bank Group project collecting unique data on the laws and regulations that restrict women's economic opportunities. It measures gender equality in the law across 189 economies. The biennial report identifies legal barriers to women's economic participation, encourages the reform of discriminatory laws and tracks global progress toward achieving gender equaility.\n
+*Read more in this [link](http://wbl.worldbank.org/)* 
+
+**About the methodology:**
+Covering 189 economies, Women, Business and the Law provides comparable data across seven topics: Accessing institutions, Using property, Getting a job, Providing incentives to work, Going to court, Building credit and Protecting women from violence. The methodology was designed as an easily replicable benchmark of the legal environment for women as entrepreneurs and employees. To understand where laws facilitate or hinder gender equality and women's economic participation, Women, Business and the Law 2018 provides scores for the first time for each of its seven topics. Scores are obtained by calculating the unweighted average of the scored questions within that topic, and scaling the result to 100.\n
+*Read more about the methodology in this [link]("http://wbl.worldbank.org/en/methodology) or this [link](http://pubdocs.worldbank.org/en/356641522241086141/Data-Notes.pdf")*
+
+## Quick view of the dataset
+
+- Dataset dimensions
+```{r echo=FALSE}
+print(paste0("Rows: ", Dim[1]))
+print(paste0("Columns: ", Dim[2]))
+```
+
+- Countries
+
+```{r echo=FALSE}
+print(paste0("Number of countries: ", n.countries))
+```
+
+- Years
+```{r echo=FALSE}
+Years
+```
+- Numbers of indicators
+```{r echo=FALSE}
+print(paste0("Number of indicators: ", n.indicators))
+```
+- Values of indicators
+```{r echo = FALSE}
+summary(Data$value)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(Data$value)
+```
+
+## Indicators
+
+```{r echo = TRUE, tidy=TRUE, tidy.opts=list(width.cutoff=60)}
+unique(Data$question)
+```
+
