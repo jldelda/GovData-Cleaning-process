@@ -176,32 +176,56 @@ $(document).ready(function () {
 <p>This is code reads the new ranks of the indicators and join it to the IND file. The ranks have been worked separately in excel (see Re-Rank definitive file). The old Rank column is dropped and some of the indicators as well.</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeSh4bHN4KVxuXG5gYGAifQ== -->
-<pre class="r"><code>library(xlsx)
-</code></pre>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeShkcGx5cilcbkdvdkRhdGEzNjBJTkQgPSByZWFkLmNzdihcIi4uLzIgQWRkIGRlc2NyaXB0aW9ucyB0byBpbmRpY2F0b3JzL0dvdkRhdGEzNjBJTkRfd2l0aF9EZXNjcmlwdGlvbi5jc3ZcIixzZXA9XCIsXCIsIGhlYWRlcj1UUlVFKVxuUmFua3MgPSByZWFkLmNzdihcIkRlZmluaXRpdmUgUmFuay5jc3ZcIilcbkdvdkRhdGEzNjAgPSByZWFkLmNzdihcIkdvdkRhdGEzNjAuY3N2XCIpXG5gYGAifQ== -->
+<pre class="r"><code>library(dplyr)
+GovData360IND = read.csv(&quot;../2 Add descriptions to indicators/GovData360IND_with_Description.csv&quot;,sep=&quot;,&quot;, header=TRUE)
+Ranks = read.csv(&quot;Definitive Rank.csv&quot;)
+GovData360 = read.csv(&quot;GovData360.csv&quot;)</code></pre>
 <!-- rnb-source-end -->
-<!-- rnb-output-begin eyJkYXRhIjoicGFja2FnZSDjpLzjuLF4bHN446S847iyIHdhcyBidWlsdCB1bmRlciBSIHZlcnNpb24gMy40LjRMb2FkaW5nIHJlcXVpcmVkIHBhY2thZ2U6IHJKYXZhXG5wYWNrYWdlIOOkvOO4sXJKYXZh46S847iyIHdhcyBidWlsdCB1bmRlciBSIHZlcnNpb24gMy40LjNMb2FkaW5nIHJlcXVpcmVkIHBhY2thZ2U6IHhsc3hqYXJzXG5wYWNrYWdlIOOkvOO4sXhsc3hqYXJz46S847iyIHdhcyBidWlsdCB1bmRlciBSIHZlcnNpb24gMy40LjNcbiJ9 -->
-<pre><code>package 㤼㸱xlsx㤼㸲 was built under R version 3.4.4Loading required package: rJava
-package 㤼㸱rJava㤼㸲 was built under R version 3.4.3Loading required package: xlsxjars
-package 㤼㸱xlsxjars㤼㸲 was built under R version 3.4.3</code></pre>
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuR292RGF0YTM2MElORCRSYW5rXzEgPSBOVUxMICNEcm9wIGNvbHVtblxuR292RGF0YTM2MElORCA9IG1lcmdlKEdvdkRhdGEzNjBJTkQsIFJhbmtzLCBieSA9ICdJbmRpY2F0b3JfSWQnKVxuI0Ryb3AgaW5kaWNhdG9yc1xuRHJvcF9pbmRpY2F0b3JzID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSA9PSAnRHJvcCcpXG5Hb3ZEYXRhMzYwSU5EID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSAhPSAnRHJvcCcpXG5gYGAifQ== -->
+<pre class="r"><code>GovData360IND$Rank_1 = NULL #Drop column
+GovData360IND = merge(GovData360IND, Ranks, by = 'Indicator_Id')
+#Drop indicators
+Drop_indicators = GovData360IND %&gt;% filter(Rank_1 == 'Drop')
+GovData360IND = GovData360IND %&gt;% filter(Rank_1 != 'Drop')</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuI0Ryb3AgaW5kaWNhdG9ycyBJTkQgZmlsZVxuRHJvcF9pbmRpY2F0b3JzID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSA9PSAnRHJvcCcpXG5Hb3ZEYXRhMzYwSU5EID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSAhPSAnRHJvcCcpXG4jRHJvcCBpbmRpY2F0b3JzIHZhbHVlcyBmaWxlXG5kcm9wX2lkID0gRHJvcF9pbmRpY2F0b3JzJEluZGljYXRvcl9JZFxuR292RGF0YTM2MCA9IEdvdkRhdGEzNjBbICEoR292RGF0YTM2MCRJbmRpY2F0b3JfSWQgJWluJSBkcm9wX2lkKSwgXVxuYGBgIn0= -->
+<pre class="r"><code>#Drop indicators IND file
+Drop_indicators = GovData360IND %&gt;% filter(Rank_1 == 'Drop')
+GovData360IND = GovData360IND %&gt;% filter(Rank_1 != 'Drop')
+#Drop indicators values file
+drop_id = Drop_indicators$Indicator_Id
+GovData360 = GovData360[ !(GovData360$Indicator_Id %in% drop_id), ]</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxud3JpdGUuY3N2KEdvdkRhdGEzNjBJTkQsIFwiR292RGF0YTM2MElORC5jc3ZcIiwgc2VwID0gJywnKVxuYGBgIn0= -->
+<pre class="r"><code>write.csv(GovData360IND, &quot;GovData360IND.csv&quot;, sep = ',')</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiYXR0ZW1wdCB0byBzZXQgJ3NlcCcgaWdub3JlZFxuIn0= -->
+<pre><code>attempt to set 'sep' ignored</code></pre>
+<!-- rnb-output-end -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxud3JpdGUuY3N2KEdvdkRhdGEzNjAsIFwiR292RGF0YTM2MC5jc3ZcIiwgc2VwID0gJywnKVxuYGBgIn0= -->
+<pre class="r"><code>write.csv(GovData360, &quot;GovData360.csv&quot;, sep = ',')</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiYXR0ZW1wdCB0byBzZXQgJ3NlcCcgaWdub3JlZFxuIn0= -->
+<pre><code>attempt to set 'sep' ignored</code></pre>
 <!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
-<!-- rnb-chunk-begin -->
-<!-- rnb-chunk-end -->
-<!-- rnb-text-begin -->
-<!-- rnb-text-end -->
-<!-- rnb-chunk-begin -->
-<!-- rnb-chunk-end -->
-<!-- rnb-text-begin -->
-<!-- rnb-text-end -->
-<!-- rnb-chunk-begin -->
-<!-- rnb-chunk-end -->
-<!-- rnb-text-begin -->
-<!-- rnb-text-end -->
 
-<div id="rmd-source-code">LS0tDQp0aXRsZTogIkFkZCBGaXhlZCBSYW5rcyINCm91dHB1dDogaHRtbF9ub3RlYm9vaw0KLS0tDQoNClRoaXMgaXMgY29kZSByZWFkcyB0aGUgbmV3IHJhbmtzIG9mIHRoZSBpbmRpY2F0b3JzIGFuZCBqb2luIGl0IHRvIHRoZSBJTkQgZmlsZS4gVGhlIHJhbmtzIGhhdmUgYmVlbiB3b3JrZWQgc2VwYXJhdGVseSBpbiBleGNlbCAoc2VlIFJlLVJhbmsgZGVmaW5pdGl2ZSBmaWxlKS4gVGhlIG9sZCBSYW5rIGNvbHVtbiBpcyBkcm9wcGVkIGFuZCBzb21lIG9mIHRoZSBpbmRpY2F0b3JzIGFzIHdlbGwuDQoNCmBgYHtyIFJlYWQgZmlsZXN9DQpHb3ZEYXRhMzYwSU5EID0gcmVhZC5jc3YoIkdvdkRhdGEzNjBJTkRfd2l0aF9EZXNjcmlwdGlvbi5jc3YiLHNlcD0iLCIsIGhlYWRlcj1UUlVFKQ0KbGlicmFyeSh4bHN4KQ0KUmFua3MgPSByZWFkLnhsc3goIkRlZmluaXRpdmUgUmFuay54bHN4IiwgMSwgaGVhZGVyID0gVCkNCmBgYA0KDQpgYGB7ciBkcm9wIG9sZCByYW5rXzF9DQoNCmBgYA0KDQpgYGB7ciBEcm9wIGluZGljYXRvcnMgaW4gYm90aCBmaWxlc30NCg0KYGBgDQoNCmBgYHtyIFdyaXRlIGZpbGV9DQoNCmBgYA0KDQoNCg==</div>
+<div id="rmd-source-code">LS0tDQp0aXRsZTogIkFkZCBGaXhlZCBSYW5rcyINCm91dHB1dDogaHRtbF9ub3RlYm9vaw0KLS0tDQoNClRoaXMgaXMgY29kZSByZWFkcyB0aGUgbmV3IHJhbmtzIG9mIHRoZSBpbmRpY2F0b3JzIGFuZCBqb2luIGl0IHRvIHRoZSBJTkQgZmlsZS4gVGhlIHJhbmtzIGhhdmUgYmVlbiB3b3JrZWQgc2VwYXJhdGVseSBpbiBleGNlbCAoc2VlIFJlLVJhbmsgZGVmaW5pdGl2ZSBmaWxlKS4gVGhlIG9sZCBSYW5rIGNvbHVtbiBpcyBkcm9wcGVkIGFuZCBzb21lIG9mIHRoZSBpbmRpY2F0b3JzIGFzIHdlbGwuDQoNCmBgYHtyIFJlYWQgZmlsZXN9DQpsaWJyYXJ5KGRwbHlyKQ0KR292RGF0YTM2MElORCA9IHJlYWQuY3N2KCIuLi8yIEFkZCBkZXNjcmlwdGlvbnMgdG8gaW5kaWNhdG9ycy9Hb3ZEYXRhMzYwSU5EX3dpdGhfRGVzY3JpcHRpb24uY3N2IixzZXA9IiwiLCBoZWFkZXI9VFJVRSkNClJhbmtzID0gcmVhZC5jc3YoIkRlZmluaXRpdmUgUmFuay5jc3YiKQ0KDQpHb3ZEYXRhMzYwID0gcmVhZC5jc3YoIkdvdkRhdGEzNjAuY3N2IikNCmBgYA0KDQpgYGB7ciBkcm9wIG9sZCByYW5rXzEgYW5kIGpvaW4gbmV3IFJhbmt9DQpHb3ZEYXRhMzYwSU5EJFJhbmtfMSA9IE5VTEwgI0Ryb3AgY29sdW1uDQpHb3ZEYXRhMzYwSU5EID0gbWVyZ2UoR292RGF0YTM2MElORCwgUmFua3MsIGJ5ID0gJ0luZGljYXRvcl9JZCcpDQoNCiNEcm9wIGluZGljYXRvcnMNCkRyb3BfaW5kaWNhdG9ycyA9IEdvdkRhdGEzNjBJTkQgJT4lIGZpbHRlcihSYW5rXzEgPT0gJ0Ryb3AnKQ0KR292RGF0YTM2MElORCA9IEdvdkRhdGEzNjBJTkQgJT4lIGZpbHRlcihSYW5rXzEgIT0gJ0Ryb3AnKQ0KYGBgDQoNCmBgYHtyIERyb3AgaW5kaWNhdG9ycyBpbiBib3RoIGZpbGVzfQ0KI0Ryb3AgaW5kaWNhdG9ycyBJTkQgZmlsZQ0KRHJvcF9pbmRpY2F0b3JzID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSA9PSAnRHJvcCcpDQpHb3ZEYXRhMzYwSU5EID0gR292RGF0YTM2MElORCAlPiUgZmlsdGVyKFJhbmtfMSAhPSAnRHJvcCcpDQoNCiNEcm9wIGluZGljYXRvcnMgdmFsdWVzIGZpbGUNCmRyb3BfaWQgPSBEcm9wX2luZGljYXRvcnMkSW5kaWNhdG9yX0lkDQpHb3ZEYXRhMzYwID0gR292RGF0YTM2MFsgIShHb3ZEYXRhMzYwJEluZGljYXRvcl9JZCAlaW4lIGRyb3BfaWQpLCBdDQpgYGANCg0KYGBge3IgV3JpdGUgZmlsZX0NCndyaXRlLmNzdihHb3ZEYXRhMzYwSU5ELCAiR292RGF0YTM2MElORC5jc3YiLCBzZXAgPSAnLCcpDQp3cml0ZS5jc3YoR292RGF0YTM2MCwgIkdvdkRhdGEzNjAuY3N2Iiwgc2VwID0gJywnKQ0KYGBgDQoNCg0K</div>
 
 
 

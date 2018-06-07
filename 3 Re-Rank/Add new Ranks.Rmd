@@ -6,21 +6,35 @@ output: html_notebook
 This is code reads the new ranks of the indicators and join it to the IND file. The ranks have been worked separately in excel (see Re-Rank definitive file). The old Rank column is dropped and some of the indicators as well.
 
 ```{r Read files}
-GovData360IND = read.csv("GovData360IND_with_Description.csv",sep=",", header=TRUE)
-library(xlsx)
-Ranks = read.xlsx("Definitive Rank.xlsx", 1, header = T)
+library(dplyr)
+GovData360IND = read.csv("../2 Add descriptions to indicators/GovData360IND_with_Description.csv",sep=",", header=TRUE)
+Ranks = read.csv("Definitive Rank.csv")
+
+GovData360 = read.csv("GovData360.csv")
 ```
 
-```{r drop old rank_1}
+```{r drop old rank_1 and join new Rank}
+GovData360IND$Rank_1 = NULL #Drop column
+GovData360IND = merge(GovData360IND, Ranks, by = 'Indicator_Id')
 
+#Drop indicators
+Drop_indicators = GovData360IND %>% filter(Rank_1 == 'Drop')
+GovData360IND = GovData360IND %>% filter(Rank_1 != 'Drop')
 ```
 
 ```{r Drop indicators in both files}
+#Drop indicators IND file
+Drop_indicators = GovData360IND %>% filter(Rank_1 == 'Drop')
+GovData360IND = GovData360IND %>% filter(Rank_1 != 'Drop')
 
+#Drop indicators values file
+drop_id = Drop_indicators$Indicator_Id
+GovData360 = GovData360[ !(GovData360$Indicator_Id %in% drop_id), ]
 ```
 
 ```{r Write file}
-
+write.csv(GovData360IND, "GovData360IND.csv", sep = ',')
+write.csv(GovData360, "GovData360.csv", sep = ',')
 ```
 
 
