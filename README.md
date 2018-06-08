@@ -43,7 +43,7 @@ This repository does not contain the final dataset created due to the high weigh
 * R libraries: StringR, dplyr and the common ones.
 
 # License
-
+[License](https://github.com/jldelda/GovData-Cleaning-process/blob/master/LICENSE)
 # How to contribute
 
 Due to the nature of the process, this repository is not made to contribute in it. The 2018 Spring ingestion process is only made once. If you want to reuse this repository for future ingestions feel free to fork/clone this repo and create a new one. 
