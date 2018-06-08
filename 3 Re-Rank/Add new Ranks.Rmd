@@ -1,6 +1,8 @@
 ---
 title: "Add Fixed Ranks"
 output: html_notebook
+editor_options: 
+  chunk_output_type: console
 ---
 
 This is code reads the new ranks of the indicators and join it to the IND file. The ranks have been worked separately in excel (see Re-Rank definitive file). The old Rank column is dropped and some of the indicators as well.
