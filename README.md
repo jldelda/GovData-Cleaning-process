@@ -53,7 +53,7 @@ Once you do that, send me a note or modify this Readme to add the link to the ne
 # Author
 
 * Jose Luis Delgado Davara [@JLdelda](www.twitter.com/jldelda)
-*Luis Omar HErrar Prada was the initial developer of this process. However, His files are not included in this repo*
+*Luis Omar HErrar Prada was the initial developer of this process. However, His files are not included in this repo.*
 
 
 
